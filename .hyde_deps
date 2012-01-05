@@ -3056,7 +3056,29 @@
   analytics.j2]
 !!python/unicode 'blog/tags/webcamp.html': [macros.j2, base.j2, tagged_posts.j2, analytics.j2]
 !!python/unicode 'blog/tags/work.html': [macros.j2, base.j2, tagged_posts.j2, analytics.j2]
-!!python/unicode 'index.html': [macros.j2, base.j2, analytics.j2]
+!!python/unicode 'index.html': [!!python/unicode '/blog/2011/08/authentic-self.html',
+  !!python/unicode 'blog/2011/08/the-loop-of-life.html', !!python/unicode '/blog/2011/08/admiration.html',
+  !!python/unicode '/blog/2011/08/seeing-%e2%80%9cyou%e2%80%9d-again.html', !!python/unicode '/blog/2011/05/fear-less-magazine-%e2%80%93-may-2011-issue-on-epub-and-kindle.html',
+  !!python/unicode '/blog/2011/08/divergent-paths.html', !!python/unicode 'blog/2011/08/a-reflection-of-loves-unrequited.html',
+  !!python/unicode '/blog/2011/09/tarot-as-my-meditation-practice.html', !!python/unicode '/blog/2011/08/slightly-radical-routine-changes.html',
+  !!python/unicode '/blog/2011/06/dusting-off-my-pen-tablet.html', !!python/unicode '/blog/2011/03/the-joys-of-cooking.html',
+  !!python/unicode 'blog/2011/09/letting-go.html', !!python/unicode 'blog/2011/05/fear-less-magazine-%e2%80%93-may-2011-issue-on-epub-and-kindle.html',
+  macros.j2, !!python/unicode 'blog/2011/03/the-end-of-self-censoring.html', !!python/unicode 'blog/2011/01/webcamp-alpha-kickstart-2011-with-your-own-startup-with-full-audio-recording.html',
+  !!python/unicode 'blog/2011/08/slightly-radical-routine-changes.html', !!python/unicode '/blog/2011/11/i-quit.html',
+  base.j2, !!python/unicode 'blog/2011/11/the-thing-called-love.html', analytics.j2,
+  !!python/unicode 'blog/2011/03/the-joys-of-cooking.html', !!python/unicode 'blog/2011/05/major-shifts-%e2%80%93-the-adventures-continues.html',
+  blog.j2, !!python/unicode 'blog/2011/08/seeing-%e2%80%9cyou%e2%80%9d-again.html',
+  !!python/unicode '/blog/2011/08/look-ma-my-panda-is-on-a-landing-page.html', !!python/unicode '/blog/2011/08/the-loop-of-life.html',
+  !!python/unicode 'blog/2011/08/admiration.html', !!python/unicode 'blog/2011/08/under-the-bodhi-tree.html',
+  !!python/unicode '/blog/2011/08/walking-in-the-rain.html', listing_paging.j2, !!python/unicode 'blog/2011/08/divergent-paths.html',
+  !!python/unicode '/blog/2011/05/major-shifts-%e2%80%93-the-adventures-continues.html',
+  !!python/unicode 'blog/2011/08/authentic-self.html', !!python/unicode 'blog/2011/08/walking-in-the-rain.html',
+  !!python/unicode '/blog/2011/11/the-thing-called-love.html', !!python/unicode '/blog/2011/11/my-interview-with-bfm-radio-on-webcamp-kl.html',
+  !!python/unicode '/blog/2011/08/a-reflection-of-loves-unrequited.html', !!python/unicode 'blog/2011/08/look-ma-my-panda-is-on-a-landing-page.html',
+  !!python/unicode 'blog/2011/09/tarot-as-my-meditation-practice.html', !!python/unicode '/blog/2011/08/under-the-bodhi-tree.html',
+  !!python/unicode 'blog/2011/08/purging-treasured-possessions.html', !!python/unicode 'blog/2011/06/dusting-off-my-pen-tablet.html',
+  !!python/unicode '/blog/2011/08/purging-treasured-possessions.html', !!python/unicode 'blog/2011/11/my-interview-with-bfm-radio-on-webcamp-kl.html',
+  !!python/unicode 'blog/2011/11/i-quit.html', !!python/unicode '/blog/2011/09/letting-go.html']
 !!python/unicode 'media/css/site.css': []
 !!python/unicode 'media/css/syntax.css': []
 !!python/unicode 'media/js/libs/dd_belatedpng.js': []

@@ -9,6 +9,7 @@ plugins:
     - hyde.ext.plugins.tagger.TaggerPlugin
     - hyde.ext.plugins.syntext.SyntextPlugin
     - hyde.ext.plugins.textlinks.TextlinksPlugin
+    - hyde.ext.plugins.paginator.PaginatorPlugin
 context:
     data:
         tweet_via: ringce

@@ -1,0 +1,334 @@
+/* Violet Color Styles */
+
+/*-----------------------------------------------
+
+INDEX:
+
+1. SETUP
+-1.1 Defaults
+-1.2 Hyperlinks
+
+2. SITE STRUCTURE & APPEARANCE
+-2.1 Containers
+-2.2 Header
+-2.3 Navigation
+--2.3.1 Drop-downs
+-2.4 Introduction
+-2.5 Content
+-2.6 Sidebar
+-2.7 Footer
+
+3. WIDGETS
+
+4. POSTS
+-4.1 Typographic Elements
+-4.2 Images
+-4.3 PageNavi
+
+5. COMMENTSAREA
+-5.1 Comments
+-5.2 Comments Form
+
+6. GENERAL STYLES
+
+-----------------------------------------------*/
+
+
+
+/*-----------------------------*/
+/* 1. SETUP */
+/*-----------------------------*/
+
+/* 1.1 Defaults */
+
+body  {
+	color: #3f312e;
+	background: #e6877e url(violet/bg.jpg) repeat-x top left;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	color: #3f312e;
+}
+
+/* 1.2 Hyperlinks */
+
+a:link, a:visited  { color: #e03d25; }
+
+h1 a:link, h1 a:visited, h2 a:link, h2 a:visited, h3 a:link, h3 a:visited,
+h4 a:link, h4 a:visited, h5 a:link, h5 a:visited, h6 a:link, h6 a:visited  {
+	color: #3f312e;
+}
+
+
+/*-----------------------------*/
+/* 2. SITE STRUCTURE & APPEARANCE */
+/*-----------------------------*/
+
+/* 2.1 Containers */
+
+#main  {
+	background: url(violet/main.png) repeat left top;
+}
+
+#main #inside  {
+	background-color: #fff;
+}
+
+/* 2.2 Header */
+
+/* 2.3 Navigation */
+
+#nav a:link, #nav a:visited {
+	color: #fff;
+	border-left: 1px solid #a3184b;
+	border-top: 1px solid #a3184b;
+	border-right: 1px solid #a3184b;
+	background-color: #e6877e;
+}
+
+#nav li.current_page_item a, #nav li a:hover  {
+	color: #3f312e;
+	border-left: 1px solid #fff;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #fff;
+	background: #fff url(violet/nav.jpg) repeat-x left top;
+}
+
+/* Style drop down list */
+
+#nav li ul { border: 1px solid #a3184b;}
+#nav li ul li {	border-bottom: 1px solid #a3184b; background: #FFF; }
+#nav li ul li a { background-color: #e6877e!important; background-image: none!important; border: none!important;}
+#nav li ul li a:hover { background: #fff url(violet/nav.jpg) repeat-x left top!important; border: none!important;}
+
+/* 2.4 Introduction */
+
+#introduction  {
+	border-bottom: 1px solid #e1b5b1;
+}
+
+#about  {
+	background: #e03d25 url(violet/about.jpg) repeat-x top left;
+}
+
+#about h2  {
+	color: #fff;
+}
+
+#about p  {
+	color: #fff;
+}
+
+#about img  {
+	border: 5px solid #e2614f;
+}
+
+#about .fold  {
+	background: url(violet/about_fold.png) no-repeat left top;
+}
+
+#connect  {
+	border: 1px solid #ededed;
+}
+
+#connect ul li a  {
+	color: #a3184b;
+	background: url(violet/connect_grad.png) repeat-x top left;
+}
+
+#connect ul li a span  {
+	color: #3f312e;
+}
+
+/* 2.5 Content */
+
+h2.result_heading  {
+	border-bottom: 2px solid #3f312e;
+}
+
+/* 2.6 sidebar */
+
+#sidebar a  {
+	color: #a3184b;
+}
+
+/* 2.7 Footer */
+
+
+#footer p  {
+	color: #a3184b;
+}
+
+#footer ul li a  {
+	color: #4f4f4f;
+}
+
+#footer ul li.current_page_item a, #footer ul li a:hover  {
+	color: #3f312e;
+}
+
+
+
+/*-----------------------------*/
+/* 3. WIDGETS */
+/*-----------------------------*/
+
+.widget h3  {
+	color: #fff;
+	background-color: #a3184b;
+}
+
+.widget h3 span.fold  {
+	background: url('violet/widget_fold.png') no-repeat center center;
+}
+
+.widget ul li a:link, .widget ul li a:visited  {
+	border-bottom: 1px solid #e0e6e6;
+	color: #6c6c6c!important;
+	background: url(violet/bullet.png) no-repeat 8px 13px;
+}
+
+.widget ul li a:hover  {
+	color: #a3184b!important;
+	background-color: #f0f0f0;
+	background-image: url(violet/bullet_hover.png);
+}
+
+.widget_recent_comments li  {
+	border-bottom: 1px solid #e0e6e6;
+	background: url(violet/bullet.png) no-repeat 8px 13px;
+}
+
+.widget_recent_comments li a  {
+	background: none!important;
+	border: none!important;
+}
+
+#searchform #s  {
+	border: 1px solid #898989;
+}
+
+#searchform .submit  {
+	color: #fff;
+	border: 1px solid #9f4f6c;
+	background-color: #e6877e;
+}
+
+#twitter a  {
+	background-image: none;
+}
+
+/*-----------------------------*/
+/* 4. POSTS */
+/*-----------------------------*/
+
+.post  {
+	border-bottom: 1px solid #dcd6d5;
+}
+
+.post .meta  {
+	color: #8a7975;
+}
+
+.post .meta .comments  {
+	background: url(violet/ico-comments.png) no-repeat right 1px;
+}
+
+.post .categories a  {
+	color: #fff;
+	background-color: #e03d25;
+}
+
+.post .categories a:hover  {
+	text-decoration: none;
+}
+
+/* 4.1 Typographic Elements */
+
+.entry blockquote  {
+	color: #666;
+}
+
+/* 4.2 Images */
+
+.entry img  {
+	border: 3px solid #dbdbdb;
+}
+
+img.wp-smiley  {
+	border: none;
+}
+
+/* 4.3 Page Navi */
+
+.Nav strong.on  {
+	color: #fff;
+	background-color: #a3184b;
+}
+
+.Nav a:link, .Nav a:visited  {
+	color: #a3184b;
+}
+
+/*-----------------------------*/
+/* 5. COMMENTSAREA */
+/*-----------------------------*/
+
+/* 5.1 Comments */
+
+#comments ol.commentlist  {
+	border-top: 1px solid #dcd6d5;	
+}
+
+#comments ol.commentlist li {
+	border-bottom: 1px solid #dcd6d5;
+}
+
+#comments ol.commentlist li .comment-head .avatar img  {
+	border: 3px solid #dcd6d5;
+}
+
+#comments ol.commentlist li .comment-head .user-meta span.date  {
+	color: #565656;
+}
+
+#comments ul.children {
+	background: url(violet/comment_reply.png) no-repeat left 11px;
+}
+
+#comments ul.children li {
+	border-bottom: 0;
+}
+
+#comments .navigation .alignright, #comments .navigation .alignleft { margin:0;}
+#comments .navigation a {
+	color: #fff;
+	background: #9F9F9F;
+}
+
+#comments .navigation a:hover {background: #888;}
+
+#comments .commentlist #respond #form_wrap {
+	border:0;
+}
+
+/* 5.2 Comments Form */
+
+#commentform input.txt  {
+	border: 1px solid #898989;
+}
+
+#commentform textarea  {
+	background-color: #f4f4f4;
+	border: 1px solid #898989;
+}
+
+#commentform #submit  {
+	color: #fff;
+	border: 1px solid #9f4f6c;
+	background-color: #e6877e;
+}
+
+/*-----------------------------*/
+/* 6. GENERAL STYLES */
+/*-----------------------------*/
