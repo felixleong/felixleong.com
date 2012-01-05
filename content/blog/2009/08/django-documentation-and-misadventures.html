@@ -1,0 +1,27 @@
+---
+title: "Django Documentation and Misadventures"
+created: !!timestamp '2009-08-01 22:18:16'
+tags:
+    - "django"
+    - "programming"
+---
+
+Currently am learning <a title="Django framework website" href="http://www.djangoproject.com/" target="_blank">Django</a>, which is a popular web framework in Python. And whichever framework I chose to learn, I greatly preferred having my documentation offline as I didn’t really find myself constantly offline (it helps to concentrate on my work, actually). In the case of Django, the documentation was provided in ReST text format (refer to the <a title="Django FAQ: How can I download the Django documentation to read it offline?" href="http://docs.djangoproject.com/en/dev/faq/general/#how-can-i-download-the-django-documentation-to-read-it-offline" target="_blank">FAQ entry</a>) and it’s possible to generate a PDF version out of it.
+
+… Well, until the fact that I found out that there’s no explicit mention on what to get to generate it.
+
+Cutting a long story short (I'll save the grueling details to myself), now you’d two options:
+<ol>
+	<li><a title="Django documentation - PDF version, Aug 1 2009" href="http://www.box.net/shared/vo4fklk21i" target="_blank">Download the PDF version here (Aug 1, 2009)</a>, which I generated from the recent Django 1.1 package</li>
+	<li>Do it yourself</li>
+</ol>
+For the brave ones that chose the Do-It-Yourself route, here’s the instructions for Ubuntu 9.04 (Jaunty Jackelope):
+<ol>
+	<li> Get the following packages: texlive, texlive-latex-extra, python-setuptools <em>(Note: the TexLive/LaTeX stuff is over 150MB)</em> [<code>sudo aptitude install texlive texlive-latex-extra python-setuptools</code>]</li>
+	<li>If you have python-sphinx package installed, uninstall it [<code>sudo aptitude remove python-sphinx</code>]</li>
+	<li>Install the latest Sphinx EGG package [<code>sudo easy_install -U Sphinx</code>]</li>
+	<li>Go to the “docs” directory Django package folder</li>
+	<li>Execute “<code>make latex</code>”</li>
+	<li>Once completed, go into the “_build/latex” directory and execute “<code>make all-pdf</code>”</li>
+</ol>
+<a title="PDF version of Django documentation" href="http://www.box.net/shared/vo4fklk21i" target="_blank">Django Documentation (Aug 1, 2009): PDF</a> (Hosted at Box.net)
