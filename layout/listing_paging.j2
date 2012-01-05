@@ -1,8 +1,6 @@
 {% extends "base.j2" %}
 
 {% block main -%}
-<h1>Miaow</h1>
-
 {% for res in resource.page.posts %}
 <div class="post">
 <h2 class="title"><a href="{{ content_url(res.url) }}" title="{{ res.meta.title }}">{{ res.meta.title }}</a></h2>
@@ -13,15 +11,14 @@
 {{ article.post|markdown|typogrify }}
 </div>
 
-{% if resource.meta.tags %}
+{% if res.meta.tags %}
 <div class="tags">
 Tags:
-{% for tag in resource.meta.tags %}
+{% for tag in res.meta.tags %}
 <a href="{{ content_url('blog/tags/'~tag~'.html') }}" rel="tag">{{ tag }}</a>{% if not loop.last %}, {% endif %}
 {% endfor %}
 </div>
 {% endif %}
-
 </div><!-- /.post -->
 {% endfor %}
 {%- endblock %}

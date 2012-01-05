@@ -1,20 +1,9 @@
 ---
-extends: base.j2
-default_block: main
+extends: listing_paging.j2
 title: BASIC - A hyde website
 description: Home page for the BASIC hyde template
+paginator:
+    sorter: time
+    size: 10
+    file_pattern: pages/$PAGE/$FILE$EXT
 ---
-
-{% from "macros.j2" import render_excerpt with context %}
-<section class="blog_excerpt">
-{% set latest = site.content.walk_resources_sorted_by_time()|first %}
-
-{% if latest -%}
-{{ render_excerpt(latest, 'post') }}
-
-<a class="button white medium"
-    href="{{ content_url(latest.url) }}">Read more&hellip;</a>
-
-{%- endif %}
-
-</section>
