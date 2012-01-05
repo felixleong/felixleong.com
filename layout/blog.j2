@@ -1,5 +1,9 @@
 {% extends "base.j2" %}
 
+{% block title -%}
+{{ resource.meta.title }} | {{ resource.meta.blog_title }}
+{%- endblock title %}
+
 {% block main -%}
 <article class="post">
 <nav class="post_nav">

@@ -41,7 +41,9 @@ context:
 meta:
     nodemeta: meta.yaml
     created: !!timestamp 2010-01-01 00:00:00
-    author: Lakshmi Vyasarajan
+    author: Seh Hui Leong
+    blog_title: My Take In Life
+    blog_description: "Musings, art & ideas from Felix Leong"
 sorter:
     time:
         attr:

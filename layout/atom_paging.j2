@@ -2,18 +2,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>
-        {% block title %}{{ resource.meta.title|default(feed_title) }}{% endblock %}
+        {% block title %}{{ feed_title|default(resource.meta.blog_title) }}{% endblock %}
     </title>
     {% block self_url %}
-    <link href="{{ resource.url }}" rel="self" />
+    <link href="{{ full_url(resource.url) }}" rel="self" />
     {% endblock %}
 
     {% block site_url %}
-    <link href="{{ content_url('') }}"/>
+    <link href="{{ full_url('') }}"/>
     {% endblock %}
 
-    <link href="{{ content_url(resource.previous.url) }}" rel="previous" />
-    <link href="{{ content_url(resource.next.url) }}" rel="next" />
+    {% if resource.page.previous -%}
+    <link href="{{ full_url(resource.page.previous.resource.url) }}" rel="previous" />
+    {%- endif %}
+    {% if resource.page.next -%}
+    <link href="{{ full_url(resource.page.next.resource.url) }}" rel="next" />
+    {%- endif %}
 
     {% block feed_extra %}
     {% endblock %}
