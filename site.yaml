@@ -10,6 +10,7 @@ plugins:
     - hyde.ext.plugins.syntext.SyntextPlugin
     - hyde.ext.plugins.textlinks.TextlinksPlugin
     - hyde.ext.plugins.paginator.PaginatorPlugin
+    - hyde.ext.plugins.urls.UrlCleanerPlugin
 context:
     data:
         tweet_via: ringce
@@ -66,3 +67,9 @@ paginator:
     sorter: time
     size: 10
     file_pattern: pages/$PAGE/$FILE$EXT
+urlcleaner:
+    index_file_names:
+        - index.html
+    strip_extensions:
+        - html
+    append_slash: true
