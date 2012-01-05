@@ -60,3 +60,7 @@ tagger:
             archive_extension: html
             meta:
                 listable: false
+paginator:
+    sorter: time
+    size: 10
+    file_pattern: pages/$PAGE/$FILE$EXT
