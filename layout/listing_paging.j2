@@ -23,16 +23,15 @@ Tags:
 {% endfor %}
 
 <nav class="pagenavi">
-<a class="prev{{' disabled' if not resource.page.previous }}"
-    {% if resource.page.previous %}
-    href="{{ content_url(resource.page.previous.resource.url) }}"{% endif %}>
-    &laquo; Previous
-</a>
-
 <a class="next{{' disabled' if not resource.page.next }}"
     {% if resource.page.next %}
     href="{{ content_url(resource.page.next.resource.url) }}"{% endif %}>
-    Next &raquo;
+    Older &laquo;
+</a>
+<a class="prev{{' disabled' if not resource.page.previous }}"
+    {% if resource.page.previous %}
+    href="{{ content_url(resource.page.previous.resource.url) }}"{% endif %}>
+    Newer &raquo;
 </a>
 </nav>
 {%- endblock %}
