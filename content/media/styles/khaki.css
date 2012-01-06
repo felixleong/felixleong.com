@@ -261,12 +261,12 @@ img.wp-smiley  {
 
 /* 4.3 Page Navi */
 
-.Nav strong.on  {
+.pagenavi strong.on  {
 	color: #fff;
 	background-color: #6b5a41;
 }
 
-.Nav a:link, .Nav a:visited  {
+.pagenavi a:link, .pagenavi a:visited  {
 	color: #6b5a41;
 }
 

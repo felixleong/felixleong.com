@@ -522,15 +522,15 @@ img.wp-smiley  {
 
 /* 4.3 Page Navi */
 
-div.Nav  {
+div.pagenavi  {
 	height: 25px;
 }
 
-.Nav strong.on  {
+.pagenavi strong.on  {
 	padding: 5px 8px 3px 8px;
 }
 
-.Nav a:link, .Nav a:visited  {
+.pagenavi a:link, .pagenavi a:visited  {
 	padding: 2px 5px;
 	font-weight: bold;
 }
