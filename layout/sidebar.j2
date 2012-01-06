@@ -2,7 +2,7 @@
   <div class="widget">
   <h3>Recent Posts<span class="fold">&nbsp;</span></h3>
   <ul>
-  {% for res in resource.node.walk_resources_sorted_by_time()[:10] %}
+  {% for res in resource.node.root.walk_resources_sorted_by_time()[:10] %}
   <li><a title="{{ res.meta.description|default(res.meta.title) }}" href="{{ content_url(res.url) }}">{{ res.meta.title }}</a></li>
   {% endfor %}
   </ul>

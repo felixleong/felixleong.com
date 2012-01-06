@@ -2,9 +2,9 @@
 
 {% block main -%}
 {% for res in resource.page.posts %}
-<div class="post">
+<article class="post">
 <h2 class="title"><a href="{{ content_url(res.url) }}" title="{{ res.meta.title }}">{{ res.meta.title }}</a></h2>
-<p class="meta">Posted: <time datetime="{{ res.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ res.meta.created.strftime('%d %b %Y') }}</time></p>
+<p class="meta"><time datetime="{{ res.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ res.meta.created.strftime('%d %b %Y') }}</time></p>
 
 <div class="entry">
 {% refer to res.url as article -%}
@@ -19,6 +19,6 @@ Tags:
 {% endfor %}
 </div>
 {% endif %}
-</div><!-- /.post -->
+</article><!-- /.post -->
 {% endfor %}
 {%- endblock %}
