@@ -13,7 +13,7 @@ plugins:
     - hyde.ext.plugins.urls.UrlCleanerPlugin
 context:
     data:
-        tweet_via: ringce
+        tweet_via: felixleong
         menu:
             -
                 name: Home
@@ -22,11 +22,28 @@ context:
                 type: page
                 url: index.html
             -
-                name: Portfolio
-                description: Portfolio
-                css_class: portfolio
+                name: Drawing Manga
+                description: Tutorials on Drawing Manga
+                css_class: tutorial
                 type: node
-                url: portfolio
+                url: manga-tutorial
+                child_pages:
+                    -
+                        name: How To Draw Faces in Super Deformed Style
+                        type: node
+                        url: manga-tutorial/how-to-draw-sd-characters-face.html
+                    -
+                        name: How To Draw Characters in Super Deformed Style
+                        type: node
+                        url: manga-tutorial/how-to-draw-sd-characters-body.html
+                    -
+                        name: The Basics of Drawing Eyes
+                        type: node
+                        url: manga-tutorial/drawing-eyes-the-basics.html
+                    -
+                        name: The Basics of Drawing Hair
+                        type: node
+                        url: manga-tutorial/drawing-hair-the-basics.html
             -
                 name: Blog
                 description: Blog

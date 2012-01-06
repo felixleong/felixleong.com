@@ -1,8 +1,10 @@
-<div id="pages-3" class="widget widget_pages"><h3>Pages<span class="fold">&nbsp;</span></h3>
-<ul>
-  <li class="page_item page-item-75"><a href="http://demo.woothemes.com/mainstream/about-3/">About</a></li>
-  <li class="page_item page-item-49"><a href="http://demo.woothemes.com/mainstream/archives/">Archives</a></li>
-  <li class="page_item page-item-186"><a href="http://demo.woothemes.com/mainstream/full-width/">Full Width</a></li>
-  <li class="page_item page-item-38"><a href="http://demo.woothemes.com/mainstream/sitemap/">Sitemap</a></li>
-</ul>
-</div><!-- /#ads -->
+<div id="sidebar">
+  <div class="widget">
+  <h3>Recent Posts<span class="fold">&nbsp;</span></h3>
+  <ul>
+  {% for res in resource.node.walk_resources_sorted_by_time()[:10] %}
+  <li><a title="{{ res.meta.description|default(res.meta.title) }}" href="{{ content_url(res.url) }}">{{ res.meta.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+</div>

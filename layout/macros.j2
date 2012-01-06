@@ -10,31 +10,44 @@
 </article>
 {% endmacro %}
 
-{% macro render_nav(menu, cls=None) -%}
+{% macro render_nav(menu, id=None, include_child_pages=True) -%}
 {% if menu -%}
-<nav {{'class='~cls if cls }}>
-    <ul>
-        {% for item in menu -%}
-        {% set active = False -%}
-        {% if item.type == 'page' -%}
-            {% set active = (resource.url ==
-                site.content.resource_from_relative_path(item.url).url) -%}
-        {% else -%}
-            {% set active = (node ==
-                site.content.node_from_relative_path(item.url)) -%}
-        {%- endif %}
-        {% set classes = ['button', 'white'] -%}
-        {% do classes.append('active') if active -%}
-        {% do classes.append(item.css_class) if item.css_class -%}
-        <li>
-            <a title="{{ item.description }}"
-                class="{{ classes|join(' ') }}"
-                href="{{ content_url(item.url) }}">
-                {{ item.name }}
-            </a>
-        </li>
-        {%- endfor %}
+<ul {{'id='~id if id }}>
+  {% for item in menu -%}
+  {% set active = False -%}
+  {% if item.type == 'page' -%}
+    {% set active = (resource.url ==
+        site.content.resource_from_relative_path(item.url).url) -%}
+  {% else -%}
+    {% set active = (node ==
+        site.content.node_from_relative_path(item.url)) -%}
+  {%- endif %}
+
+  {% set classes = [] -%}
+  {% do classes.append('active') if active -%}
+  {% do classes.append(item.css_class) if item.css_class -%}
+  <li>
+    <a href="{{ content_url(item.url) }}"
+      title="{{ item.description|default(item.name) }}"
+      class="{{ classes | join(' ') }}">
+      {{ item.name }}
+    </a>
+
+    {% if item.child_pages and include_child_pages -%}
+    <ul class="children">
+    {% for child_item in item.child_pages -%}
+    <li>
+      <a href="{{ content_url(child_item.url) }}"
+        title="{{ child_item.description|default(item.name) }}">
+        {{ child_item.name }}
+      </a>
+    </li>
+    {%- endfor %}
     </ul>
-</nav>
+    {%- endif %}
+  </li>
+  {%- endfor %}
+</ul>
 {%- endif %}
 {%- endmacro %}
+
