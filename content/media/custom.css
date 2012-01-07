@@ -10,4 +10,11 @@ style from style.css to this file, and modify it to
 your liking.
 
 */
-
+.archives .post time {
+    display: inline-block;
+    width: 9.5em;
+}
+.archives .post .title {
+    font-size: 115%;
+    font-weight: 800;
+}
