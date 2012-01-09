@@ -1,9 +1,41 @@
 ---
 title: "Manga Drawing Tutorials"
 created: !!timestamp '2008-12-24 19:30:42'
+default_block: ''
 ---
 
 {% block css -%}<link href="{{ media_url('css/tutorial.css') }}" rel="stylesheet" type="text/css" />{%- endblock css %}
 
-{% mark post -%}<p>Here are a collection of tutorials that I had written about drawing super deformed characters, which was previously published o <a href="http://www.rpgamer.com/fanart/">RPGamer's Fanart column</a> back in 2002.</p><ul class="tutorial-list"><li class="tutorial-entry"><img src="http://upload.felixleong.com/2008/12/preview.png" alt="How to draw SD characters: Face - Preview" title="How to draw SD characters: Face - Preview" width="54" height="54" class="alignright size-full wp-image-25" /><a href="http://felixleong.com/?page_id=34">How to Draw SD Characters: Face</a><p>Learn the basics of manga drawing starting from the face.</p></li><li class="tutorial-entry">
-<img src="http://upload.felixleong.com/2008/12/preview.gif" alt="How to draw SD characters: Body - Preview" title="How to draw SD characters: Body - Preview" width="54" height="54" class="alignright size-full wp-image-49" /><a href="http://felixleong.com/?page_id=45">How to Draw SD Characters: Body</a><p>Now you know how to draw, complete your skills by learn how to draw a full-body character.</p></li><li class="tutorial-entry"><img src="http://upload.felixleong.com/2008/12/preview1.gif" alt="Drawing Eyes: The Basics - Preview" title="Drawing Eyes: The Basics - Preview" width="54" height="54" class="alignright size-full wp-image-69" /><a href="http://felixleong.com/?page_id=64">Drawing Eyes: The Basics</a><p>Learn the finer point of drawing people by knowing how to draw the most expressive part: the eyes.</p></li><li class="tutorial-entry"><img src="http://upload.felixleong.com/2008/12/preview.jpg" alt="Drawing Hair: The Basics - Preview" title="Drawing Hair: The Basics - Preview" width="54" height="54" class="alignright size-full wp-image-93" /><a href="http://felixleong.com/?page_id=100">Drawing Hair: The Basics</a><p>Make your characters beautiful with strands of hair.</p></li></ul><script type="text/javascript">$(".tutorial-entry>a").each(function() { var link = $(this).attr('href'); $(this).parent().click(function() { window.location = link; }); });</script>{%- endmark %}
+{% mark post -%}
+{% block post -%}
+Here are a collection of tutorials that I had written about drawing super deformed characters, which was previously published at [RPGamer's Fanart column](http://www.rpgamer.com/fanart/) back in 2002.
+
+<ul class="tutorial-list">
+  <li class="tutorial-entry">
+  <img src="http://upload.felixleong.com/2008/12/preview.png" alt="How to draw SD characters: Face - Preview" title="How to draw SD characters: Face - Preview" width="54" height="54" class="alignright size-full wp-image-25" />
+  <a href="{{ content_url('/manga-tutorial/how-to-draw-sd-characters-face.html') }}">How to Draw SD Characters: Face</a>
+  Learn the basics of manga drawing starting from the face.
+  </li>
+
+  <li class="tutorial-entry">
+  <img src="http://upload.felixleong.com/2008/12/preview.gif" alt="How to draw SD characters: Body - Preview" title="How to draw SD characters: Body - Preview" width="54" height="54" class="alignright size-full wp-image-49" />
+  <a href="{{ content_url('/manga-tutorial/how-to-draw-sd-characters-body.html') }}">How to Draw SD Characters: Body</a>
+  Now you know how to draw, complete your skills by learn how to draw a full-body character.
+  </li>
+
+  <li class="tutorial-entry">
+  <img src="http://upload.felixleong.com/2008/12/preview1.gif" alt="Drawing Eyes: The Basics - Preview" title="Drawing Eyes: The Basics - Preview" width="54" height="54" class="alignright size-full wp-image-69" />
+  <a href="{{ content_url('/manga-tutorial/drawing-eyes-the-basics.html') }}">Drawing Eyes: The Basics</a>
+  Learn the finer point of drawing people by knowing how to draw the most expressive part: the eyes.
+  </li>
+
+  <li class="tutorial-entry">
+  <img src="http://upload.felixleong.com/2008/12/preview.jpg" alt="Drawing Hair: The Basics - Preview" title="Drawing Hair: The Basics - Preview" width="54" height="54" class="alignright size-full wp-image-93" />
+  <a href="{{ content_url('/manga-tutorial/drawing-hair-the-basics.html') }}">Drawing Hair: The Basics</a>
+  Make your characters beautiful with strands of hair.
+  </li>
+</ul>
+{%- endblock post %}
+{%- endmark %}
+
+{% block scripts -%}<script type="text/javascript">$(".tutorial-entry>a").each(function() { var link = $(this).attr('href'); $(this).parent().click(function() { window.location = link; }); });</script>{%- endblock scripts %}

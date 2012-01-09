@@ -22,6 +22,12 @@ context:
                 type: page
                 url: index.html
             -
+                name: Blog
+                description: Blog
+                css_class: blog
+                type: node
+                url: blog
+            -
                 name: Drawing Manga
                 description: Tutorials on Drawing Manga
                 css_class: tutorial
@@ -44,12 +50,6 @@ context:
                         name: The Basics of Drawing Hair
                         type: node
                         url: manga-tutorial/drawing-hair-the-basics.html
-            -
-                name: Blog
-                description: Blog
-                css_class: blog
-                type: node
-                url: blog
             -
                 name: About
                 description: About
