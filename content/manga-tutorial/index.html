@@ -1,14 +1,10 @@
 ---
+extends: manga_tutorial_listing.j2
 title: "Manga Drawing Tutorials"
 created: !!timestamp '2008-12-24 19:30:42'
-default_block: ''
 ---
 
-{% block css -%}<link href="{{ media_url('css/tutorial.css') }}" rel="stylesheet" type="text/css" />{%- endblock css %}
-
-{% mark post -%}
-{% block post -%}
-Here are a collection of tutorials that I had written about drawing super deformed characters, which was previously published at [RPGamer's Fanart column](http://www.rpgamer.com/fanart/) back in 2002.
+Here are a collection of tutorials that I had written about drawing super deformed characters, which was previously published at <a href="http://www.rpgamer.com/fanart/">RPGamer's Fanart column</a> back in 2002.
 
 <ul class="tutorial-list">
   <li class="tutorial-entry">
@@ -35,7 +31,4 @@ Here are a collection of tutorials that I had written about drawing super deform
   Make your characters beautiful with strands of hair.
   </li>
 </ul>
-{%- endblock post %}
-{%- endmark %}
 
-{% block scripts -%}<script type="text/javascript">$(".tutorial-entry>a").each(function() { var link = $(this).attr('href'); $(this).parent().click(function() { window.location = link; }); });</script>{%- endblock scripts %}

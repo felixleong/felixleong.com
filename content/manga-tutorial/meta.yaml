@@ -1,3 +1,3 @@
-extends: full_page.j2
+extends: manga_tutorial.j2
 default_block: post
 listable: false

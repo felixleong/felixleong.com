@@ -1,0 +1,5 @@
+{% extends "full_page.j2" %}
+
+{% block css -%}<link href="{{ media_url('css/tutorial.css') }}" rel="stylesheet" type="text/css" />{%- endblock css %}
+
+{% block scripts -%}<script type="text/javascript">$(".tutorial-entry>a").each(function() { var link = $(this).attr('href'); $(this).parent().click(function() { window.location = link; }); });</script>{%- endblock scripts %}
