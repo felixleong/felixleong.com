@@ -8,9 +8,14 @@
 {% block sidebar -%}{% endblock sidebar %}
 
 {% block main -%}
+<div class="post">
+<h2 class="title">{{ resource.meta.title }}</h2>
+<div class="entry">
 {% filter markdown|typogrify -%}
 {% mark post -%}
 {% block post -%}{%- endblock %}
 {%- endmark %}
 {%- endfilter %}
+</div>
+</div>
 {% endblock main %}

@@ -22,15 +22,10 @@
     <meta name="generator" content="Mainstream 1.7.2" />
     <meta name="generator" content="WooFramework 5.0.2" />
 
-    <!-- Alt Stylesheet -->
-    <link href="{{ media_url('styles/default.css') }}" rel="stylesheet" type="text/css">
-
-    <!-- Woo Shortcodes CSS -->
-    <link href="{{ media_url('shortcodes.css') }}" rel="stylesheet" type="text/css">
-
-    <!-- Custom Stylesheet -->
-    <link href="{{ media_url('custom.css') }}" rel="stylesheet" type="text/css">
-
+    <link href="{{ media_url('styles/default.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ media_url('shortcodes.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ media_url('custom.css') }}" rel="stylesheet" type="text/css" />
+    {% block css %}{% endblock css %}
   </head>
 
   <body class="home blog chrome">
