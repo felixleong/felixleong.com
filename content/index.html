@@ -1,12 +1,5 @@
 ---
-extends: listing_paging.j2
-title: BASIC - A hyde website
-description: Home page for the BASIC hyde template
-paginator:
-    sorter: time
-    size: 10
-    file_pattern: pages/$PAGE/$FILE$EXT
+extends: home.j2
+title: Home
+description: Musings, art and ideas from Felix Leong
 ---
-{% block teaser %}
-{% include "teaser.j2" %}
-{% endblock teaser %}
