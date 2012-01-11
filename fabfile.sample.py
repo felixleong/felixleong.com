@@ -10,15 +10,16 @@ DEPLOY_PATH = os.path.join(ROOT_PATH, 'deploy')
 def clean():
     local('rm -rf ./deploy')
 
-def generate():
+def generate(type='development'):
+    local('sed -e \'s/\(mode: \).*/\\1{0}/g\' -i \'\' site.yaml'.format(type))
     local('hyde gen')
 
-def regen():
+def regen(type='development'):
     clean()
-    generate()
+    generate(type)
 
 def serve():
-    local('hyde -w -s . -k')
+    local('hyde serve')
 
 def reserve():
     regen()
@@ -29,7 +30,7 @@ def smush():
 
 @hosts(PROD)
 def publish():
-    regen()
+    regen('production')
     project.rsync_project(
         remote_dir=DEST_PATH,
         local_dir=DEPLOY_PATH.rstrip('/') + '/',

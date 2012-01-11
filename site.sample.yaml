@@ -63,6 +63,7 @@ meta:
     blog_title: My Take In Life
     blog_description: "Musings, art & ideas from Felix Leong"
     site_url: 'http://felixleong.com'
+    google_analytics: ''
 sorter:
     time:
         attr:
