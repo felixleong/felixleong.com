@@ -11,7 +11,7 @@ def clean():
     local('rm -rf ./deploy')
 
 def generate(type='development'):
-    local('sed -e \'s/\(mode: \).*/\\1{0}/g\' -i \'\' site.yaml'.format(type))
+    local('sed -e \'s/\(mode: \).*/\\1{0}/g\' -i\'\' site.yaml'.format(type))
     local('hyde gen')
 
 def regen(type='development'):
