@@ -7,8 +7,8 @@ argparse==1.2.1
 boto==2.1.1
 commando==0.1.2a
 fs==0.4.0
--e git://github.com/hyde/hyde.git@ea887299be41cd1acea1cb29cab4ab750c66b1cd#egg=hyde-dev
+-e git://github.com/hyde/hyde.git#egg=hyde
 pycrypto==2.4.1
 smartypants==1.6.0.3
 ssh==1.7.11
-typogrify-hyde==1.0.1a
+-e git://github.com/hyde/typogrify.git#egg=typogrify
