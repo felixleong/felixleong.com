@@ -7,4 +7,35 @@
   {% endfor %}
   </ul>
   </div>
+
+  <div class="widget">
+    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script>
+    new TWTR.Widget({
+    version: 2,
+    type: 'profile',
+    rpp: 5,
+    interval: 30000,
+    width: 'auto',
+    height: 300,
+    theme: {
+        shell: {
+        background: '#53777A',
+        color: '#ffffff'
+        },
+        tweets: {
+        background: '#ffffff',
+        color: '#453645',
+        links: '#6c6c6c'
+        }
+    },
+    features: {
+        scrollbar: false,
+        loop: false,
+        live: false,
+        behavior: 'all'
+    }
+    }).render().setUser('felixleong').start();
+    </script>
+  </div>
 </div>

@@ -77,22 +77,37 @@
           <p><a href="http://woothemes.com/" title="WooThemes"><img src="{{ media_url('images/woothemes.png') }}" alt="WooThemes Logo"></a></p>
 
         </div><!-- /#footer -->
-
       </div><!-- /#container -->
 
   {% block js %}
   <!-- Javascript at the bottom for fast page loading -->
   {% block jquery %}
   <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
-  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.5.1.min.js">\x3C/script>')</script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+  <script>window.jQuery || document.write('<script src="{{ media_url('js/libs/jquery-1.5.1.min.js') }}">\x3C/script>')</script>
   {% endblock jquery %}
+
+  {% block sharingjs %}
+  {% if resource.meta.enable_sharing -%}
+  <div id="fb-root"></div>
+  <!-- Facebook Like buttons -->
+  <!--script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=147628288684317";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script-->
+  <!-- Twitter -->
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  {%- endif %}
+  {% endblock sharingjs %}
 
   {% block scripts %}
   {% endblock scripts %}
 
   <!--[if lt IE 7 ]>
-    <script src="js/libs/dd_belatedpng.js"></script>
+  <script src="{{ media_url('js/libs/dd_belatedpng.js') }}"></script>
     <script>DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
   <![endif]-->
 

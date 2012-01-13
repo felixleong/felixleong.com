@@ -13,15 +13,19 @@
 </h2>
 <p class="meta">
 <time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date">
-    {{ resource.meta.created.strftime('%a, %d %b %Y') }}
+    {{ resource.meta.created.strftime('%d %b %Y') }}
+    {% from "macros.j2" import render_share_button with context %}
+    {{ render_share_button(resource) }}
 </time>
 </p>
 
+<div class="entry">
 {% filter markdown|typogrify -%}
 {% mark post -%}
 {% block post -%}{%- endblock %}
 {%- endmark %}
 {%- endfilter %}
+</div>
 
 {% if resource.meta.tags %}
 <div class="tags">
