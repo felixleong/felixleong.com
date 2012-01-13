@@ -10,6 +10,10 @@
 {% block main -%}
 <div class="post">
 <h2 class="title">{{ resource.meta.title }}</h2>
+<div class="meta">
+{% from "macros.j2" import render_share_button with context %}
+{{ render_share_button(resource) }}
+</div>
 <div class="entry">
 {% filter markdown|typogrify -%}
 {% mark post -%}

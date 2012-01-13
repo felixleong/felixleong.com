@@ -11,13 +11,11 @@
         {{ resource.meta.title }}
     </a>
 </h2>
-<p class="meta">
-<time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date">
-    {{ resource.meta.created.strftime('%d %b %Y') }}
-    {% from "macros.j2" import render_share_button with context %}
-    {{ render_share_button(resource) }}
-</time>
-</p>
+<div class="meta">
+  <div>Posted on <time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ resource.meta.created.strftime('%d %b %Y') }}</time></div>
+  {% from "macros.j2" import render_share_button with context %}
+  {{ render_share_button(resource) }}
+</div>
 
 <div class="entry">
 {% filter markdown|typogrify -%}
