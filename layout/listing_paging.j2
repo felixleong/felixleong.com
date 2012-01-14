@@ -5,7 +5,7 @@
 <article class="post">
 <h2 class="title"><a href="{{ content_url(res.url) }}" title="{{ res.meta.title }}">{{ res.meta.title }}</a></h2>
 <div class="meta">
-  <div>Posted on <time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ resource.meta.created.strftime('%d %b %Y') }}</time></div>
+  <div>Posted on <time datetime="{{ res.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ resource.meta.created.strftime('%d %b %Y') }}</time></div>
   {% from "macros.j2" import render_share_button with context %}
   {{ render_share_button(res) }}
 </div>
