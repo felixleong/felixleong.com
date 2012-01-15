@@ -4,6 +4,7 @@
 {% for res in resource.page.posts %}
 <article class="post">
 <h2 class="title"><a href="{{ content_url(res.url) }}" title="{{ res.meta.title }}">{{ res.meta.title }}</a></h2>
+
 <div class="meta">
   <div>Posted on <time datetime="{{ res.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ res.meta.created.strftime('%d %b %Y') }}</time></div>
   {% from "macros.j2" import render_share_button with context %}
