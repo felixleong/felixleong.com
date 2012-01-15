@@ -8,6 +8,13 @@
   </ul>
   </div>
 
+  <div class="widget tagcloud">
+  <h3>Tag Cloud<span class="fold">&nbsp;</span></h3>
+  {% for tagname, tag in site.tagger.tags.to_dict().iteritems() %}
+  <a title="{{ tagname }}" href="{{ content_url('/blog/tags/{0}'.format(tagname)) }}">{{ tagname }}</a>
+  {% endfor %}
+  </div>
+
   <div class="widget">
     <script src="http://widgets.twimg.com/j/2/widget.js"></script>
     <script>

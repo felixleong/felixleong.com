@@ -20,3 +20,11 @@ your liking.
 }
 
 .post .meta div { margin-bottom: 0.35em; }
+
+#sidebar .tagcloud a {
+    background: #d95b43;
+    color: #fff;
+    display: inline-block;
+    margin-top: 4px;
+    padding: 6px 8px 4px 6px;
+}
