@@ -29,7 +29,7 @@
 <div class="tags">
 Tags:
 {% for tag in resource.meta.tags %}
-<a href="{{ content_url('blog/tags/'~tag~'.html') }}" rel="tag">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+<a href="{{ content_url('blog/tags/'~tag~'.html') }}" rel="tag">{{ tag }}</a> 
 {% endfor %}
 </div>
 {% endif %}
