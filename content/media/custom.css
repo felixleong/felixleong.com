@@ -21,9 +21,13 @@ your liking.
 
 .post .meta div { margin-bottom: 0.35em; }
 
+#nav a {
+    border-radius: 4px 4px 0 0;
+}
 #sidebar .tagcloud a {
-    background: #d95b43;
-    color: #fff;
+    background: #fbe498;
+    border-radius: 4px;
+    color: #4f4f4f;
     display: inline-block;
     margin-top: 4px;
     padding: 6px 8px 4px 6px;
