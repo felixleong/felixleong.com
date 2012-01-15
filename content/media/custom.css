@@ -21,7 +21,7 @@
 .post .meta {
     background: url(styles/default/about_fold.png) no-repeat left top;
     margin: 0 0 0 -40px;
-    padding-left: 40px;
+    padding: 0.22em 0.22em 0.22em 40px ;
 }
     .post .meta div { margin-bottom: 0.35em; }
 .post .tags a {
