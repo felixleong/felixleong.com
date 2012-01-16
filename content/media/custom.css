@@ -1,3 +1,17 @@
+pre, code {
+    background: #f0f0f0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    font-family: 'Courier New', Courier, monospace;
+}
+pre {
+    padding: 0.22em;
+}
+    pre code {
+        border: none;
+    }
+
+/* Archive page */
 .archives .post time {
     display: inline-block;
     width: 9.5em;
