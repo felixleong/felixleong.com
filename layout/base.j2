@@ -25,7 +25,11 @@
     <link href="{{ media_url('styles/default.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ media_url('shortcodes.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ media_url('custom.css') }}" rel="stylesheet" type="text/css" />
-    {% block css %}{% endblock css %}
+    {% block css %}
+    {% for css_file in resource.meta.css_files %}
+    <link href="{{ media_url(css_file) }}" rel="stylesheet" type="text/css" />
+    {% endfor %}
+    {% endblock css %}
   </head>
 
   <body class="home blog chrome">

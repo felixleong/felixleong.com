@@ -1,5 +1,5 @@
 pre, code {
-    background: #f0f0f0;
+    background: #eed;
     border-top: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
     font-family: 'Courier New', Courier, monospace;
@@ -58,4 +58,13 @@ pre {
 #sidebar .tagcloud a {
     margin-top: 4px;
     padding: 6px 8px 4px 6px;
+}
+
+/* Codeblock */
+.codebox figure { margin: 1em 0 1em 1em; }
+.codebox figcaption {
+    color: #ddd;
+    font-size: 80%;
+    margin-top: -1.5em;
+    text-align: right;
 }
