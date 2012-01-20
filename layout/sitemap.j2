@@ -1,0 +1,19 @@
+{% macro generate_url_entry(res, options) %}
+<url>
+<loc>{{ res.meta.site_url + content_url(res.url) }}</loc>
+{% if res.meta.modified %}<lastmod>{{ res.meta.modified|xmldatetime }}</lastmod>
+{% elif res.meta.created %}<lastmod>{{ res.meta.created|xmldatetime }}</lastmod>
+{% endif %}
+{% if options.changefreq %}<changefreq>{{ options.changefreq }}</changefreq>{% endif %}
+{% if options.priority %}<priority>{{ options.prority }}</priority>{% endif %}
+</url>
+{% endmacro %}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for res in resource.node.walk_resources() recursive %}
+  {% if not res.meta.sitemap.ignore and res.source.path.find('meta.yaml') == -1 %}
+  {{ generate_url_entry(res, res.meta.sitemap) }}
+  {% endif %}
+  {% endfor %}
+</urlset>
+

@@ -1,5 +1,5 @@
 import os
-import op as op
+import os.path as op
 import sys
 from fabric.api import *
 import fabric.contrib.project as project
