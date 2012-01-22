@@ -1,3 +1,7 @@
+{% macro full_site_url(res, url=None) -%}
+{{ res.meta.site_url ~ content_url(url if url else res.url) }}
+{%- endmacro %}
+
 {% macro render_excerpt(res, class=None) -%}
 {% refer to res.url as post %}
 <article {{'class='~class if class }}>
@@ -10,10 +14,10 @@
 </article>
 {%- endmacro %}
 
-{% macro render_share_button(res) -%}
+{% macro render_share_button(res) %}
 {% if res.meta.enable_sharing -%}
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ res.meta.site_url + content_url(res.url) }}" data-text="{{ res.meta.title }}" data-via="felixleong" data-related="felixleong">Tweet</a>
-<div class="fb-like" data-href="{{ res.meta.site_url + content_url(res.url) }}" data-send="false" data-width="450" data-show-faces="false"></div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ full_site_url(res) }}" data-text="{{ res.meta.title }}" data-via="felixleong" data-related="felixleong">Tweet</a>
+<div class="fb-like" data-href="{{ full_site_url(res.url) }}" data-send="false" data-width="450" data-show-faces="false"></div>
 {%- endif %}
 {% endmacro %}
 

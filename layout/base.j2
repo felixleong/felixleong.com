@@ -1,7 +1,7 @@
+{% from "macros.j2" import render_nav with context %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <title>{% block title %}{{ resource.meta.blog_title }} | {{ resource.meta.blog_description }}{% endblock title %}</title>
+    <title>{% block title -%}{{ resource.meta.blog_title }} | {{ resource.meta.blog_description }}{%- endblock title %}</title>
 
     <meta name="robots" content="index, follow">
     <link rel="stylesheet" type="text/css" media="all" href="{{ media_url('css/reset.css') }}" />
@@ -49,10 +49,9 @@
         <div class="clear"></div>
 
         <div id="navigation">
-        {% block nav %}
-        {% from "macros.j2" import render_nav with context %}
+        {% block nav -%}
         {{ render_nav(menu, 'nav') }}
-        {% endblock nav %}
+        {%- endblock nav %}
         </div><!-- /#navigation -->
 
         <div class="clear"></div>
@@ -73,10 +72,9 @@
         </div><!-- /#main -->
 
         <div id="footer">
-          {% block footer %}
-          {% from "macros.j2" import render_nav with context %}
+          {% block footer -%}
           {{ render_nav(menu, '', False) }}
-          {% endblock footer %}
+          {%- endblock footer %}
           <p>Written by Seh Hui Leong, under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA 3.0</a> license. Always searching for 42.</p>
           <p><a href="http://woothemes.com/" title="WooThemes"><img src="{{ media_url('images/woothemes.png') }}" alt="WooThemes Logo"></a></p>
 

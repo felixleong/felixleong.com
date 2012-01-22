@@ -2,9 +2,9 @@
   <div class="widget">
   <h3>Recent Posts<span class="fold">&nbsp;</span></h3>
   <ul>
-  {% for res in resource.node.root.walk_resources_sorted_by_time()[:10] %}
+  {% for res in resource.node.root.walk_resources_sorted_by_time()[:10] -%}
   <li><a title="{{ res.meta.description|default(res.meta.title) }}" href="{{ content_url(res.url) }}">{{ res.meta.title }}</a></li>
-  {% endfor %}
+  {%- endfor %}
   </ul>
   </div>
 
@@ -41,8 +41,8 @@
 
   <div class="widget tagcloud">
   <h3>Tag Cloud<span class="fold">&nbsp;</span></h3>
-  {% for tagname, tag in site.tagger.tags.to_dict().iteritems() %}
+  {% for tagname, tag in site.tagger.tags.to_dict().iteritems() -%}
   <a title="{{ tagname }}" href="{{ content_url('/blog/tags/{0}'.format(tagname)) }}">{{ tagname }}</a>
-  {% endfor %}
+  {%- endfor %}
   </div>
 </div>
