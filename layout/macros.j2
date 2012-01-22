@@ -17,7 +17,7 @@
 {% macro render_share_button(res) %}
 {% if res.meta.enable_sharing -%}
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ full_site_url(res) }}" data-text="{{ res.meta.title }}" data-via="felixleong" data-related="felixleong">Tweet</a>
-<div class="fb-like" data-href="{{ full_site_url(res.url) }}" data-send="false" data-width="450" data-show-faces="false"></div>
+<div class="fb-like" data-href="{{ full_site_url(res) }}" data-send="false" data-width="450" data-show-faces="false"></div>
 {%- endif %}
 {% endmacro %}
 
