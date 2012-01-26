@@ -17,7 +17,7 @@
 <div class="entry">
 {% filter markdown|typogrify -%}
 {% mark post -%}
-{% block post -%}{%- endblock %}
+{% block post -%}{%- endblock post %}
 {%- endmark %}
 {%- endfilter %}
 </div>
