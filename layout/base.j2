@@ -81,7 +81,7 @@
         </div><!-- /#footer -->
       </div><!-- /#container -->
 
-  {% block js %}
+  {% block js -%}
   <!-- Javascript at the bottom for fast page loading -->
   {% block jquery %}
   <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
@@ -105,17 +105,17 @@
   {%- endif %}
   {% endblock sharingjs %}
 
-  {% block scripts %}
-  {% endblock scripts %}
+  {% block scripts -%}
+  {%- endblock scripts %}
 
   <!--[if lt IE 7 ]>
-  <script src="{{ media_url('js/libs/dd_belatedpng.js') }}"></script>
-    <script>DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+  <script src="{{ media_url('js/dd_belatedpng.js') }}"></script>
+  <script>DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
   <![endif]-->
 
   {% block analytics %}
   {% include "analytics.j2" %}
   {% endblock analytics %}
 
-  {% endblock js %}
+  {%- endblock js %}
   </body></html>

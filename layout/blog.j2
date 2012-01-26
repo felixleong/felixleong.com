@@ -12,7 +12,7 @@
     </a>
 </h2>
 <div class="meta">
-  <div>Posted on <time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ resource.meta.created.strftime('%d %b %Y') }}</time></div>
+  <div>Posted <abbr class="timeago" title="{{ resource.meta.created.strftime('%Y-%m-%dT%H:%M:%S+0800') }}"></abbr> on <time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ resource.meta.created.strftime('%d %b %Y') }}</time></div>
   {% from "macros.j2" import render_share_button with context %}
   {{ render_share_button(resource) }}
 </div>
@@ -35,3 +35,8 @@ Tags:
 {% endif %}
 </article>
 {%- endblock %}
+
+{% block scripts -%}
+<script src="{{ media_url('js/jquery.timeago.js') }}"></script>
+<script src="{{ media_url('js/blog.js') }}"></script>
+{%- endblock scripts %}
