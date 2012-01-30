@@ -13,9 +13,13 @@ IMG_PATH = '/var/www/website/deploy/media/'
 def clean():
     local('rm -rf ./deploy')
 
-def generate(type='development'):
+def generate(type='development', gen_dir=None):
+    gen_cmd = 'hyde gen'
+    if isinstance(gen_dir, str) and op.isdir(gen_dir):
+        gen_cmd = '{0} -d {1}'.format(gen_cmd, gen_dir)
+
     local('sed -e \'s/\(mode: \).*/\\1{0}/g\' -i\'\' site.yaml'.format(type))
-    local('hyde gen')
+    local(gen_cmd)
 
 def regen(type='development'):
     clean()
