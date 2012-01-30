@@ -8,7 +8,14 @@ tags:
     - thoughts
 ---
 
-{% mark post -%}[caption id="attachment_177" align="alignright" width="208" caption="Someday my dream will come true…"]<a href="http://upload.felixleong.com/2009/07/CubicleDreaming.png"><img class="size-medium wp-image-177 " title="Dreaming Inside The Box" src="http://upload.felixleong.com/2009/07/CubicleDreaming-260x300.png" alt="" width="208" height="240" /></a>[/caption]
+{% mark post -%}
+{% from "macros.j2" import embed_image %}
+{{ embed_image(
+    "http://upload.felixleong.com/2009/07/CubicleDreaming-260x300.png",
+    "Someday my dream will come true…",
+    260, 300,
+    "Someday my dream will come true…",
+    "http://upload.felixleong.com/2009/07/CubicleDreaming.png") }}
 
 Fresh out of college, I had always dreamed of becoming a millionaire. “With such amount of money, I'd then be financial free and I could a care-free life!” With that rosy goal brewing in my mind, I would constantly imagine of the things I could do with such an amount of money: the fancy studio apartment unit, the beaches I could go to, how proud my friends and family would be…
 

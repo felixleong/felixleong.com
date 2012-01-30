@@ -11,7 +11,13 @@ tags:
 
 And lo and behold, the new look is already up and running - though at the time of writing (27 June 2009) Internet Explorer users may end up seeing a less optimal site, since I haven't got around fixing the theme yet (looking forward to making it work this weekend though).
 
-[caption id="attachment_152" align="alignleft" width="300" caption="The original conceptual design for A Day in Life ver.2"]<a href="http://upload.felixleong.com/2009/06/screenshot.png"><img class="size-full wp-image-152" title="A Day in Life - Version 2 theme" src="http://upload.felixleong.com/2009/06/screenshot.png" alt="The original conceptual design for A Day in Life ver.2" width="300" height="256" /></a>[/caption]
+{% from "macros.j2" import embed_image %}
+{{ embed_image(
+    "http://upload.felixleong.com/2009/06/screenshot.png",
+    "The original conceptual design for A Day in Life ver.2",
+    300, 256,
+    "The original conceptual design for A Day in Life ver.2",
+    "http://upload.felixleong.com/2009/06/screenshot.png") }}
 
 Developing this theme has been quite a feat to me, which I style it with pure CSS with minimal cruft and I also experimented with CSS3 text-shadows (to view the full effect, do use Firefox 3.5, Google Chrome or Safari 4). And I made very sure that the theme will fall back quite nicely for older browsers, which I plan to achieve with my weekend work on improving this.
 

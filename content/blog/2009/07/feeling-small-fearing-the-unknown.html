@@ -7,7 +7,14 @@ tags:
     - thoughts
 ---
 
-{% mark post -%}[caption id="attachment_184" align="alignnone" width="300" caption="Fearing the unknown"]<a href="http://upload.felixleong.com/2009/07/Fear-small.png"><img class="size-medium wp-image-184" title="Feeling Small" src="http://upload.felixleong.com/2009/07/Fear-small-300x180.png" alt="Fear of the Unknown" width="300" height="180" /></a>[/caption]
+{% mark post -%}
+{% from "macros.j2" import embed_image %}
+{{ embed_image(
+    "http://upload.felixleong.com/2009/07/Fear-small-300x180.png",
+    "Fearing the Unknown",
+    300, 180,
+    "Fearing the Unknown",
+    "http://upload.felixleong.com/2009/07/Fear-small.png") }}
 
 Recently I was exposed to <a title="Gaping Void" href="http://gapingvoid.com/" target="_blank">Hugh MacLeod</a>, whom is popular for producing <a title="His bio page with a set of selected cartoons" href="http://www.gapingvoid.com/Moveable_Type/archives/000009.html" target="_blank">cartoons that are drawn on the back of business cards</a>. Apart from the fact that his cartoons are really funny (some of them wickedly so :)), I also liked the idea of drawing behind business cards and really had a strong urge in trying to draw some of my own.
 

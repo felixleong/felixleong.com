@@ -6,6 +6,13 @@ tags:
     - life
 ---
 
-{% mark post -%}[caption id="attachment_200" align="aligncenter" width="300" caption="Well-Intended Advice"]<a href="http://upload.felixleong.com/2009/08/WellIntendedAdvice_small.jpg"><img class="size-medium wp-image-200" title="Well-Intended Advice" src="http://upload.felixleong.com/2009/08/WellIntendedAdvice_small-300x176.jpg" alt="Well-Intended Advice" width="300" height="176" /></a>[/caption]
+{% mark post -%}
+{% from "macros.j2" import embed_image %}
+{{ embed_image(
+    "http://upload.felixleong.com/2009/08/WellIntendedAdvice_small-300x176.jpg",
+    "Well-Intended Advice",
+    300, 176,
+    "Well-Intended Advice",
+    "http://upload.felixleong.com/2009/08/WellIntendedAdvice_small.jpg") }}
 
 It's always good news if you had great parents and friends who are supportive. The bad news is that there’s times you wished that they don’t worry about you too much. It's all about being able to know what to listen to and what not to, and have the courage to take up the responsibility of accepting whatever consequences that falls upon you for each life decision you made.{%- endmark %}

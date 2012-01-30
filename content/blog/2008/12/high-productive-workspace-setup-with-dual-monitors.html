@@ -8,7 +8,14 @@ tags:
     - work
 ---
 
-{% mark post -%}[caption id="attachment_120" align="alignright" width="180" caption="Setting up a highly productive workspace is crucial"]<a href="http://upload.felixleong.com/2008/12/desktopsetup.png"><img class="size-medium wp-image-120" title="Illustration of my personal workspace setup" src="http://upload.felixleong.com/2008/12/desktopsetup-300x284.png" alt="Setting up a highly productive workspace is crucial" width="180" height="170" /></a>[/caption]
+{% mark post -%}
+{% from "macros.j2" import embed_image %}
+{{ embed_image(
+    "http://upload.felixleong.com/2008/12/desktopsetup-300x284.png",
+    "Illustration of my personal workspace setup",
+    300, 284,
+    "Setting up a highly productive workspace is crucial",
+    "http://upload.felixleong.com/2008/12/desktopsetup.png") }}
 
 A month ago, I'm lucky to receive a 24" monitor to be used with my current laptop at work. Having heard about the raves of productivity increment of a multi-monitor setup first from the <a title="Randy Pausch's Time Management lecture" href="http://http://www.youtube.com/watch?v=oTugjssqOT0" target="_blank">late Randy Pausch's (of "The Last Lecture" fame) Time Management lecture</a>, I was quite excited with the prospect of getting that productivity boost.  As it turns out, having two monitors is just the first step - Knowing how to effectively use the setup is one that I have spent quite some time to experiment to get it right and starting to notice the convenience and improvement gains.
 
@@ -36,7 +43,12 @@ So there you have it, my own workspace setup and design. I have also prepared a 
 
 What's your most productive workspace setup? Would love to hear about your productive workplace setup :).
 
-[caption id="attachment_119" align="alignnone" width="150" caption="Download the quick reference to my personal workspace setup"]<a href="http://upload.felixleong.com/2008/12/workspacesetup.png"><img class="size-thumbnail wp-image-119" title="Personal Workspace Setup - Quick Reference" src="http://upload.felixleong.com/2008/12/workspacesetup-150x150.png" alt="Download the quick reference to my personal workspace setup" width="150" height="150" /></a>[/caption]
+{{ embed_image(
+    "http://upload.felixleong.com/2008/12/workspacesetup-150x150.png",
+    "Personal Workspace Setup - Quick Reference",
+    150, 150,
+    "Download the quick reference to my personal workspace setup",
+    "http://upload.felixleong.com/2008/12/workspacesetup.png") }}
 <h4>Notes:</h4>
 <ol style="margin-top: 0">
 	<li><a name="dualmon-note1"></a>My company has a strict policy of not allowing staff to take pictures, hence the illustration which accurately depicts a part of my office desk</li>
