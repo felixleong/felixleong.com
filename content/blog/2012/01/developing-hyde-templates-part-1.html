@@ -8,7 +8,15 @@ css_files:
     - pygments.css
 ---
 
-{% mark post %}<a href="http://www.flickr.com/photos/way2go/3489966856/" title="Just Me... by Jerry, on Flickr"><img src="http://farm4.staticflickr.com/3096/3489966856_f7a772e3e1.jpg" width="500" height="380" alt="'Just Me...' photo (c) 2009, way2go - license: http://creativecommons.org/licenses/by/2.0/" /><br/>photo &copy; 2009 way2go, Flickr</a>
+{% from "macros.j2" import embed_image %}
+
+{% mark post %}
+{{ embed_image(
+    "http://farm4.staticflickr.com/3096/3489966856_f7a772e3e1.jpg",
+    "Just Me... by Jerry, on Flickr",
+    500, 380,
+    "photo &copy; 2009 way2go, Flickr",
+    "http://www.flickr.com/photos/way2go/3489966856/") }}
 
 Let's see... it's been close to three weeks I've migrated this blog from Wordpress to [Hyde](http://github.com/hyde/hyde). And ever since then I have been constantly fixing bugs in my template.
 

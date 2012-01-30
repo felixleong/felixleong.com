@@ -61,10 +61,11 @@ pre {
 }
 
 /* Codeblock */
-.codebox figure { margin: 1em 0 1em 1em; }
-.codebox figcaption {
-    color: #ddd;
-    font-size: 80%;
-    margin-top: -1.5em;
-    text-align: right;
-}
+figure { margin: 1em 0 1em 1em; }
+  figure img { display: block; }
+  figure figcaption {
+      color: #ccc;
+      font-size: 80%;
+      margin-top: -1.5em;
+      text-indent: 0.5em;
+  }

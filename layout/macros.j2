@@ -14,6 +14,21 @@
 </article>
 {%- endmacro %}
 
+{% macro embed_image(src, alt=None, width=None, height=None, caption=None, href=None) -%}
+<figure>
+{% if href %}
+<a href="{{ href }}" title="{{ alt }}">
+{% endif %}
+  <img src="{{ src }}" alt="{{ alt }}"
+    {% if width %}width="{{ width }}"{% endif %}
+    {% if height %}height="{{ height }}" {% endif %}/>
+{% if href %}
+</a>
+{% endif %}
+{% if caption %}<figcaption>{{ caption }}</figcaption>{% endif %}
+</figure>
+{%- endmacro %}
+
 {% macro render_share_button(res) %}
 {% if res.meta.enable_sharing -%}
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ full_site_url(res) }}" data-text="{{ res.meta.title }}" data-via="felixleong" data-related="felixleong">Tweet</a>
