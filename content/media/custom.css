@@ -61,11 +61,15 @@ pre {
 }
 
 /* Codeblock */
-figure { margin: 1em 0 1em 1em; }
+figure {
+    position: relative;
+    margin: 1em;
+}
   figure img { display: block; }
   figure figcaption {
+      bottom: 0;
       color: #ccc;
       font-size: 80%;
-      margin-top: -1.5em;
-      text-indent: 0.5em;
+      left: 0.5em;
+      position: absolute;
   }
