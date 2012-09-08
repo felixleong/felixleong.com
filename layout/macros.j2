@@ -2,6 +2,10 @@
 {{ res.meta.site_url ~ content_url(url if url else res.url) }}
 {%- endmacro %}
 
+{% macro uploaded_media_url(res, url=None) -%}
+{{ res.meta.upload_media_url ~ media_url(url if url else res.url) }}
+{%- endmacro %}
+
 {% macro render_excerpt(res, class=None) -%}
 {% refer to res.url as post %}
 <article {{'class='~class if class }}>

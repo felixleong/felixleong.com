@@ -1,4 +1,4 @@
-{% from "macros.j2" import render_nav with context %}
+{% from "macros.j2" import full_site_url, render_nav with context %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>{% block title -%}{{ resource.meta.blog_title }} | {{ resource.meta.blog_description }}{%- endblock title %}</title>
@@ -6,7 +6,7 @@
     <meta name="robots" content="index, follow">
     <link rel="stylesheet" type="text/css" media="all" href="{{ media_url('css/reset.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ media_url('style.css') }}" media="screen" />
-    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ context_url('feed.html') }}" />
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ full_site_url(resource, 'blog/feed.xml') }}" />
     <!--[if IE 6]>
     <script type="text/javascript" src="{{ media_url('js/pngfix.js') }}"></script>
     <script type="text/javascript" src="{{ media_url('js/menu.js') }}"></script>
@@ -39,7 +39,7 @@
           <h1>{{ resource.meta.blog_title }}</h1>
           <h2>{{ resource.meta.blog_description }}</h2>
 
-          <a href="{{ site.full_url('') }}" title="Mainstream">
+          <a href="{{ full_site_url(resource, '/') }}" title="Mainstream">
             <img src="{{ media_url('images/logo.png') }}" alt="Mainstream Logo">
           </a>
         </div><!-- /#logo -->
@@ -62,12 +62,10 @@
           {% block teaser %}{% endblock teaser %}
 
           <div id="content{{ ' full-width' if full_width }}">{% block main %}{% endblock main %}</div><!-- /#content -->
-
             {% block sidebar %}
             {% include "sidebar.j2" %}
             {% endblock sidebar %}
             <div class="clear"></div>
-
           </div><!-- /#inside -->
         </div><!-- /#main -->
 
