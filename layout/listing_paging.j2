@@ -1,23 +1,24 @@
 {% extends "base.j2" %}
 
 {% block main -%}
+<section class="posts">
 {% for res in resource.page.posts %}
-<article class="post">
-<h2 class="title"><a href="{{ content_url(res.url) }}" title="{{ res.meta.title }}">{{ res.meta.title }}</a></h2>
+<article class="post" itemscope="" itemtype="http://schema.org/BlogPosting">
+<h2 class="title" itemprop="name headline"><a href="{{ content_url(res.url) }}" title="{{ res.meta.title }}" itemprop="url">{{ res.meta.title }}</a></h2>
 
 <div class="meta">
-  <div>Posted <abbr class="timeago" title="{{ res.meta.created.strftime('%Y-%m-%dT%H:%M:%S+0800') }}"></abbr> on <time datetime="{{ res.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ res.meta.created.strftime('%d %b %Y') }}</time></div>
+  <div>Posted <abbr class="timeago" title="{{ res.meta.created.strftime('%Y-%m-%dT%H:%M:%S+0800') }}"></abbr> on <time datetime="{{ res.meta.created.strftime('%Y-%m-%d') }}" class="date" itemprop="datePublished">{{ res.meta.created.strftime('%d %b %Y') }}</time></div>
   {% from "macros.j2" import render_share_button with context %}
   {{ render_share_button(res) }}
 </div>
 
-<div class="entry">
+<div class="entry" itemprop="articleBody">
 {% refer to res.url as article -%}
 {{ article.post|markdown|typogrify }}
 </div>
 
 {% if res.meta.tags %}
-<div class="tags">
+<div class="tags" itemprop="keywords">
 Tags:
 {% for tag in res.meta.tags %}
 <a href="{{ content_url('blog/tags/'~tag~'.html') }}" rel="tag">{{ tag }}</a> 
@@ -26,6 +27,7 @@ Tags:
 {% endif %}
 </article><!-- /.post -->
 {% endfor %}
+</section>
 
 <nav class="pagenavi">
 <a class="next{{' disabled' if not resource.page.next }}"

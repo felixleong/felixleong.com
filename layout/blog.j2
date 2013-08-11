@@ -5,19 +5,19 @@
 {%- endblock title %}
 
 {% block main -%}
-<article class="post">
-<h2 class="title">
-    <a title="{{ resource.meta.title|default(resource.meta.title) }}" href="{{ content_url(resource.url) }}">
+<article class="post" itemscope="" itemtype="http://schema.org/BlogPosting">
+<h2 class="title" itemprop="name headline">
+    <a title="{{ resource.meta.title|default(resource.meta.title) }}" href="{{ content_url(resource.url) }}" itemprop="url">
         {{ resource.meta.title }}
     </a>
 </h2>
 <div class="meta">
-  <div>Posted <abbr class="timeago" title="{{ resource.meta.created.strftime('%Y-%m-%dT%H:%M:%S+0800') }}"></abbr> on <time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date">{{ resource.meta.created.strftime('%d %b %Y') }}</time></div>
+  <div>Posted <abbr class="timeago" title="{{ resource.meta.created.strftime('%Y-%m-%dT%H:%M:%S+0800') }}"></abbr> on <time datetime="{{ resource.meta.created.strftime('%Y-%m-%d') }}" class="date" itemprop="datePublished">{{ resource.meta.created.strftime('%d %b %Y') }}</time></div>
   {% from "macros.j2" import render_share_button with context %}
   {{ render_share_button(resource) }}
 </div>
 
-<div class="entry">
+<div class="entry" itemprop="articleBody">
 {% filter markdown|typogrify -%}
 {% mark post -%}
 {% block post -%}{%- endblock %}
@@ -26,7 +26,7 @@
 </div>
 
 {% if resource.meta.tags %}
-<div class="tags">
+<div class="tags" itemprop="keywords">
 Tags:
 {% for tag in resource.meta.tags %}
 <a href="{{ content_url('blog/tags/'~tag~'.html') }}" rel="tag">{{ tag }}</a> 
