@@ -7,9 +7,10 @@ Pygments==1.6
 commando==0.3.4
 fswrap==0.1.1
 hyde==0.8.7
-oEmbed==0.1.1
 paramiko==1.11.0
 pycrypto==2.6
+-e git+https://github.com/felixleong/python-markdown-oembed.git@master#egg=python_markdown_oembed-dev
+python-oembed==0.2.1
 slugify==0.0.1
 smartypants==1.6.0.3
 typogrify==2.0.0

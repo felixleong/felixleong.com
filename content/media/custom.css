@@ -11,6 +11,12 @@ pre {
         border: none;
     }
 
+/* General components */
+.footnote-ref {
+    vertical-align: super;
+    font-size: 65%;
+}
+
 /* Archive page */
 .archives .post time {
     display: inline-block;
