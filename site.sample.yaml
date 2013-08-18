@@ -106,3 +106,11 @@ markdown:
                     endpoint: http://www.slideshare.net/api/oembed/2
                     urlpatterns:
                         - http://slideshare.net/*
+# publisher:
+#     default:
+#         type: hyde.ext.publishers.ssh.SSH
+#         username:  # Add your user name here
+#         server:  # Server
+#         target:  # Target directory
+#         command: rsync
+#         opts: --delete -pthrvz --checksum
