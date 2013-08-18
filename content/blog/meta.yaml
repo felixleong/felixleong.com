@@ -1,4 +1,3 @@
 extends: blog.j2
 default_block: post
 listable: true
-uses_template: true

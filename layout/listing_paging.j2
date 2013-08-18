@@ -1,6 +1,8 @@
 {% extends "base.j2" %}
 
 {% block main -%}
+{# We will be importing some convenience function as macros for blog posts :) #}
+{% from "macros.j2" import embed_image %}
 <section class="posts">
 {% for res in resource.page.posts %}
 <article class="post" itemscope="" itemtype="http://schema.org/BlogPosting">

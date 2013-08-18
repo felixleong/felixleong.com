@@ -1,4 +1,6 @@
 {% extends "base.j2" %}
+{# We will be importing some convenience function as macros for blog posts :) #}
+{% from "macros.j2" import embed_image %}
 
 {% block title -%}
 {{ resource.meta.title }} | {{ resource.meta.blog_title }}

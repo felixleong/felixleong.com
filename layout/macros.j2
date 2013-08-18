@@ -18,7 +18,7 @@
 </article>
 {%- endmacro %}
 
-{% macro embed_image(src, alt=None, width=None, height=None, caption=None, href=None) -%}
+{% macro embed_image(src, width=None, height=None, alt=None, caption=None, href=None) -%}
 <figure>
 {% if href %}
 <a href="{{ href }}" title="{{ alt }}">
@@ -29,7 +29,8 @@
 {% if href %}
 </a>
 {% endif %}
-{% if caption %}<figcaption>{{ caption }}</figcaption>{% endif %}
+{% if caption %}<figcaption>{{ caption }}</figcaption>
+{% elif alt %}<figcaption>{{ alt }}</figcaption>{% endif %}
 </figure>
 {%- endmacro %}
 
@@ -80,4 +81,3 @@
 </ul>
 {%- endif %}
 {%- endmacro %}
-

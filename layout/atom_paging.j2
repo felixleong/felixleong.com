@@ -1,5 +1,7 @@
-{% from "macros.j2" import full_site_url, render_excerpt, render_post with context %}
 <?xml version="1.0" encoding="utf-8"?>
+{% from "macros.j2" import full_site_url, render_excerpt, render_post with context %}
+{# We will be importing some convenience function as macros for blog posts :) #}
+{% from "macros.j2" import embed_image %}
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>
         {% block title -%}{{ feed_title|default(resource.meta.blog_title) }}{%- endblock %}

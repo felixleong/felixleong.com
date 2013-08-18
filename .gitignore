@@ -1,5 +1,8 @@
-deploy
 .hyde_deps
 fabfile.py
 site.yaml
-content/blog/tags
+
+/content/blog/tags
+/*-dev
+/drafts
+/deploy

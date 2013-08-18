@@ -9,8 +9,6 @@ plugins:
     - hyde.ext.plugins.meta.TaggerPlugin
     - hyde.ext.plugins.structure.PaginatorPlugin
     # The plugins above must be loaded in fixed order
-    - hyde.ext.plugins.text.SyntextPlugin
-    - hyde.ext.plugins.text.TextlinksPlugin
     - hyde.ext.plugins.urls.UrlCleanerPlugin
 context:
     data:
