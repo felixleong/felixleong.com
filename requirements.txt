@@ -1,17 +1,18 @@
-Fabric==1.7.0
-Jinja2==2.7
+Fabric==1.8.0
+Jinja2==2.7.1
 Markdown==2.3.1
 MarkupSafe==0.18
 PyYAML==3.10
 Pygments==1.6
 commando==0.3.4
-fswrap==0.1.1
-hyde==0.8.7
-paramiko==1.11.0
-pycrypto==2.6
--e git+https://github.com/felixleong/python-markdown-oembed.git@master#egg=python_markdown_oembed-dev
+ecdsa==0.10
+fswrap==0.1.2
+hyde==0.8.8
+paramiko==1.12.0
+pycrypto==2.6.1
+-e git+https://github.com/felixleong/python-markdown-oembed.git@c87042dbf64255be3b172376b54f84664863b6c1#egg=python_markdown_oembed-master
 python-oembed==0.2.1
 slugify==0.0.1
-smartypants==1.6.0.3
+smartypants==1.7.1
 typogrify==2.0.0
 wsgiref==0.1.2
