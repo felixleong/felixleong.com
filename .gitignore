@@ -1,8 +1,8 @@
-.hyde_deps
-fabfile.py
-site.yaml
+# Ruby dependencies
+/.bundle/
+/bin/
+/vendor/bundle/
 
-/content/blog/tags
-/*-dev
-/drafts
-/deploy
+# Generated output
+.sass-cache/
+/output/
