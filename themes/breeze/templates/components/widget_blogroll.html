@@ -1,0 +1,11 @@
+<div class="widget widget-blogroll">
+  <h6>{{ BLOGROLL_TITLE|default('Blog Roll') }}</h6>
+  <ul>
+    {% for title, url, desc in LINKS %}
+    <li>
+      <a href="{{ url }}">{{ title }}</a>
+      <p class="desc">{{ desc }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

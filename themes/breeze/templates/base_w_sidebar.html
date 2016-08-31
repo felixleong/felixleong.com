@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block layout_content_container %}
+<div class="content col-md-8 col-sm-12">
+  <!--Body content-->
+  <div class="row">
+    {% block content %}{% endblock %}
+  </div>
+  <!--End of body content-->
+</div>
+
+<!-- Sidebar -->
+<div class="sidebar  col-md-4  col-sm-12">
+  <!-- Author widget -->
+  <div class="widget-box">
+    {% include "components/widget_author.html" %}
+  </div>
+
+  <!-- Highlight reel -->
+  <div class="widget-box">
+    {% include "components/widget_categories.html" %}
+    {% include "components/widget_recent_posts.html" %}
+    {% include "components/widget_blogroll.html" %}
+  </div>
+</div><!-- /.sidebar -->
+{% endblock %}

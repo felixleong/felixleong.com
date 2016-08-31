@@ -1,0 +1,114 @@
+{% import 'components/nav_helper.html' as nav_helper with context %}
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  {% block head %}
+    <title>{% block title %}Home{% endblock title %} | {{ SITENAME }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/favicon.png" rel="shortcut icon">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/css-social-buttons/1.2.0/css/zocial.min.css" />
+    {% assets filters="compass,cssmin", output="css/style.min.css", "sass/style.scss" %}
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ ASSET_URL }}" />
+    {% endassets %}
+
+    <!-- Javascripts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    {% assets filters="rjsmin", output="js/script.js", "js/bootstrap/dropdown.js", "js/bootstrap/collapse.js" %}
+    <script type="text/javascript" src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
+    {% endassets %}
+
+    <!-- Feed -->
+    {% if FEED_ALL_ATOM %}
+      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+    {% endif %}
+    {% if FEED_ATOM %}
+      <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+    {% endif %}
+    {% if FEED_RSS %}
+      <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+    {% endif %}
+
+    <!-- Category/Tag feed -->
+    {% if CATEGORY_FEED_ATOM and category %}
+      <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+    {% endif %}
+    {% if CATEGORY_FEED_RSS and category %}
+      <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+    {% endif %}
+    {% if TAG_FEED_ATOM and tag %}
+      <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+    {% endif %}
+    {% if TAG_FEED_RSS and tag %}
+      <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+    {% endif %}
+  {% endblock head %}
+</head>
+
+<body vocab="https://schema.org/">
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+      <header class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{ SITEURL }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.png" alt="{{ SITENAME }}" height="70" /></a>
+      </header>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+        {{ nav_helper.menuitem_navitem() }}
+        {{ nav_helper.pages_navitem() }}
+        {{ nav_helper.category_navitem() }}
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+  <!-- /#menu -->
+
+  <!-- Actual content -->
+  <div class="container" id="content" role="main">
+    {% block layout_content_container %}
+    <div class="single-page content col-md-12 col-sm-12">
+      <!--Body content-->
+      {% block content %}{% endblock %}
+      <!--End of body content-->
+    </div>
+    {% endblock %}
+  </div>
+
+  <!-- Footer -->
+  <footer id="page-footer">
+    <div class="container">
+      <div class="col-sm-4">
+      {% include "components/widget_aboutus.html" %}
+      {% include "components/widget_social.html" %}
+      </div>
+
+      <div class="col-sm-4">
+      {% include "components/widget_navigation.html" %}
+      </div>
+
+      <div class="col-sm-4">
+      <!-- Reserved -->
+      </div>
+
+      <div class="copyright col-sm-12">
+      Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+      which takes great advantage of <a href="http://python.org">Python</a>.
+      Theme inspired by <a href="https://demo.proteusthemes.com/readable/#">Readable by Proteus Themes</a>.
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

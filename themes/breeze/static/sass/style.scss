@@ -1,0 +1,68 @@
+// Import Bootstrap Compass integration
+@import "compass";
+@import "bootstrap-compass";
+
+// Import custom Bootstrap variables
+@import "vars";
+
+// Import Bootstrap for Sass
+// Core variables and mixins
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+// Reset and dependencies
+@import "bootstrap/normalize";
+@import "bootstrap/print";
+@import "bootstrap/glyphicons";
+
+// Core CSS
+@import "bootstrap/scaffolding";
+@import "bootstrap/type";
+@import "bootstrap/code";
+@import "bootstrap/grid";
+@import "bootstrap/tables";
+@import "bootstrap/forms";
+@import "bootstrap/buttons";
+
+// Components
+@import "bootstrap/component-animations";
+@import "bootstrap/dropdowns";
+@import "bootstrap/navs";
+@import "bootstrap/navbar";
+@import "bootstrap/list-group";
+@import "bootstrap/media";
+@import "bootstrap/pager";
+@import "bootstrap/pagination";
+@import "bootstrap/responsive-embed";
+
+// Custom implementation
+@import "navbar";
+@import "footer";
+@import "post";
+@import "components/base";
+@import "components/widget_author";
+@import "components/widget_recent_posts";
+@import "components/widget_blogroll";
+
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 700;
+
+  a {
+    color: $brand-primary;
+
+    &:hover, &:visited {
+      color: darken($brand-primary, 15%);
+    }
+  }
+}
+h3 { font-weight: 300; }
+
+// Core blocks
+.post, .widget-box {
+  border: 1px solid $gray-lighter;
+  border-radius: $content-box-border-radius;
+  background: #fff;
+  margin-bottom: 2em;
+  padding: 1.2em;
+}
