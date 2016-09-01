@@ -1,5 +1,5 @@
 Title: How to Draw Eyes
-Date: 2008-12-25 05:44:44
+Date: 2008-12-25T05:44:44Z
 Category: Manga Tutorial
 page_order: 103
 

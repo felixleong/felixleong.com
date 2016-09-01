@@ -1,5 +1,5 @@
 Title: Manga Art Tutorial
-Date: 2008-12-24 19:30:42
+Date: 2008-12-24T19:30:42Z
 Category: Manga Tutorial
 Slug: manga-tutorial
 

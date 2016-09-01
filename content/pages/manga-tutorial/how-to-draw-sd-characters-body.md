@@ -1,5 +1,5 @@
 Title: How to Draw SD Characters: Body
-Date: 2008-12-25 02:32:09
+Date: 2008-12-25T02:32:09Z
 Category: Manga Tutorial
 page_order: 102
 

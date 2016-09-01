@@ -1,5 +1,5 @@
 Title: How to Draw Hair
-Date: 2008-12-25 06:19:36
+Date: 2008-12-25T06:19:36Z
 Category: Manga Tutorial
 page_order: 104
 

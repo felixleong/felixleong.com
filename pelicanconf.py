@@ -33,7 +33,10 @@ LINKS = (('Pelican', 'http://getpelican.com/', 'The static site generator'),
 # Social widget
 SOCIAL = (
     ('facebook', 'https://facebook.com/leongsh'),
-    ('twitter', 'https://twitter.com/felixleong'),)
+    ('twitter', 'https://twitter.com/felixleong'),
+    ('github', 'https://github.com/felixleong'),
+    ('bitbucket', 'https://bitbucket.org/felixleong'),
+)
 
 DEFAULT_PAGINATION = 10
 

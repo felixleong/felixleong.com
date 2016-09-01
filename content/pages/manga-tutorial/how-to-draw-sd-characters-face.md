@@ -1,5 +1,5 @@
 Title: How to Draw SD Characters: Face
-Date: 2008-12-24 20:33:17
+Date: 2008-12-24T20:33:17Z
 Category: Manga Tutorial
 page_order: 101
 
