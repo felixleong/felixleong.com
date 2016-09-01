@@ -1,6 +1,6 @@
-Title: How to Draw Hair
-Date: 2008-12-25T06:19:36Z
-Category: Manga Tutorial
+title: How to Draw Hair
+date: 2008-12-25T06:19:36Z
+category: Manga Tutorial
 page_order: 104
 
 ![Finished artwork]({filename}/images/2008/12/intro.jpg)

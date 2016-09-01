@@ -44,9 +44,9 @@ SUMMARY_MAX_LENGTH = 150
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+DEFAUT_CATEGORY = 'Uncategorized'
 USE_FOLDER_AS_CATEGORY = False
 DISPLAY_CATEGORIES_ON_MENU = False
-
 
 # URL routes
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}/'

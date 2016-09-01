@@ -1,6 +1,7 @@
-Title: 2013, The Tough Questions And The Calling
-Date: 2014-01-23T01:26:46Z
-Tags: annual-review, thoughts, life, career, introspection, love, motivation, self-improvement, relationships, future, adventures
+title: 2013, The Tough Questions And The Calling
+date: 2014-01-23T01:26:46Z
+category: Annual Review
+tags: annual-review, thoughts, life, career, introspection, love, motivation, self-improvement, relationships, future, adventures
 featured_image: http://farm4.staticflickr.com/3213/2595054303_4b0f1932c2.jpg
 featured_image_credit: lost by anjan58, Flickr
 featured_image_url: http://www.flickr.com/photos/anjan58/2595054303/

@@ -1,7 +1,7 @@
-Title: Manga Art Tutorial
-Date: 2008-12-24T19:30:42Z
-Category: Manga Tutorial
-Slug: manga-tutorial
+title: Manga Art Tutorial
+date: 2008-12-24T19:30:42Z
+category: Manga Tutorial
+slug: manga-tutorial
 
 Here are a collection of tutorials that I had written about drawing super deformed characters, which was previously published at [RPGamer's Fanart column](http://www.rpgamer.com/fanart/) back in 2002.
 

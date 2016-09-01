@@ -1,6 +1,6 @@
-Title: How to Draw Eyes
-Date: 2008-12-25T05:44:44Z
-Category: Manga Tutorial
+title: How to Draw Eyes
+date: 2008-12-25T05:44:44Z
+category: Manga Tutorial
 page_order: 103
 
 ![Male eyes sample]({filename}/images/2008/12/male.gif)
