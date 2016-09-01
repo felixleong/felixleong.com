@@ -1,7 +1,7 @@
 {% macro format_post(post, teasers=False, class_name='') %}
 <article class="post {{ class_name }} {% if post.featured_image %}featured{% endif %}" property="blogPost" typeof="BlogPosting" resource="post.html">
 <header>
-  <h2 property="headline" class="entry-title"><a href="{{ SITEURL }}/{{ post.url }}" property="url">{{ post.title }}</a></h2>
+  <h1 property="headline" class="entry-title"><a href="{{ SITEURL }}/{{ post.url }}" property="url">{{ post.title }}</a></h1>
 
   {% if post.featured_image %}
   <figure class="feature-box">

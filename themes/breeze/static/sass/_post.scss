@@ -1,33 +1,28 @@
 // Post details
 .post {
-  padding: 1.8em 1.2em !important;
+  padding: 1.8em 1.2em;
 
   // Entry title
   .entry-title { margin-top: 0; }
 
   // Featured box
   &.featured {
-    padding-top: 125px;
+    padding-top: 270px;
 
-    @media only screen and (min-width: $screen-md) {
-      padding-top: 200px;
-    }
+    @media only screen and (min-width: $screen-lg) { padding-top: 320px; }
 
     .feature-box {
-      max-height: 125px;
+      max-height: 250px;
       overflow: hidden;
-      margin-left: floor((-$grid-gutter-width/2 - 2px));
-      padding-right: $grid-gutter-width + 2;
+      margin-left: (-$grid-gutter-width/2 - 8px);
       position: absolute;
       top: 0;
       width: 100%;
 
-      @media only screen and (min-width: $screen-md) {
-        max-height: 200px;
-      }
+      @media only screen and (min-width: $screen-lg) { max-height: 300px; }
 
       img {
-        @include border-radius($content-box-border-radius);
+        @include border-radius($content-box-border-radius $content-box-border-radius 0 0);
         width: 100%;
       }
 
@@ -39,7 +34,7 @@
         font-size: 90%;
         padding: 0.7em 15px;
         position: absolute;
-        right: 32px;
+        right: 0;
 
         a, a:hover, a:active, a:visited {
           color: #fff;
@@ -81,6 +76,29 @@
     em {
       font-weight: 400;
       text-transform: lowercase;
+    }
+  }
+}
+
+
+// Modifications for single-page
+.single-page .post.featured {
+  &.featured {
+    padding-top: 220px;
+
+    @media only screen and (min-width: $screen-sm) { padding-top: 270px; }
+    @media only screen and (min-width: $screen-md) { padding-top: 320px; }
+    @media only screen and (min-width: $screen-lg) { padding-top: 420px; }
+
+    .feature-box {
+      padding-right: $grid-gutter-width;
+      max-height: 200px;
+
+      @media only screen and (min-width: $screen-sm) { max-height: 250px; }
+      @media only screen and (min-width: $screen-md) { max-height: 300px; }
+      @media only screen and (min-width: $screen-lg) { max-height: 400px; }
+
+      figcaption { right: $grid-gutter-width; }
     }
   }
 }
