@@ -21,7 +21,7 @@
 
           {% if dropdown %}
           <ul class="dropdown-menu">
-          {% for cp in p.children %}
+          {% for cp in p.children|sort(attribute='page_order') %}
           <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cp.url }}">{{ cp.title }}</a></li>
           {% endfor %}
           </ul>
