@@ -1,15 +1,10 @@
----
 title: Working Remotely
-created: !!timestamp "2012-01-26 23:42:52"
-tags:
-    - productivity
-    - life
-    - lifestyle-design
-    - self-improvement
-    - freelancing
----
-
-{% mark post %}<a href="http://www.wylio.com/credits/flickr/775701003" title="license: http://creativecommons.org/licenses/by-nd/2.0/ - click to view more info about 'coffee @ filter' or find free 'laptop coffee' pictures via Wylio"><img style="margin:0 10px" alt="'coffee @ filter' photo (c) 2007, ercwttmn - license: http://creativecommons.org/licenses/by-nd/2.0/" src="http://lh4.ggpht.com/-8O-5KgCG7xc/TyFHhdLR06I/AAAAAAAABU4/6K2QNLOBohY/Flickr-775701003.jpg" width="500" height="309"/></a>
+tags: productivity, life, lifestyle-design, self-improvement, freelancing
+date: 2012-01-26T23:42:52Z
+category: Life
+featured_image: http://lh4.ggpht.com/-8O-5KgCG7xc/TyFHhdLR06I/AAAAAAAABU4/6K2QNLOBohY/Flickr-775701003.jpg
+featured_image_credit: coffee @ filter by ercwttmn, Flickr
+featured_image_url: http://www.wylio.com/credits/flickr/775701003
 
 It's the fourth day of Chinese New Year: while the working classes are reporting back into their offices and started work, I'm still back with my parents. My laptop flipped open with the backlit display shining at me, my stationeries and notebook spread across the dining table among the containers of Chinese New Year snacks. I've made the dining table back home my remote office.
 
@@ -20,4 +15,4 @@ Working from my parents' place is one interesting experience: while having all t
 So far I'm able to iron out bugs from my website and I'm currently wrapping up a freelance project that I've been working for months -- something that I'm really looking forward to completing as I'd be able to take on other projects in the pipeline.
 
 So far so good. Now I just need to figure out a sure-fire way to get myself in the high-productivity zone as soon as possible.
-{% endmark %}
+

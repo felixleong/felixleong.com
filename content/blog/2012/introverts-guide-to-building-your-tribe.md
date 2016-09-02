@@ -1,15 +1,8 @@
----
 title: Introvert's Guide To Building Your Tribe
-created: !!timestamp "2012-05-02 18:06:25"
-tags:
-    - meetups
-    - mastermind-group
-    - leadership
-    - community
-    - talks
----
+tags: meetups, mastermind-group, leadership, community, talks
+date: 2012-05-02T18:06:25Z
 
-{% mark post %}For the past month, I've been giving two talks about my experience in organizing meetups. This is the first of the two talks given, titled **"Introvert's Guide to Starting Your Own Tribe"**.
+For the past month, I've been giving two talks about my experience in organizing meetups. This is the first of the two talks given, titled **"Introvert's Guide to Starting Your Own Tribe"**.
 
 In this talk, I share about why I believe having a tribe of fellow empowering individuals could change your life and I break down the process of how you form a mastermind group.
 
@@ -23,7 +16,7 @@ And yes, I greatly believe that introverts are awesome! :D
 
 ## Slidecast version (with live audio recording)
 
-![slides](http://slideshare.net/felixleong/introverts-guide-to-building-your-tribe)
+![slides](http://www.slideshare.net/felixleong/introverts-guide-to-building-your-tribe)
 
 ## Coming Soon
 
@@ -34,4 +27,4 @@ My second talk, **"The Big Bang Theory: Nine Steps To Build Your Meetup Empire"*
 I already had the slidecast version on Slideshare, but if you want a video version of it, please be patient since I need to edit the raw footage.
 
 If you have any feedback or questions, feel free to [reach out to me via Twitter](http://twitter.com/felixleong) or [Facebook](http://facebook.com/leongsh).
-{% endmark %}
+

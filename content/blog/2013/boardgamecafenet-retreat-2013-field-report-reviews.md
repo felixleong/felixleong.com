@@ -1,20 +1,9 @@
----
 title: BoardGameCafe.net Retreat 2013 Field Report & Reviews
-created: !!timestamp "2013-12-23 00:07:28"
-tags:
-    - boardgames
-    - hobby
-    - personal
-    - review
-    - lifestyle
-    - community
----
-
-{% mark post %}
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/1399710_10151765537766302_2024621622_o.jpg'),
-    512, 341,
-    "Welcome to Kin Tick Orchard Village") }}
+tags: boardgames, hobby, personal, review, lifestyle, community
+date: 2013-12-23T00:07:28Z
+category: Boardgaming
+featured_image: images/2013/bgcretreat2013/1399710_10151765537766302_2024621622_o.jpg
+featured_image_credit: Welcome to Kin Tick Orchard Village by Seh Hui
 
 As monsoon season looms around the west coast of Peninsular Malaysia, it's just the best time to stay indoors and lay comatose in front of a screen and passively consume what's showing in front of you. ... Or does it have to be so?
 
@@ -24,10 +13,7 @@ And what's were we all have in common? We all share our love for board games and
 
 ## Game Report and Review
 
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/1507499_10151774970211302_1733325835_o.jpg'),
-    512, 341,
-    "Let the games begin!") }}
+![Let the games begin!]({static}/images/2013/bgcretreat2013/1507499_10151774970211302_1733325835_o.jpg){: .img-responsive}
 
 Of course the main highlight of the day is of course, games! Tons of board games! :D During the retreat, all of us are part of a tournament that spans over five games: one to seed the teams, four more to gain dominance, reach for the crown and declare victorious -- ultimately winning a really cool prize. Each table are seated in fours and the moment the games start there's always the excitement of exploring a brand new game that we haven't played before, looking forward for a great time while the competitive spirit brews within our subconscious aiming for the prize.
 
@@ -35,10 +21,7 @@ Ultimately I didn't win anything, but I'm here to share my first impression of a
 
 ### Overture: [Gotta Go!](http://boardgamegeek.com/boardgame/123776/gotta-go)
 
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/1501087_10151765448266302_2130085282_o.jpg'),
-    512, 341,
-    "Mixing up the Gotta Go! cards") }}
+![Mixing up the Gotta Go! cards]({static}/images/2013/bgcretreat2013/1501087_10151765448266302_2130085282_o.jpg){: .img-responsive}
 
 Game 0 is the seeding round where all participants are playing short party or dexterity games to determine where players are seated.
 
@@ -50,10 +33,7 @@ It is quite a light and involved filler game and best enjoyed in large numbers (
 
 ### Game #1: [Africana](http://boardgamegeek.com/boardgame/118000/africana)
 
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/892791_10151767103286302_868255463_o.jpg'),
-    512, 341,
-    "Partial view of the Africana board") }}
+![Partial view of the Africana board]({static}/images/2013/bgcretreat2013/892791_10151767103286302_868255463_o.jpg){: .img-responsive}
 
 Kicking things off is a game about travelling around Africa, taking part in expeditions and trying to be the first to reach various destinations. And along the way you can also look through the Book of Adventures to get a pick up adventures to embark on in order to recruit helpers to help you in your expeditions or collect artefacts that are located there.
 
@@ -63,10 +43,7 @@ In the end, points are mostly awarded by the amount of expedition that you have 
 
 ### Game #2: [Byzantio](http://boardgamegeek.com/boardgame/98739/byzantio)
 
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/1522880_10151774994351302_1444193425_o.jpg'),
-    512, 341,
-    "World domination by deceit in Byzantio") }}
+![World domination by deceit in Byzantio]({static}/images/2013/bgcretreat2013/1522880_10151774994351302_1444193425_o.jpg){: .img-responsive}
 
 Byzantio is a hidden objective area control game of which you control your faction and making sure you control the support of the cities that would help you to ascend the imperial throne. At the beginning of the game, each of the players will be jotting down seven cities, each from different provinces, as their secret objectives of the cities that the player would vow to control. Cities are being assigned to reducing amount of points, which gives the player some indication of their own priorities. The map will be seeded with a Pretender to the Throne on fixed locations of the board.
 
@@ -84,10 +61,7 @@ Would highly recommend that the [unofficial note sheet from BoardGameGeek](http:
 
 ### Game #3: [Upon A Salty Ocean](http://boardgamegeek.com/boardgame/97273/upon-a-salty-ocean)
 
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/1511825_10151776686621302_637036028_o.jpg'),
-    512, 341,
-    "Upon A Salty Ocean -- A well-docked port, ships ready to sail") }}
+![Upon A Salty Ocean -- A well-docked port, ships ready to sail]({static}/images/2013/bgcretreat2013/1511825_10151776686621302_637036028_o.jpg){: .img-responsive}
 
 We ended the first day of our tournament with a economic game -- and we shall set sail to the sea, haul some fish home to be sold and participate in... carry trades for salt? What to expect when you are trying to build a shipping empire after all.
 
@@ -103,10 +77,7 @@ If there's one big caveat, it would be that first time players the sheer number 
 
 ### Intermission: [Coup](http://boardgamegeek.com/boardgame/131357/coup)
 
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/1492694_10151776724206302_1331411135_o.jpg'),
-    512, 341,
-    "Coup -- Hope that's not a nervous smile") }}
+![Coup -- Hope that's not a nervous smile]({static}/images/2013/bgcretreat2013/1492694_10151776724206302_1331411135_o.jpg){: .img-responsive}
 
 It's after 8 and after a sumptuous dinner and belting songs with new found friends with karaoke, it's back to some games again. All of us feel burnt-out by the long strategy game fest, so why not indulge in some lighter games instead?
 
@@ -158,10 +129,7 @@ And wow, what a great way to close out my BGC Retreat experience.
 
 ## Conclusion: The Obligatory Summary
 
-{{ embed_image(
-    media_url('/images/2013/bgcretreat2013/1492346_10151774971136302_1302706209_o.jpg'),
-    512, 341,
-    "Enjoying the view while we played") }}
+![Enjoying the view while we played]({static}/images/2013/bgcretreat2013/1492346_10151774971136302_1302706209_o.jpg){: .img-responsive}
 
 What a wonderful 24 hours that I've spent at Kin Tick, just to wrap up, here's my collection of lists and rankings about the retreat:
 
@@ -170,4 +138,4 @@ What a wonderful 24 hours that I've spent at Kin Tick, just to wrap up, here's m
 - **Favourite games played during the retreat**: Concordia, Upon A Salty Ocean, Bang The Dice Game
 - **Games that got into my wishlist after the retreat**: Concordia, Africana, Bang! The Dice Game
 - **Main suprise**: Not expecting myself to like Upon A Salty Ocean that much after the game
-{% endmark %}
+

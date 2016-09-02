@@ -1,22 +1,10 @@
----
 title: Building Up
-created: !!timestamp "2013-08-16 01:48:42"
-tags:
-    - technical
-    - tech
-    - python
-    - work
-    - career
-    - life
-    - talks
----
-
-{% mark post %}{{ embed_image(
-    "http://farm6.staticflickr.com/5100/5472660657_666ace48a6.jpg",
-    500, 500,
-    "Seedling by _sjg_, on Flickr",
-    "photo &copy; 2011 _sjg, Flickr",
-    "http://www.flickr.com/photos/_sjg_/5472660657/") }}
+tags: technical, tech, python, work, career, life, talks
+date: 2013-08-16T01:48:42Z
+category: Programming
+featured_image: http://farm6.staticflickr.com/5100/5472660657_666ace48a6.jpg
+featured_image_credit: Seedling by _sjg_, on Flickr
+featured_image_url: http://www.flickr.com/photos/_sjg_/5472660657/
 
 My journey in [Mindvalley](http://mindvalley.com/) is definitely an interesting one. When I first joined the company, I've been working on [CustomerHugs](http://customerhugs.com/) -- which is a web service for users to collect reviews and testimonials from Facebook users.
 
@@ -30,10 +18,7 @@ It was supposed to be a small project -- fixing a small pain point and move on t
 
 Ever since it is live on February with the launch of [Omvana](http://omvana.com/), it has been a very treacherous and rewarding adventure. Having to race against time to learn as much as I could, slaying all the mysterious bugs that plagues the service as well as dealing with the stress of receiving an SMS saying that the server is overloaded and cannot handle all the traffic we are getting.
 
-{{ embed_image(
-    media_url('/images/2013/cpu-month.png'),
-    497, 371,
-    "CPU usage chart - before and after panic period") }}
+![CPU usage chart - before and after panic period]({static}/images/2013/cpu-month.png){: .img-responsive}
 
 The part about receiving SMSes proves to be quite a stress tumour, in fact. It started off pretty benign -- the downtime would probably just last about three minutes and everything would work like magic again after that. As we start to gain traction and our marketing efforts for Omvana becoming more successful over time, the downtimes would occur several times in a day with each downtime lasts for at least 15-20 minutes.
 
@@ -66,4 +51,3 @@ And in terms of open source contributions, I've just recently push a fork to [dj
 Other than that, am really looking forward to all the things I'll be able to learn in months to come! :)
 
 [^1]: For the record it's still working and you can still sign up for a new account, but paying for zero support is something I won't vouch for. :p
-{% endmark %}

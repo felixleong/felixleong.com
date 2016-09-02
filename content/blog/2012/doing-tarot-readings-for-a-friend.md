@@ -1,21 +1,12 @@
----
 title: Doing Tarot Readings for a Friend
-created: !!timestamp "2012-02-03 02:20:10"
-tags:
-    - tarot
-    - life
-    - thoughts
-    - spiritual
----
+tags: tarot, life, thoughts, spiritual
+date: 2012-02-03T02:20:10Z
+category: Hobbies
+featured_image: http://farm1.staticflickr.com/103/252907153_abb5b4e125.jpg
+featured_image_credit: tarot reading by eran by fling93, Flickr
+featured_image_url: http://www.flickr.com/photos/fling93/252907153/
 
-{% mark post %}
-{{ embed_image(
-    "http://farm1.staticflickr.com/103/252907153_abb5b4e125.jpg",
-    500, 332,
-    "tarot reading by eran by fling93, on Flickr",
-    "photo &copy; 2006 fling93, Flickr",
-    "http://www.flickr.com/photos/fling93/252907153/") }}
-In the past, I did mentioned that I do [tarot reading](content/blog/2011/09/tarot-as-my-meditation-practice), mainly for meditative purpose and to seek guidance. I've been doing this practice only for my own benefit for the past eight years and it's until today that I actually do a reading for a friend.
+In the past, I did mentioned that I do [tarot reading]({filename}/blog/2011/tarot-as-my-meditation-practice.md), mainly for meditative purpose and to seek guidance. I've been doing this practice only for my own benefit for the past eight years and it's until today that I actually do a reading for a friend.
 
 Doing reading for her meant a big deal with me: there's always the nervousness that goes when I offer my skills to others for the first time and not knowing what to expect out of it. And the bigger fear that would be not knowing what expectations that I may need to address and the responsibility that comes with giving consultation and advice to others. Despite such doubts, I agreed to it almost instantly and embrace the opportunity.
 
@@ -34,4 +25,4 @@ There's one particular reading which I find confusing and I'm unable to decipher
 As we parted ways, I am glad that she told me that she finds it beneficial and gain clarity out of it. It's too early to tell the effects and I genuinely hope for the best and that she's able to sought out the answers she's looking for and take affirmative actions to achieve her goals.
 
 As for myself, it is a testing grounds for my intuitive capabilities and reminded me that I need to be aware of all the cues that my intuition is telling me. And honestly, I would love to do tarot readings for others next time on a pro-bono basis. Honestly, that one big world full of unknowns -- well, that'd be an adventure for another day :).
-{% endmark %}
+

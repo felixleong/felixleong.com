@@ -1,25 +1,10 @@
----
 title: 2012, When The Dots Starts To Connect
-created: !!timestamp "2013-01-13 00:40:39"
-tags:
-    - annual-review
-    - thoughts
-    - life
-    - career
-    - introspection
-    - love
-    - motivation
-    - self-improvement
-    - relationships
-    - future
----
-
-{% mark post %}{{ embed_image(
-    "http://farm4.staticflickr.com/3323/3456462252_d39e389c85.jpg",
-    500, 311,
-    "Saturate",
-    "photo &copy; 2009 Owen's, Flickr",
-    "http://www.flickr.com/photos/owenbushell/3456462252/") }}
+tags: annual-review, thoughts, life, career, introspection, love, motivation, self-improvement, relationships, future
+date: 2013-01-13T00:40:39Z
+category: Annual Review
+featured_image: http://farm4.staticflickr.com/3323/3456462252_d39e389c85.jpg
+featured_image_credit: Saturate by owenbushell, Flickr
+featured_image_url: http://www.flickr.com/photos/owenbushell/3456462252/
 
 Oh wait, it's been more than six months since the last [My Pastel Coloured Rainbow][coming-out] post? Wow... seems like the blogging habit is starting to wear off from me. For one I'm starting to spend time away from the computer, go out and explore new activities. And when I have something to blog about, they are short snippets of thoughts that I ended up posting on Twitter and Facebook instead of writing short posts that I used to label them as "impromptu posts". We'll get to the meats and potatoes of what has happened in the year 2012 in a second.
 
@@ -45,12 +30,9 @@ To me, this is what 2012 means to me -- and having "network" as my operating key
 
 ### Highlight #1: The Booming Meetup Scene in KL
 
-{{ embed_image(
-    "https://lh6.googleusercontent.com/-z6ZBBQ-I4W0/UPINvpqV9KI/AAAAAAAACcM/QeklBBfx9u0/s400/523370_10150760112619540_471733573_n.jpg",
-    500, 310,
-    "Full-house at Webcamp KL February 2012",
-    "photo &copy; 2012 Danny Foo",
-    "https://picasaweb.google.com/lh/photo/mTehdeCu8Bniy6GImbj1CBsdbnvrAewDgZd5wKWjLjg?feat=directlink") }}
+[
+  ![Full-house at Webcamp KL February 2012 by Danny Foo](https://lh6.googleusercontent.com/-z6ZBBQ-I4W0/UPINvpqV9KI/AAAAAAAACcM/QeklBBfx9u0/s400/523370_10150760112619540_471733573_n.jpg){: .img-responsive}
+](https://picasaweb.google.com/lh/photo/mTehdeCu8Bniy6GImbj1CBsdbnvrAewDgZd5wKWjLjg?feat=directlink)
 
 [Webcamp KL][webcampkl] started February with a bang as we couldn't even fit the 170+ attendees in the Hall of Awesomeness at [Mindvalley][mindvalley] -- it's a breathtaking testament of a growing community in Malaysia. And throughout the whole year, [Wu Han][ngeow] is still the charismatic and diligent organizer and host, Mindvalley being gracious to allow us to use the hall for events and [MediaSaya][mediasaya] continues to generously livestream the event and post Youtube videos of the talks.
 
@@ -77,12 +59,9 @@ Other than that, am enjoying my work -- in fact that it's the first time that I'
 
 ### Highlight #3: Forging New Friendships
 
-{{ embed_image(
-    "https://lh5.googleusercontent.com/-sttC9nv02PQ/UPISC1Z_xUI/AAAAAAAACdE/u0FRSAn2xu8/s400/c345ccf5af08544d2e7b125bcdbd11ad9.jpg",
-    400, 300,
-    "The HAPPY Crew",
-    "photo &copy; 2012 The HAPPY Crew",
-    "https://picasaweb.google.com/lh/photo/I7FQtu0vdz1E1z-qpJBUdxsdbnvrAewDgZd5wKWjLjg?feat=directlink") }}
+[
+  ![The HAPPY Crew](https://lh5.googleusercontent.com/-sttC9nv02PQ/UPISC1Z_xUI/AAAAAAAACdE/u0FRSAn2xu8/s400/c345ccf5af08544d2e7b125bcdbd11ad9.jpg){: .img-responsive}
+](https://picasaweb.google.com/lh/photo/I7FQtu0vdz1E1z-qpJBUdxsdbnvrAewDgZd5wKWjLjg?feat=directlink)
 
 There is one major side effect in being an active participant in meetups -- having more friends. With the two mastermind groups, every week is an inspiring week seeing everyone in the group do something and grow in the process, and the weekly discussions often gives me fresh perspective and ideas to work on.
 
@@ -106,12 +85,9 @@ Well, that's something that I would need to sort out -- after all, I have unknow
 
 ## Things to Look Forward to in 2013
 
-{{ embed_image(
-    "http://farm8.staticflickr.com/7178/6936756228_f976657918.jpg",
-    500, 500,
-    "Expansive",
-    "photo &copy; 2012 dirty black chucks, Flickr",
-    "http://www.flickr.com/photos/dirty_black_chucks/6936756228/") }}
+[
+  ![Expansive by dirty black chucks, Flickr](http://farm8.staticflickr.com/7178/6936756228_f976657918.jpg){: .img-responsive}
+](http://www.flickr.com/photos/dirty_black_chucks/6936756228/)
 
 As I was writing this, I'm in the middle of packing up my stuff in preparation to move in with my sister's place -- which marks a series of life changes that am looking forward to for the year.
 
@@ -125,12 +101,9 @@ Last but not least, the one part in life that I'm the most comfortable in and ye
 
 ## Wrapping up: Three Guiding Keywords/Themes for 2013
 
-{{ embed_image(
-    "http://farm5.staticflickr.com/4082/4929302647_b909aafa8f.jpg",
-    500, 400,
-    "Archery World Cup",
-    "photo &copy; 2010 IntelGuy, Flickr",
-    "http://www.flickr.com/photos/9242564@N07/4929302647/") }}
+[
+  ![Archery World Cup by IntelGuy, Flickr](http://farm5.staticflickr.com/4082/4929302647_b909aafa8f.jpg){: .img-responsive}
+](http://www.flickr.com/photos/9242564@N07/4929302647/)
 
 Following last year's tradition, instead of setting goals I'm going for [the three words framework used by Chris Brogan][chris-three-words]. I was first exposed to that concept by [Jonathan Field's post "Oh The Places You Will Go"][jonathan-life-planning]. I find this to be a more holistic approach and doesn't feel constrained by it.
 
@@ -167,4 +140,4 @@ With that, Seh Hui signing out, [DFTBA (Don't forget to be awesome)][dftba]!
 [pamslim]: http://escapefromcubiclenation.com/
 [2011-review]: http://felixleong.com/blog/2012/01/2011-the-year-of-love
 [dftba]: http://nerdfighters.ning.com/
-{% endmark %}
+

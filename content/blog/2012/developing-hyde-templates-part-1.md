@@ -1,19 +1,10 @@
----
-title: "Developing Hyde Templates - Part 1"
-created: !!timestamp "2012-01-30 02:29:01"
-tags:
-    - programming
-    - technical
-css_files:
-    - pygments.css
----
-{% mark post %}
-{{ embed_image(
-    "http://farm4.staticflickr.com/3096/3489966856_f7a772e3e1.jpg",
-    500, 380,
-    "Just Me... by Jerry, on Flickr",
-    "photo &copy; 2009 way2go, Flickr",
-    "http://www.flickr.com/photos/way2go/3489966856/") }}
+title: Developing Hyde Templates - Part 1
+tags: programming, technical
+css_files: ['pygments.css']
+date: 2012-01-30T02:29:01Z
+featured_image: http://farm4.staticflickr.com/3096/3489966856_f7a772e3e1.jpg
+featured_image_credit: Just Me... by Jerry, Flickr
+featured_image_url: http://www.flickr.com/photos/way2go/3489966856/
 
 Let's see... it's been close to three weeks I've migrated this blog from Wordpress to [Hyde](http://github.com/hyde/hyde). And ever since then I have been constantly fixing bugs in my template.
 
@@ -33,20 +24,18 @@ This is easily achieved by using template inheritance using the `extends` featur
 
 In base.j2, you can define blocks where your child template can override with their content. For example:
 
-{% filter syntax('jinja') -%}{{ '
-<title>{% block title -%}My Take In Life{%- endblock title %}</title>
-' }}{%- endfilter %}
+    :::jinja
+    <title>{% block title -%}My Take In Life{%- endblock title %}</title>
 
 And creating a child template is as easy as extending from the base template. For example:
 
-{% filter syntax('jinja') -%}
-{{ '{%' }} extends "base.js" {{ '%}' }}
-{{ '
-{# This will override the "title" block in base.j2 #}
-{% block title -%}
-  {{ res.meta.title }} | My Take In Life
-{%- endblock title %}
-' }}{%- endfilter %}
+    :::jinja
+    {{ '{%' }} extends "base.js" {{ '%}' }}
+    {{ '
+    {# This will override the "title" block in base.j2 #}
+    {% block title -%}
+      {{ res.meta.title }} | My Take In Life
+    {%- endblock title %}
 
 Once you have those templates, you can specify which template you'd want to use for a particular page in the metadata:
 
@@ -78,7 +67,7 @@ I really love MetaPlugin, where you can specify metadata in YAML format for each
     default_block: post
     ---
 
-    {% mark post %}Content here...{% endmark %}
+    Content here...
 
 As you would notice, you can use Jinja2 templating syntax here as well and it'll work -- great when you want to use Jinja2 text filters.
 
@@ -98,9 +87,8 @@ In my current implementation, base.j2 uses the following partial templates:
 
 Once you have written your partial templates, you just drop it in your main template file with the `include` syntax:
 
-{% filter syntax('jinja') -%}{{ '
-{% include "analytics.j2" %}
-' }}{%- endfilter %}
+    :::jinja
+    {% include "analytics.j2" %}
 
 ## Dynamic, Reusable Components with Macros
 
@@ -112,37 +100,34 @@ Writing the same snippet as a partial template would be a big mess of conditiona
 
 To define a macro, all you need to do is to define the macro at the top of the page. And invoking a macro is similar to calling a Python function. For example:
 
-{% filter syntax('jinja') -%}{{ '
-{% macro render_share_button(res) %}
-  {% if res.meta.enable_sharing -%}
-    <a href="https://twitter.com/share"
-        class="twitter-share-button"
-        data-url="{{ full_site_url(res) }}"
-        data-text="{{ res.meta.title }}"
-        data-via="felixleong"
-        data-related="felixleong">Tweet</a>
-    <div class="fb-like"
-        data-href="{{ full_site_url(res) }}"
-        data-send="false"
-        data-width="450"
-        data-show-faces="false"></div>
-  {%- endif %}
-{% endmacro %}
+    :::jinja
+    {% macro render_share_button(res) %}
+      {% if res.meta.enable_sharing -%}
+        <a href="https://twitter.com/share"
+            class="twitter-share-button"
+            data-url="{{ full_site_url(res) }}"
+            data-text="{{ res.meta.title }}"
+            data-via="felixleong"
+            data-related="felixleong">Tweet</a>
+        <div class="fb-like"
+            data-href="{{ full_site_url(res) }}"
+            data-send="false"
+            data-width="450"
+            data-show-faces="false"></div>
+      {%- endif %}
+    {% endmacro %}
 
-{# Calling the macro #}
-<div class="postmeta">{{ render_share_button(resource) }}</div>
-' }}{%- endfilter %}
+    {# Calling the macro #}
+    <div class="postmeta">{{ render_share_button(resource) }}</div>
 
 If you want to invoke a macro that's defined in a separate template file, you'll need to import it first. For example:
 
-{% filter syntax('jinja') -%}{{ '
-{% from "macros.j2" import render_share_button with context %}
-{{ render_share_button(resource) }}
-' }}{%- endfilter %}
+    :::jinja
+    {% from "macros.j2" import render_share_button with context %}
+    {{ render_share_button(resource) }}
 
 ## To Be Continued...
 
 Well, this wraps up the broad strokes of modular template development for Hyde. I'll be covering some of the more exciting theme development tricks in the next instalment: like generating tag cloud and great ways of using metadata and more.
 
 Stay tuned!
-{% endmark %}

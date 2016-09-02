@@ -1,21 +1,10 @@
----
 title: My Pastel Coloured Rainbow
-created: !!timestamp "2012-05-07 01:24:50"
-tags:
-    - lgbt
-    - relationships
-    - love
-    - life
-    - thoughts
-    - introspection
----
-
-{% mark post %}{{ embed_image(
-    "http://farm5.staticflickr.com/4056/4548535977_e226bde025.jpg",
-    500, 310,
-    "Rainbow",
-    "photo &copy; 2010 m-a-s-h-i-m-a-r-o, Flickr",
-    "http://www.flickr.com/photos/25375908@N04/4548535977/") }}
+tags: lgbt, relationships, love, life, thoughts, introspection
+date: 2012-05-07T01:24:50Z
+category: Life
+featured_image: http://farm5.staticflickr.com/4056/4548535977_e226bde025.jpg
+featured_image_credit: Rainbow by m-a-s-h-i-m-a-r-o, Flickr
+featured_image_url: http://www.flickr.com/photos/25375908@N04/4548535977/
 
 For context and getting the pink elephant out of the room: I am gay, albeit a closeted one in real life -- hence the rainbow reference in the title. And this is about a new pledge for myself to take the necessary steps to come out from the closet and manning up should anything bad comes my way.
 
@@ -25,11 +14,11 @@ Up till now, I have been adopting the "don't ask, don't tell" policy about the f
 
 And such a pessimistic outlook got me into forcing myself to be fiercely independent and be very motivated in my own career as a means to mitigate such a possibility. At least in my mind, so long as I can be financial independent from my family, at least I got more control over my own life.
 
-The only escape I had till now has been my blog which I've divulged about [my thoughts about my struggles to come to terms with my sexuality](http://felixleong.com/blog/2004/04/todays-drifting-thoughts-the-stupid-security-issue-again) and grieving over the string of unfruitful crushes towards straight men. And even that I've ended up censoring my words and speaking in codes over time.
+The only escape I had till now has been my blog which I've divulged about [my thoughts about my struggles to come to terms with my sexuality]({filename}/blog/2004/todays-drifting-thoughts-the-stupid-security-issue-again.md) and grieving over the string of unfruitful crushes towards straight men. And even that I've ended up censoring my words and speaking in codes over time.
 
 ## The Slow Death Inside
 
-Time to [upholding my pledge to end self-censoring](http://felixleong.com/blog/2011/03/the-end-of-self-censoring).
+Time to [upholding my pledge to end self-censoring]({filename}/blog/2011/the-end-of-self-censoring.md).
 
 After more than a decade staying in the closet and avoiding from being identified as a gay individual had some really dire consequences -- the fact that I got really good at avoiding such attention means that zero romantic encounters with potential gay partners and getting myself tangled in the whole recurring pattern of falling for straight guys.
 
@@ -52,4 +41,4 @@ And yes, I'm actively seeking out a potential life partner -- though I'm really 
 Or maybe I should start to ask my friends to find me a bear? :p
 
 And with that, this is my first step going *way beyond* my comfort zone.
-{% endmark %}
+

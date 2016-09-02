@@ -1,12 +1,9 @@
----
 title: Hooking Bitbucket Up With Jenkins
-created: !!timestamp "2012-02-15 19:16:36"
-tags:
-    - technical
-    - programming
----
+tags: technical, programming
+category: Programming
+date: 2012-02-15T19:16:36Z
 
-{% mark post %}Previously I've blogged about [automating Hyde deployment with Jenkins](/blog/2012/01/workflow-and-tools-to-maintain-a-hyde-blog-featuring-jenkins) and I'm prety much hooked with the idea of doing automated deployment and [continuous integration](http://en.wikipedia.org/wiki/Continuous_integration) in the future.
+Previously I've blogged about [automating Hyde deployment with Jenkins]({filename}/blog/2012/workflow-and-tools-to-maintain-a-hyde-blog-featuring-jenkins.md) and I'm prety much hooked with the idea of doing automated deployment and [continuous integration](http://en.wikipedia.org/wiki/Continuous_integration) in the future.
 
 Now as much as I loved [Github](http://github.com/), [Bitbucket](http://bitbucket.org/) is where I store all my private repository at -- after all, you can't beat the notion that it allows you to have private repositories even with free accounts :). So, with my blog stuff hosted at Github and my other stuff hosted with Bitbucket, some configuration changes are needed.
 
@@ -48,4 +45,3 @@ After [reading the documentation](http://confluence.atlassian.com/display/BITBUC
 If you want more details on how the Bitbucket's service broker for Jenkins is implemented, [Jesper Noehr](http://noehr.org) have posted the [the actual service broker code](http://paste.pocoo.org/show/iSvLXJTMnZFAFDrpWKw0/) in [Bitbucket's Issue Tracker](https://bitbucket.org/site/master/issue/3532/jenkins-service-does-not-work-with-secured).
 
 ... and dang, this is a long article -- I'd really love to redo this as a webcast next time. :) Anyway, hope you'd find it useful!
-{% endmark %}

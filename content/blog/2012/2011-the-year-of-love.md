@@ -1,19 +1,11 @@
----
 title: 2011, The Year of Love
-created: !!timestamp "2012-01-15 00:34:00"
-tags:
-    - life
-    - career
-    - future
-    - introspection
-    - love
-    - motivation
-    - relationships
-    - self-improvement
-    - thoughts
----
+tags: life, career, future, introspection, love, motivation, relationships, self-improvement, thoughts
+date: 2012-01-15T00:34:00Z
+featured_image: http://lh5.ggpht.com/-8LrlIcrDnOQ/TxGgC4AMk2I/AAAAAAAABUs/lCLBVqDEl_k/Flickr-5913998299.jpg
+featured_image_credit: Secret Waterfalls Heavenly Sunbeam by Forest Wander, Flickr
+featured_image_url: http://www.wylio.com/credits/flickr/5913998299
 
-{% mark post %}Continuing the tradition of reviewing the year that had past and setting resolutions and a new tone for the new year, this year would probably be my busiest, most exciting and yet the least documented year. And yes, my blog is almost totally neglected last year. For this post, I dug through my memory bank and recount the details of the past – well, it's alway better having that than not writing about some of the issues at all.
+Continuing the tradition of reviewing the year that had past and setting resolutions and a new tone for the new year, this year would probably be my busiest, most exciting and yet the least documented year. And yes, my blog is almost totally neglected last year. For this post, I dug through my memory bank and recount the details of the past – well, it's alway better having that than not writing about some of the issues at all.
 
 ### The TL;DR (Too Long; Didn't Read) Highlights of 2011 As I Experienced It
 
@@ -28,8 +20,6 @@ Just to set up the context of the whole blog post, here's the list of things tha
 - A two-week visit to Australia and falling in love with Melbourne
 - [Donated a significant portion of my library to Fluentspace](/blog/2011/06/purging-treasured-possessions)
 - [Found the man of my dreams](/blog/2011/08/seeing-you-again), and [am gravely disappointed that the feeling was not reciprocated](/blog/2011/11/the-thing-called-love)
-
-<a href="http://www.wylio.com/credits/flickr/5913998299" title="license: http://creativecommons.org/licenses/by-sa/2.0/ - click to view more info about 'Secret Waterfalls Heavenly Sunbeam' or find free 'secrets' pictures via Wylio"><img style="margin:0 10px" alt="'Secret Waterfalls Heavenly Sunbeam' photo (c) 2011, Forest Wander - license: http://creativecommons.org/licenses/by-sa/2.0/" src="http://lh5.ggpht.com/-8LrlIcrDnOQ/TxGgC4AMk2I/AAAAAAAABUs/lCLBVqDEl_k/Flickr-5913998299.jpg" width="500" height="333"/></a>
 
 ### The Nitty Gritty Details (and probably too much information to some)
 
@@ -56,7 +46,9 @@ I can recall all my past nine unrequited crushes within the last decade and this
 
 Keeping things short: being rejected by him means a big deal for me – as much as I'm able to manage and cope with nine past failures under my belt. So I'm still on a lookout for that special someone, and judging from the quality of my potential romantic partners, I'm still setting myself up against an uncompromising high standard. For now, I'll keep telling myself that ["it gets better"](http://itgetsbetter.org/).
 
-<a href="http://www.wylio.com/credits/flickr/2346572987" title="license: http://creativecommons.org/licenses/by/2.0/ - click to view more info about 'Trek to the summit' or find free 'trekking' pictures via Wylio"><img style="margin:0 10px" alt="'Trek to the summit' photo (c) 2007, Andjam79 - license: http://creativecommons.org/licenses/by/2.0/" src="http://lh4.ggpht.com/-FKbf3vPL4sE/TxGG8KzGb3I/AAAAAAAABUk/rIIoKcaLgrU/Flickr-2346572987.jpg" width="500" height="375"/></a>
+[
+  ![Trek to the summit by Andjam79, Flickr](http://lh4.ggpht.com/-FKbf3vPL4sE/TxGG8KzGb3I/AAAAAAAABUk/rIIoKcaLgrU/Flickr-2346572987.jpg){: .img-responsive}
+](http://www.wylio.com/credits/flickr/2346572987)
 
 ### My 2012 Goals and Resolutions (Attempt #5)
 
@@ -68,4 +60,3 @@ Well, it is my fifth attempt to articulate what I want to achieve in 2012 – t
 The ultimate prize I'm now pursuing is career that I enjoy and excel in, build a community of friends and to be engaged with a lifelong romantic partner to share my joys with.
 
 With that, it's time to create a wonderful new year!
-{% endmark %}

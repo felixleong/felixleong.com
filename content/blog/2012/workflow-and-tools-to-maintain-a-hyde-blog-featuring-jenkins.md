@@ -1,19 +1,14 @@
----
 title: Workflow And Tools To Maintain a Hyde Blog (featuring Jenkins)
-created: !!timestamp "2012-01-13 14:35:18"
-tags:
-    - programming
-    - technical
-css_files:
-    - pygments.css
----
+tags: programming, technical
+date: 2012-01-13T14:35:18Z
+category: Programming
 
-{% mark post %}Having switched my blog from [Wordpress](http://wordpress.org) to [Hyde](http://github.com/hyde/hyde), my blogging workflow now looks something like this:
+Having switched my blog from [Wordpress](http://wordpress.org) to [Hyde](http://github.com/hyde/hyde), my blogging workflow now looks something like this:
 
 1. Write the blog post in [Markdown](http://en.wikipedia.org/wiki/Markdown) format
 2. Run it through a Markdown previewer to make sure it's formatted the way I intended
 3. Attach the metadata to the finished post
-4. Create the appropriate directory structures if it doesn't exists (I'm now organizing the post with each month having their own directories, like /blog/2012/01/) and copy the file into that particular folder
+4. Create the appropriate directory structures if it doesn't exists (I'm now organizing the post with each month having their own directories, like `/blog/2012/01/`) and copy the file into that particular folder
 5. Push it to Github to backup my work
 6. Run it through `hyde gen` to have the site generated
 7. Once the site is generated, rsync the directory into the server
@@ -65,19 +60,18 @@ As much as I find Jenkins really pleasant and easy to use (and I recommend that 
         - Source Code Management - check the "Git" radio button and set the "Repository URL"
         - Build Triggers - check the "Build when a change is pushed to Github" checkbox
         - Build - Click on "Add build step > Execute shell", here's the script I've set:
-            {% filter syntax('bash') -%}
-VENV_ROOT=.env
-if [ ! -d "$VENV_ROOT" ]; then
-    echo "**> creating virtualenv"
-    virtualenv --no-site-packages "$VENV_ROOT"
-fi
-source "$VENV_ROOT/bin/activate"
-pip install -r requirements.txt
 
-# Start our deployment here
-fab publish
-            {%- endfilter %}
+            #!bash
+            VENV_ROOT=.env
+            if [ ! -d "$VENV_ROOT" ]; then
+                echo "**> creating virtualenv"
+                virtualenv --no-site-packages "$VENV_ROOT"
+            fi
+            source "$VENV_ROOT/bin/activate"
+            pip install -r requirements.txt
 
+            # Start our deployment here
+            fab publish
 
 ### Wrapping up
 
@@ -86,4 +80,4 @@ Phew! I have to say the whole process is indeed overwhelming as this whole exper
 If you've read up to this point, I really hope that you'd find this valuable… and that this would shave off hours in tinkering with the configuration. :)
 
 Now if there's a feature request in Hyde to selectively generate certain pages…
-{% endmark %}
+

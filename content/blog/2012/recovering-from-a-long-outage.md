@@ -1,13 +1,10 @@
----
 title: Recovering From A Long Outage
-created: !!timestamp "2012-01-12 00:43:08"
-tags:
-    - announcements
-    - programming
-    - technical
----
-
-{% mark post -%}<a href="http://www.wylio.com/credits/flickr/2522811650" title="license: http://creativecommons.org/licenses/by-nd/2.0/ - click to view more info about 'The Clean Up!' or find free 'patching up' pictures via Wylio"><img alt="'The Clean Up!' photo (c) 2008, One Hell Of A Loser - license: http://creativecommons.org/licenses/by-nd/2.0/" src="http://lh3.ggpht.com/-3TrMksQoH68/Tw2zM4UeOpI/AAAAAAAABUc/oVT6WR9vliA/Flickr-2522811650.jpg" width="500" height="336"/></a>
+tags: announcements, programming, technical
+date: 2012-01-12T00:43:08Z
+category: Programming
+featured_image: http://lh3.ggpht.com/-3TrMksQoH68/Tw2zM4UeOpI/AAAAAAAABUc/oVT6WR9vliA/Flickr-2522811650.jpg
+featured_image_credit: The Clean Up! by One Hell Of A Loser, Flickr
+featured_image_url: http://www.wylio.com/credits/flickr/2522811650
 
 The whole ordeal started a month ago when my server decided to have temper tantrums and PHP and Nginx just mysteriously decided not to talk to each other again. And with that my Wordpress blogs are taken down with it.
 
@@ -36,4 +33,4 @@ I'll be doing more writing: the About Me page needs a complete overhaul (read: t
 
 And I wanted to tackle some of the harder issues head on this year and be more transparent about my stand on certain issues and what I observed and believed.
 
-And yeah, it's going to be a very interesting 2012 all right.{%- endmark %}
+And yeah, it's going to be a very interesting 2012 all right.

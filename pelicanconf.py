@@ -81,8 +81,9 @@ ASSET_CONFIG = (
 )
 
 MD_EXTENSIONS = [
-    'codehilite(css_class=codehilite)',
     'extra',
+    'codehilite(css_class=codehilite)',
+    'oembed',
     'plugins.markdownext.mdx_unimoji',
     'plugins.markdownext.pelican_image(static={})'.format(STATICURL),
 ]
