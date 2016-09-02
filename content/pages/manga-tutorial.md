@@ -5,29 +5,22 @@ slug: manga-tutorial
 
 Here are a collection of tutorials that I had written about drawing super deformed characters, which was previously published at [RPGamer's Fanart column](http://www.rpgamer.com/fanart/) back in 2002.
 
-<ul class="tutorial-list">
-  <li class="tutorial-entry">
-  <img src="{filename}/images/2008/12/preview.png" alt="How to draw SD characters: Face - Preview" title="How to draw SD characters: Face - Preview" width="54" height="54" class="alignright size-full wp-image-25" />
-  <a href="{filename}manga-tutorial/how-to-draw-sd-characters-face.md">How to Draw SD Characters: Face</a>
-  Learn the basics of manga drawing starting from the face.
-  </li>
+- ![How to draw SD characters: Face - Preview]({static}/images/2008/12/preview.png)
+  [How to Draw SD Characters: Face]({filename}manga-tutorial/how-to-draw-sd-characters-face.md)
 
-  <li class="tutorial-entry">
-  <img src="{filename}/images/2008/12/preview.gif" alt="How to draw SD characters: Body - Preview" title="How to draw SD characters: Body - Preview" width="54" height="54" class="alignright size-full wp-image-49" />
-  <a href="{filename}manga-tutorial/how-to-draw-sd-characters-body.md">How to Draw SD Characters: Body</a>
-  Now you know how to draw, complete your skills by learn how to draw a full-body character.
-  </li>
+    Learn the basics of manga drawing starting from the face.
 
-  <li class="tutorial-entry">
-  <img src="{filename}/images/2008/12/preview1.gif" alt="Drawing Eyes: The Basics - Preview" title="Drawing Eyes: The Basics - Preview" width="54" height="54" class="alignright size-full wp-image-69" />
-  <a href="{filename}manga-tutorial/drawing-eyes-the-basics.md">Drawing Eyes: The Basics</a>
-  Learn the finer point of drawing people by knowing how to draw the most expressive part: the eyes.
-  </li>
+- ![How to draw SD characters: Body - Preview]({static}/images/2008/12/preview.gif)
+  [How to Draw SD Characters: Body]({filename}manga-tutorial/how-to-draw-sd-characters-body.md)
 
-  <li class="tutorial-entry">
-  <img src="{filename}/images/2008/12/preview.jpg" alt="Drawing Hair: The Basics - Preview" title="Drawing Hair: The Basics - Preview" width="54" height="54" class="alignright size-full wp-image-93" />
-  <a href="{filename}manga-tutorial/drawing-hair-the-basics.md">Drawing Hair: The Basics</a>
-  Make your characters beautiful with strands of hair.
-  </li>
-</ul>
+    Now you know how to draw, complete your skills by learn how to draw a full-body character.
 
+- ![Drawing Eyes: The Basics - Preview]({static}/images/2008/12/preview1.gif)
+  [Drawing Eyes: The Basics]({filename}manga-tutorial/drawing-eyes-the-basics.md)
+
+    Learn the finer point of drawing people by knowing how to draw the most expressive part: the eyes.
+
+- ![Drawing Hair: The Basics - Preview]({static}/images/2008/12/preview.jpg)
+  [Drawing Hair: The Basics]({filename}manga-tutorial/drawing-hair-the-basics.md)
+
+    Make your characters beautiful with strands of hair.

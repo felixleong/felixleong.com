@@ -43,8 +43,8 @@ At the same time, well, as a novice traveller, I have no clue what to do when I'
 ### The New-Found Boardgaming Hobby
 
 [
-  ![International Tabletop Day @ Meeples 2013, by Log Cheng, Meeples]({filename}/images/2014/01/meeples-tabletopday-small.jpg){: .img-responsive}
-]({filename}/images/2014/01/meeples-tabletopday.jpg)
+  ![International Tabletop Day @ Meeples 2013, by Log Cheng, Meeples]({static}/images/2014/01/meeples-tabletopday-small.jpg){: .img-responsive}
+]({static}/images/2014/01/meeples-tabletopday.jpg)
 
 It all started with me stumbling upon [Shut Up and Sit Down](http://shutupandsitdown.com/). I can't remember how I found out about them ([Penny Arcade](http://penny-arcade.com/patv/), perhaps?), but I still remembered being entertained by their British humour that I ended up watching all their episodes. I have followed them for two months and decided to buy my first game, I stumbled upon [The Dice Tower](http://thedicetower.com/) as I'm researching for more reviews to supplement my decision to buy my very first card game (Dominion), I was slowly being ushered into this new hobby of mine.
 
@@ -56,7 +56,7 @@ As an aside, it's funny to think that almost all my social circle and friends of
 
 ### Community Involvement and The Major Shifts
 
-![LvlUp.KL]({filename}/images/2014/01/lvlupkl.png)
+![LvlUp.KL]({static}/images/2014/01/lvlupkl.png)
 
 After talking about being part of three board gaming groups, which in by itself small communities that I'm a part of, what about the existing ones that I'm apart of? Well, as it turns out, there are significant changes that happened in the communities that I'm a part of. Some of them have changed focus, a few made the decision to continue operating small, some of them go on hiatus. The only two groups that I'm active right now would be [Python User Group Malaysia](https://www.facebook.com/groups/python.malaysia/), which is held once every two months or so, and the other being [Webcamp KL](https://www.facebook.com/groups/webcamp/), which will be becoming [Lvl.Up KL](https://www.facebook.com/lvl.up.kl).
 

@@ -3,7 +3,7 @@ date: 2008-12-25T06:19:36Z
 category: Manga Tutorial
 page_order: 104
 
-![Finished artwork]({filename}/images/2008/12/intro.jpg)
+![Finished artwork]({static}/images/2008/12/intro.jpg)
 
 Many had told me that the hair is the toughest part to draw, just because the
 final result doesn't look like hair: especially when you're handling tiny
@@ -46,7 +46,7 @@ Now, the six basic hairstyles are:
 
 #### Short hair
 
-![Short hair]({filename}/images/2008/12/short.jpg)
+![Short hair]({static}/images/2008/12/short.jpg)
 
 This is the easiest style to design, draw and manage. Short hairstyle is
 usually unisex in nature, so designing short hair is quite a breeze.
@@ -58,7 +58,7 @@ characters, and add some hair movement to make it more lively.
 
 #### Long hair
 
-![Long hair]({filename}/images/2008/12/long.jpg)
+![Long hair]({static}/images/2008/12/long.jpg)
 
 Ahh… this is one style that would show the natural beauty of a woman (or even
 men!).
@@ -74,7 +74,7 @@ certainly make your art look professional and your skills will shine.
 
 #### Curly hair
 
-![Curly hair]({filename}/images/2008/12/curly.jpg)
+![Curly hair]({static}/images/2008/12/curly.jpg)
 
 Unlike its straight counterparts, this hairstyle's flow is quite different from
 others. And this is another hairstyle that might challenge some artist.
@@ -87,7 +87,7 @@ hair is quite simple: you just need to have your drafts right.
 
 #### Pointy hair
 
-![Pointy hair]({filename}/images/2008/12/pointy.jpg)
+![Pointy hair]({static}/images/2008/12/pointy.jpg)
 
 This kind of hair surely defies gravity, and usually makes the character more
 dynamic in looks. It doesn't require much detail, making it much easier to
@@ -101,7 +101,7 @@ hair is drawn towards the top.
 
 #### "Combed to the back" hair
 
-![Combed to the back hair]({filename}/images/2008/12/combed.jpg)
+![Combed to the back hair]({static}/images/2008/12/combed.jpg)
 
 This kind of hairstyle is also simple to draw, you just need to observe the
 forehead hair line and make sure you draw out the strands of hair. But these
@@ -111,7 +111,7 @@ hair.
 
 #### Untidy hair
 
-![Untidy/Unruly hair]({filename}/images/2008/12/untidy.jpg)
+![Untidy/Unruly hair]({static}/images/2008/12/untidy.jpg)
 
 This is the hardest one to design, yet it is quite expressive in some ways. I
 can't give guidelines on this (since it is untidy, and I can't even draw this
@@ -124,7 +124,7 @@ from fashion magazines) and practice will help you a lot in identifying the
 characteristics of hair and improving your art skills at the same time. Here
 are some examples of different hairstyle variation:
 
-![Myraid of hairstyles]({filename}/images/2008/12/hairsample.jpg)
+![Myraid of hairstyles]({static}/images/2008/12/hairsample.jpg)
 
 ### Step-by-Step Drawing Guide
 
@@ -138,11 +138,11 @@ drawing hair, the draft will prove to be very useful. And drawing out the
 overall shape of the hair will help a lot in drafting, and we will see how
 important it is in the step-by-step guide below:
 
-![Step 1: Sketch the head]({filename}/images/2008/12/step1.jpg)
+![Step 1: Sketch the head]({static}/images/2008/12/step1.jpg)
 
 As usual, draw the draft of the face.
 
-![Step 2: Determining hair lines]({filename}/images/2008/12/step2.jpg)
+![Step 2: Determining hair lines]({static}/images/2008/12/step2.jpg)
 
 For this step, let me introduce you to another draft line -- the "Hair Line".
 This is the line that separate between the forehead and the hair. <em
@@ -158,7 +158,7 @@ where the hair partitions, it can be on the **left, right, center, or doesn't
 exist at all**. This triangle acts as a reference for you when you drawing hair
 with partitions.
 
-![Step 3: Rough sketching the hair shape]({filename}/images/2008/12/step3.jpg)
+![Step 3: Rough sketching the hair shape]({static}/images/2008/12/step3.jpg)
 
 Now, draft the basic shape of the hair. Do take note that <em
 class="tutorial-badPractice">the hair doesn't stick to the head (Pitfall No.
@@ -177,7 +177,7 @@ I draw out the ribbon to remind me that her hair is tied up
 together.</em> Since the ponytail is partially hidden from this
 viewpoint, it's OK to omit that.
 
-![Step 4: Drawing out the details]({filename}/images/2008/12/step4.jpg)
+![Step 4: Drawing out the details]({static}/images/2008/12/step4.jpg)
 
 At this point, you can draw out the details for the hair.
 <em class="tutorial-goodPractice">Notice that the fine and
@@ -208,12 +208,12 @@ common sense lesson, or save this page for future reference.
 
 #### Force #1: Gravity
 
-![Force of gravity]({filename}/images/2008/12/image1.gif)
+![Force of gravity]({static}/images/2008/12/image1.gif)
 
 Simple as that, this is the first flow you need to know. Hair
 has some weight, so hair will be "pulled down" by gravity.
 
-![Gravity effect on normal and fixed hair]({filename}/images/2008/12/image2.gif)
+![Gravity effect on normal and fixed hair]({static}/images/2008/12/image2.gif)
 
 But be careful though, there are some exceptions. Especially
 when you are dealing with pointy hair, or when your character is in
@@ -224,7 +224,7 @@ hair cream or natural reasons), and that force that makes the hair
 
 #### Force #2: Natural forces (Wind, water etc.)
 
-![Combination of forces: wind and gravity]({filename}/images/2008/12/image3.gif)
+![Combination of forces: wind and gravity]({static}/images/2008/12/image3.gif)
 
 Now, let's add another force into the scene and this makes it
 TWO forces. Now, the rule is almost the same (hair moves towards
@@ -238,7 +238,7 @@ understanding.
 
 #### Force #3: Character motion
 
-![Hair in action]({filename}/images/2008/12/image4.gif)
+![Hair in action]({static}/images/2008/12/image4.gif)
 
 Now, one thing that why actions scenes are hard to draw is how
 to make your art natural. And one factor is to know the connection
@@ -258,7 +258,7 @@ yourself and you will get the point.
 
 #### Force #4: Point of Force (POF)
 
-![Focal point: Tied hair]({filename}/images/2008/12/image5.gif)
+![Focal point: Tied hair]({static}/images/2008/12/image5.gif)
 
 This one is really important if you wanted to draw tied-up hair
 (braids, ponytails, etc.), especially when you deal with details

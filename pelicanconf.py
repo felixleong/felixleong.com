@@ -7,6 +7,7 @@ AUTHOR = 'Seh Hui Leong'
 SITENAME = "Seh Hui's #DevDiaries"
 SITEURL = ''
 SITEDESC = 'Site description'
+STATICURL = ''
 
 TIMEZONE = 'Asia/Kuala_Lumpur'
 DEFAULT_LANG = 'en'
@@ -39,7 +40,7 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
-SUMMARY_MAX_LENGTH = 150
+SUMMARY_MAX_LENGTH = 120
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -78,3 +79,10 @@ ASSET_CONFIG = (
         'relative_assets': False,
     }),
 )
+
+MD_EXTENSIONS = [
+    'codehilite(css_class=codehilite)',
+    'extra',
+    'plugins.markdownext.mdx_unimoji',
+    'plugins.markdownext.pelican_image(static={})'.format(STATICURL),
+]

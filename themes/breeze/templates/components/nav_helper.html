@@ -15,7 +15,7 @@
         {# It'll be a dropdown if there's child pages #}
         {% if p.children %}
         <li>
-          <a href="{{ SITEURL }}/{{ p.url }}" class="dropdown-toggle {% if p == page %}active{% endif %}" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+          <a href="{{ SITEURL }}/{{ p.url }}"{% if dropdown%} class="dropdown-toggle {% if p == page %}active{% endif %}" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"{% endif %}>
             {{ p.title }}{% if dropdown %} <span class="caret"></span>{% endif %}
           </a>
 

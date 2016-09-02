@@ -1,7 +1,7 @@
 <div class="widget widget-recent-posts">
   <h6>Recent Posts</h6>
   <ul>
-    {% for art in articles %}
+    {% for art in articles[:DEFAULT_PAGINATION] %}
       <li>
         <a href="{{ SITEURL }}/{{ art.url }}">{{ art.title }}</a>
         <p>

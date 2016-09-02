@@ -5,7 +5,11 @@
 
   {% if post.featured_image %}
   <figure class="feature-box">
-    <img src="{{ post.featured_image }}" class="img-responsive" />
+    {% if post.featured_image[:4] == 'http' %}
+      <img src="{{ post.featured_image }}" class="img-responsive" />
+    {% else %}
+      <img src="{{ STATICURL }}/{{ post.featured_image }}" class="img-responsive" />
+    {% endif %}
 
     {% if post.featured_image_credit %}
     <figcaption>

@@ -14,7 +14,7 @@
     .feature-box {
       max-height: 250px;
       overflow: hidden;
-      margin-left: (-$grid-gutter-width/2 - 8px);
+      margin-left: (-$grid-gutter-width/2 - 6px);
       position: absolute;
       top: 0;
       width: 100%;
@@ -91,7 +91,6 @@
     @media only screen and (min-width: $screen-lg) { padding-top: 420px; }
 
     .feature-box {
-      padding-right: $grid-gutter-width;
       max-height: 200px;
 
       @media only screen and (min-width: $screen-sm) { max-height: 250px; }

@@ -3,7 +3,7 @@ date: 2008-12-25T02:32:09Z
 category: Manga Tutorial
 page_order: 102
 
-![Finished art]({filename}/images/2008/12/finished.gif)
+![Finished art]({static}/images/2008/12/finished.gif)
 
 In How to Draw SD Characters: Face, you have learned about how to draw a simple
 SD face of Cloud.
@@ -23,8 +23,8 @@ techniques in drawing them!
 
 ### How should a SD character look like
 
-![2-head Proportion]({filename}/images/2008/12/2head.jpg)
-![3-head proportion]({filename}/images/2008/12/3head.jpg)
+![2-head Proportion]({static}/images/2008/12/2head.jpg)
+![3-head proportion]({static}/images/2008/12/3head.jpg)
 
 Basically, in art, we measure the height of a character not by inches or
 centimeters, but how many "heads" (i.e. the ratio between the head and the
@@ -52,7 +52,7 @@ some to suit your needs.  Sometimes, rules are meant to be broken :).
 
 ### Step-by-step tutorial
 
-![Step 1: Sketech out the skeleton]({filename}/images/2008/12/step1.gif)
+![Step 1: Sketech out the skeleton]({static}/images/2008/12/step1.gif)
 
 The first thing you must do is to draw a draft. Remember those stick figures
 you always draw in kindergarten?
@@ -71,7 +71,7 @@ easier, too].</em> <em class= "tutorial-badPractice">Ignoring this step carries
 the "endless loop of drawing and erasing" risk. Well, better be safe than
 sorry, right?</em>
 
-![Step 2: Work out the body]({filename}/images/2008/12/step2.gif)
+![Step 2: Work out the body]({static}/images/2008/12/step2.gif)
 
 Now, you have the draft, so you can draft the outline of the body. Use basic
 geometric shapes sparingly, especially circles and ovals. <em
@@ -79,7 +79,7 @@ class="tutorial-goodPractice">Don't forget to draw the eye position cross, and
 the center line of the body. This step will help you in checking whether the
 character is well balanced or not.</em>
 
-![Step 3: Adding the details]({filename}/images/2008/12/step3.gif)
+![Step 3: Adding the details]({static}/images/2008/12/step3.gif)
 
 Draw out the face, <em class="tutorial-goodPractice">then roughly draw out
 the basic costume without adding details to it.</em> Again, this will help
@@ -94,7 +94,7 @@ that "stick" on the character's body (i.e. joining the line between the body
 and the clothing)</em>. Even it is tight, the costume has some thickness, so
 they don't "stick" on the body entirely.
 
-![Step 4: Draw exposed flesh]({filename}/images/2008/12/step4.gif)
+![Step 4: Draw exposed flesh]({static}/images/2008/12/step4.gif)
 
 Then, draw out the arms, legs, hands, and legs (or any exposed flesh).
 
@@ -103,7 +103,7 @@ one: frankly speaking, they looked ugly if you didn't draw it right.</em> <em
 class= "tutorial-goodPractice">Instead, draw the hand and fingers as a whole,
 add lines for fingers afterwards.</em>
 
-![Step 5: Work out the details]({filename}/images/2008/12/step5.gif)
+![Step 5: Work out the details]({static}/images/2008/12/step5.gif)
 
 For the last step, draw out the details of the costume.
 
@@ -118,7 +118,7 @@ collection, or any photographs and try to practice with it.
 
 ### Final Results
 
-![Finished art]({filename}/images/2008/12/finished.gif)
+![Finished art]({static}/images/2008/12/finished.gif)
 
 Well, there you have it! A complete SD character!(and if you succeed, rejoice!
 Reward yourself for that!) Now, remember: drawing isn't an easy task, try to
