@@ -2,9 +2,6 @@ title: Fear.Less Magazine – May 2011 Issue on EPUB and Kindle
 tags: ebook, fearless, projects, tech
 date: 2011-05-21T17:09:32Z
 category: Programming
-featured_image: images/2011/05/cover-300x231.jpg
-featured_image_credit: Fear.Less May 2011 Cover
-featured_image_url: http://fearlessstories.com/
 
 For the longest time, I'm curious of how e-books are created – and wondered how much effort does it take to create one.
 
