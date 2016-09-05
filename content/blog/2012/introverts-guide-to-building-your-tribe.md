@@ -1,6 +1,7 @@
 title: Introvert's Guide To Building Your Tribe
 tags: meetups, mastermind-group, leadership, community, talks
 date: 2012-05-02T18:06:25Z
+category: Community
 
 For the past month, I've been giving two talks about my experience in organizing meetups. This is the first of the two talks given, titled **"Introvert's Guide to Starting Your Own Tribe"**.
 

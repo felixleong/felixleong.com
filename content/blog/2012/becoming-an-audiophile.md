@@ -3,7 +3,7 @@ tags: music, interests, hobbies, life
 date: 2012-02-12T00:56:40Z
 category: Hobbies
 featured_image: http://farm2.staticflickr.com/1167/1297846892_8fc67b0602.jpg
-featured_image_credit: Kay on black by kayintveen, Flickr
+featured_image_credit: 'Kay on black' by kayintveen, Flickr
 featured_image_url: http://www.flickr.com/photos/microdesign/1297846892/
 
 Two hours has passed and my iPod was already complaining and nagging me the fact that there's only 20% of juices is left of it. Strewn across the table in front of me were pairs and pairs of headphones, I sat with my body leaned forward, eyes shut and focusing attentively to the aural stimuli that's being channelled from the headphones. Every two minutes or so, I'd open my eyes again and flicking through the long list of songs on my playlist, thinking of the next song that I should choose to challenge the sound drivers.

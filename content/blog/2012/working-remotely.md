@@ -3,7 +3,7 @@ tags: productivity, life, lifestyle-design, self-improvement, freelancing
 date: 2012-01-26T23:42:52Z
 category: Life
 featured_image: http://lh4.ggpht.com/-8O-5KgCG7xc/TyFHhdLR06I/AAAAAAAABU4/6K2QNLOBohY/Flickr-775701003.jpg
-featured_image_credit: coffee @ filter by ercwttmn, Flickr
+featured_image_credit: 'coffee @ filter' by ercwttmn, Flickr
 featured_image_url: http://www.wylio.com/credits/flickr/775701003
 
 It's the fourth day of Chinese New Year: while the working classes are reporting back into their offices and started work, I'm still back with my parents. My laptop flipped open with the backlit display shining at me, my stationeries and notebook spread across the dining table among the containers of Chinese New Year snacks. I've made the dining table back home my remote office.

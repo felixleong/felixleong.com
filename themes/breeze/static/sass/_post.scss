@@ -96,8 +96,6 @@
       @media only screen and (min-width: $screen-sm) { max-height: 250px; }
       @media only screen and (min-width: $screen-md) { max-height: 300px; }
       @media only screen and (min-width: $screen-lg) { max-height: 400px; }
-
-      figcaption { right: $grid-gutter-width; }
     }
   }
 }

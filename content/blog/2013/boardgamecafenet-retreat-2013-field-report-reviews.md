@@ -3,7 +3,7 @@ tags: boardgames, hobby, personal, review, lifestyle, community
 date: 2013-12-23T00:07:28Z
 category: Boardgaming
 featured_image: images/2013/bgcretreat2013/1399710_10151765537766302_2024621622_o.jpg
-featured_image_credit: Welcome to Kin Tick Orchard Village by Seh Hui
+featured_image_credit: 'Welcome to Kin Tick Orchard Village' by Seh Hui
 
 As monsoon season looms around the west coast of Peninsular Malaysia, it's just the best time to stay indoors and lay comatose in front of a screen and passively consume what's showing in front of you. ... Or does it have to be so?
 

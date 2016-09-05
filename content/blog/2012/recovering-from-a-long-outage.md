@@ -3,7 +3,7 @@ tags: announcements, programming, technical
 date: 2012-01-12T00:43:08Z
 category: Programming
 featured_image: http://lh3.ggpht.com/-3TrMksQoH68/Tw2zM4UeOpI/AAAAAAAABUc/oVT6WR9vliA/Flickr-2522811650.jpg
-featured_image_credit: The Clean Up! by One Hell Of A Loser, Flickr
+featured_image_credit: 'The Clean Up!' by One Hell Of A Loser, Flickr
 featured_image_url: http://www.wylio.com/credits/flickr/2522811650
 
 The whole ordeal started a month ago when my server decided to have temper tantrums and PHP and Nginx just mysteriously decided not to talk to each other again. And with that my Wordpress blogs are taken down with it.

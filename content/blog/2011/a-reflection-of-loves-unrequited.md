@@ -1,14 +1,10 @@
----
-title: "A Reflection on Loves Unrequited"
-created: !!timestamp '2011-08-15 22:38:07'
-tags:
-    - life
-    - relationships
-    - self-improvement
-    - thoughts
----
-
-{% mark post -%}<a title="license: http://creativecommons.org/licenses/by/2.0/ - click to view more info about 'Love' or find free 'love' pictures via Wylio" href="http://www.wylio.com/credits/flickr/233883651"><img src="http://lh6.ggpht.com/-FsJFdVzqU1k/TkmfRJi87PI/AAAAAAAABSk/S_uMhU5LoBA/Flickr-233883651.jpg" alt="'Love' photo (c) 2006, Noël Zia Lee - license: http://creativecommons.org/licenses/by/2.0/" width="500" height="375" /></a>
+title: A Reflection on Loves Unrequited
+tags: life, relationships, self-improvement, thoughts
+date: 2011-08-15T22:38:07Z
+category: Reflections
+featured_image: http://lh6.ggpht.com/-FsJFdVzqU1k/TkmfRJi87PI/AAAAAAAABSk/S_uMhU5LoBA/Flickr-233883651.jpg
+featured_image_credit: 'Love' by Noël Zia Lee, Flickr
+featured_image_url: http://www.wylio.com/credits/flickr/233883651
 
 Reflecting back of all the unrequited relationships that I had in the past, this dawned upon me:
 
@@ -22,4 +18,4 @@ To acknowledge the only way I'm able to give everything I had to you in an uncon
 
 Only with a complete surrender and without clinginess of the outcomes that may be, I'll able to accept that courting is merely a process and not to be taken personally. Only then that I'm able to learn the lessons from every unrequited love and enrich my soul. Only then the wines of my being is able to ferment with age and experience, so that every single day, it'll be sweeter to whomever who's willing to receive it.
 
-With that thought in mind, my journey continues.{%- endmark %}
+With that thought in mind, my journey continues.

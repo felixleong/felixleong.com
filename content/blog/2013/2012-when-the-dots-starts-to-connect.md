@@ -3,7 +3,7 @@ tags: annual-review, thoughts, life, career, introspection, love, motivation, se
 date: 2013-01-13T00:40:39Z
 category: Annual Review
 featured_image: http://farm4.staticflickr.com/3323/3456462252_d39e389c85.jpg
-featured_image_credit: Saturate by owenbushell, Flickr
+featured_image_credit: 'Saturate' by owenbushell, Flickr
 featured_image_url: http://www.flickr.com/photos/owenbushell/3456462252/
 
 Oh wait, it's been more than six months since the last [My Pastel Coloured Rainbow][coming-out] post? Wow... seems like the blogging habit is starting to wear off from me. For one I'm starting to spend time away from the computer, go out and explore new activities. And when I have something to blog about, they are short snippets of thoughts that I ended up posting on Twitter and Facebook instead of writing short posts that I used to label them as "impromptu posts". We'll get to the meats and potatoes of what has happened in the year 2012 in a second.

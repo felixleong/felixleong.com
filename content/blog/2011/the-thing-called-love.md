@@ -1,14 +1,12 @@
----
-title: "The Thing Called Love"
-created: !!timestamp '2011-11-04 17:03:45'
-tags:
-    - life
-    - love
-    - prose
-    - relationships
----
+title: The Thing Called Love
+tags: life, love, prose, relationships
+date: 2011-11-04T17:03:45Z
+category: Life
+featured_image: http://lh4.ggpht.com/-QFdIuLWwnGs/TrQWfPXzBYI/AAAAAAAABT4/o8x3tPcy0aQ/Flickr-6293548816.jpg
+featured_image_credit: 'My Pet Swan…' by Adriane Dizon, Flickr 
+featured_image_url: http://www.wylio.com/credits/flickr/6293548816
 
-{% mark post -%}<a title="license: http://creativecommons.org/licenses/by-nd/2.0/ - click to view more info about 'My Pet Swan…' or find free 'origami heart' pictures via Wylio" href="http://www.wylio.com/credits/flickr/6293548816"><img src="http://lh4.ggpht.com/-QFdIuLWwnGs/TrQWfPXzBYI/AAAAAAAABT4/o8x3tPcy0aQ/Flickr-6293548816.jpg" alt="'My Pet Swan…' photo (c) 2011, Adriane Dizon - license: http://creativecommons.org/licenses/by-nd/2.0/" width="420" height="278" /></a>
+<a title="license: http://creativecommons.org/licenses/by-nd/2.0/ - click to view more info about 'My Pet Swan…' or find free 'origami heart' pictures via Wylio" href=""><img src="" alt="" width="420" height="278" /></a>
 
 You probably wouldn't know this as I'm not able to bring myself to say it: that you mean everything to me since I felt the rush upon knowing you. In due course of time, I still find myself fixated over you despite the fact that I know I need you more than you'll ever need me.
 
@@ -20,4 +18,4 @@ From time to time, it does make my heart ache when I sensed some hurt and pain i
 
 … or maybe I prefer to step back, knowing that there's someone you really like by your side – and letting her to take the supportive role that I wish I'm able to fill in. Maybe it's just me: thinking that I'm probably asking too much to keep you by my side – like Elphaba singing under the rain, with an overwhelming cast of ambivalence above my head showering over me.
 
-For now, I'm just trying my best to keep myself to experience the present in two sense of the word: being in the present moment when I'm with you; and fully soaking in the ecstasy from your being, which I think of it as a present received.{%- endmark %}
+For now, I'm just trying my best to keep myself to experience the present in two sense of the word: being in the present moment when I'm with you; and fully soaking in the ecstasy from your being, which I think of it as a present received.

@@ -1,8 +1,9 @@
 title: 2011, The Year of Love
 tags: life, career, future, introspection, love, motivation, relationships, self-improvement, thoughts
 date: 2012-01-15T00:34:00Z
+category: Annual Review
 featured_image: http://lh5.ggpht.com/-8LrlIcrDnOQ/TxGgC4AMk2I/AAAAAAAABUs/lCLBVqDEl_k/Flickr-5913998299.jpg
-featured_image_credit: Secret Waterfalls Heavenly Sunbeam by Forest Wander, Flickr
+featured_image_credit: 'Secret Waterfalls Heavenly Sunbeam' by Forest Wander, Flickr
 featured_image_url: http://www.wylio.com/credits/flickr/5913998299
 
 Continuing the tradition of reviewing the year that had past and setting resolutions and a new tone for the new year, this year would probably be my busiest, most exciting and yet the least documented year. And yes, my blog is almost totally neglected last year. For this post, I dug through my memory bank and recount the details of the past – well, it's alway better having that than not writing about some of the issues at all.
@@ -47,7 +48,7 @@ I can recall all my past nine unrequited crushes within the last decade and this
 Keeping things short: being rejected by him means a big deal for me – as much as I'm able to manage and cope with nine past failures under my belt. So I'm still on a lookout for that special someone, and judging from the quality of my potential romantic partners, I'm still setting myself up against an uncompromising high standard. For now, I'll keep telling myself that ["it gets better"](http://itgetsbetter.org/).
 
 [
-  ![Trek to the summit by Andjam79, Flickr](http://lh4.ggpht.com/-FKbf3vPL4sE/TxGG8KzGb3I/AAAAAAAABUk/rIIoKcaLgrU/Flickr-2346572987.jpg){: .img-responsive}
+  !['Trek to the summit' by Andjam79, Flickr](http://lh4.ggpht.com/-FKbf3vPL4sE/TxGG8KzGb3I/AAAAAAAABUk/rIIoKcaLgrU/Flickr-2346572987.jpg){: .img-responsive}
 ](http://www.wylio.com/credits/flickr/2346572987)
 
 ### My 2012 Goals and Resolutions (Attempt #5)

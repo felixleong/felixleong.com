@@ -3,7 +3,7 @@ date: 2014-01-23T01:26:46Z
 category: Annual Review
 tags: annual-review, thoughts, life, career, introspection, love, motivation, self-improvement, relationships, future, adventures
 featured_image: http://farm4.staticflickr.com/3213/2595054303_4b0f1932c2.jpg
-featured_image_credit: lost by anjan58, Flickr
+featured_image_credit: 'lost' by anjan58, Flickr
 featured_image_url: http://www.flickr.com/photos/anjan58/2595054303/
 
 "You know, those big audacious goals that you have shared years ago. You should consider executing on it," said Renyi in a friendly and matter-of-fact tone. I let out a nervous chuckle -- deep down I know there a small tingle of unease, this comment has hit on a nerve. In a quiet coffee house we're in where everyone seems to mind their own businesses, we were having our mastermind group session where our pact is committed to check-in on everyone else's progress in life and making sure that we all achieve our own personal goals and dreams.
@@ -29,7 +29,7 @@ I'm probably getting a bit ahead of myself here -- as I'd need to fill in a lot 
 ### World Domination Summit 2013
 
 [
-  ![World Domination Summit 2013 - The World Float by Joshua Seaman, on Flickr](http://farm4.staticflickr.com/3754/9221938144_6305031068.jpg){: .img-responsive}
+  !['World Domination Summit 2013 - The World Float' by Joshua Seaman, on Flickr](http://farm4.staticflickr.com/3754/9221938144_6305031068.jpg){: .img-responsive}
 ](http://www.flickr.com/photos/chrisguillebeau/9221938144/)
 
 Let's start with the biggest event in my life -- that I travel across the globe alone to the United States of America. Travelling alone is one of the most exciting things I've done in my life and one that scares me a lot as I planned and executed it. Before the trip, all the trips and holidays that I have been to had always been organized and taken care off by other people, mostly by my family members or friends, depending whom I travelling with. At first I'm nervous as I'm planning this trip, the whole process of obtaining my US visa to making bookings for my trip. And I'm glad that [Yongjue](https://www.facebook.com/yongjue), who happens to go to WDS as well, have helped me a lot and gave me the reassurance that everything's going to be OK.
@@ -43,7 +43,7 @@ At the same time, well, as a novice traveller, I have no clue what to do when I'
 ### The New-Found Boardgaming Hobby
 
 [
-  ![International Tabletop Day @ Meeples 2013, by Log Cheng, Meeples]({static}/images/2014/01/meeples-tabletopday-small.jpg){: .img-responsive}
+  !['International Tabletop Day @ Meeples 2013', by Log Cheng, Meeples]({static}/images/2014/01/meeples-tabletopday-small.jpg){: .img-responsive}
 ]({static}/images/2014/01/meeples-tabletopday.jpg)
 
 It all started with me stumbling upon [Shut Up and Sit Down](http://shutupandsitdown.com/). I can't remember how I found out about them ([Penny Arcade](http://penny-arcade.com/patv/), perhaps?), but I still remembered being entertained by their British humour that I ended up watching all their episodes. I have followed them for two months and decided to buy my first game, I stumbled upon [The Dice Tower](http://thedicetower.com/) as I'm researching for more reviews to supplement my decision to buy my very first card game (Dominion), I was slowly being ushered into this new hobby of mine.
@@ -69,7 +69,7 @@ Come to think about it, I'm starting to transition from joining more targeted gr
 ### Being In-and-Out of Love
 
 [
-  ![Imperfect Harmonies (?) by Inu Lolen, on Flickr](http://farm2.staticflickr.com/1359/5123910404_ee5818d7c8.jpg){: .img-responsive}
+  !['Imperfect Harmonies (?)' by Inu Lolen, on Flickr](http://farm2.staticflickr.com/1359/5123910404_ee5818d7c8.jpg){: .img-responsive}
 ](http://www.flickr.com/photos/inurtistic_photography/5123910404/)
 
 So here we are, leaving the juiciest part last. This is the part where I'd relapse to who I'm back into my college and university days. Well, after all I don't even have a good track record in dating and romance in general. So bear with me *(or wag your tails if you are the gossipy types)*.
@@ -85,7 +85,7 @@ At this point in time, there's no turning back now -- I found out that I'm just 
 ## The Struggle, The Question and The Uncertain
 
 [
-  ![White-crowned sparrow hatching by Erin Eve, on Flickr](http://farm4.staticflickr.com/3814/9359534197_fa6f924618.jpg){: .img-responsive}
+  !['White-crowned sparrow hatching' by Erin Eve, on Flickr](http://farm4.staticflickr.com/3814/9359534197_fa6f924618.jpg){: .img-responsive}
 ](http://www.flickr.com/photos/ravenvagrant/9359534197/)
 
 Of course, 2013 is not all a bed of roses -- but surprisingly it's not about my own woes and struggles, but rather the pains, trials and tribulations of the close friends. Seeing close friends having cope with serious illness, an ailing family member or going through emotional hard times redefines what does it mean to be being an adult and the responsibilities of taking care of myself but also the life and well-being of others around me. Am counting my blessings that life has been good for me -- I haven't put through some serious life hardships and my family has nothing less of being awesome. But putting myself in the shoes of the hardships that the people around me go through keep me grounded and think about life, at the same time learning how to deal, comfort, advise and support these people in need. And knowing that life is uncertain and I may be faced with situations where I have to put the need of others ahead of mine and making personal sacrifices. That sooner or later, I'll be dependent upon by others.
@@ -107,7 +107,7 @@ Just the thought of these two big passion projects are weighing down on me and I
 ## Wrapping Up: Three Guiding Themes for 2014
 
 [
-  ![Fly into the bokeh by San Diego Shooter, on Flickr](http://farm3.staticflickr.com/2453/3670934356_a24343e9a0.jpg){: .img-responsive}
+  !['Fly into the bokeh' by San Diego Shooter, on Flickr](http://farm3.staticflickr.com/2453/3670934356_a24343e9a0.jpg){: .img-responsive}
 ](http://www.flickr.com/photos/nathaninsandiego/3670934356/)
 
 I'm right now facing my own [Walter Mitty](http://en.wikipedia.org/wiki/Walter_Mitty) moment -- and this is the hardest yearly review I have written to date, as you would be able to tell from the section above. Yet with such Goliath in front of me and the trembles that shivers down my every bone, marrow and down to my nerve endings, I still maintain the same optimism as I have carried myself up to this day.

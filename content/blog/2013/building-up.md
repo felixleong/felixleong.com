@@ -3,7 +3,7 @@ tags: technical, tech, python, work, career, life, talks
 date: 2013-08-16T01:48:42Z
 category: Programming
 featured_image: http://farm6.staticflickr.com/5100/5472660657_666ace48a6.jpg
-featured_image_credit: Seedling by _sjg_, on Flickr
+featured_image_credit: 'Seedling' by _sjg_, on Flickr
 featured_image_url: http://www.flickr.com/photos/_sjg_/5472660657/
 
 My journey in [Mindvalley](http://mindvalley.com/) is definitely an interesting one. When I first joined the company, I've been working on [CustomerHugs](http://customerhugs.com/) -- which is a web service for users to collect reviews and testimonials from Facebook users.

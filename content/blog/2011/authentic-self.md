@@ -1,16 +1,9 @@
----
-title: "Authentic Self"
-created: !!timestamp '2011-08-06 01:14:14'
-tags:
-    - art
-    - card-toons
-    - life
-    - self-improvement
-    - spiritual
-    - thoughts
----
+title: Authentic Self
+tags: art, card-toons, life, self-improvement, spiritual, thoughts
+date: 2011-08-06T01:14:14Z
+category: Art
 
-{% mark post -%}<a href="http://upload.felixleong.com/2011/08/authenticself.png"><img class="size-medium wp-image-2704 alignnone" title="Authentic Self" src="http://upload.felixleong.com/2011/08/authenticself-300x166.png" alt="" width="300" height="166" /></a>
+![Authentic Self by Seh Hui]({static}/images/2011/08/authenticself.png){: .img-responsive}
 
 We are born pure, without pretension.
 
@@ -22,4 +15,4 @@ May be, just may be, there's an inner baby within myself – wanting to be born,
 
 That's my proclamation to the world.
 
-P/S: Yes, if you noticed the year in the signature, it is one of the older art I've drawn that I've forgotten to upload as I decided to change the format of my blog posts.{%- endmark %}
+P/S: Yes, if you noticed the year in the signature, it is one of the older art I've drawn that I've forgotten to upload as I decided to change the format of my blog posts.

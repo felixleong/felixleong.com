@@ -1,16 +1,10 @@
----
-title: "Tarot as My Meditation Practice"
-created: !!timestamp '2011-09-16 12:30:02'
-tags:
-    - hobbies
-    - interests
-    - life
-    - spiritual
-    - tarot
-    - thoughts
----
-
-{% mark post -%}<a href="http://upload.felixleong.com/2011/09/Tarot.jpg"><img class="alignleft size-medium wp-image-2763" title="A Tarot Reading" src="http://upload.felixleong.com/2011/09/Tarot-200x300.jpg" alt="" width="200" height="300" /></a>
+title: Tarot as My Meditation Practice
+tags: hobbies, interests, life, spiritual, tarot, thoughts
+date: 2011-09-16T12:30:02Z
+category: Hobbies
+featured_image: images/2011/09/Tarot.jpg
+featured_image_credit: 'A Tarot Reading' by Seh Hui
+featured_image_url: images/2011/09/Tarot.jpg
 
 Here's one unimportant fact that I never really divulged to anyone yet: I do tarot readings.
 
@@ -24,4 +18,4 @@ I couldn't particularly describe the feeling, it is the same feeling that I felt
 
 It almost felt like a spiritual exercise and it is an instrument that I use in my own short meditation practice. It's kind of like a beginner's crutch for me to have something in front of me that acts like a goal, in this case to decipher my perceptions towards it, so that I'm able to direct my focus, calm my senses and slowly letting the inner peace sets in. And then silently tune into what's within me: the energies that flows, my intuition and subconscious, the unknowns and the other things that I couldn't find words to express. I may want to call it the Flow.
 
-Guess that pretty much describes one aspect of myself that I find to be central towards my own spiritual development.{%- endmark %}
+Guess that pretty much describes one aspect of myself that I find to be central towards my own spiritual development.

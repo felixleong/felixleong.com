@@ -1,9 +1,9 @@
 title: My Pastel Coloured Rainbow
 tags: lgbt, relationships, love, life, thoughts, introspection
 date: 2012-05-07T01:24:50Z
-category: Life
+category: Reflections
 featured_image: http://farm5.staticflickr.com/4056/4548535977_e226bde025.jpg
-featured_image_credit: Rainbow by m-a-s-h-i-m-a-r-o, Flickr
+featured_image_credit: 'Rainbow' by m-a-s-h-i-m-a-r-o, Flickr
 featured_image_url: http://www.flickr.com/photos/25375908@N04/4548535977/
 
 For context and getting the pink elephant out of the room: I am gay, albeit a closeted one in real life -- hence the rainbow reference in the title. And this is about a new pledge for myself to take the necessary steps to come out from the closet and manning up should anything bad comes my way.

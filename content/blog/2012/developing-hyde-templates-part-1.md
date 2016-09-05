@@ -1,9 +1,9 @@
 title: Developing Hyde Templates - Part 1
 tags: programming, technical
-css_files: ['pygments.css']
 date: 2012-01-30T02:29:01Z
+category: Programming
 featured_image: http://farm4.staticflickr.com/3096/3489966856_f7a772e3e1.jpg
-featured_image_credit: Just Me... by Jerry, Flickr
+featured_image_credit: 'Just Me…' by Jerry, Flickr
 featured_image_url: http://www.flickr.com/photos/way2go/3489966856/
 
 Let's see... it's been close to three weeks I've migrated this blog from Wordpress to [Hyde](http://github.com/hyde/hyde). And ever since then I have been constantly fixing bugs in my template.

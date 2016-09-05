@@ -1,0 +1,32 @@
+title: Slightly Radical Routine Changes
+tags: goals, life, lifestyle-design, productivity, self-improvement
+date: 2011-08-12T23:01:14Z
+category: Life
+featured_image: images/2011/08/Photo-0012.jpg
+featured_image_credit: 'Alarm Clock' by Seh Hui
+featured_image_url: images/2011/08/Photo-0012.jpg
+
+Am now making two small but radical changes in my daily routine:
+
+1. Swapping my gym days from Saturdays to Friday evenings
+2. Sleep early, rise early (like **really** early, more details later)
+
+Due to [my maximizing nature]({filename}/blog/2010/personal-strength.md), any changes to my routine usually indicates some form of shift in my priorities.
+
+My gym days used to be on Saturdays mainly for two reasons: one being that it forces me to go outdoors and be around people; and two being that it forces me to disconnect myself from the online world and give myself some room to rest, draw inspiration and enjoy life. So Saturdays tend to be my indulgent day where I'd spend some money to make myself happy in whatever ways that material stuff can give.
+
+Switching my gym days to Fridays is more of a cheap way to compress my time: essentially what I'm doing is to block out my weekends to build a couple of my personal projects – or more like getting some ground work done for a ”fantasy” startup that I'd really wanted to materialize some day in the future. [This Hugh McLeod's cartoon][hugh] pretty much nailed it in the head: “Insanely great takes insanely forever” and I just have to clock in the hours to make it work.
+
+One good thing about having my gym days on Friday is that I can now go to my favourite gym (now it's Celebrity Fitness, Midvalley) after work and it shaves off a large chunk of commute time. So that's great.
+
+As for sleeping early – I shifted my sleeping hours from 12am to about 9pm: for most people this is totally radical. But there are two personal constrains that makes this change a very good idea:
+
+1. I need my eight-hours of sleep and I haven't found a way to get around it yet (so far I haven't picked up the discipline to get [polyphasic sleep][sleep] to work for me)
+2. I'm not able to be productive after being totally drained from my day job – from the intense coding to the wearing experience of going through an hour-long commute
+
+So it's just logical for me to abide with a 9-5 sleep schedule. And it's just feels great to be able to code stuff with a fresh mind and the surrounding is totally still and quiet. The only gripe I had is to deal with the hunger pangs – guess it's a good idea for me to spare some time to prepare a healthy breakfast.
+
+Am planning to make more adjustments once I got this routine nailed down. I wonder what's next?
+
+[hugh]: http://us1.campaign-archive1.com/?u=028de8672d5f9a229f15e9edf&amp;id=f52f002be1&amp;e=9343d38371http://us1.campaign-archive1.com/?u=028de8672d5f9a229f15e9edf&amp;id=f52f002be1&amp;e=9343d38371
+[sleep]: http://en.wikipedia.org/wiki/Polyphasic_sleep

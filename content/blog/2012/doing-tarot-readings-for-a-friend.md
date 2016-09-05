@@ -3,7 +3,7 @@ tags: tarot, life, thoughts, spiritual
 date: 2012-02-03T02:20:10Z
 category: Hobbies
 featured_image: http://farm1.staticflickr.com/103/252907153_abb5b4e125.jpg
-featured_image_credit: tarot reading by eran by fling93, Flickr
+featured_image_credit: 'tarot reading' by eran, Flickr
 featured_image_url: http://www.flickr.com/photos/fling93/252907153/
 
 In the past, I did mentioned that I do [tarot reading]({filename}/blog/2011/tarot-as-my-meditation-practice.md), mainly for meditative purpose and to seek guidance. I've been doing this practice only for my own benefit for the past eight years and it's until today that I actually do a reading for a friend.

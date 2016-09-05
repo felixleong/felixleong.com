@@ -3,7 +3,7 @@ tags: startup, event, entrepreneurship, singapore, thoughts
 date: 2012-03-22T11:14:18Z
 category: Business
 featured_image: https://lh4.googleusercontent.com/-GZapLw_7iTU/T2KN0k6rgrI/AAAAAAAABW0/DiacZ8pBtRQ/s400/423074_225606480872070_173497666082952_390824_1170488153_n.jpg
-featured_image_credit: The begining of a startup life by Startup Weekend Singapore
+featured_image_credit: 'The begining of a startup life' by Startup Weekend Singapore
 featured_image_url: https://www.facebook.com/photo.php?fbid=225606480872070&set=a.225605704205481.45831.173497666082952&type=3&theater
 
 Yes, I finally attended my very first Startup Weekend in Singapore. And they live up to their reputation of being one of the most organized startup events and I dig their heavy emphasis on execution.
@@ -43,7 +43,7 @@ You must be able to weigh in several factors such as their skills and what they 
 If you want to be a startup founder, better train and hone your intuition capacity in Startup Weekend and be firm in rejecting misfit hires politely -- it's nothing personal, it's just business.
 
 [
-  ![Huddling around, enjoying the fruits of labour, by Startup Weekend Singapore](https://lh6.googleusercontent.com/-z8vnK4ZWkU8/T2FWZm3e0oI/AAAAAAAABWU/tlLXhYA0C-w/s400/418437_226256547473730_173497666082952_392558_2065387374_n.jpg){: .img-responsive}
+  !['Huddling around, enjoying the fruits of labour' by Startup Weekend Singapore](https://lh6.googleusercontent.com/-z8vnK4ZWkU8/T2FWZm3e0oI/AAAAAAAABWU/tlLXhYA0C-w/s400/418437_226256547473730_173497666082952_392558_2065387374_n.jpg){: .img-responsive}
 ](https://www.facebook.com/photo.php?fbid=226256547473730&set=a.226256244140427.46011.173497666082952&type=3&theater)
 
 ## 4. [It's not the team size that matters; it's getting everyone on-board on the same page towards the goal](http://twitter.com/felixleong/status/178750526933053440)
@@ -91,7 +91,7 @@ In short: You have only 54 hours to develop and validate your startup idea, lase
 If you don't have enough development resources, focus in developing on the core user experience and forgo the backend. That's the strategy that I employ for the [SmartTasker](http://www.smarttasker.com/) team. If your startup idea is any good and you are able to sell your dream, you'll manage to find someone to flesh out the nuts and bolts after the event.
 
 [
-  ![Awesome peeps attending #SWSG2012, by Startup Weekend Singapore](https://lh5.googleusercontent.com/-Y7K6Mefsor4/T2KNSS0J_LI/AAAAAAAABWs/z1GbHsm3caw/s400/478429_10150805810453054_706758053_11285063_13623924_o.jpg){: .img-responsive}
+  !['Awesome peeps attending #SWSG2012' by Startup Weekend Singapore](https://lh5.googleusercontent.com/-Y7K6Mefsor4/T2KNSS0J_LI/AAAAAAAABWs/z1GbHsm3caw/s400/478429_10150805810453054_706758053_11285063_13623924_o.jpg){: .img-responsive}
 ](https://www.facebook.com/photo.php?fbid=10150805810453054&set=o.173497666082952&type=3&theater)
 
 ## 8. Position your pitch to your unique selling point instead of your innovation or platform

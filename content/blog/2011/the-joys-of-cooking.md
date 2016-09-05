@@ -1,13 +1,12 @@
----
-title: "The Joys of Cooking"
-created: !!timestamp '2011-03-06 07:42:17'
-tags:
-    - cooking
-    - health
-    - life
----
+title: The Joys of Cooking
+tags: cooking, health, life
+date: 2011-03-06T07:42:17Z
+category: Life
+featured_image: images/2011/03/SumptuousLunch.jpg
+featured_image_credit: 'Sumptuous Lunch' by Seh Hui
+featured_image_url: images/2011/03/SumptuousLunch.jpg
 
-{% mark post -%}<a href="http://upload.felixleong.com/2011/03/SumptuousLunch.jpg"><img class="alignleft size-medium wp-image-2645" title="Sumptuous Lunch" src="http://upload.felixleong.com/2011/03/SumptuousLunch-200x300.jpg" alt="" width="200" height="300" /></a>Since middle of last year, I made the effort to cook myself meals during the weekends.
+Since middle of last year, I made the effort to cook myself meals during the weekends.
 
 Usually, it's just a simple rotation of udon noodles with miso soup in a hotpot, Chinese chow mien and spaghetti with Ragu or Heinz spaghetti sauce on them. Nothing particularly fancy or hard to make.
 
@@ -23,4 +22,4 @@ And as I soak myself with such knowledge myself, I'm starting to notice the litt
 
 It's certainly one of the skills that I'm glad and proud of acquiring.
 
-Now, what recipe would I want to add to my repertoire next…?{%- endmark %}
+Now, what recipe would I want to add to my repertoire next…?
