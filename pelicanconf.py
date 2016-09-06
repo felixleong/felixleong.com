@@ -85,5 +85,6 @@ MD_EXTENSIONS = [
     'codehilite(css_class=codehilite)',
     'oembed',
     'plugins.markdownext.mdx_unimoji',
+    'plugins.markdownext.mdx_del_ins',
     'plugins.markdownext.pelican_image(static={})'.format(STATICURL),
 ]

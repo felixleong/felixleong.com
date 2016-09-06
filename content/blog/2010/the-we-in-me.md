@@ -1,0 +1,20 @@
+title: The We In Me
+tags: art, card-toons, spiritual, thoughts
+date: 2010-10-28T12:54:26Z
+category: Art
+
+!['We In Me' by Seh Hui]({static}/images/2010/07/WeInMe-small.jpg){: img-responsive}
+
+This art is greatly inspired by [Dr Jill Bolte Taylor's phenomenal TED talk][jillted]: to be more specific about it's the second part of the talk when she tries to express her out-of-the-world experience during the time when had a stroke.
+
+I really wished that I could expand further what transpired me during those mesmerizing moments listening to her and coming up with this piece of art. My own inept attempt to describe it is that I hold on to the concept of “me” (the ego), that I'm separate from other entities within this plane of existence. However, I'm having a belief, or rather a hypothesis if you would put it that way, that there indeed exists a collective consciousness that bind us as a unifying whole, or wholeness.
+
+There's no scientific basis or evidence to prove or disprove the existence of such a collective consciousness that binds every single entity in the planet, while each of us take on a unique manifestation of form and substance and live as a unique presence in this plane of existence.
+
+I could only say from my experience that I can certainly relate to the fact that I could feel an undercurrent of mysterious energy that flows through me which make me curious on whether hypothesis is true or not.
+
+Well, probably it'd be a better idea for you to keep an open mind and watch the video yourself. See what you could get out of it. :)
+
+![video](http://www.youtube.com/watch?v=UyyjU8fzEYU)
+
+[jillted]: http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html

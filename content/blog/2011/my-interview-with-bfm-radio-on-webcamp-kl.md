@@ -1,6 +1,7 @@
 title: My Interview with BFM Radio on Webcamp KL
 tags: discovery, interview, radio, webcamp
 date: 2011-11-22T08:56:03Z
+category: Community
 
 [
   !['BFM Radio Logo']({static}/images/2011/11/40244_427240632041_27588322041_4704067_4954588_n.jpg)

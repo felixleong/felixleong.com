@@ -1,0 +1,32 @@
+title: Driving Success
+tags: card-toons, stories, success-secrets, thoughts
+date: 2010-10-21T02:00:00Z
+category: Art
+
+!['Driving Success' by Seh Hui]({static}/images/2010/09/DrivingSuccess.jpg){: .img-responsive}
+
+Back in primary school, we have a subject for life skills and one of the practical lessons that I remember most is woodworking. We'd have one workshop that situated at a remote corner of the school compound, which is built out of wood and looks a little out-of-place among the concrete buildings that surrounded it.
+
+In there, there are lots of cupboards with toolboxes, rows of saws, hammers and other larger woodworking tools hanging on one side of the wall. The floors are totally covered in saw dust which never seem to be completely swept away cleanly no matter how much effort one have to put into sweeping it.
+
+One of the projects is to build a small wooden stool. We'd first need to saw out pieces of wood into symmetrical polygonal shapes. It's a laborious task I hate: no thanks to my sensitive nose and the saw dust flying all over the place. And what's next is the monotonous effort of sanding out the edges of the wood.
+
+I was certainly excited when it comes to assembling the stool that came later. It's like a reward to me after having to go through the hard labour and transition to the fun part where I get to assemble the finish product and see a stool being made.
+
+Unable to contain my excitement, I ignored the dry instructions of my teacher, and there I was, equipped with a hammer and a nail, banging hard on it. What came out of it is not the pleasure that I'd expected: I gave my fingers a sore and a crooked nail on top of the wooden plank.
+
+“OUCH!”, I cried.
+
+The teacher came over with great concern, seeing how I'd had hurt myself. After making sure I'm alright, he said to me, “This is not how you hammer a nail, son. Let me show you how.”
+
+He took the hammer and nail out of my hands, and have it positioned the nail on the wooden plank gently. “Son, the key to hammering a nail is not to drive it in one strike,” and he gently tapped the nail.  “You need to give several gentle strikes so that the nail could make a groove for itself to take its hold,” pausing for a moment and letting his hands go of the nail.
+
+The nail stood there firmly with that little support it had. The teacher turned to me and said, “now, with the nail in place, this is exactly when you are supposed to pound the nail hard, but not so hard at first.”
+
+“Thud…”
+
+The first pound of the nail gave a solid sound, but it doesn't sound as if full force was being applied to it. And the nail was now planted deeper into the plank. “Only when the nail is planted further in the plank and had gain solid hold that you can actually pound the nail with stronger force.”
+
+“Thud. Thud! THUD!!” The nail is driven down into the wood, bonding two planks together which would later become a stool.
+
+He could certainly see the glow in my eyes after that, and gave me this one last piece of advice before he attended to the rest of the class, “**the nail is not able to withstand the external force and get itself deep into the wood without establishing a shallow foundation for itself first.** Forcing the nail in would only make the nail bend and render itself useless. Make sure you remember this.”
