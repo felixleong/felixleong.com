@@ -7,7 +7,7 @@ featured_image_credit: 'Lone Rock' by Seh Hui
 
 It’s July – the monsoon months in Phuket, a time when one would have to expect some wind, rain and rough seas. Although it’s a low season in Phuket, you’ll easily notice that this warning doesn’t hinder fellow travellers around the world to enjoy their getaway in this lovely land.
 
-!['Sea View' by Seh Hui]({static}/images/2010/07/DSCF0296.jpg){: img-responsive}
+!['Sea View' by Seh Hui]({static}/images/2010/07/DSCF0296.jpg){: .img-responsive}
 
 
 9 o’clock in the morning, our day started off with tints of gray, the skies are covered with an overcast of lumping clouds. As one would look up the skies with worried eyes, I could only notice how fast the clouds crawls from one side of the other with no sun in sight.
@@ -16,13 +16,13 @@ It’s July – the monsoon months in Phuket, a time when one would have to expe
 
 It’s an hour drive in a van from the coasts of Phuket to Phang Nga: the southern province of Thailand right next to Phuket. As the van zoomed through towards its destination, the sights were transforming rapidly: from the familiar bustling streets along the seaside became a winding journey of the mountain terrains of Kathu district; then passing through the low concrete jungles of Phuket city going straight up to a rural highway as the sights of buildings are starting to thin and you could see plantation grounds along the sides of the road. It's really a different part of Phuket that most travelers to Phuket would probably not discover, either because they'd fallen asleep in the van, or that one would have lost interest with boring plains.
 
-!['Inside the Temple' by Seh Hui]({static}/images/2010/07/DSCF0134.jpg){: img-responsive}
+!['Inside the Temple' by Seh Hui]({static}/images/2010/07/DSCF0134.jpg){: .img-responsive}
 
 Our first stop is the [Wat Suwan Kuha][wat], also known as “that temple with a big Buddha in the cave”. As the name implies, you'd find a reclining Buddha statue lying within a limestone cave together with a host of other ancient Buddha statues. You'd also notice a big white Cedhi on the left housing the bones of the local governor who arranged the construction of the temple and the bones of his family.
 
 The temple is also known as the Monkey Cave temple; and, as we'd expect, there were monkeys roaming the surroundings. Though, to be honest, monkeys are quite common in some places of Phuket.
 
-!['Walking on the Pier' by Seh Hui]({static}/images/2010/07/DSCF0193.jpg){: img-responsive}
+!['Walking on the Pier' by Seh Hui]({static}/images/2010/07/DSCF0193.jpg){: .img-responsive}
 
 Coming back to the weather for a bit (probably it's just me minding the weather too much), but it appeared to me that the weather in Phuket is quite whimsical  during the monsoon season. As we headed to Floating Muslim Village in Koh Panyi, it constantly alternates between bright sunshine and a cloudy overcast. As if the clouds wanted to play a game of peek-a-boo; or maybe they are just playfully scheming on the timing to shed its shower of rain upon us. Starting to look at the sunnier side of things, I decided that the changing weather gave me a chance to take capturing the ever-changing expressions of my surroundings.
 
@@ -30,7 +30,7 @@ I had my moment of surprise during lunch at the Floating Muslim Village: and it'
 
 Moments later, a downpour. It's a beautiful sight – the charm of the village is quite hard to put in words: when sunny, the village is full of colours, warmth and vitality; when raining, the surrounding seas, the curtaining rain and the bluish tint gives the village a sense of calm with a tint of melancholy.
 
-!['Rowing' by Seh Hui]({static}/images/2010/07/DSCF0228.jpg){: img-responsive}
+!['Rowing' by Seh Hui]({static}/images/2010/07/DSCF0228.jpg){: .img-responsive}
 
 It's still drizzling when I had my first experience of riding a canoe to look at the beautiful islands around Phuket. And I did ended up wet after all.
 
@@ -38,7 +38,7 @@ However, I felt sorry for my camera: the surrounding beauty captivates me to the
 
 As the guide paddled through the seas, I was mesmerized by the limestone walls and the vegetation that grows on it. I really enjoyed looking at these natural work of art, taking in the formations, varying colours and structure of these stone walls. Occasionally we'll wade through a valley and there are mangroves with its trunk mostly submerged by the rising tide of sea water. The branches are low and I could easily reach to them and touch the leaves.
 
-!['Lone Rock' by Seh Hui]({static}/images/2010/07/DSCF0288.jpg){: img-responsive}
+!['Lone Rock' by Seh Hui]({static}/images/2010/07/DSCF0288.jpg){: .img-responsive}
 
 Ah, the wonders of nature.
 

@@ -3,7 +3,7 @@ tags: card-toons, life, strengths, thoughts
 date: 2010-07-15T15:38:44Z
 category: Art
 
-!['Living Strength']({static}/images/2010/05/livingstrength-small.jpg){: img-responsive}
+!['Living Strength']({static}/images/2010/05/livingstrength-small.jpg){: .img-responsive}
 
 Usually when I am having lunch in a shopping mall, I'd set myself down into a state which I tuned out all the hustles and bustles that goes around me. Clattering trolleys, howling children, the drowning noise of idle chatter among shoppers don't bother me as I enjoyed my meal in this internal oasis of peace.
 

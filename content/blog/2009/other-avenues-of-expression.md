@@ -3,7 +3,7 @@ tags: thoughts
 date: 2009-04-06T16:23:00Z
 category: Reflections
 
-!['My Other Journal' by Seh Hui](http://smg.photobucket.com/albums/v95/seh_hui/livejournal/?action=view&current=Photo-0058.jpg){: img-responsive}
+!['My Other Journal' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0058.jpg){: .img-responsive}
 
 
 It been months I had it now, but I now had my own paper journal that I'm proud of owning.

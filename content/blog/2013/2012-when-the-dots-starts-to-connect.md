@@ -123,14 +123,14 @@ With that, Seh Hui signing out, [DFTBA (Don't forget to be awesome)][dftba]!
 [opencoffeeclubkl]: http://www.facebook.com/groups/opencoffeeclubkl/
 [educampkl-youtube]: http://www.youtube.com/user/educampkl/
 [chugs]: http://customerhugs.com/
-[coming-out]: http://felixleong.com/blog/2012/05/my-pastel-coloured-rainbow
+[coming-out]: {filename}/blog/2012/my-pastel-coloured-rainbow.md
 [mindvalley]: http://mindvalley.com/
 [ngeow]: http://about.me/ngeow/
 [mediasaya]: http://mediasaya.com/
 [100dollar-change]: http://suitcaseentrepreneur.com/change/
 [nathalie-sisson]: http://suitcaseentrepreneur.com/
 [incitement]: http://www.facebook.com/theincitement
-[year2011]: http://felixleong.com/blog/2012/01/2011-the-year-of-love
+[year2011]: {filename}/blog/2012/2011-the-year-of-love.md
 [inbaraj]: http://www.facebook.com/inbaraj
 [awanmulan]: http://www.facebook.com/media/set/?set=a.10151246030726833.512012.602911832&type=3
 [chris-three-words]: http://www.chrisbrogan.com/my-3-words-for-2010/
@@ -138,6 +138,6 @@ With that, Seh Hui signing out, [DFTBA (Don't forget to be awesome)][dftba]!
 [wds2013]: http://worlddominationsummit.com/
 [yongjue]: http://yongjue.wordpress.com/
 [pamslim]: http://escapefromcubiclenation.com/
-[2011-review]: http://felixleong.com/blog/2012/01/2011-the-year-of-love
+[2011-review]: {filename}/blog/2012/2011-the-year-of-love.md
 [dftba]: http://nerdfighters.ning.com/
 

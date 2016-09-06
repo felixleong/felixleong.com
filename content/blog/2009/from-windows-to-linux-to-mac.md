@@ -3,7 +3,7 @@ tags: life, tech
 date: 2009-12-24T13:29:15Z
 category: Life
 
-!['My new Mac' by Seh Hui]({static}/images/2009/12/Photo-0161.jpg){: img-responsive}
+!['My new Mac' by Seh Hui]({static}/images/2009/12/Photo-0161.jpg){: .img-responsive}
 
 I can't really remember since when I have been drolling for a Mac: probably it's as soon as I saw the very first iMac in fruity colours. And now, a decade later, I finally get to own my very first Macintosh: the humble Mac Mini.
 

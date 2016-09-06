@@ -3,7 +3,7 @@ tags: card-toons, life, thoughts
 date: 2009-12-12T16:43:50Z
 category: Art
 
-!['Commitment' by Seh Hui]({static}/images/2009/12/commitment-small.jpg){: img-responsive}
+!['Commitment' by Seh Hui]({static}/images/2009/12/commitment-small.jpg){: .img-responsive}
 
 At the ripe age of 27, I'm only starting to feel the transition into adulthood: a time when friends around me are starting to have their own families. Together with that, the responsibility not only to yourself but the livelihood of the ones dependent on you.
 

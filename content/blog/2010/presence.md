@@ -3,7 +3,7 @@ tags: card-toons, life, thoughts
 date: 2010-04-25T14:47:44Z
 category: Art
 
-!['Presence' by Seh Hui]({static}/images/2010/04/presence-small.jpg){: img-responsive}
+!['Presence' by Seh Hui]({static}/images/2010/04/presence-small.jpg){: .img-responsive}
 
 This art is inspired by a gushing sense of loneliness as I was waiting for a bus on an empty bench. Emotions is like a weird, oblivious friend at times that invite themselves into the house whether you wanted them or not.
 

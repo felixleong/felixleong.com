@@ -3,7 +3,7 @@ tags: card-toons, opinions, thoughts
 date: 2010-06-24T08:30:00Z
 category: Art
 
-!['Your Stand' by Seh Hui]({static}/images/2010/06/yourstand-small.jpg){: img-responsive}
+!['Your Stand' by Seh Hui]({static}/images/2010/06/yourstand-small.jpg){: .img-responsive}
 
 > I don't know the key to success, but the key to failure is trying to please everybody. ~Bill Cosby
 

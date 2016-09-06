@@ -1,6 +1,7 @@
 title: We Need More LGBT Role Models
 tags: ideas, lgbt, opinions, thoughts
 date: 2010-10-30T16:13:31Z
+category: Life
 
 It was a really a pleasant surprise to me when President Obama had released a video for [It Gets Better][getsbetter]: a video project to gather encouraging messages to LGBT youths whom are often harassed, bullied and ostracized for being homosexual.
 

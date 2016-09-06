@@ -1,9 +1,9 @@
 title: Why Setting Deadlines for Yourself is a Bad Idea
 tags: motivation, opinions, personal-accountability, programming, self-improvement, thoughts, work
 date: 2010-10-03T15:09:01Z
-category: Reflection
+category: Reflections
 
-!['Feeling Gray' by Seh Hui]({static}/images/2010/10/FeelingGray.jpg){: img-responsive}
+!['Feeling Gray' by Seh Hui]({static}/images/2010/10/FeelingGray.jpg){: .img-responsive}
 
 **Before starting the project:**
 

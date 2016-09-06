@@ -13,14 +13,14 @@ Continuing the tradition of reviewing the year that had past and setting resolut
 Just to set up the context of the whole blog post, here's the list of things that I believe to be my defining moments of the year 2011 (grouped by similarity and not in chronological order):
 
 - Becoming one of the primary volunteers for [Webcamp KL](http://www.facebook.com/groups/webcamp/) – a meetup for web developers, designers and tech enthusiasts
-- Gave two talks in Webcamp KL: based on audience reception, [the first talk tanked](/blog/2011/05/major-shifts-the-adventures-continues) while my second attempt fared better
+- Gave two talks in Webcamp KL: based on audience reception, [the first talk tanked]({filename}/blog/2011/major-shifts-the-adventures-continues.md) while my second attempt fared better
 - Hosted two mastermind groups and one co-working group within Webcamp KL members and gaining new friends as a result
 - Participated in two [Hackweekends](http://hack.weekend.my/) and developing a love for hackathons
-- [Taking cooking more seriously](/blog/2011/03/the-joys-of-cooking)
-- The breakdown and burn out from my previous job, [transitioned into working for startup](/blog/2011/05/major-shifts-the-adventures-continues) and [decided to resign nine months later](/blog/2011/11/i-quit)
+- [Taking cooking more seriously]({filename}/blog/2011/the-joys-of-cooking.md)
+- The breakdown and burn out from my previous job, [transitioned into working for startup]({filename}/blog/2011/major-shifts-the-adventures-continues.md) and [decided to resign nine months later]({filename}/blog/2011/i-quit.md)
 - A two-week visit to Australia and falling in love with Melbourne
-- [Donated a significant portion of my library to Fluentspace](/blog/2011/06/purging-treasured-possessions)
-- [Found the man of my dreams](/blog/2011/08/seeing-you-again), and [am gravely disappointed that the feeling was not reciprocated](/blog/2011/11/the-thing-called-love)
+- [Donated a significant portion of my library to Fluentspace]({filename}/blog/2011/purging-treasured-possessions.md)
+- [Found the man of my dreams]({filename}/blog/2011/seeing-you-again.md), and [am gravely disappointed that the feeling was not reciprocated]({filename}/blog/2011/the-thing-called-love.md)
 
 ### The Nitty Gritty Details (and probably too much information to some)
 

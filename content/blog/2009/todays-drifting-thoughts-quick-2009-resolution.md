@@ -2,7 +2,7 @@ title: Today's Drifting Thoughts: Quick 2009 Resolution
 tags: thoughts
 date: 2009-01-03T06:13:00Z
 category: Reflections
-featured_image: http://smg.photobucket.com/albums/v95/seh_hui/livejournal/?action=view&current=Photo-0166.jpg
+featured_image: http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0166.jpg
 featured_image_credit: 'Dawning' by Seh Hui
 
 As an exception, I'm not going to review my 2008 resolution as it turns out that I can pretty much sum up my progress in one line: most of them achieving to an acceptable (but not necessarily satisfying) standard. Would rather set out my rough plans for 2009 onwards and sort of plug in the holes and details as I go along.

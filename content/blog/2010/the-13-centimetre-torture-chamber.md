@@ -3,7 +3,7 @@ tags: diy, life
 date: 2010-01-19T15:43:36Z
 category: Art
 
-!['Fixing The Basin' by Seh Hui]({static}/images/2010/01/FixBasin-small.png){: img-responsive}
+!['Fixing The Basin' by Seh Hui]({static}/images/2010/01/FixBasin-small.png){: .img-responsive}
 
 Honestly speaking, I didn't get the masculine appeal of DIY (do-it-yourself).
 

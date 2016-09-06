@@ -5,7 +5,7 @@ category: Travel
 featured_image: images/2010/07/DSCF0057.jpg
 featured_image_credit: 'A beautiful sculpture of a girl holding to a bowl, kneeling' by Seh Hui
 
-!['Bird's eye view on one of Phuket's Island' by Seh Hui]({static}/images/2010/07/DSCF0020.jpg){: img-responsive}
+!['Bird's eye view on one of Phuket's Island' by Seh Hui]({static}/images/2010/07/DSCF0020.jpg){: .img-responsive}
 
 I'm seated quite comfortably during my flight, other than the fact my legs are twisted in a slightly odd angle to overcome the cramped space in front of me. Yet despite that, I felt like being on the edge of my seat: I'm having travel anxieties.
 
@@ -19,7 +19,7 @@ As a novice traveler, everything is an adventure to me: what better way to embar
 
 I like to take my time and explore my surroundings the first moment I arrived at a foreign destination. Being the kind of person who gets anxious easily, a walk around town allows me to observe and understand the place in a relaxed manner – giving the orientation I needed to feel at home.
 
-!['A beautiful sculpture of a girl holding to a bowl, kneeling' by Seh Hui]({static}/images/2010/07/DSCF0057.jpg){: img-responsive}
+!['A beautiful sculpture of a girl holding to a bowl, kneeling' by Seh Hui]({static}/images/2010/07/DSCF0057.jpg){: .img-responsive}
 
 Towns in Phuket are quite easy to navigate, there's usually one road that trails along the west coast with sandy white beaches in sight and the seas extends to the horizon. Along that road you'll see all sort of conveniences catered for tourists: restaurants, stores, tour agents, massage parlors and even opticians. I bet sunglasses sells quite well here.
 
@@ -27,7 +27,7 @@ Most restaurants and bars are beautifully decorated with different styles: from 
 
 Watching these work of art made me feel like I wanted to hire a Thai interior designer when I need one.
 
-!['Bustling streets of Kata town' by Seh Hui]({static}/images/2010/07/DSCF0070.jpg){: img-responsive}
+!['Bustling streets of Kata town' by Seh Hui]({static}/images/2010/07/DSCF0070.jpg){: .img-responsive}
 
 Venturing a bit deeper into town paints a different picture altogether: a place where the locals actually lives and do business at and where tourists usually wouldn't bother to go into. Like most town where locals lives, the surroundings has a practical air and less flashy. To me, this practical side of town is far more interesting, as it shows how everyday life is really like for the people who called Kata home.
 

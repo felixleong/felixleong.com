@@ -3,7 +3,7 @@ tags: art, creativity, life
 date: 2010-08-28T15:01:12Z
 category: Art
 
-!['Doodles inside a Moleskine' by Seh Hui]({static}/images/2010/08/Photo-0216.jpg){: img-responsive}
+!['Doodles inside a Moleskine' by Seh Hui]({static}/images/2010/08/Photo-0216.jpg){: .img-responsive}
 
 I got my first Moleskine notebook, thanks to the 20% notebook sale [Cziplee][czip] is having. I'm a nerd when it comes to stationery :).
 

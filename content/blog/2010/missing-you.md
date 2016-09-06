@@ -3,7 +3,7 @@ tags: card-toons, life
 date: 2010-02-10T15:12:21Z
 category: Art
 
-!['Missing You Exponentially' by Seh Hui]({static}/images/2010/02/Missing-You-Exponentially-small.jpg){: .img-responsive}
+!['Missing You Exponentially' by Seh Hui]({static}/images/2010/02/Missing-You-Exponentially.png){: .img-responsive}
 
 If the feeling of missing someone is just pure sadness, then dealing with and getting out of it would be very easy. It's just like any other sadness: just find the source and decide what's the best course of action to deal with it.
 

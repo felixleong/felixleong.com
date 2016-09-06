@@ -3,7 +3,7 @@ tags: card-toons, humour, life
 date: 2009-10-07T14:57:21Z
 category: Art
 
-!['Cold Callers' by Seh Hui]({static}/images/2009/10/ColdCallers-small.jpg){: img-responsive}
+!['Cold Callers' by Seh Hui]({static}/images/2009/10/ColdCallers-small.jpg){: .img-responsive}
 
 Direct marketers, who doesn't like to hate them? In many ways they are "spamming" your time in attempts in trying to sell you something random that you may have not known that you had a need for but decided not wanting them anyway. Like business opportunities in direct marketing or insurance[^1]. And the worse part of this technology is that there's no spam filters attached to phones.
 

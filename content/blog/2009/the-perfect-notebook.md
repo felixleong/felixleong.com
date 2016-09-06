@@ -3,7 +3,7 @@ tags: cool-stuff, discovery, review, stationery
 date: 2009-07-02T17:21:17Z
 category: Life
 
-!['My ideal thin, wallet-sized notebook by Apika' by Seh Hui]({static}/images/2009/07/notebooks.jpg){: img-responsive}
+!['My ideal thin, wallet-sized notebook by Apika' by Seh Hui]({static}/images/2009/07/notebooks.jpg){: .img-responsive}
 
 When it comes to stationery, I can get very particular about it - especially when it comes to paper. One of the hardest things that I'm having difficulty buying is pocket notebooks that I typically carry with me to record whatever that was lodged in my head at the spur of the moment outdoors.
 

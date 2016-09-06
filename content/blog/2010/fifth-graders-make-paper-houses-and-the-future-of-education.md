@@ -1,6 +1,7 @@
 title: Fifth Graders Make Paper Houses and The Future of Education
 tags: education, future, opinions, thoughts
 date: 2010-06-13T15:05:40Z
+category: Life
 
 Enough whining about how our education system is not preparing kids into the real world, the following short video from The Seattle Times shows a glimpse of the future of education:
 

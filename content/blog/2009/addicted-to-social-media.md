@@ -3,7 +3,7 @@ tags: card-toons, humour, life
 date: 2009-09-08T12:16:54Z
 category: Art
 
-!['Brain Fuck' by Seh Hui]({static}/images/2009/09/BrainFuck-small.jpg){: img-responsive}
+!['Brain Fuck' by Seh Hui]({static}/images/2009/09/BrainFuck-small.jpg){: .img-responsive}
 
 *(Pardon the language; sometimes I have to resort to crude exaggeration to get the point across)*
 

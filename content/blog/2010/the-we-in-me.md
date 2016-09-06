@@ -3,7 +3,7 @@ tags: art, card-toons, spiritual, thoughts
 date: 2010-10-28T12:54:26Z
 category: Art
 
-!['We In Me' by Seh Hui]({static}/images/2010/07/WeInMe-small.jpg){: img-responsive}
+!['We In Me' by Seh Hui]({static}/images/2010/07/WeInMe-small.jpg){: .img-responsive}
 
 This art is greatly inspired by [Dr Jill Bolte Taylor's phenomenal TED talk][jillted]: to be more specific about it's the second part of the talk when she tries to express her out-of-the-world experience during the time when had a stroke.
 

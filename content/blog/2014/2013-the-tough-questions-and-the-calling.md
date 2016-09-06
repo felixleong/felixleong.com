@@ -16,10 +16,10 @@ I'm probably getting a bit ahead of myself here -- as I'd need to fill in a lot 
 
 - Moved in with my sister
 - Participated in [World Domination Summit](http://worlddominationsummit.com/) and the first time traveling solo
-- [One year of building an API server for Mindvalley mobile apps](http://felixleong.com/blog/2013/08/building-up)
+- [One year of building an API server for Mindvalley mobile apps]({filename}/blog/2013/building-up.md)
 - Did two technical talks in [Webcamp KL](https://www.facebook.com/groups/webcamp/): [REST API 101](https://github.com/felixleong/wckl_restapi_talk) and [The Basics of Scaling Your Web App](https://github.com/felixleong/wckl_webappscaling_talk)
 - Started to get into the boardgaming hobby and expanded my social circle
-- [Participated in BoardGameCafe.net Retreat](http://felixleong.com/blog/2013/12/boardgamecafenet-retreat-2013-field-report-reviews)
+- [Participated in BoardGameCafe.net Retreat]({filename}/blog/2013/boardgamecafenet-retreat-2013-field-report-reviews.md)
 - Being in a romantic relationship, albiet very short-lived (again)
 - The realization of being in my 30's means getting more involved in other people's lives
 - Regrouped a brand-new mastermind group

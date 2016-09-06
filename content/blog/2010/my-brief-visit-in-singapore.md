@@ -17,7 +17,7 @@ That said, having to go through three stores to get the cheapest iPad does made 
 
 Speaking of a marathon, we did end up walking a distance when we were there. Out of curiosity, I did some distance measuring and we had walked more than 5km that day. And the most tiring walk has to be the one where we walked to our hotel during the evening: we were sweating profusely when we finally reached the hotel after walking for 2.4km.
 
-!['Walking to Rose Hotel' by Seh Hui]({static}/images/2010/09/Walking-to-Rose-Hotel.jpg){: img-responsive}
+!['Walking to Rose Hotel' by Seh Hui]({static}/images/2010/09/Walking-to-Rose-Hotel.jpg){: .img-responsive}
 
 Have to attribute it to the fact that:
 

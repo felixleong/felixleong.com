@@ -3,7 +3,7 @@ date: 2009-03-10T14:32:00Z
 tags: life, worklife
 category: Art
 
-!['Attack of the Filing Cabinets' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0049.jpg){: img-responsive}
+!['Attack of the Filing Cabinets' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0049.jpg){: .img-responsive}
 
 What happens when you need to find your own filing cabinet among a sea of hundreds of them?
 

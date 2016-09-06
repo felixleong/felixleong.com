@@ -2,7 +2,7 @@ title: Today's Drifting Thoughts: Commitment
 tags: thoughts
 date: 2009-04-13T14:36:00Z
 category: Reflections
-featured_image: http://smg.photobucket.com/albums/v95/seh_hui/livejournal/?action=view&current=carcatalogue.jpg
+featured_image: http://img.photobucket.com/albums/v95/seh_hui/livejournal/carcatalogue.jpg
 featured_image_credit: 'Car Catalogue' by Seh Hui
 
 

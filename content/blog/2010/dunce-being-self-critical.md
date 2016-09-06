@@ -1,6 +1,7 @@
 title: Dunce: Being Self-critical
 tags: card-toons, thoughts
 date: 2010-03-27T11:02:51Z
+category: Art
 
 !['Dunce' by Seh Hui]({static}/images/2010/03/dunce-small.jpg){: .img-responsive}
 

@@ -15,8 +15,6 @@ So what I did is spend some time working on the print CSS and make it pretty eno
 (function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "https://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })()
 </script>
 
-![CakePHP 1.2 Manual](http://www.scribd.com/doc/19139908/CakePHP-12-Manual)
-
 Hope you'll find it useful!
 
 [cakephp]: http://cakephp.org/

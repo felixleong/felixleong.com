@@ -3,7 +3,7 @@ tags: humour, thoughts
 date: 2009-07-12T17:45:44Z
 category: Art
 
-!['Uh… wait! Since when I got a fan club page?' by Seh Hui](http://upload.felixleong.com/2009/07/DJFeLLiO-Facebook.png){: img-responsive}
+!['Uh… wait! Since when I got a fan club page?' by Seh Hui](http://upload.felixleong.com/2009/07/DJFeLLiO-Facebook.png){: .img-responsive}
 
 Recently I was brought to attention by [Eng Lee][englee] of a Facebook page that reads “The Felix Leong Fan Club”. Usually that wouldn't have been interesting judging from the fact that “Felix Leong” was my lame attempt in coming up with an online nickname and there’s lots of Felix’es around. But what he found so amusing is that the group uses my self-drawn avatar as the image for the group!
 
@@ -13,7 +13,7 @@ Now, trying very hard to keep my narcissism at bay, I'm pretty sure that it’s 
 
 But just to amuse myself, that funny association of me as an introverted guy becoming a DJ is really fun to imagine – you know, spinning turntables under psychelledic lights while watching people dancing away energetically to the music. Probably I'd look something like this instead?
 
-!['Let's groove, baby!' by Seh Hui]({static}/images/2009/07/DJFeLLiO.png){: img-responsive}
+!['Let's groove, baby!' by Seh Hui]({static}/images/2009/07/DJFeLLiO.png){: .img-responsive}
 
 I'd probably imagine myself playing quite a mix of genres: vocal trance, eurodance, Eurobeat, techno, soul house and funky house. That'd be an interesting imagination to indulge in, really.
 

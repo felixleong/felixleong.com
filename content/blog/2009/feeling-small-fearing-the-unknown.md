@@ -3,7 +3,7 @@ tags: card-toons, humour, thoughts
 date: 2009-07-25T01:08:01Z
 category: Art
 
-!['Fearing the Unknown' by Seh Hui]({static}/images/2009/07/Fear-small.png){: img-responsive}
+!['Fearing the Unknown' by Seh Hui]({static}/images/2009/07/Fear-small.png){: .img-responsive}
 
 Recently I was exposed to [Hugh MacLeod][hugh], whom is popular for producing [cartoons that are drawn on the back of business cards][hughcards]. Apart from the fact that his cartoons are really funny (some of them wickedly so :)), I also liked the idea of drawing behind business cards and really had a strong urge in trying to draw some of my own.
 

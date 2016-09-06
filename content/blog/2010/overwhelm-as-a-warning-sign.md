@@ -3,7 +3,7 @@ tags: card-toons, life, productivity, self-improvement
 date: 2010-10-14T13:53:52Z
 category: Art
 
-!['Overwhelm' by Seh Hui]({static}/images/2010/10/Overwhelm.jpg){: img-responsive}
+!['Overwhelm' by Seh Hui]({static}/images/2010/10/Overwhelm.jpg){: .img-responsive}
 
 “Overwhelm is a sign of misaligned priorities.” [was what I tweeted a while back][tweet].
 

@@ -2,7 +2,7 @@ title: Happy Chinese New Year!
 date: 2009-01-21T15:39:00Z
 category: Art
 
-!['CNY deco' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0243ModifiedinGIMPImageEditor.jpg){: img-responsive}
+!['CNY deco' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0243ModifiedinGIMPImageEditor.jpg){: .img-responsive}
 
 It's that time of the year again :), wishing everyone a happy Chinese New Year!
 

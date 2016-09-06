@@ -3,7 +3,7 @@ tags: card-toons, opinions, self-improvement, thoughts
 date: 2010-08-05T12:55:49Z
 category: Art
 
-!['Complaining' by Seh Hui]({static}/images/2010/07/Complaining-small.jpg){: img-responsive}
+!['Complaining' by Seh Hui]({static}/images/2010/07/Complaining-small.jpg){: .img-responsive}
 
 Complaining, one of our greatest vices.
 
