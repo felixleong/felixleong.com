@@ -1,0 +1,11 @@
+title: A Couple of Excitements
+date: 2008-01-12T14:25:00Z
+category: Life
+
+Finally got my last batch of dividend slips for 2007. (Yes! Now that decreases the number of documents that I have to wait for to file my taxes)
+
+And it’s very exciting when I sort out my book receipts (again I overspent on books XDDD, but at least I can give those receipts out) and dividend slips. More exciting to know that the dividends amount to more than a month’s salary (yay for baby steps to financial freedom :D), which gives me a lot of motivation to work towards my next financial goals in the years to come.
+
+Got my phone back but I didn’t really get to test it at the moment but so far no problems :). Looking forward to holding on to it for more than 3 years in great condition (I think it’s sufficient enough to last that long :) ).
+
+And… I can’t wait till Monday comes :D. Reason? Just receive notification to collect the [Asus Eee PC](http://eeepc.asus.com/) after I pre-ordered it last week :D. Should the shop open tomorrow you bet I’ll be rushing there to get it as soon as I could :p. But I can wait! :)
