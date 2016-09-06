@@ -1,0 +1,28 @@
+title: Reflecting 2009
+tags: life, thoughts
+date: 2009-12-31T03:34:56Z
+category: Annual Review
+featured_image: https://c3.staticflickr.com/1/212/515640082_12e6691fcd_b.jpg
+featured_image_credit: 'Two Paths Diverged' by John, Flickr
+featured_image_url: https://www.flickr.com/photos/grimages/515640082/
+
+> Come to think of it, it’s kind of funny that we often tell ourselves to make sure that we live life and yet forgetting about that very advice.
+> ~ *from* <a title="Cliché about modern life" href= target="_blank">[Cliché about modern life][cliche]</a>
+
+
+As 2009's going to pass and soon enough I'll turn 28, I find myself struck with a shocking realization — that I had transitioned into adulthood without even noticing it coming. It seemed mundane and people would have chuckled[^1] if I blurted this remark in real life, but to be honest it's pretty much until now I'm starting to noticing the full effects of being an “adult” in line to the expectations of my social circle.
+
+Such a thought came to me as I started to see how life has unfolded around and within myself: having changed jobs and returning back to where I started, getting to know more people in different situations and environments as I entered into new territories, seeing close friends marrying one-by-one, having to understand and review my parents' insurance policies… among other things. It's the realization that as a child, I could get away with having other taking care of certain aspects of life; But as I grow up, I'm now required to take up a bigger role not only in my life but also in others. What used to be that I'm already provided with food, shelter and transport to becoming a more growing concern in my own daily life.
+
+It really felt like I'd now married a person named “life” and in need to get to know and live with that person until the day I pass on to another realm.
+
+Honestly speaking 2009 has been a year full of challenges, and every once in a while I'd face situations and possibilities in life which had a lot of parameters that I'm completely oblivious about. Having to face with life decisions with a lot of unknowns and uncertainties to its potential future impact is something that I'm still not used to: occasionally some would trigger strong emotional reactions — overwhelm, fear, doubt, helpless and with skepticism.
+
+I really admired people who always viewed challenges with a twinkle in their eyes and take the leap to pursue full-heartedly: filling with curiosity, wonder, excitement, passion and a creative spirit. Also people who had gotten back to their feet with a laugh after they stumbled, tripped and fall flat on their face along the course of pursuing their passion. I do wonder how much inspiration and personal action I needed more to cultivate such a beautiful and strong spirit?
+
+Looking ahead towards 2010, it signifies a move into a journey towards self-realization. It's a time to seriously think about what I really wanted in life and work towards making them a reality. It's a time to accepting the bigger role I'm offered to play in the world and expand my interest beyond myself and looking for ways to contribute to others. It's an even critical phase that I needed to get in touch with my strengths to harness them into the manifestion of my life.
+
+That'd be my vision to be carried forward into next year and beyond.
+
+[^1]: Emotional reaction may vary. But I could imagine the amusement I'd get from that :)
+[cliche]: {filename}/blog/2009/cliche-about-modern-life.md

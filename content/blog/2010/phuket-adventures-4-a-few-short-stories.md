@@ -1,6 +1,7 @@
 title: Phuket Adventures #4: A Few Short Stories
 tags: photography, travelogue
 date: 2010-08-14T01:08:14Z
+category: Travel
 
 Here are a few short stories that I couldn't quite tie into the three-part travelogue that I had written up. You could read the previous entries here:
 

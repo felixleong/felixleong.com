@@ -1,0 +1,20 @@
+title: Closeted
+tags: card-toons, thoughts
+date: 2009-08-25T13:06:32Z
+category: Art
+
+!['Closeted' by Seh Hui]({static}/images/2009/08/Closeted-small.jpg){: img-responsive}
+
+Some of us may have little secrets of our own that we wished that nobody will discover. I had a few of those myself.
+
+These little secrets may even have nothing inherently wrong in them, it's just part of our nature, desires or even dreams, and yet we are fearful: as we are conditioned to conceive these as radical or socially unacceptable. Sometimes the fear could be so strong that we perceive them to be mortally so.
+
+Therefore we kept mum, acting against ourselves and clinging on to the thought that by doing so, nobody will know - so that we can blend into conformity. Sometimes we may succeed in deceiving others; other times not so - but those caring people around us decided to not mention about their observation with the best of intentions.
+
+Either way, we have sacrificed ourselves through the betrayal of who we are. As we knowingly letting ourselves bleed towards a slow death.
+
+It doesn't have to be that way, really. Currently I'm learning to tell myself that it's OK to find ways and means which I could express myself in ways that I'm comfortable with. Learning the ability to give some time for me to accept those weird and queer parts of myself, and even more time and patience to embrace them.
+
+Maybe… There's no need to wish for Narnia on the other end of the closest. There's already a world filled with adventures and discoveries on this side of the world we're in.
+
+All we need is just that little will to push the doors open…

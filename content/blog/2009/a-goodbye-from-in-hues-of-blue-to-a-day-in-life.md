@@ -1,0 +1,21 @@
+title: A Goodbye: From In Hues of Blue to A Day in Life
+date: 2009-06-13T16:33:00Z
+category: Life
+
+First of all, just wanted to say that thanks a lot for those who have been following my updates through this blog.
+
+As you noticed the long hiatus, lots happened for the past three months (actually it's just me transitioning back to my old job, literally) and it's has been an excruciating time for me as I find myself doing a very deep soul search all over again.
+
+As previously said, the seventh chapter is forthcoming and hence I felt that today's the day. No poems, but a simple goodbye. Goodbye in the sense that I've decided that I'll now continue to blog in [my personal website](http://felixleong.com/) - this is mainly due to the fact of my intent to change the intent of my posts and to graduate from the small internal dialogues of my head.
+
+"It's time to close the old books and start afresh."
+
+I still haven't really decided the format of my new writings will be, so it's pretty much back to my beginnings back in 2004 when I first started it all. The theme of this chapter "Reprise", in a sense, has really came full circle. So it'd be a lot of experimentation for now but I doubt it won't be anything personal this time - all the small announcements were done via Twitter and Facebook already and the only thing I think that warrants me to blog is just the drifting thoughts, so we'll see how it goes :).
+
+So for those who needs automatic updates of my new blog, just subscribe to my RSS feed and you are ready to go :). (I suspect I'll tinker with the current theme :p)
+
+So, final words for the blog, thanks for all the kind support and wisdom shared and I really hope to see you over at A Day in Life.
+
+
+Much love,
+Seh Hui "Felix" Leong

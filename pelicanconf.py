@@ -62,12 +62,6 @@ AUTHOR_SAVE_AS = ''
 
 
 # Plugins
-PLUGINS = [
-    'pelican-page-hierarchy',
-    'pelican-page-order',
-    'assets',
-    'post_stats',
-]
 TYPOGRIFY = True
 
 ASSET_CONFIG = (
@@ -87,4 +81,11 @@ MD_EXTENSIONS = [
     'plugins.markdownext.mdx_unimoji',
     'plugins.markdownext.mdx_del_ins',
     'plugins.markdownext.pelican_image(static={})'.format(STATICURL),
+]
+
+PLUGINS = [
+    'pelican-page-hierarchy',
+    'pelican-page-order',
+    'assets',
+    'post_stats',
 ]
