@@ -13,9 +13,13 @@ Then just recently, this feeling all came back to me again, as if I revisited so
 
 “自己一个人不会闷吗？” ("Aren't you bored being alone?") was the question. That's the Chinese way of asking do you feel lonely.
 
+---
+
 It has been a month I have moved out to live on my own. Surprisingly life has been pretty pleasant, having my own room in an apartment with a nice night view that looks out towards rows of trees along the main road next to MMU, and being able to see small blips of light across the horizon where Putrajaya is located. The calm and serene surrounding is a complete contrast compared to the hustle and bustle of Kuala Lumpur - which I can easily kick back and relax even while working.
 
 Transitioning to my new working life is also smooth and enjoyable, in which I had been roped into a very friendly group of colleagues which we always went out for lunch together. Hopefully as we get along I'll be able to get to know them better :)…
+
+---
 
 *"Yet… despite that… why?"*
 

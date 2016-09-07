@@ -11,6 +11,8 @@ It's like, stuff like cash deposit machines and online banking that was once unh
 
 Hmm… which pretty much means that I would personally find myself hard to move out from a metropolitan KL (Kuala Lumpur) to a more suburban place? Hmm… but I suppose I might be able to adapt when the time comes (so long I find it beneficial for the change :LOL:) Probably it's all about priorities in life, I guess.
 
+---
+
 Other than that, I'm going to be with my parents until Saturday night, and at least now I had the only nagging thought settled (paying for my auction ^^||) and it won't bug me from time to time.
 
 Most of the time spent at home is pretty much me reading and resting. Typical routine when I was back with them actually :p.

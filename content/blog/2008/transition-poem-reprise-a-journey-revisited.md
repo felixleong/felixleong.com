@@ -56,6 +56,8 @@ To a place of no return…
   
 And that's only the beginning…  
 
+---
+
 ### Chapter 6: Reprise - A Journey Revisited  
 
 *January 2008*

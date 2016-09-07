@@ -14,6 +14,8 @@ Or probably I'm asking too much as in having the relationship that pretty goes i
 
 Anyway, I never knew Jason's mom (damn I'm bad with names .\_.||) cooks well! The grilled salmon she prepared tasted so good, yum! :D I really wanted to cook as well as her… if I ever picked up cooking, that is ^^|||. I don't know, but probably I would really start to do so when I really moved out to live on my own.
 
+---
+
 In other news, these days I'm pretty much busy doing some financial planning: learning about the stock market, real estate (pretty much I'm shopping for my future home) and investing as well as planning my expenses for my Cambodia trip. Yes, I'm going for a Cambodia trip this May, which means it'd be the first time I visited a foreign country :). It would be a great experience to me in many ways :). But budgeting within this 3-4 months is definitely painful. My room for mistakes is small at the moment and I have spent too much this month =\_=||. That means that I have to go the extra mile for the next few months.
 
 And yes, I'm still coping well emotionally as well as figuring out my next step relationship wise. I don't really a fixed idea yet, which means there's a lot of room for some flexibility on my part. But… well, finding that "deep" connection (see descriptions above) is a challenge by itself, so I don't mind taking a longer time, but it can be frustrating when nothing seemed to work ^^||. Somehow I still have to live with the possible worst case scenario that I'll never find it. But it's OK… that's part of my life-long experimentation.

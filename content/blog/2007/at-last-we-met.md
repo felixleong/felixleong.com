@@ -16,9 +16,16 @@ Anyway, most of time we spent time shopping in 1 Utama and Berjaya Times Square.
 
 One interesting thing is that I brought my iPod with me, and I kept on recommending ("advertising"?) songs to him. This is probably the first time I actually shared music with him… like, gave him the ear piece while I go through my playlist thinking of what songs he'd like. I personally find that fun, really :). Probably something that I would wish that I can do the same with my lover… it'd been sweet sharing what songs we like. But… well, I think sharing this privilege with a friend who share the same music taste as I do makes me glad enough.
 
-I don't know… thinking about it, probably I shouldn't keep all the best thing for that "one special person"… or at least the things that I'd reserve for him/her, I think. Just felt that… it'd be a waste if I were to keep it in to myself, and there's no guarantee that: 1. I would be able to find that "one special person", and 2. That person would appreciate and/or like what I would like to offer. Probably the only exception when it comes to sex in which I'm more firm to keep my more conservative and traditional stand (as in treat sex with great responsibility and respect). Other than that… well, guess my skills does need some exercise in some way or the other. Probably I can't improve my skills if I don't use friends as my guinea pig, can I? (To my friends: Don't throw rotten tomatoes on me for this statement ^^||).
+I don't know… thinking about it, probably I shouldn't keep all the best thing for that "one special person"… or at least the things that I'd reserve for him/her, I think. Just felt that… it'd be a waste if I were to keep it in to myself, and there's no guarantee that:
+
+1. I would be able to find that "one special person", and
+2. That person would appreciate and/or like what I would like to offer.
+
+Probably the only exception when it comes to sex in which I'm more firm to keep my more conservative and traditional stand (as in treat sex with great responsibility and respect). Other than that… well, guess my skills does need some exercise in some way or the other. Probably I can't improve my skills if I don't use friends as my guinea pig, can I? (To my friends: Don't throw rotten tomatoes on me for this statement ^^||).
 
 Well… probably I can work out a plan or something, I guess.
+
+---
 
 And oh! By the way, I can't wait for my MISIA Marvelous CD to be replaced (it had taken me two months of fruitless waiting). :( Which means this is one CD in my list that I'd have to import, so I exchanged that with Mika Nakashima's Best CD. It had its first spin, but I does sound to me that it'd probably take a few runs for me to have the songs sink in. But it's nice to have a "newcomer" to my music collection :) (as in an undiscovered artist to myself).
 

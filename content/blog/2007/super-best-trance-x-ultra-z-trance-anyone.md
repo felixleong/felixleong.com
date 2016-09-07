@@ -16,6 +16,8 @@ Let me know if anyone’s interested.
 
 … Or perhaps letting me know where would be a good place to sell this would be of great help ^\_^.
 
+---
+
 On the personal side of things:
 
 !['Latest CD purchases'](http://img.photobucket.com/albums/v95/seh_hui/albums/P20-11-07_2340.jpg){: .img-responsive}
