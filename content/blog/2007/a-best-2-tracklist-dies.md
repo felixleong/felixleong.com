@@ -1,0 +1,15 @@
+title: A BEST 2 Tracklist *dies*
+date: 2007-02-01T16:55:00Z
+category: Life
+
+Just notice that the [tracklist](http://www.avexnet.or.jp/ayu/news/070117-r.html) is out, but damn avex knows how to squeeze every single penny out from Ayu's fans (umm… actually ALMOST EVERY WELL-KNOWN JAPANESE MEDIA COMPANIES ARE MONEY SUCKERS! D:).
+
+The DVDs are definitely worth owning (well… since I didn't own any of her video collection DVDs, that means that I don't have any official videos that predates the MY STORY album) :)! CD wise… well… I think most likely they will be using the album mix for most of them? I don't know, I hope that they throw in several acoustic mixes from her singles or something (less likely, I suppose?). And I'm wondering whether avex will include all two PVs for Dearest (am I asking too much here? ^^||).
+
+SOMEHOW I CAN'T believe that they didn't include RAINBOW at all! But it does seems like they have a preference to choose A-sides of her singles?
+
+But from the looks of it, I would probably still have to buy her Complete Clip Box in order to get all her PVs? T-T But it's like… spending for the money for 3DVDs but I only need like… 1.5DVDs (嫌なぁぁぁ~〜). Meh… that's not really that important anyway.
+
+At least the good thing is that the DVDs weren't the first press exclusive (although it's pretty easy to get first press items for Asian editions). It's reported on the website that the first press editions will come with a coloured slip case, I wonder how they'd look like.
+
+Other than that, I better have some sleep.

@@ -1,0 +1,9 @@
+title: Simultaneous Kick Off
+date: 2007-08-17T15:38:00Z
+category: Life
+
+… Simultaneous kicking off three blogs this month, adding this one that would be four blogs that I’m going to maintain ^^||.
+
+Honestly speaking at the this stage I’d say that everything is still extremely experimental (except for this blog, since I’m pretty much updating pretty regularly), but it pretty much reflects the four things that I have been learning at the moment.
+
+Anyway, the stuff is already included in my list of links on the right column, just drop by if it seemed like something that might interest you :).

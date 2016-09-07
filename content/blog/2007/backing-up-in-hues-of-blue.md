@@ -1,0 +1,9 @@
+title: Backing up In Hues of Blue
+date: 2007-03-31T04:03:00Z
+category: Life
+
+I just [mirrored](http://blog.felixleong.com/) my blog over to my web server, pretty much for my own reference only than anything. And at least I have a second blog or some sort in case LiveJournal decides to turn evil XD.
+
+Anyway, I'm sort of revisiting the idea of reviving several sites of mine, seeing how my web server was being put into extreme disuse (and I'm paying for it! X(). Judging from my procrastination habits, I think it wouldn't take off without much friction on my part. Haha :p, learning server-side scripting like PHP and doing web design is a lot of work, to be honest.
+
+Well… let's see how my enthusiasm goes. Baby steps would be nice enough :).

@@ -1,7 +1,7 @@
 title: Transition Poem: Reprise - A Journey Revisited
 tags: poem
 date: 2008-01-27T04:16:00Z
-category: Creative
+category: Writing
 
 A year and a half has passed, the draft that was left dusting for a year…
 

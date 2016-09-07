@@ -1,0 +1,7 @@
+title: Impromptu: Practicing
+date: 2007-03-10T16:51:00Z
+category: Life
+
+Thinking about it, sometimes it's much easier to perform my best when I'm not all that concerned with the outcome and in a relaxed state. At times of panic and disaster, whatever "best scenarios" that was in my head just doesn't seem to work out and having a better chance of screwing up.
+
+Hmm… meaning that I must open myself up to practice and learn as much as I could from ordinary situations? Or something like that, I think.

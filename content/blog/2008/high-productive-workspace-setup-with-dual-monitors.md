@@ -1,8 +1,9 @@
 title: High productive workspace setup with dual monitors
 tags: lifestyle-design, productivity, tips, work
 date: 2008-12-28T10:59:56Z
-featured_image: images/2008/12/desktopsetup.png
-featured_image_credit: 'Illustration of my personal workspace setup' by Seh Hui
+category: Projects
+
+!['Illustration of my personal workspace setup' by Seh Hui]({static}/images/2008/12/desktopsetup.png){: .img-responsive}
 
 A month ago, I'm lucky to receive a 24" monitor to be used with my current laptop at work. Having heard about the raves of productivity increment of a multi-monitor setup first from the [late Randy Pausch's (of "The Last Lecture" fame) Time Management lecture][timemgt], I was quite excited with the prospect of getting that productivity boost.  As it turns out, having two monitors is just the first step - Knowing how to effectively use the setup is one that I have spent quite some time to experiment to get it right and starting to notice the convenience and improvement gains.
 

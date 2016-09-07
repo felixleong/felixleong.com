@@ -1,0 +1,13 @@
+title: Stardust
+date: 2007-11-04T05:04:00Z
+category: Life
+
+Watched Stardust yesterday and was enjoyed it a lot! :D
+
+What I really liked about the movie is not only the lush graphical effects, which I believe is almost a must for fantasy movies, but how a very basic fairytale like storyline were being seamlessly weaved with small plot twists and details. To be honest the first 20 minutes which outlays the introduction of characters was a bit dull, but once Tristan starts to set out on his journey to the other side of the Wall, that where the movies starts to shine.
+
+From there on, the storyline doesn’t make Tristan and Yvaine (the two protagonists) dominating the movie, but was shared among all villains (with separate motives) and supporting characters. One thing that makes it really stand out is the attention to detail to the plot, which really utilizes many items and character actions as plot devices and creates a lot of plot twists. And that makes it extremely engaging to watch because I personally find it very easy recall such details as they did make the plot devices stand out in a subtle manner when they were first introduced (especially the glass flower).
+
+Not to mention the sexual hints and violence scenes that was presented in a fairytale-like manner, which have a dark comical effect on me :p. (and surprisingly our censors were very lenient on the movie with no cuts (I think))
+
+Definitely worth a second watch in my books.

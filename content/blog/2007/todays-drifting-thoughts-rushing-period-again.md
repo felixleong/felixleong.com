@@ -1,0 +1,12 @@
+title: Today's Drifting Thoughts: Rushing Period Again
+tags: thoughts
+date: 2007-11-16T02:43:00Z
+category: Reflections
+
+While we are starting to reach towards the holiday season, a couple of work items seems to be creeping in to a point that requires haste. Not that I'm working in a company that was in a seasonal business, apparently it just happened that everything seemed to fall on the end of the year and quite honestly it seemed to show signs of either us being understaffed and probably some inefficiency as well.
+
+So in a way, my brain was so focused on getting work done that I rarely had time to think anything else. Even during my spare time, I find games like Sudoku, Solitaire and Minesweeper extremely calming as I have my main processor (read: the brain) shielded off from distraction and focusing on solving things.
+
+Not really sure how to describe the state that I'm being in, in the past I'd definitely felt as if I'm dead, being in a comatose state or something. Currently it seemed that despite my lack of energy at times, I still find enough of them available to get things done (although I do admit that there are times that I find that I required a longer time to "recharge", mainly at times that I find myself spending far more time on playing those "calming" games ^^||).
+
+But somehow I just felt the need to work for whatever I needed to attain and changes (good or bad) is a price that needed to be paid. At least that's my line of thought at the moment.

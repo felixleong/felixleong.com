@@ -1,7 +1,7 @@
 title: Poem in Prose: Asylum
 tags: poem
 date: 2009-04-24T12:08:00Z
-category: Creative
+category: Writing
 
 ### ~ #3 ~  
 Running away  

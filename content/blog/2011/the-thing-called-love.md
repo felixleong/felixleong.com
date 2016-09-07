@@ -6,7 +6,6 @@ featured_image: http://lh4.ggpht.com/-QFdIuLWwnGs/TrQWfPXzBYI/AAAAAAAABT4/o8x3tP
 featured_image_credit: 'My Pet Swan…' by Adriane Dizon, Flickr 
 featured_image_url: http://www.wylio.com/credits/flickr/6293548816
 
-<a title="license: http://creativecommons.org/licenses/by-nd/2.0/ - click to view more info about 'My Pet Swan…' or find free 'origami heart' pictures via Wylio" href=""><img src="" alt="" width="420" height="278" /></a>
 
 You probably wouldn't know this as I'm not able to bring myself to say it: that you mean everything to me since I felt the rush upon knowing you. In due course of time, I still find myself fixated over you despite the fact that I know I need you more than you'll ever need me.
 

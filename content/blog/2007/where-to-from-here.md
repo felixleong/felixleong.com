@@ -1,0 +1,15 @@
+title: Where to from here?
+date: 2007-05-02T13:32:00Z
+category: Life
+
+Just came back from my hometown, with the twin day holiday thanks to an overlap of Labours' Day and Wesak Day (both are public holidays in Malaysia). So spent three days back home. Nothing during three days, just me idling.
+
+Everything was getting so similar that nothing was really worth mentioning…
+
+Somehow… the main things on my brain at the moment is still the concept of happiness and the very place that I'm standing now. Somehow I have been reading Honey and Clover and I found myself extremely immersed and touched by it. All the small and subtle feelings and expressions about unrequited love was captured with such essence that it strung my heartstrings many times. It really brings out the complexity about human emotions and relationships, and I greatly recommend it (especially starting from the second book onwards).
+
+At the moment, I just find myself admiring (or probably jealous) of the things that others had. I was pretty much slacking off, in many ways, and seeing people doing things that I wanted to do or achieved some sort of possession that I desired of makes me feeling small.
+
+*"… When will I be able to overcome my own lack of motivation, self-loathing, shame, inferiority and self-consciousness…? Was the things that I had is not good enough…?"*
+
+At the moment, I just felt as if I missed something crucial and I'd still have to find that out…

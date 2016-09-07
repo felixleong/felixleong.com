@@ -1,0 +1,14 @@
+title: Today's Drifting Thoughts: Stressed
+tags: thoughts
+date: 2007-04-06T14:18:00Z
+category: Reflections
+
+Still dealing with my issues with communications and dealing with people (read: users and people who I'm supposed to cooperate with).
+
+Today's pretty much a tiring day, setting up the environment for testing next week. Thankfully Eng Lee was with me helping out with everything, it'd be extremely tiresome doing everything on my own. Not to mention that having the monitor on the carpeted floor means that my neck is definitely strained. Ouch…
+
+Somehow the situation is really stressing and shaking up my ideas of my own comfort zone. I mean, it is a defensive mechanism all right, but the challenge is to know what were false alarms is an art by itself. To me, dealing with people was the my least exercised skill throughout my whole life and asking me to learn the art of registering people's looks and names and communication (not to mention pure common sense) still looked like a tall order to me at the moment. (Meh… probably I'm just finding excuses here .\_.)
+
+Somehow I was wondering what I really wanted in life… what were the things that were really the kind of comfort that I wanted… lacking my sense of direction. Not to mean that there's no dreams or ambitions, just that I felt that those things were pretty much shallow stuff, at least my impression towards them were that way. Then by that, what was really the needs of the within? Or is it actually the fact my ego thinks everything was not good enough and happiness requires extraordinary effort to achieve?
+
+Haha… I don't have the slightest idea myself, to be honest. ^^|||

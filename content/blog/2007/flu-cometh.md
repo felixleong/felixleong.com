@@ -1,0 +1,7 @@
+title: Flu Cometh
+date: 2007-01-29T14:00:00Z
+category: Life
+
+Just for the record, caught a flu today, although it didn't turn out to be a full fledged flu attack (probably because I had Panadol yesterday, knowing that I might be getting a cold). But blegh, it's still nasty: my throat is slightly inflamed and sore throats were never nice to have. Not to mention the minor pain on the joints and muscles.
+
+Hope I get well soon enough, say, tomorrow?

@@ -15,7 +15,7 @@ Cutting a long story short (I'll save the grueling details to myself), now you�
 For the brave ones that chose the Do-It-Yourself route, here’s the instructions for Ubuntu 9.04 (Jaunty Jackelope):
 
 
-1. Get the following packages: texlive, texlive-latex-extra, python-setuptools *(Note: the TexLive/LaTeX stuff is over 150MB)* 
+1. Get the following packages: texlive, texlive-latex-extra, python-setuptools[^1]
 
     #!bash
     sudo aptitude install texlive texlive-latex-extra python-setuptools
@@ -36,6 +36,7 @@ For the brave ones that chose the Do-It-Yourself route, here’s the instruction
 
 [**Django Documentation (Aug 1, 2009): PDF (Hosted at Box.net)**][djpdf]
 
+[^1]: the TexLive/LaTeX stuff is over 150MB
 [django]: http://www.djangoproject.com/
 [djfaq]: http://docs.djangoproject.com/en/dev/faq/general/#how-can-i-download-the-django-documentation-to-read-it-offline
 [djpdf]: http://www.box.net/shared/vo4fklk21i

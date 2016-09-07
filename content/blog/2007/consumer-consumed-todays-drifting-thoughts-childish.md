@@ -1,0 +1,22 @@
+title: Consumer Consumed + Today's Drifting Thoughts: Childish
+tags: thoughts
+date: 2007-03-19T16:21:00Z
+category: Life
+
+Just got A BEST 2… both of them… the CD+DVD+DVD edition… at the expense of next month's pay (credit cards can be both a blessing and a curse).
+
+At least I got a discount and two posters for getting both of them :). And… It's my first Countdown Live DVD :D!
+
+Speaking of which, my colleague commented that "I don't understand why people support their idol with such enthusiasm" (…or something like that, I can't remember the words at all): It's funny as it's exactly what I thought about a few years back when I was in high school ^^||. And apparently now it was happening to me as I support Ayu a lot (although not to a point of fandom… but I do collect all her major albums, and most of them bought as soon as they were released).
+
+Usually when I was asked, I just gave them the over simplistic (but true) answer that I liked her lyrics and admired that she wrote them all. But deep down I know it's more than that, I know I was first attracted by the strong melodies and interesting arrangements (as expected from most Japanese music scene) but soon later I was completely conquered by her when I read the lyrics as she eloquently expressed strong emotions that I can relate to in a deeper level. That kind of resonance was really hard to describe in words, and she never failed to impress me album after album. You can say that I find a lot of encouragement, resolve and comfort in her songs.
+
+Probably it's just act like an unintentional mirror that it just happened to reflect back at me.
+
+…
+
+But on the more personal side of me… well… I'm sliding back in the slumps… at least I felt that way. Felt inferior sometimes, felt like giving up sometimes, felt afraid and anxious to a point of closing myself in sometimes… felt unsure sometimes, on whether I'm actually on the right track or not. Sometimes, I just wished that there's some indication about my direction, but if life were to be that predictable, it wouldn't be interesting at all either…
+
+Sigh… I'm becoming greedy with my own life recently. It just seemingly easier to count my shortcomings than my blessings. Or that I have that wish that all my problems will go away? But somehow… what is it really "problems"? At times, thinking about it, most of them are just small problems but I deemed extremely annoying/trivial/inconvenient, or that, at most, overwhelmed due to various constraints. Just felt like wishing to be a child that wanted everything to be taken care of… in a way. But then… nobody can take responsibility in my own life… even they could, it's more like a temporary measure than anything. Ultimately I have to take care of myself… or at least manage it somehow.
+
+I don't know… just felt really out-of-balance in my life… in a way. Some guidance and mentoring would be nice, but from the current situation, it just seemed that I'm on my own now, just have to figure it out somehow.

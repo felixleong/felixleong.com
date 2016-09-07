@@ -1,7 +1,7 @@
 title: WebCamp α - Kickstart 2011 with Your Own Startup (with Full Audio Recording)
 tags: enterpreneurship, events, startup, webcamp
 date: 2011-01-27T03:49:51Z
-category: Startup
+category: Business
 featured_image: http://upload.felixleong.com/2011/01/WebcampKL.jpg
 featured_image_credit: WebcampKL logo
 featured_image_url: http://upload.felixleong.com/2011/01/WebcampKL.jpg

@@ -1,0 +1,20 @@
+title: Today's Drifting Thoughts: Stuck Between Logical/Argumental Voids
+tags: thoughts
+date: 2007-03-04T14:58:00Z
+category: Reflections
+
+*"… I'm feeling… empty…"*
+
+Somehow all this while the feeling of "emptiness" was a topic that I brought out often, in a way I was questioning about the meaning of "existence". It's like… one of those questions that the answer is known but yet can't be explain in some concrete way. And any sort of enquiry just seemed to put myself in some logic trap that goes no where.
+
+Somehow I can't seem to find a valid reference point in structuring my current thoughts… I'm not really sure whether is it because of my over-zealousness in trying to obtain the "absolute truth of existence". But yet the very questioning and doubt of the reliability my own experiences and perception was, by itself, the very form that clouds that "absolute truth of existence"… going deeper and deeper it only lead to an endless path of dependencies on which how our judgement were formed. In this case, in extremes, the only resolve is that I will end up negating all my experiences, proving that everything was just an illusion and having my mind closed which means nothing was left within myself.
+
+Yet on the other end, assuming that the truth was just to be accepted as the truth was already there in some form or the other, say, through religious scriptures or science, doesn't quite fit into the picture as well. If everything in humanity has been explored (at least to the extent of survival and earthly pleasures) and our lives were nothing more than just repeating what others has done and reaching the same conclusions as whatever has been discovered, then what's the point of "intelligence"? Or probably "living" or "existence" even?
+
+So, by (my own weak) theory, both extremes would end up to the same conclusion that "life isn't worth living". But if the case was established, that means that the concept of "actual worth of life" exist, which means there's actually some way to "live a worthy life". Yet, does an actual alternative does exists? Somehow what I have gathered here the clue is "openness" (seeing the common pattern of both patterns that I presented, this is the opposite of the similarity between both patterns). But what does it really mean…? Somehow I find myself stuck in the middle, yet it was pretty obvious to me at this present moment that I'm going nowhere if no action was taken. It's like… the only way out is that I have to move somewhere even I don't have any sense of direction or goals.
+
+In a way, I'm completely lost in my own life… Guidance is what I need, yet if there's no external forms of guidance, that pretty much means that I have to guide myself through to solve this maze. Yet… if I'm completely clueless about my own life, how am "I" going to guide "myself" through anyway? Emm… intuition, maybe?
+
+Haha, it just felt that I'm getting nowhere again ^^||.
+
+Just sort of reminded me that a lot of people told me "not to think too much", although I pretty much rejected the notion at face value, somehow I wonder what's in between the lines of that piece of advice itself… Probably there's something significant behind it? That's something to ponder about next time.

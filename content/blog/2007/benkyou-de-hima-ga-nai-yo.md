@@ -1,0 +1,11 @@
+title: 勉強で暇がないよ！
+date: 2007-07-01T13:30:00Z
+category: Life
+
+It’s been a few weeks ever since I reattempted my Japanese self-learning, which goes pretty well considering that I’m still on it right now. And the one thing I noticed is that workbooks are a MUST in learning languages, especially in my case that learning the language without some sort of a tutor or practice partner. Somehow watching anime and doing exercises on the workbook is the only interaction that I had with the language, guess in a way that’s the key support for motivating myself to continue: In the past, I just go through the books without any real hand-ons on the language, which can get pretty dull and boring after a while. And no, listening to J-Pop isn’t much great motivator because as a form of communication medium, songs are pretty much a monologue. At least in watching movies and anime, you get to see characters interacting with each other. So in a way I perceive that movies and anime are more effective medium, well… although you do need to pore through books on colloquial Japanese as there’s a lot of abbreviated expressions which is pretty much a completely obscure nuisance for beginners (like …てる = ている; …って = と言って etc).
+
+And do get workbooks aimed for the Japanese Proficiency Tests by all means, at least in the beginning levels. The ones used in the Japanese school syllabus is shockingly hard, even for its elementary schools! (well, it’s not much of a surprise as it was written for audiences which Japanese is the mother tongue) I think one has to at least possessed some Japanese proficiency, I think probably at least AFTER completing Level 4 (the most basic level) and being comfortable with some basic grasp of the language should attempt to get their local syllabus materials. Even so, do expect to start from the very beginning: starting from their Standard 1 materials for primary schools ^^||).
+
+If possible, I do intend to complete at least half of the materials for Level 3 of the Japanese Proficiency Test. And probably I’d considering taking the test next year.
+
+Speaking of which, probably I should start to get a library membership or something?

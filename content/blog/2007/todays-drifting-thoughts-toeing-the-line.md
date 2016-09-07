@@ -1,0 +1,30 @@
+title: Today's Drifting Thoughts: Toeing the Line
+tags: thoughts
+date: 2007-08-05T12:19:00Z
+category: Reflections
+
+Recently felt as if I'm constantly toeing the line on several things that concerns with interaction with other people. Holding myself back, if I were to put it another way. As much when it comes to dealing with people, usually it's always a give and take scenario in finding a win-win scenario between both parties, however, when it comes to the "giving in" part, sometimes I just felt having difficulty in finding the justifiable degree of giving in actually. Well… honestly speaking, there's things that I don't mind compromising and there's things that I'm extremely stubborn about. (always in the extreme ends but never in-between?)
+
+However, a lot of times when I personally finding difficulty in convincing people, I'd rather give in than putting up a fight. Especially in cases when I don't have a strong argument that supports my thoughts. But speaking of which, sometimes I don't have a strong evidence that I'm right but yet having a perception that I'm right… or at least somewhat right. In a way, when it comes to work that was pretty much in a scientific realm (I'm working as a programmer, so that should constitute as "science" in many ways), this kind of attitude of unfounded perception of being right is always a big no-no. Or more like, something that works doesn't necessarily means it was right.
+
+…
+
+Well, at the moment I'm still having difficulty in expressing myself verbally, the art of convincing people and knowing when to defend my stand.
+
+*"… Feeling as if I'm completely out of place, which strikes the heart so badly I feel like running away…"*
+
+---
+
+Anyway, letting the previous topic slide, recently I have been going to the movie theaters more than I used to (or rather, for almost like seven years I rarely stepped into the hall). And I went to watch The Simpsons movie last Thursday together with my colleagues. That time I was pretty hesitant to go actually when my "finance nagger" on my head was doing its own thing, but in the end I sort of gave in since it didn't really affects my game plan anyway. And I'm glad that I enjoyed the movie a lot, I personally could use a lot of humour these days :).
+
+Another small surprise to me being that my vision has improved slightly and my glasses are now slightly overpowered. I sort of knew it for the past few months as I my eyes strained when I'm reading or looking into the LCD monitor: it just felt as if text were dancing around all over and the focus changed frequently (i.e. sometimes blurred, sometimes sharp). Just place an order for a new pair of spectacles and will be picking it up next week :). So that crosses out one item from my previous list.
+
+But somehow looking at the price I bought the specs now, I was thinking if I'm going to change my glasses once per year[^1], I might as well get contact lenses since the price is pretty close these days. Guess I have to wait and see until next year, if my vision improves/degrade on a yearly basis, I'd happily try contacts out.
+
+At the moment I was planning to cross one out from the list every month, I'm undecided whether to get the shoes first or the mobile phone next month. Frankly speaking I was extremely tempted to get a camera phone, but having a pair of comfortable shoes that fit was also a desirable thing to me. So it's like between an impulse versus comfort. Likely to be impulse to prevail in the end, but I just have to wait.
+
+I think I'd leave the shirts until December (which is also the Malaysia Mega Sale month). Then the Nintendo DS Lite would have to wait until next year, I guess. But not extremely inclined into gaming these days, so it's much less an issue anyway.
+
+But GAH! I still haven't had my house buying game plan in place yet >\_<||. Well… things will fall into place when the time comes, I guess. Till then, I guess I still have to study like mad. :p
+
+[^1]: My current pair of specs was bought just last year

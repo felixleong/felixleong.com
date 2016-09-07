@@ -1,7 +1,7 @@
 title: Poem in Prose: never wanting to be awake
 tags: poem
 date: 2008-02-01T03:43:00Z
-category: Creative
+category: Writing
 
 there's times,  
 when one is almost inconsolable  

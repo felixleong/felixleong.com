@@ -29,7 +29,7 @@ Think about it, especially if it's a problem that could be solved with money or 
 
 !['Shopping Mall' by Seh Hui]({static}/images/2010/08/DSCF0544.jpg){: .img-responsive}
 
-Personally I don't do a lot of shopping. Reason being that I'm embracing a concept of [living a minimalistic lifestyle][bogue] and I blatantly refuse to bring back “stuff” that I don't give a damn about. This even applies to souvenirs, to my friends and family's chagrin.
+Personally I don't do a lot of shopping. Reason being that I'm embracing a concept of [living a minimalistic lifestyle][bogue][^1] and I blatantly refuse to bring back “stuff” that I don't give a damn about. This even applies to souvenirs, to my friends and family's chagrin.
 
 What I do like is to window shop, which gives a unique feel of how locals and retail outlets here do business. During this trip I only went to [Jungceylon][jung], which is a new shopping complex in Patong. What really stuns me is just how many things that they sell, it really felt like a high-class warehouse to me with everything of every brand imaginable. The sheer amount of shelves and merchandise on them is mind-blowing as I had never seen such a sight in Malaysia.
 
@@ -41,7 +41,6 @@ I'm also surprised about the serving size of McDonald's, which follows Western p
 
 Other than that, the prices are generally similar to what we were paying in Malaysia after taking currency exchange rates into consideration.
 
-*(Note: I greatly recommend that you read Everett Bogue's [26 Essential Ways to Achieve Minimalistic Freedom][minimalist], which is one of the best introductory reading about the minimalist philosophy and what actions you'd take in living life simple)*
 
 ## Photographer or Stalker?
 
@@ -89,6 +88,7 @@ There's a few things that I hoped to experience in the next trip:
 
 That'd be another travelogue for another day in the future.
 
+[^1]: I greatly recommend that you read Everett Bogue's [26 Essential Ways to Achieve Minimalistic Freedom][minimalist], which is one of the best introductory reading about the minimalist philosophy and what actions you'd take in living life simple
 [part1]: {filename}/blog/2010/phuket-adventures-1-adventures-of-a-novice-traveller.md
 [part2]: {filename}/blog/2010/phuket-adventures-2-the-rainy-season.md
 [part3]: {filename}/blog/2010/phuket-adventures-3-under-the-sea.md

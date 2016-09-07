@@ -1,0 +1,16 @@
+title: Today's Drifting Thoughts: Pulling Myself Through the Week
+tags: thoughts
+date: 2007-04-16T13:35:00Z
+category: Reflections
+
+One week of stress test ended yesterday, but somehow the whole thing is just tiring X\_X||. Lethargy is getting the better of me, I think. But I did manage to handle it quite well, I think. Most of the time I find myself using my half-assed Cantonese interacting with the people involved. Talk about an opportunity to practise it, as much I only consider it to be just "survival Cantonese" ^^||.
+
+But what I did end up with a bunch of stuff that I have to followup as a result of the stress test, I'm going to be busy for a while, so it seemed. Not particularly sure how I felt about it, to be honest. It's basically an unknown territory to me, and I did had a strong opinion to not liking these kinds of job which revolves around an overwhelming (?) amount of people with all the tangles of issues that surrounds it (read: politics being one). But during those times when I'm on the job, I'm pretty much doing fine without much dissatisfaction.
+
+Somehow I was wondering… what am I avoiding, really…? Probably I'm just timid… afraid of pains and problems… therefore closing myself in to keep unexpected events to a minimum? I'm not sure whether I'd want to dig back my past and observe what's the trigger of my current reaction…
+
+To be honest I'm not sure whether I made the right choices… or even whether I'm taking the right path towards my "destiny". Probably that's why I'm unable to ascertain my own future… something that I thought that I'm capable of doing, at least control as much as I could.
+
+Only time could tell where I would be, that's what I think at the moment. Till then, all I can do now is to continue to write down my log throughout my life journey, maybe one day… I could probably find whatever that I'm actually seeking.
+
+After all… [that had been what I had been seeking from the start]({filename}/blog/2004/poem-my-user-info-poem-change.md).

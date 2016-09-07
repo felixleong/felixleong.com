@@ -72,4 +72,4 @@ As for me, I just sat there and enjoyed the sea breeze.
 
 !['Approaching Dusk' by Seh Hui]({static}/images/2010/07/DSCF0478.jpg){: .img-responsive}
 
-*(Note: The image gallery below is a mixture of photos between those taken at the Khai islands and Kata beach, arranged in a thematic order. Hence the tone may seems a bit out-of-place due to the weather when the photographs were taken)*
+*Note: The image gallery below is a mixture of photos between those taken at the Khai islands and Kata beach, arranged in a thematic order. Hence the tone may seems a bit out-of-place due to the weather when the photographs were taken*

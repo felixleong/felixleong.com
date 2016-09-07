@@ -1,0 +1,18 @@
+title: Today's Drifting Thoughts: Optimism X Pessimism: A Projection
+tags: thoughts
+date: 2007-09-06T14:05:00Z
+category: Reflections
+
+At times, I sometimes reached the conclusion that many psychologists had reach: that life is suffering and not worth living, that life is mere pain and happiness is nothing more than just an illusion that we fed ourselves for self-consolation.
+
+Those were the times when I was down.
+
+But there’s many times that I have touched on the issue, that optimism and pessimism is nothing more of projection of the unknown future based on whatever we had experienced, perceived and told about. And such behavioural traits (or train of thoughts, if you like to put it that way) can only be possible under two conditions: 1. your pleasures were dependent on your well-being (who isn’t, anyway) 2. you’ll live (which is something that is highly possible and sudden deaths were typically statistically remote. At most you can say that the certainty factor of survival is greatly dependent on your age, which is pretty much something that you can probably estimate based on census data and awareness to your own lifestyle choices).
+
+Most of the time, the most asked question (if not extremely cliched), is “What is the meaning of life? What’s in it for us in living?”: something that I have harped frequently at various points of times, especially on times of emotional defeat. It’s as if a question that can only arise when we are sad and discontent, and that when we are happy and content everything seemed to be a complete certainty (that we know very well isn’t the case).
+
+In many ways, our insistence, expectations and hopes to ensure that happiness can be preserve until forever. However, upon closer inspection, usually our happiness are dependent to something that is external to our own being, as well as our own perception towards that external factor: both of them being something extremely fickle, in a way we often find ourselves expecting absolute certainty from something that is not.
+
+Therefore we find ourselves in a complete limbo: wavered by our own emotions: which is bound to be so because that’s exactly the thing that makes us… alive.
+
+So turning back to where I started… guess the answer to “what life really is?” will continue to elude me for a long time.

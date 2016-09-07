@@ -1,0 +1,26 @@
+title: Emo Log: 怕麻烦的人 [One who's afraid of troubles]
+tags: thoughts
+date: 2007-03-27T10:33:00Z
+category: Writing
+
+其实自己真的是一个很讨厌又很怕麻烦的人。所以好多时候，好多东西也不敢去接近，不敢去尝试。结果自己会觉得有点一事无成，没什么特别的进步与成就，活着一个胆小鬼的生活。
+
+同一个时间自己也是很怕别人麻烦的人。所以好多时候，才会回想以前自己无心又无自觉意识地去多管别人的小事的时候。
+
+结果？反而带给自己不少麻烦与不便，还处处碰钉子。（或许吧…^^||，至少现在是酱子觉得）
+
+啊…其实是很厌倦这种停留在原点的日子吧！是心理作用吗？连自己也不怎么晓得…但或许麻烦是不能避免的吧！自己能够学习去欣然接受它吗？真的是时候反省反省下。
+
+Actually I'm really someone who despises and afraid of getting into troubles. Therefore a lot of times, there's a lot of things that I dare not approach and try/experiment. In the end I felt a bit like being unaccomplished, without any special improvements and accomplishments, living a life of timidness.
+
+At the same time I'm also somehow who's afraid of others being into problems. Therefore a lot of times, I recalled back the times when I was, without any ill intentions or self-awareness, being a busybody to others.
+
+In the end? I ended up bringing myself enough troubles and inconvenience, not to mention that I felt obstructed along the way. (Maybe, I think… ^^|| At least I felt this way at the moment)
+
+Aah… Actually I was tired of the days being stranded on the same spot! Is it just my own imagination? That even myself is unable to notice… But it does seems that probably troubles and problems are unavoidable! Am I able to learn how to accept them with good grace? It's really time for me to be introspective.
+
+### NOTE about Emo Log
+
+New category! Well… just sort of thought that some posts are starting to be unable to fit into Impromptu and Today's Drifting Thoughts categories/tags and yet I felt it was worthy of having it tagged for my future reference. So I sort of thought came up with the idea of having "Emotional logs" and in the end I sort of shorten it to "Emo Log" to save up typing as well as in a playful mood of punning the word (slang term) "Emo" (although I'm not sure whether it'd get misunderstood over time like… a few days to a few years down the road? But since I don't think my blog really get readership and it's pretty much mainly for my own well-being and improvement, so what the heck :p)
+
+Anyway, I was indeed in quite a emo mood these days, so it's pretty fitting to my current situation in a way. Not sure whether I'd use this tag often, but hopefully I can improve and sort out some of my life issues along the way. (which by noticing the trend and how the way my life has been going… indeed probably I have to work even harder than what I'm doing now… probably. Or in a more difficult way, breaking out and achieving… say, a different mindset or something. I don't know ^^||.

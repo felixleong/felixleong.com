@@ -1,0 +1,15 @@
+title: Emo Log: ノイズ [Noize]
+date: 2007-06-20T16:05:00Z
+category: Writing
+
+Lots of noise passing through me, unable to make any sound judgement without cooling myself down: Anguish, anger, aggression, pain, conflict, confusion…
+
+Starting to see behind some habits that I'm having. Starting to see that a lot of things that I'm asking for was an extremely daunting task for a human. Thinking about it, even suppression can be a form of avoidance in facing a problem.
+
+Come to think about it, it just seemed that no matter how much I rested, so long as the problems that I had remains unsolved, my energies will still get drained away quickly. So it's still come backs to the fight and flight issue.
+
+At the moment the key frustration of mine is my need for space: space for growth and space to move around. In (my) ideal world, the world should be more of a sandbox which I can start fiddling with concepts and consequently build up to form something of a bigger scale. At for now, I didn't had that space, or I thought was the case. Somehow I just needed some creative freedom over my work, I suppose… or perhaps I just needed that sense of progress when I'm doing my work. Or even working on something that really excites me. So far that's the sensation that I'm lacking: right now it felt more like crossing away my never ending and boring to-do list, which does gets very, very tiring indeed.
+
+And not having enough support pillars wasn't really helping to improve the situation… sometime I just felt tired having to carry out all the work on my own.
+
+Somehow was feeling lost at the moment (happens all the time, doesn't it?), yet while I'm finding that path I still have to sort out the stuff around me. Guess that's the situation I'm in, I think.

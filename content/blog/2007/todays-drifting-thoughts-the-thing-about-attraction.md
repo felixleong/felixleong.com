@@ -1,0 +1,22 @@
+title: Today's Drifting Thoughts: The Thing About Attraction
+tags: thoughts
+date: 2007-08-29T13:33:00Z
+category: Reflections
+
+*“… what comes to mind when you see a girl and decide that its love at first sight?”*
+
+That’s the first question. Somehow it’s sort of funny in a way because when you thought you can generalize things in a certain manner, after that you realize a myriad of different possibilities and angles that certain issues can be viewed from. But somehow, as a continuation of my discussion with Allen regarding sex, attraction and love (which is friends-only, mainly because there’s things that I find them personal to a point which I’m not particularly comfortable of exposing after a particular drama case), I think it’s pretty much a good idea for me to compile the thoughts and hypothesis that I have gathered based on my own experience regarding the matter.
+
+Anyway, for those who aren’t able to read my “hidden” post, basically in that post I explained my viewpoint that “physical attraction shouldn’t be considered as a strong indicator to tell whether love is possible between two people” and the feeling of physical and emotional security that can be derived from a sexual activity which what makes us unable to ascertain whether is it lust or love.
+
+So, the main question is typically about “love” and “attraction”: within this context I think the frame of question would have been “could love be possible without a strong drive of physical attraction?”. Now, the thing is that more often that not, I’m under the strong belief that not everyone really understood “love” in its deepest and purest essence (myself included, which I can only say that I have my own hypothesis and thoughts regarding this topic but have yet to be proved valid) and that we often mistook “attraction” as a basis of love.
+
+Personally I would say “attraction” is driven mainly by physical (or hormonal) or emotional factors. Usually the first line would be the physical factor in which the things that stimulates our senses in a way that we find it extremely appealing; the emotional factor is a bit more subtle, in which it was a more refined and higher level in which the person that we are attracted to portrays a particular trait which is capable to reflect something that we desired for or that seemed to be a resolution to our own fears and insecurities, whether we were conscious of the fact or not. In our own surroundings, these two feelings influences us in our own decisions in making our surroundings the way we (consciously or unconsciously) wanted it to be (regardless you like it or hate it, but in a way you *wished* for it).
+
+Typically when something gives you a heightened stimulation, we would believe that we are strongly in “love”, which may or may not be the case. But either way, without understanding what “love” really is, there’s no way we can really tell.
+
+So, coming back to the question of “could love be possible without a strong drive of physical attraction?”, as much I would say that it’s possible, I’m in the opinion that if “love” was truly understood, that question will not exist at all. For this particular reason, I would never call “love” as it is and I would rather call what we perceived as “love” as a “passion” instead. So, linking that question to my previous discussion of attraction, passion is possible because it greatly depends on what you find to be appealing, or rather, in a deeper level, what you find to be as a potential solution in fulfilling what you wanted deep down within yourself.
+
+And so to say whether that sort of feeling is really “love”, probably I would say that, by using an unproven analogy, it could *potentially* be “love” if it nurtures your being, it is “passion” if it fulfills your fantasies and desires and it is “attraction” if it just inflates your ego. Note the word “potential” here. By my hypothesis, one can only say that he understood “love” if he becomes a master of his own being and by that time, he would probably be detached and yet rooted in this world (which is similar to what I said in my hidden post, “at most i can say is that ideally you should be completely involved in the (sexual) act and yet detached from that person”), which in a way is equivalent to what we call as “enlightenment”. But that was just my hypothesis, I can never be certain about it myself at this stage ^^||.
+
+I think that’s pretty much it for today.
