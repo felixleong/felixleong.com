@@ -1,0 +1,11 @@
+title: Split Reality
+date: 2006-01-25T14:59:00Z
+category: Life
+
+Feeling as if I have lost direction: Unable to proceed, yet unable to turn back either. Mixed signals, jumbled up information everywhere… As if I have no idea what's going on around me.
+
+Is it the changes around me that I'm unaware of? Or is it an illusion of my creation? Or is it that I see things differently nowadays…?
+
+A very confused mind indeed… that I really don't know what shall I do next. x\_x||
+
+\- Mixed signals: Is it your reality or my own fantasy? -

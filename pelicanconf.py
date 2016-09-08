@@ -40,12 +40,12 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
-SUMMARY_MAX_LENGTH = 120
+SUMMARY_MAX_LENGTH = 275
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-DEFAUT_CATEGORY = 'Uncategorized'
+DEFAULT_CATEGORY = 'Uncategorized'
 USE_FOLDER_AS_CATEGORY = False
 DISPLAY_CATEGORIES_ON_MENU = False
 

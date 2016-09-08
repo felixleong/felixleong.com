@@ -1,0 +1,13 @@
+title: Question of the Day: The Game of Life - 变通 [Flexible]
+date: 2006-08-05T04:15:00Z
+category: Reflections
+
+Just recently I was reminded of what one of my childhood friends told me during a casual game of Mahjong during Chinese New Year （at least a vague recollection of words)
+
+“你不懂得怎样变通…有些时候，真的是不能坚持你自己所要的到底。看到牌局已经不大对劲的时候就应该懂得变通，究竟手上的牌还是充满许多的可能性。“
+
+"You don't know how to be flexible/adaptable… sometimes, you really can't always insist of getting what you want until the end. When you see the game already show signs of change, that's the time you really need to exercise some flexibility/adaptability. After all, there's still a lot of different possibilities in your own hands."
+
+Thinking deeply about it… I'm able to sense its importance yet I'm still incapable to realize its true meaning…
+
+… Sometimes, I really don't know what it is to play this game of life…?

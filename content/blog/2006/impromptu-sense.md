@@ -1,0 +1,7 @@
+title: Impromptu: Sense
+date: 2006-01-04T14:15:00Z
+category: Writing
+
+用眼睛去看，用耳朵去听，用心去体会…让自己静下来一下，停顿一下：去享受现在这一刻。
+
+Use your eyes to see, your ears to hear, your heart to feel… Let the heart calm down a little, pause for a little: to enjoy this very moment.

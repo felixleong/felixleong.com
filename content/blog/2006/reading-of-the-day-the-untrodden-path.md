@@ -1,0 +1,43 @@
+title: Reading Of The Day: The Untrodden Path
+date: 2006-01-23T06:18:00Z
+category: Excerpts
+
+\- The Usual Disclaimer -
+
+I claim no rights of the reposting of this material, no modifications of any kind has been done to this material and the necessary copyright information has been accompanied with the material itself. Should this act of copying is deemed illegal or inethical, please notify me as soon as possible so that I can take it down upon notice.
+
+From [Osho Times Online](http://www.osho.com/Main.cfm?Area=Magazine&Language=English): Your Answers Quetioned on Emotions (Jan 22, 2006 Issue)
+
+## Using Times of Crisis
+
+**I feel so confused…. Good and bad don’t have any meaning anymore.**
+
+Whenever there is a crisis of identity, whenever people don’t know who they are, whenever the past loses its grip, whenever people are uprooted from the traditional, whenever the past no longer seems relevant, this crisis arises, a great crisis of identity — who are we? what are we supposed to do?
+
+This opportunity can turn into a curse too, if you fall victim to some Adolf Hitler; but this curse can become a great opening into the unknown if you are fortunate enough to be in the vicinity of a buddha. If you are fortunate enough to be in love with a buddha, your life can be transformed.
+
+People who are still rooted in tradition, and who think they know what is right and what is wrong, will never come to a buddha. They will continue to live their life — the routine life, the dull, the dead life. They will go on fulfilling their duties as their forefathers used to do. For centuries they have been following a track and they will go on following that trodden track.
+
+Of course, when you follow a trodden track, you feel certain — so many people have walked on it. But when you come to a buddha and you start moving into the unknown, there is no highway, no trodden path. You will have to make your own path by walking; the path will not be found readymade.
+
+I can give you encouragement to move on your own, I can trigger a process of inquiry in you; but I will not give you a system of thought, I will not give you any certainty. I will only give you a pilgrimage…a pilgrimage which is hazardous, a pilgrimage which has millions and millions of pitfalls, a pilgrimage in which you will have to face more and more dangers every day, a pilgrimage that will take you to the top of human consciousness, to the fourth state. But the higher you go, the more is the danger of falling.
+
+I can only promise you a great adventure, risky, dangerous, with no promise that you will attain it — because the unknown cannot be guaranteed.
+
+It’s a beautiful space you are entering. If good and bad have ceased to exist, so far, so good! Now enter another dimension, not man-made, where distinctions are of no relevance, where nothing is good and nothing is bad, where whatsoever is is, and whatever ain’t ain’t. There is no question of good and bad; either something is or something is not. Good and bad are nothing but alternatives to be chosen: either choose this, or choose that. They keep you in the division of either/or.
+
+The moment you start seeing the hocus-pocusness of all good and bad, when you start seeing that they are socially manufactured things…. Of course they are utilitarian, and I am not saying to go into the marketplace and behave as if there is nothing good and nothing wrong. I am not saying to walk in the middle of the road, saying what does it matter whether one walks on the right or the left.
+
+When you are with people, remember, for them good and bad still exist. Be respectful to them and their dreams. It is not for you to disturb anybody’s dream. Who are you? It is not for you to interfere. Be polite to people and their stupidities, be polite to them and their games. But all the time remember, deep down nothing is good, nothing is bad.
+
+Existence is simply there; there is nothing to choose between. And remember, when there is nothing to choose between, you will become undivided. When there is something to choose between, it divides you too. Division is a double-edged sword: it divides reality outside, it divides you inside. If you choose, you choose division, you choose to be split, you choose schizophrenia. If you don’t choose, if you know there is nothing good, nothing bad, you choose sanity.
+
+Not choosing anything is choosing sanity, not choosing is to be sane, because now there is no division outside, how can you be divided inside? The inside and the outside go together. You become indivisible, you become an individual. This is the process of individuation. Nothing is good, nothing is bad. When this dawns in your consciousness, suddenly you are together, all fragments have disappeared into one unity. You are crystallized, you are centered.
+
+To come to know that nothing is good, nothing is bad, is a turning point; it is a conversion. You start looking in; the outside reality loses meaning. The social reality is a fiction, a beautiful drama; you can participate in it, but then you don’t take it seriously. It is just a role to be played; play it as beautifully, as efficiently, as possible. But don’t take it seriously, it has nothing of the ultimate in it.
+
+The ultimate is the inner; the indivisible soul knows it. And, to come to that soul, this is a good turning-point.
+
+*The Book of Wisdom*
+
+*Copyright © 2006 Osho International Foundation*

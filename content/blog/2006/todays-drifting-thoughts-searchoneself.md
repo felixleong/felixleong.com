@@ -1,0 +1,32 @@
+title: Today's Drifting Thoughts: 寻觅：：自己 (Search::Oneself)
+tags: thoughts
+date: 2006-03-02T02:12:00Z
+category: Reflections
+
+有尝试过别人要求你自己一张个人照吗？
+
+在众多照片中选一，到底是容易，还是困难呢？似乎自己在岁月留下的痕迹中，拼命地寻觅，却找不到那一张照片。
+
+为什么？
+
+是照片中找不到一张表露出“理想中的自己”吗？想想下，才发现那份“理想”的片面性：只是自己“制造”给别人看的“幻觉”而已。
+
+原来自己找不到的，不是照片；而是真正的自己。
+
+…
+
+你…找到自己了吗？
+
+Have you ever been asked for a photograph of you?
+
+Picking one from all, is it easy, or is it difficult? It seems that I searching hard for it on the traces of time, but I can't seem to find that photograph.
+
+Why?
+
+Is it that I can't find the one that shows my "perfect self"? Thinking about it, only to realize the partialness of that "perfectness": It's only an "illusion" "manufactured" for others to see.
+
+What I can't find, is not the photograph; but of my true self.
+
+…
+
+Have you found yourself…?

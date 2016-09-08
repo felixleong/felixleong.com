@@ -1,0 +1,10 @@
+title: Today's Drifting Thoughts: Holding Tight
+tags: thoughts
+date: 2006-09-14T14:49:00Z
+category: Reflections
+
+Holding tight, that's pretty much what I have been doing at the moment. It means different things in different ways: Holding tight onto a pillow seeking (pseudo?) comfort, holding tight to my calm when facing challenges (currently being assigned to a job very close to the deadline, more like an sudden/emergency arrangement), holding tight to my own search of the ultimate self… a lot of things.
+
+Sometimes really felt that dealing with myself is already tough enough, and trying to understand others at the same time does seems like stretching myself a little too thin ^^||… but that itself was a very important lesson unto itself, isn't it :).
+
+It does take a while, so it seems :).

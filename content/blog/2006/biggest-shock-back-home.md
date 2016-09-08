@@ -1,0 +1,11 @@
+title: Biggest Shock Back Home
+date: 2006-02-05T07:19:00Z
+category: Life
+
+Here I am now: back in my aunt's house in Petaling Jaya.
+
+Will talk about my Chinese New Year back in my hometown (Kuala Kangsar) later, but just wanted to post something about the most grossest thing that happened in the house: Ants have been building an anthill inside the flushing rim O\_O||. It's like… EWW! Seeing ants crawling everywhere on the toilet bowl and when I flushed it to see what happened, at least hundreds or a thousand of live ants (!!) floats on top of the water, with them sticking together making some sort of a raft (or black patches, from my point of view).
+
+Somehow I scooped them out and let them roam free to find a new home. But the experience still gives me the shivers.
+
+Moral of story: Wash the toilet bowl properly before going for a long vacation.

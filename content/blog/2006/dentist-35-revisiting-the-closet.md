@@ -1,0 +1,21 @@
+title: Dentist 3/5 + Revisiting The Closet
+date: 2006-09-03T14:39:00Z
+category: Life
+
+… And so I went back to my hometown again on National Day's eve (that's 30 August for non-Malaysians). That's pretty equivalent of four days of me being an manga-reading-amoeba.
+
+Well, it's not just about laying on my bed and just read manga though. During my days back in my hometown I have have three visits to the dentist. To cut everything short is that two of my wisdom teeth at my upper jaw was gone, and those two at the bottom got fillings instead of an extraction. The wisdom teeth at the lower jaw is grow at a diagonal angle, therefore the only way to get rid of them is by surgery. But the dentist said that since it didn't hurt it'd be much easier to just do a filling instead.
+
+The funny thing is that they are decayed pretty badly (according to the dentist anyway), and possibly to a point of infection. The weird thing is that I didn't feel any pain. I wonder whether is it really because it doesn't have nerves in it or that in the past I have always passed the tingling pain as a teething problem? Hmm…
+
+But I still not feeling that used to everything inside my mouth (no, no naughty thoughts please :p).
+
+But it's not really all going well when I was back there. It's not that I'm having a problem with my parents back home, but the thoughts and feelings within me, namely, "The Closet Issue". I have to admit that I'm still avoiding the issue, at least directly. In a way, these few years I have been doing things in a way that… well, lacking of a better analogy, I have been "planting mines" in letting others know in a very indirect manner (although I did confided with a few friends of mine directly, either by accident or by my own efforts).
+
+But somehow when I was back there, I felt pretty bad… knowing that, sooner or later, I have to face the problem: all the questioning, interrogation… everything that comes in the package. "Acceptance" has been very prominent pondering in my own drifting thoughts… and by all means my analysis always comes to a paradoxical full circle, as in "Who is to give acceptance? Who is to be accepted?", "I am only accepted only if I felt accepted by others" (what?! O\_O).
+
+In some way or the other, it's still remains an invisible barrier… imaginary or not. *sigh* That's something that might take me a long time to figure out ^-^||.
+
+…
+
+Anyway, in other news, I finally got myself a quilt cover, I got one full of butterfly motifs as that's the only pattern that I liked from the choices I had. :)

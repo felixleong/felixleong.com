@@ -1,0 +1,9 @@
+title: Temporary Haitus
+date: 2006-01-27T06:18:00Z
+category: Life
+
+Will be going back to Kuala Kangsar (my hometown) for Chinese New Year later at 6pm MYT. I won't be updating much for the next week as I foresee that I'll be really busy especially on the first few days of Chinese New Year :).
+
+Will post updates and photographs once I get back on 5 Febuary ;).
+
+Other than that, today's a busy day as I sort through all the bills and finances. Getting a new set of rechargeable batteries later, hopefully they will work on my digital camera or I'll have myself stuck with the not-so-environmentally-friendly alkalines :p.

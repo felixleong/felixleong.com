@@ -1,0 +1,17 @@
+title: Shopping for 2007
+date: 2006-12-23T15:22:00Z
+category: Life
+
+Phew… shopping is so tiring… but probably it's due to the fact that I bought my books first and have them in my bag? ^^||
+
+Anyway, been spending more money on books this year, and recently I just got more books on investment. I sort of wonder whether if I would be much better off if I got a library membership instead. -\_-||
+
+And so… it's time for me to shop for 2007. Well… I wonder whether that pretty much implies that I rarely buy clothes and stuff ^^||. Well… I can't find myself having occasions that I require a wardrobe full of clothes, so mine is just decent enough that it would embarrass myself, I guess. But even saying so, I only realise that things can be pretty expensive when I buy them in one shot, even after some great discounts. Like… buying a new belt to replace my old one, a normal tie (so at least I had two ties now), undershirts (the old ones are getting too stretched out now. It still can be worn, but I figure out that it wouldn't be that nice as they are having sweat stains now) and another box of underwear (needs more spares myself, I sort of regret that I got the wrong size, though… time to gain some weight? ^^||).
+
+And I haven't bought my Chinese New Year clothes yet! And I would need another pair of sneakers. But I'm too tired to shop for them, so that remains pending, probably will get them next week.
+
+I'm sort of deciding whether I should stick with my makeover plan or remain with my current image now. But from how I look at myself in the photographs, I guess it wouldn't do much difference? ^^|| Or probably I need those Queer folks in order to really make a drastic change for the better? Well… probably what I can do now is to add some variety with my casual clothes now… but if I were to plan to get only two shirts this year, it's quite a challenge, isn't it? I don't plan to get new pants for the next Chinese New Year, as I find myself having too many jeans and long pants (khakis and the like).
+
+But seeing the current expenses… somehow it seems that the Nintendo DS have to wait, I think D:. And originally I plan to get some contact lens for my 2007 makeover plan, but seems likes that has to be delayed as well. Now the big debate (with myself) is whether I should go to Sabah to mountain hike next year… As much the plan weren't set in stone yet, the prospect started to cool off on my head now. (i.e. it doesn't sound as exciting as it sounded previously now) …Or maybe I just wanted someone to come with me? Hmm… well… guess I have to wait until my sister (or her friends) to iron out all the details. (.\_.)
+
+Well… we'll see how things goes. Hope I didn't over-plan my life ^-^||.

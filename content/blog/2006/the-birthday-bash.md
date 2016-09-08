@@ -1,0 +1,9 @@
+title: The Birthday Bash
+date: 2006-06-11T14:55:00Z
+category: Life
+
+Today's Sook Lan's birthday :D. Had a great time at Red Box Karaoke again. And the cappuccino cheese cake is yum! :D And it's glad to hear that her preparation with her new shop is going good :), can't wait to go there later.
+
+The bad news? I overspent again with some budget corner CDs that it'd be a very hard budget to plan… well, provided that I put onto myself a restriction of not touching my personal savings.
+
+And… well, as everything would have guess, I'm in my emo mood again. Well, more internal issues that needs some resolve… well, time to work on that one! And in other news, I'm picking my Japanese back up (again). Most likely it wouldn't last long, but we'll see what happens next anyway.

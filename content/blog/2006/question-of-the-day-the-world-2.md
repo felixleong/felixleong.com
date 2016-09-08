@@ -1,0 +1,11 @@
+title: Question of the Day: The World
+date: 2006-09-08T16:35:00Z
+category: Reflections
+
+How big my world is -- that's a question that have been in my mind but never answered. The world as we know it is infinite, reflecting back on myself, my own world is very small…
+
+Sometimes it just felt that my own boundaries are as small as the amount of space on which I'm feet is touching the ground. Yet sometimes in times of bliss all boundaries dissolved and I was whole…
+
+Probably my own perception of the world is just the connection between you and me? Or it's just a fleeting interpretation based on my own emotions and awareness of my own surroundings…?
+
+What is… the World?

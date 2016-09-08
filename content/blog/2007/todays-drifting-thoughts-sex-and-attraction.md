@@ -82,7 +82,7 @@ Felix Leong: i remembered that i disclosed that to u b4, but never mind ^^||
 Felix Leong: that’s dates back to my high school days with one of my gay friend actually  
 Allen: aww ok ok  
 Felix Leong: … which he gets bullied often  
-Allen: i understand that feeling ._.  
+Allen: i understand that feeling .\_.  
 Felix Leong: mhmm  
 Felix Leong: basically that experience does have an impact with my views on relationships and sex  
 Allen: i see whats ur view on it?  
@@ -170,7 +170,7 @@ Allen: one night stand
 Felix Leong: oh oka  
 Allen: the only puresex i did recently is with my ex anyway  
 Felix Leong: personally if i were to do it i’d feel like a corpse  
-Felix Leong: ._.  
+Felix Leong: .\_.  
 Felix Leong: puresex = ?  
 Felix Leong: to what degree? oral? or anal?  
 Allen: i once did anal early this year after the kl trip coz i wasn’t get wat i want from chris so i end up came back and got banged with my ex  

@@ -1,0 +1,16 @@
+title: Today's Drifting Thoughts: Digging Into My Archives
+tags: thoughts
+date: 2006-07-15T18:21:00Z
+category: Reflections
+
+Spent a lot of time digging into my hard drive and post deviations (ala Deviant Art) like MAD!!! XD
+
+I don't know, probably I'm currently just seeking of some sort of escape? Or because of some other reasons, but one thing for sure is that looking back at my artworks in the past is like going down the memory lane and look back at the past.
+
+Surprisingly, I can still remember how these artworks were "born": it's sort of like memories that was not recalled most of the time but has remained etched since the day something was created. And through that, I'm still able to recall the feelings that I had when I have produced every piece of work.
+
+As much as I didn't drew much lately, all the arts that I have done holds a very special place in me. It's sort of like a form of expression, which all the artworks represents the truest and deepest core of my own emotions and feelings.
+
+A sense of warmth seems to come back to me by the thoughts of it.
+
+Anyway, I'll post more in the future. There's still a lot of artworks in the past that I would really like to share. And after that, probably I would have more ample room to rekindle my interest in drawing (perhaps, but it's a good thought :) ).

@@ -2,8 +2,10 @@ title: Today's Drifting Thoughts: Story of a Helium Balloon
 tags: thoughts
 date: 2009-01-12T11:41:00Z
 category: Reflections
-featured_image: http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0230.jpg
-featured_image_credit: 'Helium Balloon of Memories' by Seh Hui
+featured_image: 
+featured_image_credit: 
+
+![http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0230.jpg]('Helium Balloon of Memories' by Seh Hui){: .img-responsive}
 
 "Look! A helium balloon!" I said to myself as I was distracted from my reading.
 

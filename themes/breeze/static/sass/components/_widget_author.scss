@@ -3,10 +3,9 @@
   text-align: center;
 
   .backdrop {
-    margin-left: floor((-$grid-gutter-width/2 - 2px));
+    margin-left: floor((-$grid-gutter-width/2 - 6px));
     max-height: 100px;
     overflow: hidden;
-    padding-right: $grid-gutter-width + 2;
     position: absolute;
     top: 0;
     width: 100%;

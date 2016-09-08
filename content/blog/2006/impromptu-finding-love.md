@@ -1,0 +1,11 @@
+title: Impromptu: 寻找：爱 (Finding : Love)
+date: 2006-05-23T01:38:00Z
+category: Writing
+
+许多时候，都会羡慕身边的欢笑和快乐。也因如此倍感寂寞。
+
+或许，身边的爱与幸福也一样吧！
+
+A lot of times, I felt envious to the fun and laughter around myself. And also because of that I felt even lonelier.
+
+Perhaps, that's pretty much the same situation with the love and happiness around me.

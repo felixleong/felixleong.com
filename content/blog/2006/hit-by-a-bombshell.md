@@ -1,0 +1,11 @@
+title: Hit By A Bombshell
+date: 2006-07-10T14:47:00Z
+category: Life
+
+GAH! Just got a bombshell from the boss today O\_O||: I'd need to suspend my current testing and was expected to complete my programming task during this week O\_O||. Not to mention that it was scheduled for 9 days and I only have about 3 days to complete it! X\_X
+
+To be fair, I'm already way behind schedule in work due to several factors, my mistake actually to underestimate certain things. And considering that my work is blocking the payment schedule (as in collecting payments for the work we had done), there's no room for me to argue anything.
+
+Sigh… I wonder whether I'm able to pull this off nicely. \_O\_
+
+Anyway, in other news, I really wondered whether guys will take "cute" as a compliment? He has definitely made my day today for that :).

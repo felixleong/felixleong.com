@@ -2,8 +2,8 @@ title: Today's Drifting Thoughts: There's times when I fell like a dick
 tags: thoughts
 date: 2009-02-11T13:48:00Z
 category: Reflections
-featured_image: http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0028.jpg
-featured_image_credit: 'Crushed by Expectations' by Seh Hui
+
+!['Crushed by Expectations' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/livejournal/Photo-0028.jpg){: .img-responsive}
 
 Recently found myself overwhelmed by expectations: mostly those of my own. Recently been reading, listening and watching stuff from successful people via blogs, articles, books, podcasts and webcasts. So much in fact that I felt quite overwhelmed, in a way.
 

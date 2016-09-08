@@ -1,0 +1,35 @@
+title: Through the Looking Glass: 2006 In Review -- The Wheel of Life
+tags: thoughts
+date: 2006-12-30T16:12:00Z
+category: Annual Review
+
+> "越是想去了解，反而越是觉得难以捉摸。The more I tried to understand, the more harder it is to achieve understanding." -- February 14, 2006
+
+---
+
+It's that time of the year again! Attempt to look back, reflect on myself and perhaps do a little summary for all the entries that I have typed back in 2006. From memory, 2006 had been quite an interesting year with its ups and down. Although, to be honest, my life revolved around work and probably my small little world this year…that's not really something interesting in some way ^^||.
+
+Seemed that I spent most of my time writing drifting thoughts and impromptu posts: mostly revolving around personal issues, love and human relationships. But somehow, seeing the recurring themes and somehow similar messages behind them… seems that I didn't really learn anything up until now? ^^|| Or probably it might have a deeper message behind them?
+
+But seemed like a lot of times, when I made a vow to make a change within myself or that to do something, it seemed that through passage of time, I would either forget it or didn't have the enthusiasm to follow through. Probably it's much easier to go astray from the path to achieve the better? Guess it would take a while for me to really absorb my own lessons.
+
+Thinking about it, the recurring themes at the present moment would be as follows:
+
+- The question of self worth and accepting myself even without any recognition from others
+- The fears and anxiety towards the unknown, my own surroundings and my future… especially the possibility of failing and falling hard on my own face
+- Seeking of the ultimate truth and courage
+- The social and past experience programming in me… and the doubts, limitations and problems that associate with or brought out through them
+- Feeling the dire need for someone to love, yet at the same time doubting the possibility of actually having affection towards someone of the same sex (i.e. the fear that homosexual relationships will not work out… hence (as much I hate to admit it) I'm still avoiding the issue)
+
+
+Reviewing the list just now, these has been the issues that I had been having for a long time (long before I started my LJ, perhaps?). And these issues and have been looked into from many different angles and many times I have reached with a lot of insights and resolution with my past. Yet it seemed that new challenges and problems always spawned out along the way… is it an indication that I'm unable to shake off my past off (well… which is definitely fact), or that it just like advancing to a more difficult level in class: with that just being part of growing up? I think both do apply in that sense.
+
+Will 2007 be any different…? That's essentially a hard question to answer… Will I be facing new changes that will bring a 180 degree change, which might trigger more feelings of uncertainty and anxiety? Or will I get fed up and trapped within my own recurring problems? Or is it possible for me to find a certain resolve with proves to be a giant leap for myself? If my LJ (i.e. life) were to reach a new chapter, what theme will that chapter will be…?
+
+Somehow I was thinking… whether is it really that necessary for me to really redefine myself…? Is that particular "perfection", an idea from both my conscious and unconscious self, is something that I really need? Or that… do I really need to "change" anything…? … Am I really happy…? Is this life really "worth" living? What if I'd never reach in my whole life…? Where I'm actually living in: A reality or an illusion? Or is it a combination of both which makes things even more confusing than it really is…?
+
+…The frailty of life…
+
+Not really sure what I'm going to expect from 2007, to be honest… As much so many problems have been solved, yet there's much more for me to learn and discover. Looking back, there are lots of times that I felt like giving up… but yet I still manage to pull through despite that… Will I still remain in this small world of mine? I'm not that sure of myself either…
+
+Well… we might as well see how things unfolds…

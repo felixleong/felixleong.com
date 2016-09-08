@@ -1,0 +1,9 @@
+title: Question of the Day: Which Is True? Which Is False?
+date: 2006-07-10T01:25:00Z
+category: Reflections
+
+Somehow, think about what I have written in the past, somehow I was under the impression that I perceived that our own perception may not be that reliable as a source of the truth… sometimes thinking that it might be completely false, even (i.e. the Illusion).
+
+So, thinking about it, what makes something true? What makes something false? Social identification and recognition doesn't make something true. Experience doesn't make something completely true. Belief, as said, is just a mere hypothesis (or on the extreme end, it can be a baseless hope). Perception is a stimulation of our own senses, which is a partial truth to what we are living in.
+
+Maybe it's a good time to ponder things through deeply, hmm? :) (possibly some good drifting thought material)

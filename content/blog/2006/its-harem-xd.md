@@ -1,0 +1,13 @@
+title: ハーレムんだ！[It's HAREM!] XD
+date: 2006-10-31T15:34:00Z
+category: Life
+
+Been downloading anime lately, it's been a while I really spent time to relax myself a bit.
+
+Just finished downloading いちご100% (Strawberry 100%), and the whole thing just screams "[HAREM!!!](http://en.wikipedia.org/wiki/Harem_anime)" at me XDDD. But putting aside my brain and asking it to stop labelling cliches, it's just some simple fun and enjoyment :).
+
+Somehow I didn't really had a good day, actually… just feeling all screwed up with my work today. To some extent, someone who has a perfectionist tendency like myself do felt as if it were the end of the world and all my merits gone down the drain in one incident. I think that's probably the same feeling when I scored badly in exams on several occasions…
+
+To be honest, carrying myself through to continue to perform the task at hand is pretty much a challenge on its own. A combination of stress (pressure), emotions and negativity… it takes a lot of energy to stay focus. Does made me wonder how much stress and tension I can really handle?
+
+But… able to relax and unwind now, looking back at myself just now, I really wondered how much trouble I got the people around me into when I was in my panic drive mode? -\_-|||
