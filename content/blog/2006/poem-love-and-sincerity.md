@@ -1,7 +1,7 @@
 title: Poem: 爱与诚 [Love and Sincerity]
 tags: poem
 date: 2006-03-20T11:09:00Z
-category: Writings
+category: Writing
 
 一直守候在你身边，怕你我会厌烦。  
 但没有你陪的时刻，自己却会心烫。

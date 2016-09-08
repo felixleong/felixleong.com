@@ -1,7 +1,7 @@
 title: Poem: Diquiet In Silence
 tags: poem
 date: 2006-06-11T09:57:00Z
-category: Writings
+category: Writing
 
 ### Disquiet In Silence
 

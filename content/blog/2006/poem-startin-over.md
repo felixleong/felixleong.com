@@ -1,7 +1,7 @@
 title: Poem: Startin' Over
 tags: poem
 date: 2006-07-19T15:03:00Z
-category: Writings
+category: Writing
 
 自己想要的东西真的好遥远…  
 看到如此情景难免痛哭起来…
