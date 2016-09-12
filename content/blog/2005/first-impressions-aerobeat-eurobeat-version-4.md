@@ -1,0 +1,64 @@
+title: First Impressions: Aerobeat Eurobeat Version 4
+date: 2005-03-07T12:54:00Z
+category: Life
+
+Let's see… Aerobeat Eurobeat Version 4 is in the mail! :) So let us just see how good this CD was.
+
+### Aerobeat Eurobeat Version 4 [First Impression Review]
+
+Various Artists
+
+**Sale price:** 2548 Yen
+
+!['Aerobeat Eurobeat Vol.4'](http://img.photobucket.com/albums/v95/seh_hui/albums/aerobeat4.jpg){: .img-responsive}
+
+OK, first, just a very short (and probably uninformed XD) introduction: Aerobeat Eurobeat is basically a collaboration between avex and F.team to come up with a compilation non-stop mix CD which is mixed for aerobics exercise. So it's not hard to see the small numbers right next to the track title stating the BPM of the music, which progresses from 147BPM to 157BPM, and according the lesson coordinator (?) in F.team, Suzuki-san, the songs are arranged in such a way that the BPM progresses gradually so that the heartbeat rate increase in a gradual fashion, which is claimed to be good for a workout.
+
+Ooooh~ OK, that sounds cool. And looking through the staff list, the non-stop remix is done by Y&Co., with DJ Boss and DJ Remocon handling all the mixing. And for those who are into Eurobeat for quite some time, you know that Y&Co. is good at mixing non-stop music with powerful intros and ending, and with the transitions done extremely seamlessly. So I'm expecting nothing less from them.
+
+Popping in the CD, I'm definitely in a shock all right, but for the wrong reasons. OK, it's not bad at all, in fact that it has a good selection of music and the non-stop remix has been smooth from end-to-end. So what's wrong with the music? It has a lot of those extremely annoying sound effects that gets mixed into the music, well… imagine listening to a lot of "HEY!"s, "Brrrrr~~~WOOHOHOHO~!", or some random "Vrooms~" and voices at the background from time to time. I wonder whether it is the "in" thing for exercise music to give some sort of motivational sound effects like you're enjoying your exercise… but to me, that's down right annoying, at least during the first round. Thinking back, the MC voiceovers by Hirozaku Miyachi in SEB presents HYPER STAR ENERGY wasn't that annoying compared to this one. However during the second round, it seems that my brain has somehow managed to "filter" out those pesky sound effects.
+
+Those annoyance aside, the selection is pretty impressive, apart from the tracks that we are all familiar with (Like A Virgin, Jealousy, No One Sleep In Tokyo), it also contain some of the really solid, less known songs, such as Going Home / Go Go Girls (Go Go Girls doing Aisyuu? Woa! :D), I Won't Be Long / Lolita, Dream At Night / Susan Bell and a few more others. However, in general, the tracklist is… well, not memorable. But then, I really don't expect music which is meant to be for exercise memorable :p. Do note that the BPM of the CD is *slightly* lower for hyper energy Parapara dancing, but as for aerobics (or perhaps aerobics Parapara) purposes, it seems to be a wise choice to have the BPM slightly lower. Besides, the newer Eurobeat might be a little bit too fast for most novices.
+
+So, the bottomline? Well, for one thing, it's one of the cheapest Eurobeat you can get from the stores (as Super Eurobeat CDs will usually cost around 3000Yen), so it's nice to have them in your shopping list :). If I would want to recommend this CD, I definitely recommend to those who want some upbeat tunes during workout and exercise, or perhaps for paralist, this CD makes a good routine exercise material. However, for casual listening, I would rather spend the extra 400yen to get the 10's in the SEB collection for the extra goodies that comes with it.
+
+
+**Rating:** 3/5
+**Recommended for:** Those who wants some good music to exercise/dance to, and for semi-hardcore SEB collectors who want to add some variety to their Eurobeat collection.
+
+**Tracklist:**
+
+(In the format [Track#]. [Track Name] / [Artist] \([BPM Count]\))
+
+1. Goin' On / Lolita (147)
+2. I Believe In You / Dave & Domino (148)
+3. Going Home / Go Go Girls (150)
+4. Like A Virgin / Virginelle (150)
+5. To Say To Do To Kiss / Domino (152)
+6. Big Mouth / Mike Hammer (153)
+7. 1 For The Money 2 For The Show (153)
+8. I Won't Be Long / Lolita (153)
+9. Jealousy / Virginelle (153)
+10. Baby Don't Cry / Lolita (153)
+11. Blade Runner / Mike Hammer (153)
+12. Dream At Night / Susan Bell (154)
+13. Telephone / Les Blue Belles (154)
+14. Breaking The Law / D.Essex (154)
+15. Baby Baby Run / Triumph (154)
+16. O Sole Mio / Go Go Girls (154)
+17. Hello Goodbye / Priscilla (155)
+18. No One Sleep In Tokyo / Edo (155)
+19. Energy Love / Delta Queens (156)
+20. Eurobeat / Dr.Love (157)
+21. Lonely Night / Helena (157)
+22. Station to Station / Derreck Simons (157)
+23. Number One / Fastway (157)
+24. Why Can't This Be Love / Drama (157)
+
+---
+
+OK, my entry for today. Anyway… nothing much again, been staying at home typing my thesis away T-T. Supposively I should have sent my supervisor a draft by last Saturday, but up until now I haven't even completed 2 chapters. >o<" But I'm getting close to getting the hard part done (hopefully). I'm aiming of getting it sent by tommorrow because I did promised my supervisor to get it sent by today (which I break my promise again .\_."). Ugh… I think I'm going to suck big time with my final year project. I hate screwing myself up every single time. Well… guess I have to work much harder to make sure that I won't suck that bad.
+
+What else… somehow my hormones are running high and so it seems that my gayness is starting to show :p… Hmm… I guess I would want to explore that side of me at the moment.
+
+*Drools over Suzuki in the Aerobeat Eurobeat Version 4 booklet* XDDD

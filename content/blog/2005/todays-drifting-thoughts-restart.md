@@ -1,0 +1,12 @@
+title: Today's Drifting Thoughts: Restart
+tags: thoughts
+date: 2005-11-10T14:24:00Z
+category: Reflections
+
+Being more conscious and aware with my own being, I'm starting to realise and notice how imperfect I was. Through witnessing more and more of my actions, I'm starting to notice even I myself commit myself to mistakes that I have criticise others about -- tons of them, in fact.
+
+Just as I thought I have perfected the art of my own doings, being instantly aware and witnessing my own actions made me realise all my own mistakes and imperfections.
+
+A lot of fragments to pick up, so it seems. ^-^" Seems that my own unawareness, ignorance and ego does cloud my own perception all this while.
+
+So back to square one and learning all the basics. :p

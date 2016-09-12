@@ -1,0 +1,46 @@
+title: Reading Of The Day: The Problem as an Ego Tonic
+date: 2005-10-31T01:59:00Z
+category: Excerpts
+
+Somehow when I'm reading this, I just can't stop laughing at myself: It's like… I'm fully aware of this and this topic has been covered many times in self-help books, and yet I'm still foolishly forgetful.
+
+Hmm… probably my LJ would become less and less of a diary and more and more of an archive of readings and experiences? :)
+
+Anyway, I believe this would be beneficial to all.
+
+\- The Usual Disclaimer -
+I claim no rights of the reposting of this material, no modifications of any kind has been done to this material and the necessary copyright information has been accompanied with the material itself. Should this act of copying is deemed illegal or inethical, please notify me as soon as possible so that I can take it down upon notice.
+
+## The Problem as an Ego Tonic
+
+*From [Osho Times Online](http://www.osho.com/Main.cfm?Area=Magazine&Language=English): Your Answers Quetioned on Emotions (Oct 31 Issue)*
+
+The ego does not feel good, at ease, with molehills; it wants mountains. Even if it is a misery, it should not be a molehill, it should be an Everest. Even if it is miserable, the ego doesn’t want to be ordinarily miserable; it wants to be extraordinarily miserable!
+
+People go on and on, creating big problems out of nothing. I have talked to thousands of people about their problems and I have not come across a real problem yet! All problems are bogus — you create them because without problems you feel empty. There is nothing to do, nothing to fight with, nowhere to go. People go from one guru to another, from one master to another, from one psychoanalyst to another, from one encounter group to another, because if they don’t go, they feel empty, and they suddenly feel life to be meaningless. You create problems so that you can feel that life is a great work, a growth, and you have to struggle hard.
+
+The ego can exist only when it struggles, remember — when it fights. And if I tell you, ‘Kill three flies and you will become enlightened, you will not believe me. You will say, ‘Three flies? There doesn’t seem to be much to that. And I will become enlightened? That doesn’t seem to be likely. If I say you will have to kill seven hundred lions, of course that looks more like it! The greater the problem, the greater the challenge…and with challenge your ego arises, soars high. You create problems. Problems don’t exist.
+
+The priests and the psychoanalysts and the gurus — they are happy because their whole trade exists because of you. If you don’t create molehills out of nothing and you don’t make your molehills into mountains, what will be the point of gurus helping you? First you have to be in a shape to be helped.
+
+The real masters have been saying something else. They have been saying, “Please look what you are doing, what nonsense you are doing. First you create a problem, then you go in search of a solution. Just watch why you are creating the problem, just exactly in the beginning, when you are creating the problem, is the solution — don’t create it!” But that won’t appeal to you because then you are suddenly thrown flat upon yourself. Nothing to do? No enlightenment? No satori? No samadhi? And you are deeply restless, empty, trying to stuff yourself with anything whatsoever.
+
+You don’t have any problems; only this much has to be understood. This very moment you can drop all problems because they are your creations. Have another look at your problems: the deeper you look, the smaller they will appear. Go on looking at them and by and by they will start disappearing. Go on gazing and suddenly you will find there is emptiness…a beautiful emptiness surrounds you. Nothing to do, nothing to be, because you are already that.
+
+Enlightenment is not something to be achieved, it is just to be lived. When I say that I achieved enlightenment, I simply mean that I decided to live it. Enough is enough! And since then I have lived it. It is a decision that now you are not interested in creating problems, that’s all. It is a decision that now you are finished with all this nonsense of creating problems and finding solutions.
+
+All this nonsense is a game you are playing with yourself: you yourself are hiding and you yourself are seeking, you are both the parties. And you know it! That’s why when I say it you smile, you laugh. I am not talking about anything ridiculous; you understand it. You are laughing at yourself. Just watch yourself laughing, just look at your own smile; you understand it! It has to be so because it is your own game: you are hiding and waiting for yourself to be able to seek and find yourself.
+
+You can find yourself right now because it is you that is hiding. That’s why Zen masters go on hitting. Whenever somebody comes and says, “l would like to be a buddha,” the master gets very angry. Because he is asking nonsense, he is a buddha. If Buddha comes to me and asks how to be a buddha, what am I supposed to do? I will hit his head. “Whom do you think you are befooling? You are a buddha!”
+
+Don’t make unnecessary trouble for yourself. And understanding will dawn on you if you watch how you make a problem bigger and bigger and bigger, how you spin it, and how you help the wheel to move faster and faster and faster. Then suddenly you are at the top of your misery and you are in need of the whole world’s sympathy.
+
+The ego needs some problems. If you understand this, in the very understanding the mountains become molehills again, and then the molehills also disappear. Suddenly there is emptiness, pure emptiness all around. This is what enlightenment is all about — a deep understanding that there is no problem. Then, with no problem to solve, what will you do? Immediately you start living. You will eat, you will sleep, you will love, you will have a chit-chat, you will sing, you will dance. What else is there to do? You have become a god, you have started living!
+
+If people can dance a little more, sing a little more, be a little more crazy, their energy will be flowing more, and their problems will by and by disappear. Hence I insist so much on dance. Dance to orgasm; let the whole energy become dance, and suddenly you will see that you don’t have any head. The stuck energy in the head is moving all around, creating beautiful patterns, pictures, movement. And when you dance there comes a moment when your body is no longer a rigid thing, it becomes flexible, flowing. When you dance there comes a moment when your boundary is no longer so clear; you melt and merge with the cosmos, the boundaries are mixing. Then you don’t create any problems.
+
+Live, dance, eat, sleep, do things as totally as possible. And remember again and again: whenever you catch yourself creating any problem, slip out of it, immediately.
+
+*Ancient Music in the Pines*
+
+*Copyright ©2005 Osho International Foundation*

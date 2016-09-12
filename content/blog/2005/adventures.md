@@ -1,0 +1,61 @@
+title: Adventures
+date: 2005-10-06T15:26:00Z
+category: Life
+
+Probably today is just one of those rare occurrence that I was the only one wearing an undershirt instead of a long-sleeve shirt in the office.
+
+It just happens that I went for a blood donation drive today with two of my office friends, Sze Hau and Yuen Hui. Everything was going so smoothly, and just as I was taking my seat in the refreshment area, blood gushes out from the puncture in my arm: obviously it's not really a good sight seeing blood flowing down my arm. I was tended immediately by the medical staff there and luckily the blood flow stopped soon after that. One of the doctors on duty commented that it's probably because of me having large veins.
+
+Of course, my shirt got stained by blood in the process, and I'm just grateful that these fresh blood stains goes off without much effort. But I ended up wearing only my undershirt, which is obviously not warm enough to make me comfortable in the air-conditioned office while I'm waiting for the shirt to dry up ^^". But well, I'm just glad that everyone involved has been very caring ^^.
+
+In other news… last Saturday I went for a cave adventure at Gua Tempurung together with four of my office friends, Sook Lan, Yuen Hui, Hui Ying and Eng Lee. Well… not only five of us went, as Sook Lan came with her husband and two foreign friends, Yuen Hui and his brother and Eng Lee with his university friend, Robert: So that makes ten of us :).
+
+It's not my first time going there, as I went there once when I'm still studying in college. It's quite near from my college actually. But this is the first time I go for the whole cave tour: which involves all the physical challenges that a cave have to offer -- Walking along the dark, rocky path, crossing and wading through creeks and rivers, climbing up the hills and sliding down the steep slopes, ducking and crawling gingerly while trying to avoid all the stalactite above our heads or back… you get the idea.
+
+As we entered the cave with our tour guide, and soon after another group of seven teenagers who accompanied us. The beginning of our adventure starts from the entrance of the cave, which is furnished with bright spotlights and complete with solid staircases that maps our path towards the challenging route. We are first served with "nature art" as the tour guide constantly brought our attention to all the interesting patterns which resembles animals and humans formed by limestones around us. As we walked along the path, the path itself proves to be a good warm-up exercise as we go up, down and around in the cave, with some high and steep steps.
+
+Soon after, we went deeper into the cave and reached the end of the man-made path, things are starting to get more challenging as we were walking on nature's path. Not to mention that without our torchlights, our surroundings are only a surrounding darkness where we can see nothing but pitch black. And as said, walking the path was a challenge on its own. And at this point, I experience the teamwork among us to ensure everyone is safe from harm, that even single word commands ("Watch out!", "Head!", "Step!", "Deep!") is extremely crucial to make sure everyone won't get themselves into a nasty surprise.
+
+About two hours later and half way through our journey, we literally "saw the light" as we reach a cave opening on the other side of the cave. It's really exhilarating to be greeted by greens and sunlight after long hours of darkness :). And then we got back into the cave again, "torture" ourselves with a tougher route in which several parts of it requires us to crawl through an extremely low water passage. And gosh I can't believe how tough that was, especially after I suffered a scratch on the knee which makes crawling through sand almost impossible (OK, more like I can't endure minor pain = wimp :p).
+
+The whole tour took us about 3.5 to 4 hours to complete, and it's really an achievement for myself :). And later on, we went to Ipoh for a very generous lunch. After all, we definitely need to replenish all the energy we have spent going through that. And we went back to KL, feeling all exhausted but happy.
+
+Here are some highlights to share :) (Sorry that there's no pictures in the cave itself, considering that we don't want to risk our cameras being soaked in water. Not to mention it's almost impossible to take any pictures in near complete darkness anyway :p)
+
+!['Gua Tempurung Entrance'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture006.jpg){: .img-responsive}
+
+The entrance
+
+!['The whole gang'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture109.jpg){: .img-responsive}
+
+The whole gang :)
+
+!['Sook Lan'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture107.jpg){: .img-responsive}
+
+Poor Sook Lan, always being "bullied" by us on camera XD
+
+!['Teenagers'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture120.jpg){: .img-responsive}
+
+The seven teenagers -- very energetic and youthful, aren't they? :)
+
+!['R&D Dept'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture128.jpg){: .img-responsive}
+
+The R&D Department team (from left to right, bottom to top): Hui Ying, Sook Lan, myself, Yuen Hui and Eng Lee
+
+!['Inside the Cave'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture197.jpg){: .img-responsive}
+
+Inside the cave, from left to right: Hui Ying, Yuen Hui's brother, Sook Lan's husband, Eng Lee, Robert and myself
+
+Scenery shots:
+
+!['Scenery #1'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture005.jpg){: .img-responsive}
+
+!['Scenery #2'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture003.jpg){: .img-responsive}
+
+!['Scenery #3'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture161.jpg){: .img-responsive}
+
+Food <3<3<3!!!
+
+!['Food!'](http://img.photobucket.com/albums/v95/seh_hui/photo/051001/Picture014.jpg){: .img-responsive}
+
+We have porridge, claypot mee/noodles, fish cake noodles and ABC (Ais Batu Campur, or in English equivalent term: Flavoured shreded ice… with an extra ice cream on top)

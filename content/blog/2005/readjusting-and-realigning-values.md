@@ -1,0 +1,7 @@
+title: Readjusting and Realigning Values
+date: 2005-09-11T14:15:00Z
+category: Life
+
+I woke up today feeling totally different, and just finding myself readjusting, redefining and realigning some of my values on my head. Everything is still in a work-in-progress, but I suppose I'll write something about my thoughts later :).
+
+Other than that, I have tagged entries as far back as July 2004. :) It's really interesting as I uncover some of my hidden treasures and reviewing all my thoughts in the past. Hmm… and probably I need to change a theme that supports tags :).

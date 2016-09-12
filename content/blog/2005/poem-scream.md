@@ -1,0 +1,54 @@
+title: Poem: Scream
+tags: poem
+date: 2005-08-24T01:18:00Z
+category: Writing
+
+孤寂的夜里，  
+悸动的心  
+呼唤着！哭嚎着！  
+有谁听得见吗？
+
+心中的坚强与虚弱  
+似乎只是幻影  
+或许那只是  
+编织借口的工具吧！
+
+是不甘心吗？  
+那不甘寂寞的呼唤吗？  
+还是  
+那是紧急求救的苦嚎？
+
+苦苦挣扎…  
+累得不能自己  
+就这样继续沉睡  
+等待着明天的天晓
+
+这个夜里  
+剩下  
+脸上枯干的痕迹，  
+犹如祈祷的心跳声…
+
+In a lonely night,  
+This trembling heart  
+Calling! Crying!  
+Does anyone hears it?
+
+That strength and weakness of the heart  
+Seem to be an illusion  
+Maybe that's only  
+A tool to weave more excuses
+
+Is it that I'm not content?  
+That it is a scream of non-content because of loneliness?  
+Or  
+That is an emergency cry for help?
+
+Struggling hard…  
+Tired to a point when my will is powerless against my soul  
+And so I continue to slumber  
+Until the dawn of tommorrow
+
+This night,  
+All's left  
+The trace of dryness on my cheeks,  
+The heartbeat that sounds like a prayer…

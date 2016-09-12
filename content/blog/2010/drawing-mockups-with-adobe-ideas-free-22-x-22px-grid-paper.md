@@ -1,7 +1,7 @@
 title: Drawing Mockups with Adobe Ideas – Free 22 x 22px Grid Paper for iPad
 tags: design, ipad, mockups, tools
 date: 2010-09-16T02:29:59Z
-category: Design
+category: Art
 
 What better tool to do iPad application mockups than using the iPad itself? Drawing out mockups using the PC/Mac always seemed awkward to me as I have to second guess the physical dimensions of each UI elements that I have drawn on-screen due to the different pixel densities between our monitor and the iPad.
 

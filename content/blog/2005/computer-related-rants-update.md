@@ -1,0 +1,9 @@
+title: Computer Related Rants: Update
+date: 2005-10-23T16:29:00Z
+category: Life
+
+As mentioned, the combo drive is picky with what it reads. The good news is that I accidentally found out that it is pretty sensitive to the beginning tracks of the CD (for non-techie people, it means the inner circle of the CD), so a quick wipe or two pretty much solves the problem :).
+
+Yay for that! :D
+
+In other news, I reformatted my PC after having myself screwing up the whole system a few months ago. Still in the process of installing stuff. Probably that would take me about a week or two.

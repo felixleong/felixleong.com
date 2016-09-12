@@ -1,0 +1,21 @@
+title: Opening The Pandora's Box
+date: 2005-02-06T12:23:00Z
+category: Reflections
+
+All of a sudden, it seems that I accidently reopen the whole Pandora's box hidden deep down in my heart. Sadness and confusion, about love, sex and sexuality, they seems to rush back to me… sweeping me away, not knowing anything. Hmm… It seems that everything seems to breakdown that it seems that I can either retain my old form, which I know that it's more painful than it's worth; or I can decide, embrace and gamble for a change. But honestly speaking… I really don't know what to change… or do I need to change anything?
+
+…
+
+Just to share something that I posted on the forum:
+
+---
+
+Just my point of view, frankly speaking, how do we define sin? From the surface, we say that sin has to do with something that we have done wrong, or causing negative effects on others.
+
+So thinking from another specturm of this scenario: How do we define something as "sinful"? Some of us would say by a specific set of rules, mostly related to laws or religious teachings; some of us would say the consequence of the action itself; some of us would say that only the higher force of nature (some of us will call it God, but I prefer to use this term since it's much more of a general sense of belief except for those who are anti-theism) can judge whether it is a sin or not.
+
+But from my point of view, these very things are really artificial: They don't really exist, it's only a making of man but not from what that really existed. In situations when the human/society changes, these things will also change, or possibly perish. These things should only be seen as a guideline but not as a definite rule to paint everything in black and white.
+
+So, what does make call anything as sin? Honestly speaking, I don't know the answer, for I know that sin is much more of an abstract concept which is probably man-made/conceived as well as a tool to create fear among people.
+
+But what I do know how I will perceive a person is by observing his/her current way of living (do note that I mentioned current here. The past might tell the background of a person, but it should also be taken as a point of reference but not as a basis to the discriminate ). Then I'll decide whether I agree or disagree with one's action. I'll leave the judging to the higher forces, if such a concept of "sin" does exists.

@@ -1,0 +1,11 @@
+title: I'm Now Bound To Pay Taxes XDDD
+date: 2005-05-30T07:31:00Z
+category: Life
+
+FIRST.PAY.CHEQUE! <3<3<3
+
+Oh gosh this is exciting :D. I should be hyper excited right now if not the fact that I have insurance and other expenses to pay off this month :p. But it's OK since I do have a lot of room to spare for some small goodies for myself ^^.
+
+But at the same time probably 12836128631 items in my wishlist has to be put on hold at the moment XDDDD. Guess putting reality into the picture does make my base pay extremely low XDDDD. But then again, nobody says that entertainment has to have a higher priority than survival ;).
+
+Now all I need is to shove away most of my money before my shopaholic habit kicks in :p.

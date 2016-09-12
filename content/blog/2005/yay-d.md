@@ -1,0 +1,13 @@
+title: Yay! :D
+date: 2005-02-17T13:26:00Z
+category: Life
+
+私は日本語一級の勉強が終わった！おめでとう～
+
+Well… I did have a little bit of help from my teacher to form the sentence just now :p. Yes, indeed, I finished my Japanese level 1 basic class today ^^v. So that's an achievement to me ^^. I already signed up for level 2 basic classes, hopefully they have enough students to conduct it ^^.
+
+What else… oh yeah, I'm starting to love Domino a lot (Nine! Get out of my head XDDD!)~~ <333 It's really like, just listening to her songs makes me feel upbeat. So now I'm pretty much flipping through all her songs that I had in my SEB collection. w00tage!
+
+Guess that pretty much cushions the depression blow that I'm having lately :).Well… and now since I already found my secret "base" at school, where I can isolate myself for a while and to practice my paras at… guess I can keep my sanity for quite some time :p.
+
+Aaah~~~ Domino's Feel My Heart <3333.

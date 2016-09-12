@@ -1,0 +1,12 @@
+title: Today's Drifting Thoughts: In Still Time of Aloneness
+tags: thoughts
+date: 2005-03-16T12:00:00Z
+category: Reflections
+
+It's been quite some time I have been at home, rushing on assignments and my own final year project. It's kinda funny thinking about it though, seeing myself being in the last month of university life, probably I should have at school, enjoying the last moments to be with my classmates. But so it seems that my works seems to take a much higher priority… but I only have myself to blame for procrastinating work.
+
+Looking back into those two years, it's like… a lot of things had happened, and I have been through all the most extreme ups and downs that I had in life. And now I'm just sitting here, feeling a sense of calmness which I would never expect. It's like, if I were to be a situation like now in the past, I would probably freak out and started to panic. But today's a totally different story, it's like… I'm sitting here, feeling so cool and calm like I'm not concerned whether I would flunk in my examinations, missed the most important deadlines or perhaps at a larger scale, whether I may not graduate. But am I really not concerned? Hell no, knowing how much of a perfectionist I am.
+
+But the kind of calmness today is just so… different than what I would use to react. It's really kind of strange actually, but I really liked it this way, despite my worries of the sudden change of behaviour. Is it that I'm letting my grip a little loose? Or is it something else? Well… probably the reason why I speculate that it might be something else is because the calming experience just feels like one of those spiritual experiences. :)
+
+Hmm… maybe I shouldn't waste too much time on this, got a thesis to finish by tomorrow!

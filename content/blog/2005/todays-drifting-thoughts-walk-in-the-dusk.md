@@ -1,0 +1,20 @@
+title: Today's Drifting Thoughts: Walk In The Dusk
+tags: thoughts
+date: 2005-04-11T05:01:00Z
+category: Reflections
+
+Just for the past few days, I wasn't feeling too well emotionally. How should I put it… I wouldn't say that I was depressed or anything, just that I'm just feeling sad and weak.
+
+Ever wondered the feeling that when you are feeling like being extremely intimate that special someone by your side, but only to realize that you are alone in reality? Just the thought alone makes me feel really desparate, really. During those days, I just feel so unmotivated, so weak to actually do anything productive. I just spent quite some time just lying on the bed, hugging anything soft within my reach. And having really intimate dreams doesn't really help much either.
+
+Only then I only realise one of my deepest desires is to have someone, a stronger figure that I can fall back on. It's pretty embarrassing to admit, but that feminine desire to have somebody that I can be totally dependent on. And probably one of the strongest reason why I always have a stronger attraction towards males than the opposite sex.
+
+Thinking about it, I'm probably just being avoidant in real life. Many a times, I just wish that I can always avoid from my own problems and have somebody to deal them for me. Or probably… I just have that naive desire to settle down, to be with the person I love the most and lead a simple life.
+
+But putting in some really deep thoughts about it, I can't always be avoidant towards the problems that I have created myself. Beside, I can't possibly settle down either. There's just a lot for me to do, and I really love the responsibilites that I have picked up along the way. Yes, there's a lot of hardship when I trod my path, but I really love what I'm doing now: to learn, create and venture. If I were to actually settle down, probably I would have dumbed down myself to a degree of boredom.
+
+Honestly speaking… I still have a lot of doubts and worries about the future. And to be totally frank, I still feeling really lost and anxious about what is going to come. But I believe that with the right thoughts and actions, I should be OK :).
+
+---
+
+Examination preparation starts from this week! Hopefully I can do good in my exams! Wish me luck!

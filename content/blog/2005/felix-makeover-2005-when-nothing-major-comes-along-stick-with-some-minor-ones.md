@@ -1,0 +1,13 @@
+title: Felix Makeover 2005: When Nothing Major Comes Along, Stick With Some Minor Ones
+date: 2005-06-22T00:43:00Z
+category: Life
+
+Speaking of the 2005 makeover plans, it's been quite some time I haven't done much about it lately. Well… seeing that I'm going to stick with my physical appearance for some time (well… since I can't find enough reason to spend more on these stuff as I find myself spending much less time going out lately), so I'm currently spending time cleaning up my own living space and see whether it'll bring a change in lifestyle (Hmm… Queer Eye for the Straight Guy, anyone? :p)
+
+It has been quite a chore to me actually as I find myself cleaning my own room and bathroom that hasn't been maintained well for months (or probably even a year). With all the dust, dirt, junk, fungus and other things accumulated, these few nights hasn't been easy for me as I worked very hard to get them off from the surface (Luckily I never found any skeletons in the closet :p).
+
+For now I have cleaned up most part of my room and bathroom, and I'm really proud to have a much more agreeable living area. Now all I need to do is to clear out more junk, arrange more stuff and then I will probably have more space to decorate my room a bit :). That's a really simple yet exciting prospect! :D Hmm… I'm really looking forward to get an aquarium in my room some time in the future :).
+
+As for other stuff, I have been gathering information about some financial planning stuff, which I do hope that I'm able to sustain myself with the lifestyle I wanted. :) I guess it does sounds really challenging, but I'm really looking forward towards the change :).
+
+頑張ってね～

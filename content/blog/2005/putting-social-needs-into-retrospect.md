@@ -1,0 +1,17 @@
+title: Putting Social Needs Into Retrospect
+date: 2005-05-07T14:19:00Z
+category: Life
+
+After finishing Linus Trovalds' book "Just for Fun" within 10 hours time, it really give me some time to actually think about my own life. Basically for the uninitiated, Linus Trovalds is the who brought Linux into the computing world and Just for Fun is basically 80% of "crappy" (in his own words, after one statement which goes something like 'once the readers got hooked with the first few pages of the book, we can just fill the rest of it with crap'… Or probably I'm just having a bad memory in recalling the exact quote, since the book is not with me) yet extremely fun biography and the remaining 20% filling with his serious thoughts on issues about open source and his views in life.
+
+Honestly speaking I was thinking of dedicate a whole Today's Drifting Thoughts section for today's entry, but I can't really recall the feeling after I finished with the book and the only thought being left there (apart from the information that I have obtained) is what I have put in the title. Probably I will revisit that later. But somehow thinking about it, it's kinda funny thinking of how I usually present some of the serious entries I had in my LJ: Somehow while most of the better (if not best) blogs does seem to voice out opinions towards various topics, and provide some sort of a deep analysis regarding the topic being mentioned, mine is just filled with tons and tons of questions left unanswered. Not to mention that sometimes these thoughts are really conjured up impulsively as I am trying my best to organise these incoherent yet related thoughts. Hmm…
+
+---
+
+Anyway, just to recap what has happened for the past two days, basically my first week of work is over, and I'm *not* satisfied with my own performance there. Don't get me wrong, it's nothing to do with the company, but it just seems that I'm just not doing enough while I often find myself being totally unproductive at work. But I suppose that's gonna change next week as I'll be receiving a research topic next week. Need to gear up to face the beginning challenges that I'm going to face at work.
+
+Then later at yesterday, Chee Kuang, a friend whom I recently knew, asked me out for supper. And we get to discuss a lot of things about personal development, and I really enjoyed these kind of conversation. Then later on we planned to go to his house for a short while but in the end I ended up staying there overnight as he fell asleep soon after XD. But luckily two of my friends, Hean Kuan and Hean Loong, stays in the same house and it's really cool actually :). And besides, because of this I get to read Just for Fun, which my friend, Hean Kuan, is currently reading. Then earlier this afternoon, the shrine in their house just caught my interest and Hean Loong goes on in telling me a lot about Sokogakai Buddhism (Hope I didn't got the spelling wrong :p), which is really interesting actually when I try to understand the message he's trying to convey.
+
+And now I just came back from MIND, which is basically a developers' group meeting that I participated. It's been a while I haven't been there and boy there's a lot of things happening over there actually.
+
+I think I'll just stop here for now.

@@ -1,0 +1,15 @@
+title: Of Commitment
+date: 2005-08-30T14:30:00Z
+category: Reflections
+
+They aren't hard decisions to make, but somehow tradeoffs had to be made. In a way, I just have to face the fact that there are some times, I just can't have goals which has two ends at their polar opposites (or the old saying "You can't have the best of both worlds"), and that I really have to understand the fact that taking one side of the road doesn't mean that I'm rejecting or opposing the other. I understand very clearly that as much as I'm extremely open with the every single option I had, in the end, I still have to make the ultimate decision to take only one: and eventually if that doesn't work out, I know that my other options will not be completely closed off from me (as in "it's not the end of the world")
+
+And so, I have narrowed some of many things that I really wanted in life (at least **mentally**): of the goals I wanted to achieve, the things that I wanted, the love relationship that I'm seeking… and the list goes on. It's really hard to actually narrow these down, but I know that it's better this way in the long run as I don't have to see myself being pulled in ten different directions. Basically I did have a list of goals that I wanted to achieve this year, so I'm sticking to that. Somehow I have already fixed my direction of what I would seek in a loving relationship, and I know that this path is definitely going to be challenging, if not risky. (I believe those who knows me pretty well will know what I'm trying to convey here, but I would like to add that I'm starting anew now)
+
+Anyway… In other news, I'm indeed starting a lot of small commitments, financial ones, that is. Currently apart from my own savings, investment, family and charity commitments, now I got a new commitment at hand now: A fitness club membership :D! I'm really glad that Sze Hau enrolled the membership together with me, so I'm sure that I'm going to have company :) (to Sze Hau: Thanks a lot! It really means a lot to me :D). I'm really looking forward to have some exercise in two days time :D *excited*. Although I'm starting to feel a bit numb with all the marketing hype and promotional persuasions :p.
+
+In other news, Super Eurobeat Christmas 2004 came in the mail yesterday :D! (Hah! I started my Christmas shopping really early this time :p) But I didn't enjoyed it fully yet, probably due to the fact that it's far from December yet XD. But overall it's a good CD, and I really loved the Heaven Candle Light special track arrangements of Fantasy (Virginelle) and Nothing Changed (Norma Sheffield / Dave Rodgers). It's basically a classical rendition of these two famous Eurobeat numbers (no vocals, which is a good thing from my point of view :p) by Seuji Honma (from New Generation). Although I have to say that it really sounds MIDI-like, but nonetheless it's really beautiful ^\_^.
+
+Now I'm still waiting for Super Euro Christmas and Super Eurobeat Christmas 2003 to get in the mail :).
+
+BTW, Malaysia is becoming 48 tomorrow as we celebrate national/independence day!

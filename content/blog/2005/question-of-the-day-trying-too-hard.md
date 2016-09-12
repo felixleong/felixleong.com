@@ -1,0 +1,11 @@
+title: Question of The Day: Trying Too Hard
+date: 2005-09-22T15:18:00Z
+category: Writing
+
+Is it that I'm trying too hard? Or is it that I have unconsciously set a impractically high standard upon myself?
+
+And that's NOT the first time I have asked this question. It seems that I'm now having two opposing thoughts clashing with each other, and that really drains me out sometimes.
+
+Somehow the line between my big picture of life and my own illusions/dreams has somewhat blurred to a point that I really don't know how to differentiate between them. And what's worse is that I have completely no idea what is happening that I really can't differentiate between what is the truth and what is only my own perception of things.
+
+**Summary:** I really feel out of place -- feeling left out, in a way.

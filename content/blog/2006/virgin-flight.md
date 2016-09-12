@@ -24,13 +24,13 @@ And so we just went, going through all those paperwork and procedures that we ha
 
 !['Clouds Among Us' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2245.jpg){: .img-responsive}
 
-And it was that "fateful" (hmm? Exaggerating vocabulary at its best :p) noon I got my taste of going airborne :D. Then the typical description goes that "everything seems small thousands of mile above ground, all those small "toys" forming very interesting patterns and colours, having fun playing 'guess where that is', CLOUDS ARE PRETTY~~~ &hearts;&hearts;&hearts;"… well, not until you finally realised that clouds can also be your greatest enemy of obstructing view and affecting visibility. No thanks to dampening reminders. LOL But there's one time when I get to see a downpour in action, and that was really a slight to see :D.
+And it was that "fateful" (hmm? Exaggerating vocabulary at its best :p) noon I got my taste of going airborne :D. Then the typical description goes that "everything seems small thousands of mile above ground, all those small "toys" forming very interesting patterns and colours, having fun playing 'guess where that is', CLOUDS ARE PRETTY~~~ <3<3<3"… well, not until you finally realised that clouds can also be your greatest enemy of obstructing view and affecting visibility. No thanks to dampening reminders. LOL But there's one time when I get to see a downpour in action, and that was really a slight to see :D.
 
 I'm pretty surprised that the flight goes very smoothly, I didn't felt much difference from sitting in a car than on a plane, apart from a very brief experience of elevating and descending.
 
 !['Beach from Above' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2262.jpg){: .img-responsive}
 
-And an hour and a half later, I finally saw Tioman Island: Full of greens and blue &hearts;&hearts;&hearts;. That's a very lovely sight to see (it's really not hard to tell that I love nice beaches a lot :D) and we landed soon after. And I was very enchanted by what I experienced then: cool sea breeze, a serenity that was harmonized with sounds of nature, lush green mountain ranges, not to mention that I can see the clouds and rain coming to our direction with such a wide landscape… it's very mesmerizing experience! :D And that was really my first time I felt that excited!
+And an hour and a half later, I finally saw Tioman Island: Full of greens and blue <3<3<3. That's a very lovely sight to see (it's really not hard to tell that I love nice beaches a lot :D) and we landed soon after. And I was very enchanted by what I experienced then: cool sea breeze, a serenity that was harmonized with sounds of nature, lush green mountain ranges, not to mention that I can see the clouds and rain coming to our direction with such a wide landscape… it's very mesmerizing experience! :D And that was really my first time I felt that excited!
 
 After that, we get to check out what's in an observation tower, which is definitely full of sophisticated equipment. And then we got down and waited for a speedboat to get us to our destination: the Melina Beach resort.
 

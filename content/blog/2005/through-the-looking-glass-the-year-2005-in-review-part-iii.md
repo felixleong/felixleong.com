@@ -1,0 +1,57 @@
+title: Through The Looking Glass: The Year 2005 In Review -- Part III
+tags: thoughts
+date: 2005-12-31T03:45:00Z
+
+## May 2005 - Switching Environments: Changes Abound
+
+> "…while most of the better (if not best) blogs does seem to voice out opinions towards various topics, and provide some sort of a deep analysis regarding the topic being mentioned, mine is just filled with tons and tons of questions left unanswered."
+> -- [May 7, 2005]({filename}/blog/2005/putting-social-needs-into-retrospect.md)
+
+> "I really don't like the feeling of denying myself every single time I'm trying hard to suppress my feelings. But I have to do just that in order to ensure that I don't want to spark any unwanted drama by sticking something "hard-to-swallow" (by the perception of the society, that is)in their throats."
+> -- [May 20, 2005]({filename}/blog/2005/todays-drifting-thoughts-when-matters-tend-to-screw-your-mind-up.md)
+
+> "it does came to me that in times of doubt, some parts of the foundation of our own self perception starts to be more fragile at this point of time: Our principles and values being challenged, our strength and vitality to fight starts to wear out, our vision and goals are being put into question."
+> -- [May 22, 2005]({filename}/blog/2005/todays-drifting-thoughts-the-continuation-of-the-question.md)
+
+> "…the seeking of the true meaning of life is actually discovering our own unique underlying principles in living, as well as being able to make sound judgements towards our own actions, take full responsibility for it and live blissfully with the consequences that we have brought into our own environment."
+> -- [May 24, 2005]({filename}/blog/2005/todays-short-drifting-thought-regarding-judgement.md)
+
+### Comment
+
+First time setting foot in the office environment. It's definitely a completely different experience to me during that time. To me, it marks one of the greatest stepping stone in life which greatly changed my life in days to come (more coming up in later parts).
+
+To be honest, being in work is definitely a shock to me, as expectations and standards are completely different from the school setting, which does really stress me out somewhat. Especially in this department where standards are up on a much higher notch compared to most companies I knew. And the funny thing is that I CAME to expect it that it's not going to be easy but YET I'd never expect it to be that challenging either. That really pushed me to the limits at one time or the other that I'm really afraid that I'll snap someday :LOL:.
+
+But luckily I have gained a lot of support from my office friends as everyone here are helpful and friendly. It would have been a much tougher path without them (yet there are still rocks that I have to climb on my own, which is a good thing for my personal growth). I would really like to extend my thanks to them, especially Sook Lan, Sze Hau and Seng Yaw.
+
+And during this month I was seeking closure to my past hurts and pains, which is definitely one of the greatest change in my part. As I gone through the hardships, I'm starting to accept who I am and opening myself up to experience the things around me. Although there are times when I find myself retracting back to my past habits and avoidance, I know that this have to take some time and training.
+
+I believe this is also the month when I approached [Osho](http://www.osho.com/)'s material, with a collection of his talks in Tarot In The Spirit Of Zen. His works has definitely influenced me in terms of personal growth and gave me a lot of courage from time to time to explore my own path of living.
+
+And it does seems that my drifting thoughts posts is getting fewer and fewer. Hmm… probably I'm starting to slack :p. (Avoiding to type extremely long entries? XDDD)
+
+## June 2005 - The Wheel of Change
+
+> "In the cycle of emotional calm and chaos, a sense of peacefulness seems to assure me that everything should be OK, no matter what comes."
+> -- [June 2, 2005]({filename}/blog/2005/todays-short-drifting-thougt-change-or-is-it-change.md)
+
+> "That the greatest gift in us is our own ability to choose our own path and proceed in doing what we truly believe in."
+> -- [June 5, 2005]({filename}/blog/2005/todays-drifting-thoughts-of-life.md)
+
+> "机会…何谓机会？机会乃是人的希望而生，也由绝望而存。" (Chance… what is chance? A chance is born from our own hopes, and it's also survived with our regrets as well.)
+> -- [June 10, 2005]({filename}/blog/2005/todays-drifting-thoughts-chances.md)
+
+> "But I have to be fully aware that I can't be a shelter for empathy and/or sympathy all the time, as I believe that being a true friend is to be able to make the best decision and do whatever necessary in order to help their situation, even if that means that I have to hurt them and/or myself in some occasions."
+> -- [June 21, 2005]({filename}/blog/2005/todays-drifting-thoughts-when-communication-is-both-the-barrier-and-door-towards-understanding.md)
+
+### Comment
+
+June is much more a "sinking in" period to me as I find myself adapting to the changes in my own life. There are times when I feel good, there are times when I feel a little inferior… That there are times when I feel a little bit uncertain with my own future (well… honestly I still feel that way now :p).
+
+It's not really a very happening month that time, but there are quite some events going on: Theen Gee moved out after his three months stay here. Having him staying over here is definitely an experience, as I have learnt a lot of things from him. Then my results came out that I'm sure that I'll be graduating (hmm… It's kind of hard to find a perfectionist like myself NOT to graduate, isn't it? :p), then it's Kok Weng (my friend back in the university) and Kok Hwa worked in this department. And then I also bought FelixLeong.com, which is now a plot of digital land awaiting me to sow the seeds and a future garden to take care of.
+
+On the job spectrum, I started on some real work, but as my research paper came back to me… ^\_^|| well, that really made me nervous about my future :p.
+
+---
+
+[:to be continued:] July & August 2005

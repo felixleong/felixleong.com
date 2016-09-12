@@ -1,0 +1,22 @@
+title: Today's Drifting Thoughts: The Elephant, The Giraffe And The Fridge
+tags: thoughts
+date: 2005-12-23T04:09:00Z
+category: Reflections
+
+Just today I was reminded the joke about the elephant, the giraffe and the fridge, the joke goes something like this:
+
+How do you put an elephant into the fridge?
+Answer: Open the fridge door, put the elephant in, and close the door.
+
+How do you put a giraffe into the fridge?
+Answer: Open the fridge door, take out the elephant, put the giraffe in, and close the door.
+
+Thinking about it, it just reminded me the lesson that I kept on forgetting:
+How many times we have been paralysing ourselves with what we called as "knowledge"? How many times we have make our thoughts overly complicated that we have the tendency to think of thousand of imaginary parameters that we think that will "block" our progress?
+
+How many times we have judged things, saying that a thing is "good", "bad", "easy", "difficult", "impossible", etc., even before we have enough information to base our judgement on? How many times we have become ignorant or lazy to at least ask an extra question or two about the question itself? How many times we have locked ourselves into our own frame of thoughts and sights of perceptions?
+
+A lot of times, just as we thought that we are doing "the right thing", we often missed our own mark. We have totally missed life at its own purity. Everything in this world is actually simple on its own, what makes it complicated is when our illusions are clouding our own sight.
+
+Maybe the question "How to live happily?" can be just answered by:
+Open the door, get out there, and close the door.

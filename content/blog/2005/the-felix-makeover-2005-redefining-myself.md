@@ -1,0 +1,15 @@
+title: The Felix Makeover 2005: Redefining Myself
+date: 2005-09-04T12:38:00Z
+category: Life
+
+Now one more goal has been added to list: that I want to improve my health, fitness level and body shape :). I have drawn out my own schedule to make sure that I exercise at least one hour, 4 days a week. So I really hope that this will enhance my physical wellness.
+
+Somehow I do feel like doing gradual changes in redefining myself, so to align myself with my own set of core principles and values in terms of body, heart and soul. And I can foresee that it's not going to be easy in the short run -- in fact I cannot rule out the possibility of danger. Not to mention that my core principles and values may be wrong, but I really wanted to take the initiative to improve my own lifestyle -- a lifestyle that is in harmony with my own being.
+
+So that'd be my long-term goal, if not life-long :).
+
+--
+
+Anyway, coming back to today, all I wanted to say is that I'm taking up body combat classes and I really enjoyed it a lot. I wonder whether I can kick some serious a$$ someday :p. And I'm starting to develop a liking to Yoshinoya's (吉野家) food <3<3<3.
+
+And ouch… my muscles are soring ^-^||…

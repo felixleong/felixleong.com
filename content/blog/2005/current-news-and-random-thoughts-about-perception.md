@@ -1,0 +1,15 @@
+title: Current News And Random Thoughts About Perception
+date: 2005-10-12T12:01:00Z
+category: Life
+
+Let's see… spending a few days up here in Genting Highland, getting the darn machines to be set up (and that took us two days O\_O), testing these machines and seeing all sorts of bugs flying around (programming/system implementation bugs, that is), and I'm still waiting for that darn jackpot to hit so that I can see what's going to happen (and that's NOT an optional test case).
+
+Not to mention that I'm feeling kinda lonely over here: after facing all those challenges that seems like a mountain T-T.
+
+But generally it has been a great experience, does give me more exposure to the real world outside together with all its possible adventures and challenges. And the people that I have been working with are really helpful and friendly :).
+
+The only thing I really have to gripe about is that I really can't stand smokers (and they are almost EVERYWHERE, not to mention that I have a great constrast of fresh outdoor air and the stuffy/smokey indoor air… made worse by internal ventilation). It's like I'm feeling almost dizzy from time to time. Ugh…
+
+On the lighter side of things, I watched Flightplan yesterday together with my office friend Seck Min. It's really a mind blowing watch, not on a major scale, but good enough to trigger a lot of excitement and suspense. It really made me thought about human perception on an individual to a collective scale, that people tends to follow or agree with one collective idea which is basically pieced by our own comfort and convenience. And that sometimes when we are in groups or so, we tend to follow the lowest common denominator of that particular group…
+
+Interesting thoughts to ponder about later :).
