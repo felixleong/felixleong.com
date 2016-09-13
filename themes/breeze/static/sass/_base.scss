@@ -10,10 +10,18 @@ h1,h2,h3,h4,h5,h6 {
   }
 }
 h3 { font-weight: 300; }
+h6 {
+  color: $gray-light;
+  text-transform: uppercase;
+  border-bottom: 1px solid $gray-lighter;
+  padding: 0.5em 0;
+}
 
 blockquote { border-left-color: $brand-primary; }
 
 // Core blocks
+.page-content { position: relative; }
+
 .post,
 .page-content .listing,
 .widget-box {

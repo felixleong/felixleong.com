@@ -1,0 +1,16 @@
+.tags {
+  a {
+    @include border-radius($content-box-border-radius);
+
+    display: inline-block;
+    border: 1px solid $link-color;
+    padding: 0.4em 0.6em;
+    margin: 0.2em;
+
+    &:hover {
+      background: $link-color;
+      color: #fff;
+    }
+  }
+}
+

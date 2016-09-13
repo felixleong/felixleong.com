@@ -78,6 +78,16 @@
       text-transform: lowercase;
     }
   }
+
+  // Additional meta
+  .additional-meta {
+    .profile-photo {
+      border-radius: 50%;
+      float: left;
+      margin-right: 1.2em;
+      width: 90px;
+    }
+  }
 }
 
 
