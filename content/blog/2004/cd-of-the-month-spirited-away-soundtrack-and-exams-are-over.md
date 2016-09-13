@@ -1,0 +1,54 @@
+title: CD of The Month: Spirited Away Soundtrack (And Exams Are Over!)
+date: 2004-04-24T15:11:00Z
+category: Life
+
+Finally! The exams are over! What a relief! Well… although technically it wasn't so, since I probably have to resit a paper, but I suppose I can manage it later in a few more weeks when the confirmations are out. Today's test wasn't too good, I really hate anything to do with Malaysian Studies (or my high school history or geography for that matter)… I can't seem to recall anything when I sat for the tests! At least there's objective questions… *shrugs*
+
+Soon after the exam ended, I took the bus straight to the mall where I found the Spirited Away Soundtrack, at the same time check any new CD in stores. I rushed into the shop just as soon as I got off from the bus, and I was shocked that they have already taken down almost every single Japanese CD except for those seem-to-be sellable ones! (Ayumi, Utada etc) And the Spirited Away Soundtrack is no where to be seen! Oh crap! Then later in Tower Records in the same mall, I noticed that Ayumi's "love appears" CD is also gone too! You can imagine how frustrated I was and I was feeling like constantly stomping my feet hard and mumbling "Crap… crap… CRAAAP!" repetitively. And I really hate it because that's the only shop that I have found the original copy of the soundtrack (apart from Taiwanese bootlegs)!
+
+Just as I was almost giving up, I saw the video shop on the lower ground floor, as much as I didn't put much hope in that shop (I knew it stock a lot of Chinese and English CDs, but they don't stock Japanese CDs), I just went in anyway. And to my surprise, among all those Ever Anime bootleg CDs on a rack, I saw the soundtrack that I wanted! I quickly grasp it, "Poly Canyon", yup, it's legit all right. And without hesitation, I pay for it at the counter.
+
+Now I'm having my headphones on, enjoying Joe Hisaishi's masterpiece. The scores are all beautifully rendered: from calm to dramatic to suspense to funny (Track 7: The Sootballs <3). I haven't finished the CD yet, but I have already enjoying the orchastreated pieces on the CD, it seems that the piano was the main focus in some of the tracks, and oooh they are so beautiful! If you liked the Oscar winning Japanime feature, you won't regret buying this CD ^^.
+
+Anyway, my favourite is undoubtly the ending credits theme: Youmi Kimura's Always with You. Her voice is so clean, so serene… it has some sort of calming effect by only having a clean guitar track with beautiful vocals. I got this up for you guys to share (hope Ali won't mind me hoarding her server with my stuff >.>):
+
+http://www.kirakira.org/ftp/21-Always%20With%20Me.mp3
+
+In case you are wonder what's the lyrics are all about, I have roughly translated the lyrics based on the Chinese translations included in my booklet:
+
+> (It is) Calling, deep down in my heart  
+> Always dancing in my heart to dream
+> 
+> Although there are countless sorrows,  
+> Facing this direction (I'm) sure that you can be found
+> 
+> Pacing back-and-forth on mistakes, this time, the people  
+> Only noticed that the skies are blue  
+> Continuing with the search, when there's a path of no end  
+> This pair of hands will hug the light
+> 
+> When it's time to say goodbye, the silent heart  
+> will all return to nothingness, listen carefully…
+> 
+> Living is unimaginable, dying is also unimaginable  
+> Flowers, Wind, Streets… Everyone are the same
+> 
+> (It is) Calling, deep down in my heart  
+> Always be with me to build dreams
+> 
+> After counting all your sorrow  
+> Use the same mouth, and silently sing this song
+> 
+> Close your eyes and think deeply, and everytime doing this  
+> Listening carefully, unforgettable whispers  
+> even on a finely shattered piece of mirror  
+> Will also be able to reflect a new view
+> 
+> In this window where the morning glow is silent  
+> When everything returns back to the beginning, (you will) feel content
+> 
+> On the other side of the sea, (you) don't need to search anymore  
+> All the things which shines vibrantly, is already stored here  
+> It's already found in your heart
+
+I suppose that should be about it… I suppose someone can do a better translation than I do, but it's a really beautiful song nonetheless. Enjoy!

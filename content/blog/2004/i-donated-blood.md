@@ -1,0 +1,20 @@
+title: I Donated Blood ^^
+date: 2004-07-08T11:18:00Z
+category: Life
+
+Phew! I never knew the other university block is THAT far! Took me about 20 minutes to walk there!
+
+Anyway, there's a blood donation drive today and I just went there to support them ;). However, I have to walk to another university block since I missed the previous two blood donation drives when they held them in ours. It's been a year since I last donated blood, since it just happens that I fell sick the previous two donation drives. :(
+
+I went there and the crowd and reception is really welcoming. The helpers there are extremely friendly, and it seems that there's a bunch of cute guys and gals studying over in that block. Damn I'm so envious :p. The queue is really nasty, but luckily that it went so swift that I only have to wait for an hour before it's my turn.
+
+After that everything just went smoothly and it didn't took me long to fill up my bag of blood. And it seems I got used to blood donation that it didn't took me a long time to recover from it. Hmm…. did I mention that the helpers are extremely friendly? :)
+
+Anyway, I did well in my JAVA test yesterday. To my surprise (sort of), one of the test questions appears in our previous tutorial @\_@". Weird~
+
+Life's good… just have to wait until I started my Advanced Artificial Intelligence programming assignment :p.
+
+[:: RANDOM STUFF ::]
+
+- I only notice that I have a 3kg drop in weight, which means that I'm now only 47kgs @\_@". Uh… guess I need to find a way to gain some weight
+- Going back to my hometown tomorrow, at least planning to, since I haven't got my bus tickets bought yet. But if I do manage to get home, I'll be able to relax with my family for a few days <333. Choon Hui will definitely be missed during the 3 days period =3

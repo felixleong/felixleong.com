@@ -1,0 +1,15 @@
+title: There's Some Things That I Don't Understand About Cosmetics
+date: 2004-04-28T12:49:00Z
+category: Life
+
+Flashing back to yesterday, Katsuya (from Penang) just ask me to get some cosmetics for him. Apparently the brand of cosmetics, Red Earth, isn't sold over there and he just ask me whether I'm able to help. Pretty much without hesitation, I just said yes and thought it was not a big deal. Besides, I do need to have a walk after quite some time at home.
+
+The latter part is pretty much correct, but how wrong I am on perceiving the former.
+
+Today, after dropping my data to my professor for his research, I headed straight to the mall with my notebook in my backpack. Then soon after that, I have been going for a cosmetics hunt… well… not yet. Instead, I check out Tower Records for any new arrivals and MPH bookstores for any books that I would want to drool on. And just after THAT, then I went for the cosmetic hunt, but as I was trying to search around, I can't seem to find any speciality shop that carries a sign "Red Earth" or something. Then there I go… walking up and down the mall just to find that specific store which carries them… and the backpack is starting to kill my back. Ouch! And yeah, having back pains with fatigued feet isn't really something to laugh at.
+
+And just halfway through the shopping trip, my inner voice is starting to make a fuss about cosmetics, then the whole "torture" ensues, the "conversations" goes like: "Hey! GUYS aren't supposed to buy cosmetics" "And yeah? Why shouldn't they?" "Cosmetics are for gals~~~" "Hey! There's no rules saying so." "And yeah? Do you want to like some girly metrosexuals~~?" (sidenote: Sorry, metrosexual do make me cringe sometimes… :p) "Hey! Shut up! I'm buying this for a friend, OKAY?!" Then the nagging goes on. Now I can relate to guys who makes a fuss about buying sanitary napkins.
+
+After some desperating strolls and some really nasty internal naggings from end to end, top to bottom of the mall, I was totally exhausted. Then I remembered two major departmental stores which I haven't check it yet. Speaking of departmental stores… ugh… that always gives me the creeps. It's no biggie if you don't mind it being next to the womens apparel department (I don't really cared), but if you have some minor allergic reaction to perfume, that's really something that would have made me stay out from them as far as I could. Not to mention that they are situated at the furthest end in both sides! Ugh… Feeling that I didn't had a choice, I dragged myself into the stores, still making a fuss about buying cosmetics… to add salt to the current injury, I'm feeling dizzy due to the perfume samples.
+
+Now, I'm staying at home, typing this… at the same time feeling tired all over. Augh… And for some reasons, I promised to try to help him out tomorrow by going to KLCC and find that cosmetic for him (Umm… I'm not sure about this, but Tommy did mentioned it was a "he" all right… perhaps that's part of the reason why I make all the fuss). Hope the trip isn't that torturing like today (and I'll be ENTIRELY sure that I won't be carrying a heavy backpack!)

@@ -1,0 +1,84 @@
+title: Poem: My User Info Poem Change
+tags: poem
+date: 2004-11-21T04:08:00Z
+category: Writing
+
+For those who didn't notice, my user info basically reflects a lot on myself… and the direction of my own life. My LJ is pretty much a record of my own journeys, which pretty much reflects on my own life from many aspects. And every single post has been done with a lot of heart and soul poured into every single word choice.
+
+I believe it's time to change it… To signify another milestone.
+
+For those who didn't get to read the first version (I'm taking it down), here it is, accompanying version 2 at the bottom.
+
+
+## Chapter 1: Jan'04
+
+A computer science student bored out of his mind  
+Ends up deciding to trying to inject words into describing his already boring personal life:
+
+Perhaps I'm just waiting for another miracle  
+Where words come alive and paints a better picture to life
+
+Perhaps I'm awaiting another adventure  
+Which I might not notice in the past
+
+Perhaps I'm trying to mark my times  
+When I might notice how wonderful my life have been
+
+Perhaps I would find answer for my questions  
+"Why I come to the world of existence?"
+
+Perhaps I might see myself clearly  
+On how I used to think and do
+
+Perhaps… I might be able to understand myself  
+and appreciate who I am…
+
+---
+
+## Chapter 2: Nov'04
+
+> "In awe, I receive messages from the past --  
+> lyrics that become self-prophesies,  
+> coincidences that remind me of my destiny,  
+> voices of singers long gone.
+> 
+> They tell me that whichever path I choose  
+> will take me home."
+>
+> -- Utada Hikaru,
+> from her Single Collection Vol.1 1998-2003 album cover
+
+---
+
+No longer I am who I was…  
+For life have shown me possibilities…
+
+The miracle is now  
+Where every word dances along with my existence
+
+The adventure is now  
+Where every single moment is calling for my notice
+
+My times has been marked  
+When I noticed that life wonders doesn't only come in joy and happiness
+
+My answers have been found  
+For existences doesn't have a reason
+
+For now…  
+My destiny is clear:  
+To seek, to appreciate, and to understand…
+
+No matter whichever path I took…  
+It'll take me home…
+
+Just believe… the strength within…  
+For faith is useless if fate is unchangable…
+
+…
+
+For those who notice, I'm opening up some of my friends-only posts to public… For I know… hiding my feelings is not what I'll usually do.
+
+So, back to public mode once again :). (Well… I'll make exceptions when it's extremely sensitive, that's all to it :) )
+
+[::EDIT: This have been revised for the 3rd time X(. Well… typos are meant to be fixeds, poor paragraphs are worth to be reworded ::]

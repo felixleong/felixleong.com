@@ -1,0 +1,11 @@
+title: CD of The Month: A BALL… *Wheeze, Crackle, Pop, ARGH!!!*
+date: 2004-03-27T15:04:00Z
+category: Life
+
+OK, good news, CD of the month is Ayumi Hamasaki A BALLADS. Nice remixes, cool songs, beautiful cover (although it did look a bit… lesbian-ish? XD)… great!
+
+However, what really get on my nerves is that… I CAN'T RIP IT PERFECTLY! It seems that crackles and pops always have some way to get in the way, and the resulting files are so unsatisfying since it gets really annoying! X( I do wonder is it my CD-ROM, the copy-protected CD, or just my plain luck. Shoot!!! (It happens once when I first ripped ayu-ro 3, but the second attempt goes smoothly without glitches.
+
+I'm not going to give up just yet!
+
+(Well… at least I get to hear Dolls… *cough* I can't stop imagine someone singing it while being down. XD)

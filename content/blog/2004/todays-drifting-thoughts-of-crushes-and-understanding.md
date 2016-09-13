@@ -1,0 +1,28 @@
+title: Today's Drifting Thoughts: Of Crushes and Understanding
+tags: thoughts
+date: 2004-06-08T09:11:00Z
+category: Reflections
+
+First of all, here's another poster I did for our society:
+
+!['Membership Drive Poster'](http://img32.photobucket.com/albums/v95/seh_hui/poster/recruit_small.png){: .img-responsive}
+
+[p/s: As few words as it seems, it might need some grammatical fix if there's some hiccup. Do comment if you notice one ^^]
+
+Anyway, school work is starting to pick up, which means that I definitely have to make myself working or else I'll fall into the procrastination trap again. And this summer seems to be quite special, I mean, seeing that people are into the lovey-dovey mood lately (including yours truly). Class has never been the same to me again, since I have been constantly fixing my eyes towards Choon Hui… although I did try to tone down my gestures when we are close together and I pretty much "acted" like friends. He caught my eyes once though, which did made me quite nervous :p. Oh gosh, now I'm pretty much mixed up on deciding whether I should take my move or keep on observing XD.
+
+But on different point of view, I did notice that I get nervous when I'm far from the crushes, but after getting within the close distance, I just feel the sense of calm inside me. Hmm… weird? Or am I suppose to have heartbeats as fast as it'll cause a heart attack any time and flash a face with the likes of a tomato instead? Hmm… Guess I do need some time to understand my responses towards things, but then that does make me feel like I didn't understand myself well.
+
+More often than not, I notice that the conversations I had with Ahmed is starting to hit on me. Well, I said that in a positive way, but sometimes it seems that … well, I had all the assets, philosophy and understanding to run my own happy life, but more often than not I don't feel confident enough to take control of my own life (if that makes any sense, anyway). It seems like I'm always taking the path of less resistance and being too sensitive about how other people feel, which always ends up having myself sacrifices a lot of things.
+
+Picking my own lines which I left behind in Ahmed's journal:
+
+> "I don't really how to put this without me shuffling through my fragmented thoughts, but sometimes we just can't see ourselves from another person's perspective without having someone or something to help us out. Picking a line from Fruit Basket (recommend the manga/anime ^^):
+> 
+> "We are like dumplings with a sour plum at our backs. And more often than not, we always admire the sour plums on other's back, yet we can only see rice on ourselves." (I pretty much recall this from memory and literally translate it. But I suppose it should do the trick)
+> 
+> So sometimes… well, I suppose we can't help but feeling a bit… inferior. I suppose that's what friends are for sometimes. OK, that might sound a bit weak, but who says that strong people doesn't need reassurance in the first place. ;)"
+
+Hmm… Reassurance. I don't know, sometimes it's just hard to expect reassurance from someone without sounding like a drama queen/king or anything, but then I didn't know a good way to call for help either.
+
+Ah crap… deep thinking always jumble up and fragment all my conceived thoughts.

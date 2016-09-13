@@ -1,0 +1,26 @@
+title: We Are Supermen!
+date: 2004-07-28T07:45:00Z
+category: Life
+
+Oh great! What a semester. Being in my tenth week, I'm glad to announce that I have the most exciting semester in my life, which is both positive and negative.
+
+First, the negatives: It just seems that after our brains got fried during the last semester, people are starting manage their time better so that they can create drama around in our university life. From forums flooding to backstabbing, you name it, we have it (of course, nothing which will cause physical harm had happened around here… but there's a lot of verbal ones hissing around everywhere). Studies are piled up together with extremely high stacks of assignments, and we have to worry about our final examinations which is carry about 70% of our grades. Which is… ummm… tiring.
+
+And the university isn't helping either, this is the one semester they have try to jiggle around the course policies, schedules and… virtually anything course related. Complaints are out and about, lecturers having an awful time working the system out, students are in a total lost in terms of anything around them…
+
+Being a little bit more specific on certain stuff, the deans have been calling students for some sort of feedback survey kinda of meetings, and I'm one of them who always get called in… which might be a good thing because they will be sure that they'll get a piece of my mind (of course, nothing destructive). The turnout in Computer Society's AGM is totally disappointing that *not one single member showed up.*
+
+Well… it just seems nasty, and I have no crystal idea on what I have studied this semester. Oh god…
+
+
+On the bright side of things, I'm just glad that I found a life myself. I finally got myself out from depression (well… sort of :) ), finally have more time to enjoy with friends. I learned a lot of things, mostly nothing course related, but I just feel that sense of achievement which I haven't experience for quite some time. My communication skills are getting better, my knowledge in certain fields are nourished, improve a lot in drawing and paraing, been to different places which I never been before… The experience itself is exhilarating :).
+
+As bad as the environment might be, I'll just believe that I'm able to do my best and make changes for the better. As for now… I really need a good people network :p.
+
+**[:: SIDE NOTES ::]**
+
+- OK, I'm planning to go the US next year (if everything went smoothly ^^), possibly after the completion of my course which should be around May. Currently I'm just have no specific plans whatsoever, so off and on I might post up some planning details and stuff up and possibly I might need your help :).
+(p/s: Anyway, just being curious, anyone know how to get cheap air tickets? Or tips on getting everything cheap BTW)
+- FINALLY my eBay account and Yahoo!Groups memberships got settled. Gosh… Think I might get that sexy ayu-ro disc :).
+- Planning to get some stuff for myself this weekend, but before that, I do need to cash in the money to my VISA Electron
+- [update] Got one slip from the post office for an unclaimed package, meaning that my Euro de Key-a! CD is already here! <3333 Gosh I gotta wake up early tomorrow :3

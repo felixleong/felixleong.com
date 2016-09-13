@@ -1,0 +1,28 @@
+title: Computer Programs Annoyances
+date: 2004-03-18T16:21:00Z
+category: Life
+
+I always think computers are weird in one way or the other, sometimes it just let everything go smoothly that you can't imagine how you can live without them, and yet sometimes they give you enough problems and annoyance that you just want to pull your hair out and kick it hard.
+
+Today's no exception (and the reason why I get so pissed off during the day):
+
+1. Just to flashback in things, when I was attending class, my assignment group members came to me and consult me on how to get the database server set up. Although it's quite some time that I haven't actually set up one of those (since I'm able to get it up and running painlessly the last time), so I just decided to give it another go so that I can demo to them. So I just uninstall the old copy, and try to demonstrate how to install it from scratch. However, it doesn't work as I expected: it decided NOT to be install this time round! Then after half-an-hour of inspection, I found out that you have delete the old folder before you can install a fresh copy.
+
+    Moral of the Story: Clear up the junk before putting it back.
+
+2. Then after that, I have to find a free, third-party database administrator software to manage the database server (since the free MSDE doesn't come with one). But as much as I can find, those with full functionality can't work by simply installing them, and those which works are cripple enough to do just about nothing useful. Then the whole hair-tearing annoyance mode (where everything around you makes it even annoying!) is switch on and I had spent hours just to make one of them work. But no… the best one still refuse to work.
+
+    Almost in the verge of giving up, I try to figure out what's the problem. And with a single setting being set on the web server that the program runs in made it work almost magically! Phew! What a relief!
+
+    Moral of the Story: Sometimes the problem lies within the unobvious places.
+
+3. Now, when I wanted to continue with my Flash assignment, I remembered that my Flash MX 2004 trail period has ended and I need to uninstall it to free up some precious space, and so I did… and it gave me an error. Then when I try to load up Flash MX… the "Try" button has obviously turn into a "Buy" button… and I had 27 trail days remaining! (Wha…?! o_O")
+
+    So I guess I know what's the error just now means and I kind of become panic, with some slight hopes, I reinstalled the Flash MX trail and pray that this will solve the problem. And it did. Phew!
+
+    Moral of the Story: Don't take chances… especially when it comes to trail version software… and your important stuff!
+
+[:: Random Events ::]
+
+- Wee! My loan has been approved. I have to sign an agreement tomorrow and do some more paperwork and the cheque will be on my way soon! Hopefully I won't mess up this time.
+- Risha Ooki's voice is sooo beautiful! If you can get your hands on Final Fantasy Vocal Collection I: Pray & II: Love Will Grow, get it! (Darn… mine is Ever Anime bootlegs! >\_<" I wonder when I'll be able to get the original copy…?)

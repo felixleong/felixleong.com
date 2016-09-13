@@ -1,0 +1,21 @@
+title: Good Things, Bad Things and Nostalgia
+date: 2004-07-11T14:51:00Z
+category: Life
+
+First off, short recap from yesterday: I went to Ipoh yesterday and have fun with the paralist there =3, and that's pretty much it (Umm… perhaps that I finished my programming project for my Advanced Artificial Intelligence subject, which is cool <333. Working on improvements now)
+
+OK, bad things first: I forgot to buy my bus ticket back here yesterday, which is a really nasty and careless after thought. This definitely caused me so much incovenience today because the bus back to Kuala Lumpur is **FULLY** booked today. Argh! That's me being stupid. (note to self: Reserve your bus tickets early)
+
+So I ended up trying my luck in Ipoh. >\_<" Only to notice that it's pretty much the same in Ipoh. Then luckily there's someone out there asking whether I want to take a bus to Kuala Lumpur, and it's hard to decline his offer, since he says that the bus goes to KL via highway. So I was charge RM15, got on one bus which looked OK, and I sit there and thought that everything is going to be fine.
+
+And that thought vanished as soon as I got the actual ticket, and it states that the ticket is sold for RM11.30! OK, it's a small amount, but I just can't help but feeling like I have been ripped off! >\_<" Worse, apparently the bus did take the highway to Kuala Lumpur… but after stopping at a few more towns to pick up more passangers, and ooooh~ I'm so fumed up when the bus driver **smokes** on a air-conditioned bus! I feel SOOO like strangling him if he's not the bus driver.
+
+Anyway, just returned home safely. During my journey on the bus, it just came to me that suddenly all my past memories have started to come back to me. It's like… all of a sudden you remembers most of your childhood past and friends. It's kinda wonderful, it's like having back all those memories that you thought might have sank into some sort of oblivion that you thought they might not surface again. Only downside: I thought I'm having those pre-death flashbacks XDDD.
+
+As for the good stuff… staying with my parents have been really relaxing. I'm just glad that I have them as my parents and we are lucky to have a family in peace that home is the best place to drop all my burdens. Bumped into Kar Yee yesterday, which is kinda cool since I haven't seen her for quite some time. She looks much more prettier and matured now, and she's still finding a job. Wish her luck! And last but not least:
+
+**OMG! I RECEIVED DOM'S PACKAGE!!!! ^\_\_\_\_\_\_\_\_\_\_^**
+
+[meaning: Euromach 3 is FINALLY mine! *dances*] The J-Euro Non-Stop Best is not in extremely good condition, but that's OK, considering that it's second hand :p. Besides, I'm thinking of selling it off cheap to a friend *evil smirks*, he has to pay extra if he wants my better copy.
+
+Phew! Anyway, I'm still ripping the CD tracks into my compie, and I certainly can't wait to hear them all ^^. (Speaking of which, I never knew that avex released their old Eurobeat stuff under Cutting Edge label…. or is it only me?)

@@ -1,0 +1,25 @@
+title: Today's Drifting Thoughts: To Contain All Gratefulness Before It Fades Away in Memory
+tags: thoughts
+date: 2004-10-18T10:21:00Z
+category: Reflections
+
+It's been quite a while ever since the last time I let my thoughts drift. But apparently the Higher Forces are giving me a chance to do so.
+
+Through the things that happened to me lately, some of kinds words from people that I'm unable to comprehend just suddenly fits into place. Some of my scattered thoughts are suddenly placed nicely into groups that I'm starting to notice patterns.
+
+People have been telling me that when they started to know me better, they really wish that they don't, or being close to me for that matter. Looking back, it seemed quite true, and eventually I have lost quite some friends because of that. Does that shows the weakness in people? Some misunderstanding between people? Or is it just the acts of cause and effect (i.e. karma)? I still don't get the answer. But I'm really grateful, because out of all the acquaintance I had, there are some who is willing to stay close with me, despite all the bad experience they had with me and my own flaws. And because of this, I'm really proud to have them as friends, and they definitely deserve the best from me and from others.
+
+Through thick and thin, they have taught me a lot of precious life lessons and let me see things from a different light. They taught me how to deal with different people, from the holy to the ugly. They taught me how to love, to oneself and to others. They taught me how to cherish life, from the big to the small.
+
+Through all these experiences, I have been through the bad days filled with guilt, desires, low self-esteem, depression and emptiness. But in turn, from these I'm able to see and treasure the good things in life: the strength within, the positive feelings and people, friendship and love, and the tears and joys. From these experiences, I finally noticed that the greatest fulfillment comes from the platonic. Of course, that doesn't undermine the importance of physical desires and achievements. Both are equally as important for survival, and to seek the balance between them is one of the key of happiness. That's one of the lessons which I learn from them.
+
+And because of what had happened lately, suddenly it just seems that I'm able to forgive myself for the wrongs and guilt that has been with me during my depression days. It's really hard to express the feeling, but it just feels great to have some of the old burdens taken off from my shoulder.
+
+Because of what had happened lately, I only notice that tears may be of a sign of weakness, but beneath its weak exterior, it can also be the ultimate source of strength and courage. More often than not, to accept one's defeat is really hard to do, but life is all about falling down and getting up, in order to move on from a failure, it's important to get up from the floor and take action. Looking at that, maybe sadness and disappointment isn't a bad thing after all.
+
+Honestly, when I typed this, I feel like I'm typing a suicidal note or something XDDD. But thinking about it, that's pretty much true. But this suicidal note is not to hint the death of my physical body; but it signifies a brand new transformation of myself. A new phase in my own life has started, a new form is taking shape… It has yet to take a solid form, but I'll make sure that I'll take the ultimate responsibility to make it the most beautiful piece of art, no matter what it takes.
+
+To all my friends, I'm just thankful for everything you have given to me… and apologize for the hurts which I had brought you. I'll make sure that I'll do my best to give you only the best from me. I still remember that I broke my promise with my first crush that I'll be his best friend for a long time… And now, I'll make sure that it'll never happen again if it's still under my control to do whatever and make ammends if necessary.
+
+
+That… is what I'm setting out to do now.

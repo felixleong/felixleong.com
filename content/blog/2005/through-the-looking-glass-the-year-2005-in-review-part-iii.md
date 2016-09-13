@@ -1,6 +1,7 @@
 title: Through The Looking Glass: The Year 2005 In Review -- Part III
 tags: thoughts
 date: 2005-12-31T03:45:00Z
+category: Annual Review
 
 ## May 2005 - Switching Environments: Changes Abound
 

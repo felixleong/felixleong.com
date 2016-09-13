@@ -1,0 +1,13 @@
+title: Stupid Digital Pen!
+date: 2004-01-11T15:07:00Z
+category: Life
+
+After an exhausting day at the arcades, I still have to force myself to work some things out (especially school work X( ). It appears that the digital pen is still not working… ARRRGGH~~ I have been trying to nail down the problem down but failed miserably, and it's pretty funny that Windows XP can detect the pen yet the provided software didn't notice it. I wonder…
+
+I just sent a mail to tech support, hopefully it'll get replied soon, otherwise I can't do anything for the research project.
+
+Anyway, Almond just posted up a good Ayu-quiz link, check out my friend page and try it out. :) Here's my results:
+
+<img src="http://images.quizilla.com/T/theangelsong/1062473147_omorewords.gif" border="0" alt="You Are>>No More Words…calm, beautiful in heart, and artistic"><br />No More Words
+
+<br /><br /><a href="http://quizilla.com/users/theangelsong/quizzes/What%20Ayumi%20Hamasaki%20Song%20Are%20You%3F%20(wOw!%20With%20lovely%20picturey%20GoOdNeSs!%20%3AD)/"> <font size="-1">What Ayumi Hamasaki Song Are You? (wOw! With lovely picturey GoOdNeSs! :D)</font></a><br />

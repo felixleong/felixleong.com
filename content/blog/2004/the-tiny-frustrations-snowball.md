@@ -1,0 +1,19 @@
+title: The Tiny Frustrations Snowball
+date: 2004-08-02T11:50:00Z
+category: Life
+
+I just can't stop but feeling all frustrated the whole day, it seems that everything is either going against me, or have someway to play tricks with me. OK, nothing major, but for some reasons, I just have the tendency to accumulate it to a point that it's EXTREMELY annoying. And so the list goes:
+
+*(in no particular order)*
+
+- I'm still worry about that ayu-ro mix bid, since the person haven't contact me yet! >.<" And the advice given to me from eBay is that I should at least wait for 3 business days for a response. And by that definition, it haven't even reach day one! Darn… I'm so lost right now.
+- It's official that my notebook CDRom hate CCCDs, it either decide not to rip certain tracks, or else it's more than happy to introduce crackles and pops into my music. Ugh… How distressing
+- It just happens that my things liked to play hide-and-seek with me today that it gets extremely frustrating, especially when it comes to important things like house keys
+- Stupid people. OK, I'll just leave it as that.
+- It seems people are like avoiding any sort of conversation with me (OK, maybe it's due to the fact that my face had been scribbled with signs of extreme frustration, but you can't expect to put up a pleasant face every single hour)
+- The school Internet (OK, maybe only a few sites which I frequent, including LiveJournal) hates me for no reasons >.<"
+- Assignment deadlines, as usual
+- Some of my friends knows about my little secret with Choon Hui, and…
+- Choon Hui didn't seem to notice me today (OK, I guess my perception is twisted by my own obsessive-compulsiveness…) ;\_\_\_;
+
+OK, looking back the list, there's all nitty-gritty stuff which I shouldn't be making a fuss off (except perhaps for the eBay one), but these little pesky feelings just decide to accumulate and flood me into a state of freaking out. Many a times I have told myself to chill, but… uh… Why I always have to feel like I need to have some sort of control in things? >.<" *screams!!!!*

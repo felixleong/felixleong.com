@@ -1,0 +1,11 @@
+title: I'm Stuck!
+date: 2004-01-27T11:20:00Z
+category: Life
+
+Try to imagine being stuck in a school canteen while it's raining outside… Oh my… Thank god there's a Internet connection to keep my company… but not for long, I guess, since there's thunderstorms and I won't risk my notebook for that.
+
+Anyway, today is just another slow day… I'm starting to feel that I need to get more CDs for my music collection. But my wallet is still tying me back, resisting any urge to buy more of them. I would have go for a download spree for MP3s, but I deeply believe that I need to give my favourite artist the best support that I can give. :) So… I guess that makes me a really dull boy who play by the rules.
+
+Today is pretty much a surprise to me because I just knew that the most awaited Final Fantasy VII Piano Collections has been released last December. I was pretty much shocked by the fact that most sites didn't even post up news for this long-absent CD. (six years! And it WAS the long awaited gap to be filled for the series) Since the CD is published by Digicube, I doubt that it'll reach the Malaysian shores. But if it does, I would not hesitate to buy it.
+
+But then again… God! I'm putting myself in an imaginary dilemma here. :p Anyway, Soft-world Malaysia just brought in Falcom's Zwei!! (Chinese version), and hopefully I can grab one from the local computer shops here. (Falcom games are the best!)

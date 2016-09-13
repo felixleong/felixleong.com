@@ -1,0 +1,11 @@
+title: It's a Hairy Day
+date: 2004-05-22T12:42:00Z
+category: Life
+
+I was in a para filming frenzy today, and I'm totally excited to film the solo SP (Special Performance) which I had done during my Penang Trip. But having to webcam it indoors, the lighting in the room is insufficient to make the video look bright enough, so I tried to switch on all the lights while I do my filming. But just halfway during the filming process my aunt suddenly came back and shocked seeing me turning on all the lights. Not only she disrupt a good filming, she commented that I'm silly for turning the lights on indoor >.<". Sorry, I just hate people who just don't listen to explanation sometimes, it's really insulting. Not to mention that I have to refilm the whole darn thing! After a few really big mistakes and refilming, I gave up and film some else instead. Jeez… Well, I guess I just practice a bit more before filming that again.
+
+Then, in the bathroom, I spent more time in front of the mirror longer than I used to. Well… I can't stop noticing my hair colour changed from black to a maroonish tint, as seem I have dyed my hair that way. I suspect it due to the sun, since I have been outdoors a lot last semester. And, I just find enough courage to shave my underarms XD. Well… I'm not hairy, that's for sure. But I always find those hair are a nuisance, so annoying that I always had the urge to pluck them out one by one and pray that they don't grow. And yeah, I'm satisfied.
+
+Later on, my aunt left the house and notify me that she won't be at home today. So I had the whole house for myself today. Cool! Then Aunt Ling just drop by to pick up the stuff which I had brought for her from my home town. We chatted a lot, mostly about rants about her upcoming marriage and my upcoming semester. On her side of the story, it seems that the other aunts in the family is being pushy and trying to make it a grand event, while Aunt Ling would like to make it as small as possible. She was really annoyed by the pushiness since she feel that being married is no big deal, especially when the parents are dead and someone is in their late 30's. I couldn't agree more.
+
+Anyway, boring events aside, today's my brother's birthday, so happy birthday, Seh Tat! ^^

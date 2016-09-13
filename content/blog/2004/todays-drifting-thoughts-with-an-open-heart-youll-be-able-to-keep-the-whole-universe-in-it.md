@@ -1,0 +1,26 @@
+title: Today's Drifting Thoughts: With An Open Heart, You'll Be Able to Keep The Whole Universe In It
+tags: thoughts
+date: 2004-11-09T10:32:00Z
+category: Reflections
+
+Two words would describe what I'm feeling now: EXTREMELY BUSY! @\_@" Well… taking care of several things and to take responsibility is definitely an experience to me. (well… at least to *handle* responsibility is an experience to me XDDDD)
+
+But thinking about it, it a good thing, since being able to take up responsibilities means that you have the choice to do whatever you pursue and liked :3. (well… if you didn't enjoy it, most probably it would have been work/burden/duty, blah blah blah…)
+
+Yeah, sometimes the responsibility is so heavy that one might feel overwhelmed many times, and sometimes it might seems like suffering. But looking at it from another angle, it only shows that responsibility and freedom often come hand in hand: In order to attain financial freedom, you need to be responsible for your own finances; in order to attain relationship freedom, you need to be responsible to yourself and other people around you so that they don't need to worry needlessly; in order to attain your own freedom, you have to be responsible and to seek every single chance you can get, not just sitting there waiting things to happen.
+
+Thinking about suffering, it seems that it's actually a blessing in disguise, depending on how you act upon it. In suffering you'll notice that you're lacking something, in suffering you'll notice that change does happen, in suffering you'll start to notice the beautiful things around you…
+
+Coming to this point, it seems to remind me what a Buddhist friend told me *"With an open heart, you'll be able to keep the whole universe in it."* (Literally translated, but I believe that the meaning is still there) Sometimes in order to attain the great things in life, you'll have to keep your heart open: to be vulnerable. Considering how realistic the world is, it's hard not to try to back off a bit and close your heart away to avoid any sort of pain. But if you close the door totally, yes, the bad things will not hurt you, but don't forget that the good things will be blocked out as well. (There's one quote in Finding Nemo that sounds really true, and yet I can't seem to remember it)
+
+…
+
+Speaking of which… yes, it's pretty much impossible not to have feelings for the people that I love (or used to love). But behind the heartaches, there's a sense of joy, happiness and strength that keeps me going on: to smile, to share and to cherish… :)
+
+---
+
+Anyway, it's a bit late now, think I do need to get home. Snagged a lot of game music MIDI today <3333, it's been a while I haven't been listen to my game music MIDI collection lately, guess it's time for me to take a break from my usual music and enjoy them like what I used to be during college :3.
+
+So Felix signing off now ;).
+
+[p/s: speaking of which, oh god… I felt like I'm writing a chapter for some inspirational/self-help book when I wrote this entry XDDDD. But I suppose I'm just feeling great :)]
