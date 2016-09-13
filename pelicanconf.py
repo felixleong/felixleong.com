@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os.path
+from urllib.parse import urljoin
 
+# Site configuration
 AUTHOR = 'Seh Hui Leong'
 SITENAME = "Seh Hui's #DevDiaries"
 SITEURL = ''
@@ -11,6 +13,19 @@ STATICURL = ''
 
 TIMEZONE = 'Asia/Kuala_Lumpur'
 DEFAULT_LANG = 'en'
+
+LINKS = ()
+
+SOCIAL = (
+    ('facebook', 'https://facebook.com/leongsh'),
+    ('twitter', 'https://twitter.com/felixleong'),
+    ('github', 'https://github.com/felixleong'),
+    ('bitbucket', 'https://bitbucket.org/felixleong'),
+)
+
+MENUITEMS = (
+    ('Blog', urljoin(SITEURL, 'blog/')),
+)
 
 # Paths
 THEME = 'themes/breeze/'
@@ -26,40 +41,40 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/', 'The static site generator'),
-         ('Python.org', 'http://python.org/', ''),
-         ('Jinja2', 'http://jinja.pocoo.org/', ''),)
+SUMMARY_MAX_LENGTH = 135
 
-# Social widget
-SOCIAL = (
-    ('facebook', 'https://facebook.com/leongsh'),
-    ('twitter', 'https://twitter.com/felixleong'),
-    ('github', 'https://github.com/felixleong'),
-    ('bitbucket', 'https://bitbucket.org/felixleong'),
-)
-
+# Pagination
 DEFAULT_PAGINATION = 10
-SUMMARY_MAX_LENGTH = 275
+PAGINATION_PATTERNS = (
+    (1, '{name}/', '{name}/index.html'),
+    (2, '{name}/page/{number}/', '{name}/page/{number}/index.html'),
+)
+DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'authors', 'archives']
+PAGINATED_DIRECT_TEMPLATES = ['archives']
 
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-
+# Categories
 DEFAULT_CATEGORY = 'Uncategorized'
 USE_FOLDER_AS_CATEGORY = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # URL routes
+RELATIVE_URLS = True
+
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}/index.html'
+ARCHIVES_URL = 'blog/'
+# NOTE: The PAGINATED_DIRECT_TEMPLATES would force an override to the URL for
+# ARCHIVES_SAVE_AS, so blog.html would be just fine ;)
+ARCHIVES_SAVE_AS = 'blog.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+TAG_URL = 'tag/{slug}/'
 
 YEAR_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/index.html'
 AUTHOR_URL = ''
 AUTHOR_SAVE_AS = ''
-
 
 # Plugins
 TYPOGRIFY = True
@@ -88,4 +103,5 @@ PLUGINS = [
     'pelican-page-order',
     'assets',
     'post_stats',
+    'pelican-minify.minify',
 ]

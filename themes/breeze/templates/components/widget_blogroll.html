@@ -1,3 +1,4 @@
+{% if LINKS %}
 <div class="widget widget-blogroll">
   <h6>{{ BLOGROLL_TITLE|default('Blog Roll') }}</h6>
   <ul>
@@ -9,3 +10,4 @@
     {% endfor %}
   </ul>
 </div>
+{% endif %}

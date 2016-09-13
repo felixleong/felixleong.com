@@ -1,11 +1,13 @@
 {% if DEFAULT_PAGINATION %}
-<p class="paginator">
-    {% if articles_page.has_previous() %}
-        <a href="{{ SITEURL }}/{{ articles_previous_page.url }}">&laquo;</a>
-    {% endif %}
-    Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
+<nav>
+  <ul class="pager">
     {% if articles_page.has_next() %}
-        <a href="{{ SITEURL }}/{{ articles_next_page.url }}">&raquo;</a>
+    <li class="previous"><a href="{{ SITEURL }}/{{ articles_next_page.url }}" class="older">&laquo; Older</a></li>
     {% endif %}
-</p>
+
+    {% if articles_page.has_previous() %}
+    <li class="next"><a href="{{ SITEURL }}/{{ articles_previous_page.url }}" class="prev-page">Newer &raquo;</a></li>
+    {% endif %}
+  </ul>
+</nav>
 {% endif %}

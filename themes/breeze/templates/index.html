@@ -1,11 +1,6 @@
-{% extends "base_w_sidebar.html" %}
+{% extends "base.html" %}
 {% import "components/post_helper.html" as phelper with context  %}
 
 {% block content %}
-{% for article in articles_page.object_list %}
-  {{ phelper.format_post(article, teasers=True) }}
-{% endfor %}
-{% if articles_page.has_other_pages() %}
-  {% include 'pagination.html' %}
-{% endif %}
+Hello world
 {% endblock content %}
