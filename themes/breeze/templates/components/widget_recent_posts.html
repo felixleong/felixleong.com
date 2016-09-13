@@ -4,9 +4,9 @@
     {% for art in articles[:DEFAULT_PAGINATION] %}
       <li>
         <a href="{{ SITEURL }}/{{ art.url }}">{{ art.title }}</a>
-        <p>
+        <p class="published">
           <i class="glyphicon glyphicon-calendar" aria-hidden="true"></i>
-          <time class="published dt-published" datetime="{{ art.date.isoformat() }}" title="{{ art.locale_date }}">{{ art.locale_date }}</time>
+          <time class="dt-published" datetime="{{ art.date.isoformat() }}" title="{{ art.locale_date }}">{{ art.locale_date }}</time>
         </p>
       </li>
     {% endfor %}
