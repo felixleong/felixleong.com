@@ -5,10 +5,19 @@ import os.path
 from urllib.parse import urljoin
 
 # Site configuration
-AUTHOR = 'Seh Hui Leong'
 SITENAME = "Seh Hui's #DevDiaries"
 SITEURL = ''
-SITEDESC = 'Site description'
+SITEDESC = """
+    A personal journal covering a multitude of topics, mostly about lessons and
+    skills that I've learned and musings about life.
+"""
+
+AUTHOR = 'Seh Hui Leong'
+AUTHOR_BIO = """
+    Python programmer by trade, interested in a broad range of creative fields:
+    illustrating, game design, writing, choreography and most recently building
+    physical things. Described by a friend as a modern renaissance man.
+"""
 STATICURL = ''
 
 TIMEZONE = 'Asia/Kuala_Lumpur'
@@ -77,6 +86,15 @@ AUTHOR_URL = ''
 AUTHOR_SAVE_AS = ''
 
 # Plugins
+PLUGINS = [
+    'pelican-page-hierarchy',
+    'pelican-page-order',
+    'assets',
+    'post_stats',
+    'pelican-minify.minify',
+    'sitemap',
+]
+
 TYPOGRIFY = True
 
 ASSET_CONFIG = (
@@ -98,10 +116,6 @@ MD_EXTENSIONS = [
     'plugins.markdownext.pelican_image(static={})'.format(STATICURL),
 ]
 
-PLUGINS = [
-    'pelican-page-hierarchy',
-    'pelican-page-order',
-    'assets',
-    'post_stats',
-    'pelican-minify.minify',
-]
+SITEMAP = {
+    'format': 'xml',
+}
