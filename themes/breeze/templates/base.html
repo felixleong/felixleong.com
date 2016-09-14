@@ -6,7 +6,12 @@
     <title>{% block title %}Home{% endblock title %} | {{ SITENAME }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if FAVICON_URL %}
+    <link href="{{ FAVICON_URL }}" rel="shortcut icon">
+    {% else %}
     <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/favicon.png" rel="shortcut icon">
+    {% endif %}
 
     <!-- Stylesheets -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" />
@@ -61,7 +66,12 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
+
+        {% if LOGO_URL %}
+        <a class="navbar-brand" href="{{ SITEURL }}"><img src="{{ LOGO_URL }}" alt="{{ SITENAME }}" height="70" /></a>
+        {% else %}
         <a class="navbar-brand" href="{{ SITEURL }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.png" alt="{{ SITENAME }}" height="70" /></a>
+        {% endif %}
       </header>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
@@ -79,7 +89,7 @@
   <!-- Actual content -->
   <div class="container" id="content" role="main">
     {% block layout_content_container %}
-    <div class="single-page page-content col-md-12 col-sm-12">
+    <div class="single-page page-content col-sm-12 {% block page_class %}{% endblock %}">
       <!--Body content-->
       {% block content %}{% endblock %}
       <!--End of body content-->

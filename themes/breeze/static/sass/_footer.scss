@@ -2,14 +2,14 @@
 #page-footer {
   border-top: 1px solid $gray-lighter;
   background: #fff;
-  padding: 0 15px;
+  padding: 15px 15px;
   margin-bottom: 4.5em;
 
   .copyright {
     border-top: 1px solid $gray-lighter;
     font-size: 90%;
     margin-top: 1.2em;
-    padding: 15px;
+    padding: 15px 15px 0;
     text-align: right;
   }
 }

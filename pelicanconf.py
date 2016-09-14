@@ -5,11 +5,11 @@ import os.path
 from urllib.parse import urljoin
 
 # Site configuration
-SITENAME = "Seh Hui's #DevDiaries"
-SITEURL = ''
+SITENAME = "Seh Hui's Journals"
 SITEDESC = """
-    A personal journal covering a multitude of topics, mostly about lessons and
-    skills that I've learned and musings about life.
+    Covering a multitude of topics: overcoming technical programming
+    challenges, working on tabletop game design, showcasing creative art and
+    ponders about life.
 """
 
 AUTHOR = 'Seh Hui Leong'
@@ -18,7 +18,11 @@ AUTHOR_BIO = """
     illustrating, game design, writing, choreography and most recently building
     physical things. Described by a friend as a modern renaissance man.
 """
+
+SITEURL = ''
 STATICURL = ''
+LOGO_URL = urljoin(SITEURL, '/images/logo.png')
+FAVICON_URL = urljoin(SITEURL, '/images/favicon.png')
 
 TIMEZONE = 'Asia/Kuala_Lumpur'
 DEFAULT_LANG = 'en'
@@ -32,8 +36,34 @@ SOCIAL = (
     ('bitbucket', 'https://bitbucket.org/felixleong'),
 )
 
+PROJECTS = (
+    (
+        'Pasaraya: Supermarket Manager',
+        '201609-pasaraya.jpg',
+        'Open supermarket + serve community shoppers + ??? = PROFIT!'),
+)
+
+SKILLS = (
+    (
+        'Python Programming', 'python',
+        'Specializes in API design and server-side development with Django '
+        'and CherryPy'),
+    (
+        'Tabletop Game Design', 'dice',
+        'Loves card and euro-style strategy games. Loves to add twists to '
+        'established game mechanics.'),
+    (
+        'Web Development', 'website',
+        'Fascinated by data-driven programming: APIs, semantic web, data '
+        'processing and visualization.'),
+    (
+        'Creative Arts', 'palette-color',
+        'Primarily draws in style of Japanese manga, occassionally indulges '
+        'in photography, writing and videography.'),
+)
+
 MENUITEMS = (
-    ('Blog', urljoin(SITEURL, 'blog/')),
+    ('Blog', urljoin(SITEURL, '/blog/')),
 )
 
 # Paths
@@ -44,11 +74,13 @@ PLUGIN_PATHS = [
 ]
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+FEED_MAX_ITEMS = 200
 
 SUMMARY_MAX_LENGTH = 135
 

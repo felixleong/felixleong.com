@@ -84,6 +84,9 @@ $subheadings-color: $brand-secondary;
 // [converter] If $bootstrap-sass-asset-helper if used, provide path relative to the assets load path.
 // [converter] This is because some asset helpers, such as Sprockets, do not work with file-relative paths.
 $icon-font-path: if($bootstrap-sass-asset-helper, "bootstrap/", "../fonts/bootstrap/");
+$interests-icon-font-path: if($bootstrap-sass-asset-helper, "interests/", "../fonts/interests/");
+$interests-icon-font-name: "interests";
+$interests-icon-font-svg-id: "interests";
 
 //** File name for all font files.
 // $icon-font-name:          "glyphicons-halflings-regular"

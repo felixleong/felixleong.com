@@ -1,0 +1,14 @@
+<div class="widget widget-current-projects">
+  <h6>Current Project</h6>
+
+  {% for proj_title, image, desc in PROJECTS %}
+  <figure>
+    <img src="{{ STATICURL }}/images/projects/{{ image }}" class="img-responsive" alt="{{ proj_title }}" />
+
+    <figcaption>
+    <h2>{{ proj_title }}</h2>
+    <p>{{ desc }}</p>
+    </figcaption>
+  </figure>
+  {% endfor %}
+</div>
