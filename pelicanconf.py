@@ -4,9 +4,6 @@ from __future__ import unicode_literals
 import os.path
 from urllib.parse import urljoin
 
-# Set the development mode
-DEVMODE = False
-
 # Site configuration
 SITENAME = "Seh Hui's Journals"
 SITEDESC = """
@@ -22,7 +19,7 @@ AUTHOR_BIO = """
     physical things. Described by a friend as a modern renaissance man.
 """
 
-SITEURL = 'http://felixleong.com'
+SITEURL = ''
 STATICURL = SITEURL
 LOGO_URL = urljoin(SITEURL, '/images/logo.png')
 FAVICON_URL = urljoin(SITEURL, '/images/favicon.png')
@@ -77,11 +74,8 @@ PLUGIN_PATHS = [
 ]
 
 # Feed generation is usually not desired when developing
-SITEURL = 'http://felixleong.com'
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 FEED_MAX_ITEMS = 200
@@ -155,12 +149,3 @@ MD_EXTENSIONS = [
 SITEMAP = {
     'format': 'xml',
 }
-
-
-# Override some variables for development mode
-if DEVMODE:
-    SITEURL = ''
-    FEED_ALL_ATOM = None
-    FEED_ALL_RSS = None
-    CATEGORY_FEED_ATOM = None
-    CATEGORY_FEED_RSS = None
