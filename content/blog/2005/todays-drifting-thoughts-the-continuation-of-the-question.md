@@ -1,0 +1,22 @@
+title: Today's Drifting Thoughts: The Continuation of The Question
+tags: thoughts
+date: 2005-05-21T16:24:00Z
+category: Reflections
+
+Originally I typed this as a comment to Ahmed, but apparently it has expanded to a point that I believe it serves as a entry on its own. One very interesting point that Ahmed pointed out is the natural inclination to search for validation.
+
+Well, before I try to speak my thoughts out, I believe that I should tell the story behind this entry. Honestly speaking I'm not feeling too well emotionally today as the recent events (mainly due to work, I guess) as I personally find myself not doing much progress that I desired myself to achieve. In fact this slow pace (or probably seeing myself going backwards) has somehow made me really worried about my own future, and I'm starting to cast a lot of doubt on myself in terms of my own ability and judgement when executing my own plans. The weight of the stress alone has pretty much gave me a lot of pressure and I personally notice myself embracing all the negative thoughts and feelings (Note that I'm not trying to despise anything negative, as it does holds some importance and usefulness in some situations. I only refer to that as a truthful description of my own feelings).
+
+Coming back to this, it does came to me that in times of doubt, some parts of the foundation of our own self perception starts to be more fragile at this point of time: Our principles and values being challenged, our strength and vitality to fight starts to wear out, our vision and goals are being put into question. And during times when we face obstacles in life, some of us may start to feel a bit tired as we started to become lazy in our own "comfortable" life: a life that we have become all accustomed with all its good and bad. Personally that how I feel at the moment. And at this time, I'm starting to question my limits of tolerance and behaviour: Of my own boundaries of strength, capabilities and abilities.
+
+As my confidence is starting to lack, one question seems to pop into my mind: that is this all the strength I got?
+
+Personally I find question really interesting and this comes with two different views: on one side is that our capabilities are limited, on the other hand is that we can always push the boundaries of our capabilities. It's kind of an irony that these two are like strange twins, they go against each other and yet they can also go hand in hand. Coming back to the point, with the situation I'm in at the moment, I feel as if I'm so lost that I'm seeking some sort of a validation of my own self in certain aspects. However, Ahmed mentioned something I can really relate to: "the severity of how critical you are of yourself is something that can only be obtained from others. And unfortunately they're no better judges of how critical one person is than the person inquiring".
+
+Somehow this does come to one question: How much do we know ourselves? And in retrospect, how much others know about each other?
+
+…
+
+I think I'll stop here as much thoughts have came to a blank at this point… but just to conclude my current thoughts, I believe that it's really a good time for me the reevaluate and readjust some of my own bars and redefine some of my short term goals while maintaining the life-long goals I had in mind. And somehow I do believe that I need to loosen up a bit in certain aspects.
+
+[:: to be continued ::]

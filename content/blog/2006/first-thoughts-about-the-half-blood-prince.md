@@ -1,0 +1,17 @@
+title: First Thoughts About The Half-Blood Prince
+date: 2006-05-27T07:29:00Z
+category: Life
+
+Finally I got time to finish the whole Harry Potter and The Half-Blood Prince (I was halfway through the book after my weekday reading before my working hours)! I was initially glad that the whole flow, structure and even the storyline construct has the same magical feeling like the first four books (The Order of the Phoenix, in my opinion, is more or less a diversion of writing style).
+
+But somehow, after reading the whole thing… I just felt that, unlike the first four books, it's really a book that you can't read it in a standalone fashion and it really gave me the feeling that Book 5 (The Order of the Phoenix) to Book 7 (which is ultimately going to be the last book) are so closely tied together (with all the flashbacks and stuff in the first four) that you wouldn't really appreciate it if you haven't followed the series since Book 1 (The Philosopher's/Sorcerer's Stone). Not to mention that I'm reading this book with the faintest recollection of events occurring in the first four books.
+
+It's really like… The first four books were the bait, the fifth was the backdrop of the whole story and the sixth maps out all threads of events.
+
+And the most unexpected thing that I had with this book is that… the key elements of surprises are very predictable soon after they are introduced in the book: some of them are so obvious that I'm like "It CAN'T be this obvious! There must be some surprising plot twists at the end of the book!". (To be honest, I almost have a very accurate guess of the identity of the Half-Blood Prince somewhere in the middle of the book) Any apparently my guesses are pretty much confirmed at the end the book. But it does seems that the difference, is that this time round, we are left to guess the why's and how's.
+
+And by the end of the book, rest assure that I'm shocked, but not really satisfied. By the end of the book I felt as if I was hung in the middle… or more like a quarter to the climax point and all I get is the other side of the hardcover. Which is, in a way, a very anti-climatic feeling (which I strongly felt in Book 5). And at one point (when I read about the way that would weaken Voldemort), I have such great suspect that the 7th book may not be its last and it might as well spawn a few more books instead. But alas we all knew Rowling had said that Book 7 will definitely be the end. And I kind of wondered how that can be done… unless the last book proves to be a size equal, or perhaps thicker, than The Order of the Phoenix.
+
+With so much unrevealed plot points, I don't think any Hogwart's life can possibly fit into it (but then again, it is quite impossible for the school to remain lively under such circumstances… well, if it remained opened, anyway). But we'll see how things goes.
+
+Under that impression, my guess is that it's really hard to judge Book 5 and 6 without the 7. And by that, probably that's some time away from now.

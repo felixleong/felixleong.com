@@ -1,0 +1,13 @@
+title: Of Thesis And Drowsiness
+date: 2005-03-18T11:58:00Z
+category: Life
+
+**FINALLY** I got the damn thesis done on time. Supposedly (learn a new adverb today[^1] :p) the due date should be today, but then again: Since my supervisor is an external one, and he is not around physically, and it is required to hand in the required soft copy to him: this deduce to the fact that there's no way that I'm able to hand it in today. In fact, one of my friend who is under his supervision says that he'll collect it personally at a later date, which pretty much means that… um… well… actually I don't have to rush my work :p.
+
+But then again, I'm glad that I manage to finish my thesis work, as much as I would curse the workload, overall I believe that I do learnt a lot while working on it, as much as the developed system falls short from my expectations. I don't know, hopefully I'm able to score a decent grade for my project.
+
+Speaking of finishing my thesis, I just feel all so relaxed after such a long period of time, it like having one burden off my shoulder. And just right at the time I reached home, I felt so sleepy that I fall into bed almost instantly. And almost after 3 hours of sleep, I woke up with in such a drowsy state that I felt as if I were drunk. Can't even walk properly and thinking in a clear and concise manner, in fact. (concise enough to conjure the LJ entry though)
+
+Guess that'll take a while. Probably getting one good drink from the store to reward myself. But definitely not alcohol :p.
+
+[^1]: OK, not really :P. But in the past I mistake it for "Supposively", which is downright wrong :p. Hmm… But then again, guess it's not late to make corrections ;).]

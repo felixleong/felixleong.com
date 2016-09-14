@@ -1,0 +1,21 @@
+title: Puppy Love
+date: 2006-02-17T15:57:00Z
+category: Life
+
+No, it's not about me :p.
+
+Just that when I came home, I just saw Leslie (one of the stray dogs being adopted by my aunt) lying on the lawn rather… well, unenergetically. That seem to tell me that something had happened. And indeed it was, as my aunt told me that both of her puppies has already been adopted.
+
+Rewinding back, Leslie was a stray dog, by her looks and the breed of her she seemed to be abandoned by her owner. Just by chance she liked to hang around in my aunt's house, and since my aunt had quite a fonding to her that my aunt allowed Leslie to drop by and roam around in the lawn.
+
+One day Leslie gave birth to her puppies in our lawn. Only two of them survived and my aunt can't afford to take care of them. And so I helped her to post an ad up in one of the Malaysian dog lover community forum and these two cute little fellas did get quite a following and attention :). And within a week they both have found a home, and thinking about it makes me kinda miss them :( (cos they are very cute).
+
+Anyway, here's some photographs to share :) (which I used for the advert, anyway). Too bad I deleted the originals ^-^||.
+
+!['White puppy'](http://img.photobucket.com/albums/v95/seh_hui/photo/puppy/whitepuppy.jpg){: .img-responsive}
+
+!['Black puppy'](http://img.photobucket.com/albums/v95/seh_hui/photo/puppy/blackpuppy.jpg){: .img-responsive}
+
+!['Curiousity'](http://img.photobucket.com/albums/v95/seh_hui/photo/puppy/curious.jpg){: .img-responsive}
+
+!['Exploring'](http://img.photobucket.com/albums/v95/seh_hui/photo/puppy/explore.jpg){: .img-responsive}

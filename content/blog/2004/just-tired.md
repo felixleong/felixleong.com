@@ -1,0 +1,15 @@
+title: Just… Tired
+date: 2004-06-24T12:19:00Z
+category: Life
+
+Well… nothing much happened, just feeling a bit tired and sleepy. Which is a bad sign if you have a few deadlines to catch up tomorrow.
+
+For some reasons, I'm just surprised how much confidence I'm starting to build up lately. It's been quite some time that I ever felt confident about myself lately. I don't know, but being around with Choon Hui did made me a much happier person now. (OK, I'm definitely bragging again… but I do feel that way) I don't really know, every time his smile always made my day, no matter how depressing it was. Every sort of reassurance and advice he gave me always have that power to lift my spirits up and trying to do much better than what I do now.
+
+Is it that I really admire his strengths a lot? Or is it that I'm just hopelessly in love now? I wish I had an answer. But then again, the only thing now that I don't understand about him is his passion for football (or soccer :p), which definitely is something that I'll NEVER understand in my whole life.
+
+The drama on our school forums (read: Idiot Homework Sellers Making Advertisement Publicly) has somewhat calmed down… at least during the 12 hours period, which I hope will last forever (Yeah! You wish! >=O). *keeps fingers crossed*
+
+Final but not least, I <333 PPP7 a lot. Definitely one of the best one in the series with Eurobeat songs which will capture your interest almost instantly, and routines which is totally awesome. Kinda weird seeing Satoko in OL (Japanese term: Office Lady) attire though XDD.
+
+Well… gotta get my work done!

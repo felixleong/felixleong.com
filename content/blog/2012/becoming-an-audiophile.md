@@ -1,0 +1,42 @@
+title: Becoming An Audiophile
+tags: music, interests, hobbies, life
+date: 2012-02-12T00:56:40Z
+category: Hobbies
+featured_image: http://farm2.staticflickr.com/1167/1297846892_8fc67b0602.jpg
+featured_image_credit: 'Kay on black' by kayintveen, Flickr
+featured_image_url: http://www.flickr.com/photos/microdesign/1297846892/
+
+Two hours has passed and my iPod was already complaining and nagging me the fact that there's only 20% of juices is left of it. Strewn across the table in front of me were pairs and pairs of headphones, I sat with my body leaned forward, eyes shut and focusing attentively to the aural stimuli that's being channelled from the headphones. Every two minutes or so, I'd open my eyes again and flicking through the long list of songs on my playlist, thinking of the next song that I should choose to challenge the sound drivers.
+
+And yes, I was auditioning my next pair of headphones, and I was sitting there like an American Idol judge seeking out the next star performer.
+
+It's really unfathomable to me that I'd becoming a bit of an audiophile and music geek now. Music has never been a big part of my life before college -- and the 90's are the one of the most happening years: living through the [Four Heavenly Kings of Cantopop](http://en.wikipedia.org/wiki/Cantopop#1990s:_Four_Heavenly_Kings_era), the debut of Britney Spears and Christina Aguilera, the blossoming for boybands, eurodance and bubblegum pop, the surge of creative singer-songwriter in the Mandopop scene... I would never imagine how much had I lose out during those days.
+
+It's until later in my high school years that I got hooked to Nobuo Uematsu and his music in the Final Fantasy series and led me to take interest in instrumental works. Gradually I'd find myself loving Eurobeat and euro-electronic music due to my love for dance simulation games and fawning over Ayumi Hamasaki with her well-produced songs and lyrics that still resonates strongly with me till this day.
+
+As to when I got really serious about it, I have [Jacob Siau](http://jacobsiau.tumblr.com/) to blame who would introduced me to [Soundmagic](http://www.soundmagic.com.cn/en/) -- a true-breed China company who make fantastic, very budget-friendly in-ear headphones. My life is never the same again after having a taste of them -- the time when I'm able to listen to the lush details, intricate layering, timber of the vocals and the overflowing expression of music, it's really like I've discovered a whole new territory that I've never ventured before.
+
+That is a point of no return for me. And the beginning of my journey into the treasure trove of great music across genres and time.
+
+## p/s: (oh yeah, about the headphone audition!)
+
+First off, I'm officially declaring myself a die-hard, loyal customer of [Jaben](http://jaben.com.my/) -- the **only** place with the largest selection of headphones and the **only** place that allows auditions to every single headphone they have in stock. Yes, you read it right, the **only** place where auditions are not only allowed but highly encouraged! Unbelievable! The staff members are all friendly and extremely knowledgeable so that really helps when you don't have a frigging clue about headphones or audio equipment. Just make sure you bring your favourite music along so that you can test everything to your heart's content and find the perfect set ;).
+
+
+So now, I'm proud owner of the following:
+
+- **Primary, at-home:** [Beyerdynamic DT770 Pro](http://north-america.beyerdynamic.com/shop/hah/headphones-and-headsets/studio-and-stage/studio-headphones/dt-770-pro.html)
+- **Portable, on-the-go:** [Marshall Major](http://www.marshallheadphones.com/product/major) -- this is the pair that I've ordered today and can't wait to receive them in the mail soon!
+- **IEM, when I need some peace & quiet:** Soundmagic MP-21 (Jaben doesn't carry Soundmagic's and I got it off from one reputable [Lowyat.net seller](http://forum.lowyat.net/topic/1016898))
+
+And just for (probably my own) reference, here's my set list of songs that I'd typically use to gauge the headphone's capability and sound signature:
+
+- *Kokia - so sad so bad (aigakikoeru)*: I use this song to test for emotional expressiveness and the ability to build up the emotional impact as it crescendos into the main part of the song
+- *Kokia - Siuil A Run (Fairy Dance - Kokia meets Ireland-)*: I look for a vibrancy and sparkles in the song and the ability to carry the natural yet colourful tones during the guitar solo in the intro
+- *Ayaka - Koi kogarete mita yume (ayaka's History 2006-2009)*: I have to use this as a benchmark - some headphone simply struggle and make it sound like a radio broadcast minus the emotional impact of the song
+- *Darren Korb - In Case of Trouble (Bastion Original Soundtrack)*: For tonal accuracy and the warm guitar sound
+- *Bartok - Piano Concerto No.1 in A, Sz83*: Looking out for sound staging and the ability to convey a solid pianissimo in the second movement
+- *Barbra Streisand & Celine Dion - Tell Him*
+- A couple of house and trance tunes to check for solid and clean bassline - muddy bass is a complete turnoff
+- A diverse assortment of pop, rock, dancepop tunes to get a better understanding of the general sound signature
+

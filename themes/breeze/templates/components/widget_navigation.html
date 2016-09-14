@@ -1,0 +1,10 @@
+{% import 'components/nav_helper.html' as nav_helper with context %}
+
+<div class="widget widget-navigation">
+  <h6>Navigation</h6>
+  <nav><ul>
+    {{ nav_helper.menuitem_navitem() }}
+    {{ nav_helper.pages_navitem(dropdown=False) }}
+    {{ nav_helper.category_navitem() }}
+  </ul></nav>
+</div>

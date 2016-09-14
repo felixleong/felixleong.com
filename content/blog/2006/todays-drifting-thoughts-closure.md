@@ -1,0 +1,42 @@
+title: Today's Drifting Thoughts: Closure
+tags: thoughts
+date: 2006-02-25T16:48:00Z
+category: Reflections
+
+OK, the more serious side of me:
+
+Just right after I posted the entry yesterday, a lot of feelings flooded back to me… bringing a lot of pain and despair. The last sentence really gave me that sudden flashback… back to four years ago when I had my first crush with Ching Horng… or probably seven years ago when I first exposed to the question of sexuality.
+
+Thinking about it, there's nothing about these events in relationships that really made me despair… but it's the internal and personal aspect that really made me feel the pain. During those times, I have put myself in a very serious dilemma as I constantly have to fight between "getting what I want" and "respecting others"… Or so I think is "respecting others", because that's only sugarcoating the actual fact of "fearfully abiding to social norms".
+
+Being a bisexual myself and at the same time showing a heavier tendency towards the homosexual side, the relationship issue is something of a bed full of thorns. Especially in an environment that strongly condemns such ideologies.
+
+Through these internal fights, the unfolding events starts to show the darker side of myself: that all the thoughts I had is starting to make me fearful… starting to make me a hypocrite… starting to make me schizo…. But come to think of it, who's actually to blame? The society, or myself? From my own perspective, the society has given me so much conveniences that I have given in: A compromise towards my own beliefs and freedom.
+
+And I let myself spiral down to this state of desperation, probably I don't know exactly since when… maybe when I start to learn how to behave when I was a kid?
+
+During those dark days, I questioned and philosophized a lot of things, trying to rationalize on how things and the society should be. I started to build a Utopia in my brain which I know will never exist… as much I know it's an illusion, it has been of a great escape to me that I am very reluctant to let it go. And as time goes by, I still lived as a fearful sheep… threading the thin fine line of abiding the social norms.
+
+…
+
+It's until my college years that everything starts to shatter: When I had the crush on Ching Horng, one of my best friends in college. My life has completely changed the first time I was asked to give him a massage on the back, and I still remembered that he requested it in a way which is jokingly authoritative. As much as I scorn at him (jokingly, of course), but in the end I did exactly that… And that's the first time I had the intimate experience: coming into physical contact with someone else.
+
+And that's the first time my romantic feelings get developed… as well as the most intense internal face off. The dilemma: I'm starting to like a person of the same sex. Social norm, I should have settled with someone of the opposite sex. To make things worse: Ching Horng had just started a relationship with a girl. Double whammy.
+
+In the end… I compromised. But with compromise it comes with a greater price: Suppressed feelings starts to take a negative turn and desires starts to grow -- Lust, greed and obsession. And what makes things worse for myself is that nothing happened between the both of us, which means my own lust, greed and obsession swallowed down hard into my throat that it was a complete disaster to myself.
+
+Days are getting darker and darker by the minute… and in a way I'm starting to get emotionally unstable during those times. But somehow I still manage to hold myself together for a year and a half.
+
+Then my second crush, Choon Hui came along and I still consider him as one of the most important person in life. Through the short time and friendship we had together, he showed me a lot of qualities that I really look up to: of importance and beauty of life, of dreams, of courage, believing in oneself, looking things in a positive light… and through him I learnt about compassion, human relation and intuition. And through my experience with Ching Horng, I threaded my feelings very carefully as I learn how to express my feelings… treating this as a very important friendship. Through him I started to understand love… something sacred and of a higher experience of man, that a platonic relationship can exist in it's complete purity. I never actually said "I love you" (or something similar) to him, as I know he has a girlfriend… and I pretty much decided the way I act based on my past experience.
+
+And then in due course of unexpected turns of events, Erika (a close friend of mine in university, who is a girl) and I started a relationship. However, it doesn't last long… Apparently during our relationship, she wasn't that of a stronger person herself… and that I realised that "putting two people who are almost drowning together will not make them survive: it only makes them drown even faster" (an analogy that I used when I recall my incidents to my friends during CNY).
+
+…
+
+Coming to the present day, somehow I can manage to look back without attachment… or at least it doesn't prick as much as it used to. I still remember the days I cried a river after each of those painful incidents and the first few times I recall them back. It's definitely not easy to do, and every scar takes a long time to heal.
+
+And now… I liked someone… my colleague and a close friend of mine. From time to time, I get very confused… It's like… I don't know, I still kept on questioning on my own decisions, whether I can do it any better in the past? And at the same time I know that question is completely absurd.
+
+…
+
+And the question still remains… whether I'm still living in this compromising way and living as a sheep…? I wished I know any better, of what's the difference between "fearfully abiding to social norms" and "respecting others" ^-^||.

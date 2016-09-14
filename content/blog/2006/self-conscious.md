@@ -1,0 +1,9 @@
+title: Self Conscious
+date: 2006-05-07T15:03:00Z
+category: Life
+
+Sometimes I just can't feel anything but a little bit self conscious.
+
+Somehow I'm starting to see and being aware of my own shortcomings and the constraints that I have to live with.
+
+That's pretty much all I can say at the moment.

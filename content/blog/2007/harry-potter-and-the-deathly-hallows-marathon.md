@@ -1,0 +1,9 @@
+title: Harry Potter and The Deathly Hallows Marathon
+date: 2007-12-30T15:18:00Z
+category: Life
+
+Been through a HP7 marathon from last night till this evening: almost close to 24 hours straight and I finished the whole book, phew! (Heck, I only slept two hours yesterday, but the book was not completely at fault, just say that I was woken up unexpectedly by a phone call later on)
+
+Anyway, reason I got the book is mainly due to a 40% cut on the intended retail price and the fact that I can’t hold of my curiosity in completing the series (for one thing I’m more patient in waiting for the price to drop, but was not patient enough to wait for a warehouse sale that would clear off the book with a RM30++ price tag :p). And I’m greatly satisfied with the book in the sense that the whole magical experience that I had experienced in the first four books (but lacking in the fifth and sixth) was mainly revived in me. Only complaint? I think I grew numb with how JKR handle the death scenes. Unexpected? Yes. But shocked or grief stricken? Emm… no. But probably because I didn’t fell for the characters personally? But I do have the say the first death was very, very smart. Caught completely by surprise (shocked even, close to shedding tears because of that loss) but it completely made sense in a way that I can’t possibly imagine how the story would progress should the death does not occur. But probably that’s just me.
+
+But there I have it: all seven books, and probably would find myself rereading them again. Probably would be the end of me reading fantasy and fiction? Probably not, as I do feel like reading His Dark Matters (of the recent movie adaption, The Golden Compass). But I suppose that’s something for another day :).

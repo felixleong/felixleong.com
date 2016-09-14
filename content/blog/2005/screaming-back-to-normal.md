@@ -1,0 +1,16 @@
+title: Screaming Back To Normal
+date: 2005-08-19T01:21:00Z
+category: Life
+
+Didn't update yesterday as I'm not really in the mood of typing my entry :(. Anyway, the important thing now is that I'm feeling much better now.
+
+Anyway, Eurobeat Disney 3 and Aerobeat Dance Pop Version 2 came in the mail two days ago :D. Although first impression wise, Eurobeat Disney 3 sounds very lackluster to me as those Eurobeat artists sounds strangled from their powerful vocals (especially Mickey B., poor thing :( ). But it does sounds OK after a few runs. Aerobeat Dance Pop Version 2 on the other hand sounds good :D, it doesn't have those really mismatching and annoying soundeffects that Aerobeat Eurobeat has, so that's a big plus for them :). (Although they do inject a lot of extra sound effects like vynil scratching, all those "Heys~~~", "Hoo~~~" and other male wailing overused in dance tunes, but everything is used appropriately :p)
+
+Got this from maryssa:
+
+<img src="http://images.quizilla.com/B/blackboxrox/1124046305_Shinjuku.jpg" border="0" alt="You Belong in Shinjuku"><br />You belong in Shinjuku. You have the need to<br />satisfy your inner gangster as you mingle with<br />Tokyo's underworld. However, you do show<br />shades of being hip and fashionable, and are<br />not afraid to have fun. Welcome to Tokyo's<br />most dangerous borough, now good luck avoiding<br />the cops.
+
+<br /><br /><a href="http://quizilla.com/users/blackboxrox/quizzes/Which%20part%20of%20Tokyo%20do%20you%20belong%20in%3F/"> <font size="-1">Which part of Tokyo do you belong in?</font></a><br /> <font size="-3">brought to you by <a href="http://quizilla.com">Quizilla</a></font>
+
+<b>[:: Note ::]</b>
+Yesterday's Choon Hui's birthday, just want to take the opportunity to say "Happy (belated) birthday" to him :). (Well… if he reads this anyway :) )

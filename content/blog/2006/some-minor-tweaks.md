@@ -1,0 +1,9 @@
+title: Some Minor Tweaks
+date: 2006-09-25T03:21:00Z
+category: Life
+
+I think it's time for me to really refrain from making off-colour jokes… or a least figure out how to refine that :p.
+
+But after some thought, it does stem from the sexual void I'm having… well, much less of a physical factor but more on a emotional level, I guess. But somehow I think that gap is filled up with all the jokes that I'm making, I still have issues to deal with, but it's much more managable now.
+
+It takes some time, I suppose :).

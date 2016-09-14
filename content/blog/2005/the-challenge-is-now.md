@@ -1,0 +1,9 @@
+title: The Challenge Is Now
+date: 2005-09-05T01:45:00Z
+category: Life
+
+Decision made, actions taken, (if I didn't observe wrongly) the wheel is turning, my environment is starting to take a different turn…
+
+Only thing I can do now is to ante up with the challenge, and never look back. Hurt and pain may come, things may not turn out the way I wanted it to be… But it's not a time for me to lose focus to get what I ultimately wanted in life.
+
+My maxim will never change, that "I will **learn, change, improve and appreciate** myself for the best of others and myself", and nobody's gonna stop me now!

@@ -1,0 +1,24 @@
+title: Is There A Conspiracy Going On Here?
+date: 2004-09-29T19:20:00Z
+category: Life
+
+Great… it seemed that I have been facing a lot of computer annoyances lately, which the list includes:
+Malfunction or Spoilt Hardware: One desktop (my aunt's), one laptop (still in service… after two months X( ), a webcam which still refuse to cooperate, …and the latest entry: A spoilt laser printer!
+
+ARGH! I wonder whether all my computer stuff is trying to form a union or something and decided to strike at times like this. This is reaaaally annoying X(.
+
+I'm going to check on my laptop on Sunday, just called tech support for my laser printer, hope those staff get here by tommorrow… soon! I don't want to lock myself in the house just to wait for them ;\_;.
+
+On the bright side of things, my CDs arrived today, which includes Virginelle's Hot Love & Emotion, velfarre presents Super Euro Flash, and SEB presents Hyper Star Energy <333. First impression wise:
+
+- Hot Love & Emotion: Squee~ Virginelle <3. Anyway, it's kinda funny listening to this CD because it featured songs from different artists who used the same alias (yeah for Eurobeat artist confusion) XD. But then it still featured some of the most memoral tracks under Virginelle's alias (Fantasy, Mystery of Love, Kiss Me Kiss Me Babe, etc.) In the middle of it though, it gets a little bit… boring (well… maybe it's only me and Lucky Lucky and Let Me Go, but maybe I'm just a bit down to enjoy it fully). But still the CD is great overall <3.
+
+Another thing I notice is that I have been pronouncing Virginelle wrongly XD, which should sound like "Virgin-nel" instead of "Virgin-ne-lle" XD. Yeah me XD.
+
+- SEB presents HSE: The CD is pretty special in it's own considering that it has a MC in the mix, which make it sounded like you are in a real club atmosphere. So off and on you'll hear Hirokazu Miyachi's announcement interjections, which *really* sounded like you are actually in Twinstar.
+
+The plus point, the announcing interjections sounds really real and it sets the mood, so that makes it special, and I kinda liked it. The down side of it, it IS REALLY ANNOYING at times. So it really depends on personal preference, I think. But considering this… I think having one CD like this is enough, thanks.
+
+- Velfarre presents SEF: Great CD, nice mixing, exceptional music selection… that's pretty much rounds up what I think about this one.
+
+Anyway… Felix signing off now.

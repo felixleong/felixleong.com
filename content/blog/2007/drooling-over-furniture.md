@@ -1,0 +1,11 @@
+title: Drooling over Furniture
+date: 2007-04-23T16:36:00Z
+category: Life
+
+In case anyone's wondering how's my weekend, all I can say is this: Drooling over nice furniture makes me want to buy a home badly. ^-^|| I was like, reading the furniture ads on the newspapers, strolling at the electrical appliance department store and noticing property for sale ads doesn't help one bit. I sort of have some imaginary home deco running in my head and I can so imagine myself relaxed in a nicely done house.
+
+Somehow I did had a few place in mind at the moment, but I'm a bit hesitant of getting them because: 1. home loans weren't cheap, 2. it's a 30-year long commitment, 3. with my requirement of having a nice location and only having a RM200K budget, most likely I'd end up getting a studio apartment in which it's either that I stay in there or rent it out completely. I still think three rooms (or, even though compromising, at least two) is a great must for me at the moment, so studio apartments are out of the question (well… as much I would like to stay in one badly, I'm not really into having lots of walls). Three is nice as I can probably have one room myself, rent another out and keep the other one as a guest/store room. At least that's my *ideal* plan for it :p.
+
+As much my mom gave me strong encouragement to buy one, heck, she even offered to pay for my down-payment, I'm not really sure whether I'd want to get one this year or wait for a few years later. Tough question indeed, especially in the case that nothing is for certain in the future. But my current salary and expenses (I'm starting to hate to admit that I'm starting to have the habit to overspending these few months) doesn't seem to agree that I should get one now, not unless I somehow neglect my common stock and unit trust portfolio (which does take up a quarter of my salary, and they are doing good as investments at the moment). I'd probably able to afford it if my salary was increased by a considerable margin in June/July, but I rather not stack such hopes on it. (Worse case scenario thinking again) But it's a nice thought anyway.
+
+Definitely need to remind myself of the need of discipline and patience. And then just hope for the best while I'm working my best.

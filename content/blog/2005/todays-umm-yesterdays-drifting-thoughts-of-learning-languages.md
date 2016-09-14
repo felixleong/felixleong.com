@@ -1,0 +1,12 @@
+title: Today's (Umm… Yesterday's) Drifting Thoughts: Of Learning Languages
+tags: thoughts
+date: 2005-07-14T00:37:00Z
+category: Reflections
+
+When I started to get interested with learning languages, my first thought was that "After learning the language, I'm going to be able to understand all the movies, musics, comics and everything else" (i.e. entertainment).
+
+However, having my aunt's Japanese friend staying over here, I only realised that learning a language isn't a very glamorous ideal, in fact the point of learning and appreciating a language is, in contary, a very simple and plain affair: it's all about being able to communicate of a different culture in their everyday life. It's like… learning how to communicate in order to survive in a new culture, provide a means to understand each other, as well as enhancing your own living in that environment. All these little pleasures come by all the simple things in life, that when you are able to speak in their own language like greeting each other (hello, good morning, how do you do), asking for help and helping others, and able to strike a good conversation with them.
+
+Learning a language is not only about entertainment, or speaking simple phrases just to survive in a foreign environment: The greatest pleasure of learning a language is the ability to live with it, that of an ability to blend oneself with the surroundings in harmony.
+
+Just a sidenote: This realisation came to me when ただいま (Tadaima, meaning "I'm home") slipped from the tip of my tongue when my aunt's friend greets me with お帰りなさい (O-kaerinasai, Welcome home). ^^"

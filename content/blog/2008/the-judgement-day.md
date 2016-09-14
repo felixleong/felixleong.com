@@ -1,0 +1,15 @@
+title: The Judgement Day
+date: 2008-02-28T16:28:00Z
+category: Life
+
+Lot of things going on in life but yet I find myself not finding them significant enough to bother jotting down about them, mainly as all my energies were focused in getting my work done.
+
+Generally have been wondering and pondering about stuff again, mainly trying to bring the same topics that I have been debating in my brain for so long which the only thing that was never done is to muster all courage to make a stand and take any actions/plans to change if necessary.
+
+Something that I have been putting a slow pace on actually.
+
+My judgment day is today, and from tomorrow onwards I will not be able to see him most of the time anymore. But honestly speaking after all these months I healed myself off pretty soon, transitioned and moved on. Am extremely grateful for all the things that he had done to me and having his presence felt in my own life, his presence alone have cause myself to be able to reach a much higher plane then where I was before. It's a bit of a regret on my side that I had never been able to cross that barrier or contributed anything beneficial in your life… I'm sure I'll be a much better person shall our fates cross again :).
+
+It had been a new chapter for me already with a storyline that is set in an environment that has broaden itself in a gradual manner, whether I'm aware of it or not. Who knows, probably it might happen to be one of my biggest breaks in my life :).
+
+Till then.

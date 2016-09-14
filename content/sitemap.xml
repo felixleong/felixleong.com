@@ -1,5 +1,0 @@
----
-extends: sitemap.j2
-sitemap:
-    ignore: true
----

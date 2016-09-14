@@ -1,0 +1,17 @@
+title: Impromptu: Answer
+date: 2005-12-16T06:42:00Z
+category: Writing
+
+这些年来…  
+自己得到些什么？失去些什么？  
+自己记得些什么？忘记些什么？  
+自己相信些什么？否定些什么？  
+
+或许…那是自己正在寻找着的“答案”吧。
+
+All these years…  
+What have I obtained? What have I lost?  
+What have I remembered? What have I forgotten?  
+What have I believed? What have I rejected?  
+
+Maybe… That's the "answer" that I'm searching for.

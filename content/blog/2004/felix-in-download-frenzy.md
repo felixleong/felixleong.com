@@ -1,0 +1,9 @@
+title: Felix In Download Frenzy
+date: 2004-04-06T13:46:00Z
+category: Life
+
+Woo~ My presentation is over (not my Flash assignment, it's for another subject). What a relief! I don't get as nervous as I used to, but I still have the tendency to ramble sometimes when I forgot my lines, guess I have to learn some bridgelines and stuff.
+
+Then I updated some of my freewares on my laptop, and one of the most exciting piece of software which has a major update is GIMP! Woo! It's a open source/free alternative software which as powerful as Photoshop (or perhaps PSP if you really want to compare the professional features in Photoshop, which GIMP might be lacking). Get it here ;) http://www2.arnes.si/~sopjsimo/gimp/ Currently having fun with it (new features and GUI enhancement… Ooo Ooo Ooo)
+
+My desires are starting to pit me in a short term depression… hopefully I can get over it soon ;).

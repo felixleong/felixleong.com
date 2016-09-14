@@ -1,0 +1,115 @@
+// Post details
+.post {
+  padding: 1.8em 1.2em;
+
+  // Entry title
+  .entry-title { margin-top: 0; }
+
+  // Featured box
+  &.featured {
+    padding-top: 270px;
+
+    @media only screen and (min-width: $screen-lg) { padding-top: 320px; }
+
+    .feature-box {
+      max-height: 250px;
+      overflow: hidden;
+      margin-left: (-$grid-gutter-width/2 - 6px);
+      position: absolute;
+      top: 0;
+      width: 100%;
+
+      @media only screen and (min-width: $screen-lg) { max-height: 300px; }
+
+      img {
+        @include border-radius($content-box-border-radius $content-box-border-radius 0 0);
+        width: 100%;
+      }
+
+      figcaption {
+        @include opacity(0.7);
+        bottom: 0;
+        color: #fff;
+        display: inline-block;
+        font-size: 90%;
+        padding: 0.7em 15px;
+        position: absolute;
+        right: 0;
+
+        a, a:hover, a:active, a:visited {
+          color: #fff;
+        }
+      }
+    }
+  }
+
+  // Metadata box
+  .meta {
+    border-bottom: 1px solid $gray-lighter;
+    color: $gray-light;
+    margin-bottom: 1.2em;
+
+    > p {
+      display: inline-block;
+      margin-right: 1.2em;
+    }
+  }
+
+  // For images
+  .figure, figure {
+    margin: 0;
+
+    .fill { width: 100% }
+    .thumbnail { @extend .img-responsive; }
+  }
+
+  // Read more button
+  .read-more {
+    border-top: 1px solid $gray-lighter;
+    display: block;
+    font-family: $font-family-sans-serif;
+    font-weight: 800;
+    padding-top: 1.2em;
+    text-transform: uppercase;
+
+    > i { float: right; }
+    em {
+      font-weight: 400;
+      text-transform: lowercase;
+    }
+  }
+
+  // Additional meta
+  .additional-meta {
+    .profile-photo {
+      border-radius: 50%;
+      float: left;
+      margin-right: 1.2em;
+      width: 90px;
+    }
+
+    p {
+      overflow: auto;
+    }
+  }
+}
+
+
+// Modifications for single-page
+.single-page .post.featured {
+  &.featured {
+    padding-top: 220px;
+
+    @media only screen and (min-width: $screen-sm) { padding-top: 270px; }
+    @media only screen and (min-width: $screen-md) { padding-top: 320px; }
+    @media only screen and (min-width: $screen-lg) { padding-top: 420px; }
+
+    .feature-box {
+      max-height: 200px;
+
+      @media only screen and (min-width: $screen-sm) { max-height: 250px; }
+      @media only screen and (min-width: $screen-md) { max-height: 300px; }
+      @media only screen and (min-width: $screen-lg) { max-height: 400px; }
+    }
+  }
+}

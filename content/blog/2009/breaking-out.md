@@ -1,0 +1,14 @@
+title: Breaking Out
+tags: card-toons, thoughts
+date: 2009-08-18T14:02:48Z
+category: Art
+
+!['Breaking Out' by Seh Hui]({static}/images/2009/08/BreakingOut-small.jpg){: .img-responsive}
+
+Mind chatter: the little monologue that runs through the head, trying to get attention. Usually it wasn't of much harm until they suddenly felt in the mood to gossiping bad things about the host: remarking the many things that the host lacked or the mistakes and screw-ups that he had created.
+
+And occasionally, I overheard the voice in me; and they, noticing that someone is tuning in, only gets more excited to speak more rapidly and loudly. And with such increasing intensity of the voice, it can get quite convincing.
+
+The great strength about humans, though, is the power of our own consciousness and awareness. Yes, many times I have been finding myself in the deep end of the pool of self-doubt, and was suddenly made aware of the situation. With help and resilience, I regained my footing and continue to move forward in life: starting anew.
+
+And as I continue through the journey in life, I continue to learn my lessons along the way.

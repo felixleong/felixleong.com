@@ -1,0 +1,9 @@
+title: Training Oneself
+date: 2005-09-26T14:39:00Z
+category: Life
+
+As things (or more specifically emotions and feelings) are starting to calm down a bit, at least I can organize my thoughts better.
+
+And all I can say is that I'm still in my training phase in many aspects: Learning and applying all my knowledge about communication that I have been accumulating in the past and put my values to the test. It's definitely going to be hard… no doubt about it, seeing how big the impact the shellshock was.
+
+We'll see how's things going to turn out then :).

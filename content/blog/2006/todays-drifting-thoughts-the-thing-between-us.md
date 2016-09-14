@@ -1,0 +1,18 @@
+title: Today's Drifting Thoughts: The Thing Between Us
+tags: thoughts
+date: 2006-03-24T07:42:00Z
+category: Reflections
+
+Not really feeling much at ease lately… like… feeling unnatural, somehow.
+
+Honestly speaking I just felt like I was treated… differently. On the outset, everything is pretty much the same, yet I do have a feeling that both of us knew that there's something between us and it's really not the same anymore.
+
+… And that really made me anxious, it's really like I'm groping in the dark without any sort of direction.
+
+*sigh* Being human isn't easy, is it?
+
+---
+
+Anyway, I'll be taking the bus home back to my hometown later. We'll be visiting our ancestor's graves on Sunday for Qing Ming, and judging from the rainy season, I suppose it's going to be a very muddy trip indeed.
+
+Will be back on Monday.

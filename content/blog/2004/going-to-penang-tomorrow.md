@@ -1,0 +1,15 @@
+title: Going To Penang Tomorrow! :)
+date: 2004-10-05T14:58:00Z
+category: Life
+
+Yay! I'm off to Penang tomorrow :). So I won't be updating much on my LJ during my trip there, but rest assured that I keep you guys updated once I had the chance ;).
+
+Anyway, I sent my webcam to the shop and it was found to be faulty. So I got a new webcam that works ^^. So, to translate it, that means more para videos soon :). In other news, my laser printer is fixed as well, and most probably I would get it on Monday.
+
+Today I only notice that I can be quite insecure at times, especially in times when I feel a bit overwhelmed by misfortunes, some good nudging from Steven does helps me to notice that I can do much more despite of my own doubts. Well… at least that's how I looked at it :).
+
+Anyway, I gotta pack now :).
+
+[p/s: For the MindMap thingy, I believe I figured it out some part of it, it's basically organized based on the LJ friends list, since I did notice that my RPGamer friends and my ParaparaStage friends are somewhat gathered quite close together with each other.
+
+As for the closeness factor, I'm still figuring that out. But I suppose it shows the person with the most similar contacts and stuff. I wonder…]

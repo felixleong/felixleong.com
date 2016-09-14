@@ -1,0 +1,34 @@
+title: The 2008 Resolution
+date: 2007-12-29T02:55:00Z
+category: Annual Review
+
+It’s time to review my goals again :)
+
+**(Optional) Work out on my personal website on something that I have great passion for**
+
+Just added three blogs, but to be very frank, they were very dormant.
+
+**Attain an asset of RM45,000 (I’m raising that bar again. RM20K seems pretty hard, to be honest. But since I’m studying more about common stocks, I think this should give me a good goal to achieve)**
+
+Surprisingly, due to the strong economy and an unexpected bonus that I received, I nailed the target yesterday (when my pay and year-end bonus was deposited). I’m not planning to splurge on them so I suppose that counts as I can sustain this amount as it is :).
+
+**Continue to learn my Japanese, working more extensively on my own vocabulary. (Optional) Take up an elementary Japanese proficiency test would be a plus**
+
+My Japanese is getting better, but it’s still a long way of understand most of the stuff I have read and watch. But seemingly I can work out what the anime characters are saying so that was a good encouragement. Didn’t took the test though, but I’m really planning to take the JLTP Level 3 test this year :).
+
+**Continue with my efforts to improve and understanding myself. This pretty much applies to… well… I think it’s more about self acceptance, really. Continue to pick up courage and grow from all the challenges and mistakes that I had in life**
+
+In short, I have grown up quite a lot throughout the year: although there’s quite a lot of rough edges, but I came out working things out while the challenges were set. For one thing is that it’s still an on-going process of self-discovery and finding oneself in life. I think I’ll cover more ground of it while I type out my year in review posts.
+
+**Improve my financial knowledge and start to plan on my dreams and goals in life. This is going to be tough on me as I find my own dreams and goals have been shattered at one point last year… that’s something for myself to figure about**
+
+Been reading quite a lot these days, still didn’t find and set a very concrete goal for myself, to be really frank. That’s something that I still need to do along the way.
+
+I think I’ll be keeping my goals for 2008 the same but with some slight modifications, I might add something later if something suddenly pops up on my head that time :)
+
+- Attain an asset of RM80,000 (A higher bar again! :D And it’s getting close to the RM100K mark! It’d be very exciting if I broke this goal way before December, say, somewhere around June till October?)
+- Continue to learn my Japanese, working more extensively on my own vocabulary. Take the Level 3 Japanese proficiency test.
+- Continue with my efforts to improve and understanding myself: Picking up courage and grow and learn from all the challenges and mistakes that I had in life.
+- Improve my financial knowledge and start to plan on my dreams and goals in life.
+- (Optional) Work out on my personal website on something that I have great passion for
+- *To be added :)*

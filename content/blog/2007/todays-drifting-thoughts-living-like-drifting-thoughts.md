@@ -1,0 +1,14 @@
+title: Today's Drifting Thoughts: Living like Drifting Thoughts
+tags: thoughts
+date: 2007-02-06T16:33:00Z
+category: Reflections
+
+Been living as if I'm drifting afloat, trying to collect fragments along the way. Although from the outset it seems that nothing that happened, let alone a few slips of emotions… deep down I know there's that inexpressible feelings… nor would it bring much help if I expressed it anyway. Besides… how "emptiness" can be expressed?
+
+What about those heart pricks? Not something anybody could help, I think… at most they can do is just to ease the pain a little. At most people is capable to "understand" how you feel, but not being able to "share" the pain… as "pain" is something individual and cannot be shared.
+
+Somehow I'm thinking whether my concept of "dying" means "not turning back"… if that's the case, what's the thing that was to be "turning back from"? Somehow I can't figure out something "life fulfilling" that can be considered as a "place" that you'll not turn back once you reached.
+
+Probably… I'm searching "my way home".
+
+\- the constant enquiry -

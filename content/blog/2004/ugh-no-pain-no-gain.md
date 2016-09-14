@@ -1,0 +1,11 @@
+title: Ugh… No Pain No Gain
+date: 2004-03-26T10:10:00Z
+category: Life
+
+Playing truant again just to fix up my assignment, and I have been spending the whole morning just to fix those out of sync parts of the animation, and finally I'm able to finish the Flash with some minor quirks here and there which I'm too frustrated to fix. I might just review it this Sunday and make some tweaks later, but for now… forget it, I have been experiencing the "fix one part and break the other" once too many.
+
+However, this assignment comes with a price though: I have been experiencing some nagging back-pain, some nauseating feeling when I stare in front of a radiation for too long, headaches… Duh >.<". Kind of remind me of those health warning that usually printed in game manuals that ask us to take a 15 minute break after an hour of gaming. Let's face it, THAT's the line of advice that we often ignore! Well, guess I have to take their advice from now.
+
+Well, later in the afternoon, my aunt seems to notice that I'm at home (which I should be at school) and she asks me "Didn't you have class today?" and I'm like "Yeah, but I have to finish my assignments." and she just gave me an "Ai-ye…" kind of response and left my room. I don't whether I should take it as a disgruntle response since she did told me once that she believes that we should attend classes in order to understand the material.
+
+Can't stop but feeling annoyed by that thought… but she do have her point. Great…

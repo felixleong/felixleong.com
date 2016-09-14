@@ -1,0 +1,15 @@
+title: 日本語をわかりますか (Do You Understand Japanese?)
+date: 2006-06-20T13:52:00Z
+category: Life
+
+Things are going pretty well these days. Well… Probably because I'm not feeling frustrated when nothing comes along (i.e. no progress). It's quite a good feeling: being in the valley and rest for a while. The waves of excitement will have its time when it comes.
+
+At least that's what I think now :p.
+
+For some reasons, I just felt the urge to write more Japanese while I'm still learning it. It's sorta weird expressing myself in a completely foreign language, not to mention that I have to piece my thoughts together using whatever word I found in the dictionary, without knowing any small little details and nuisances in itself. I'm still feeling a bit nervous since I can't find a mentor or some sort to guide me through this journey.
+
+Currently I'm still focusing on the reading and writing aspect of the language, considering that I don't have anyone to speak Japanese with. But at least that should do well at the moment, considering that I'm not planning to sit for the proficiency tests.
+
+Hope that my progress would be good :).
+
+(Speaking of which, I had a sudden interest in picking up Korean someday :) )

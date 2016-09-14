@@ -1,0 +1,15 @@
+title: Of Time and Injuries (OW OW OW!)
+date: 2005-03-19T13:24:00Z
+category: Life
+
+Finally I got time to actually sort out my room, which is a total mess for the past few weeks due to extremely insane workload. It's still a mess, but at least I got the books and paper sorted out, and I guess I should be able to finish to clean it up by tomorrow.
+
+To add on, finally I got time to actually go out there and hang around. Go to Time Square for some Parapara arcade goodness. Met the old gang there, which I'm pretty glad that they still recognize me ^^".
+
+And lastly, finally I got time to actually time of choreography ideas. It's like, I have been exploring some new moves, especially those which involve some footwork. So I'm going to release choreography videos under two titles: MYPPF Version for the which uses more stock moves, and MYPPF -Experimental Groove- Version for those which uses more of these invented moves. Probably they will fuse together as MYPPF version someday, but probably that have to wait until my choreography skills reach anywhere close to the likes of Ahmed (or probably most original choreographers in PPStage ^^") ;).
+
+Tomorrow will be filming day <333! (Finally I got time to actually film my choreographies T-T) Really excited about that one ;). I expect to release them next weekend or so, depending on how does it take me to upload them over the school's Internet and whether Phil's going to agree to edit my videos (otherwise I would need more time to do them myself ^^") ;).
+
+However, nothing's going that smoothly though. My legs are overworked and they are pretty sore now. And when I was refining and finalising my choreography for I Want To Be Fat / Go Go Girls, my hands clashed and left ring finger has sustained some light bruises. Ouch >.<"! Hope these injuries won't be affecting my filming tomorrow.
+
+Guess that's pretty much it. Now I need to work with my VR assignments. DUH!

@@ -1,0 +1,9 @@
+title: WHA…?!!! (eBay revisited)
+date: 2004-08-01T17:02:00Z
+category: Life
+
+Check this out: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=307&item=4028193366&rd=1
+
+OK, it's basically the **same** item I bid, with the **same** description and stuff, and worse, it has the **SAME** seller! OK, now I'm starting to freak out! For one thing, I NEVER receive any correspondence from the seller after I won the bid, and not to mention that (s)he would have at least mailed me about it.
+
+And I have paid for it through PayPal @\_@". OK… I think I better write something to that guy before I really freak myself out unneccessarily (and that person BETTER reply). Ugh… first eBay bidding have already gave me the creeps… I can only hope that it will be settled. *dies*

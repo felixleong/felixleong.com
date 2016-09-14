@@ -1,0 +1,15 @@
+title: WTF?! o_O"
+date: 2004-07-27T11:16:00Z
+category: Life
+
+I forgot my eBay password. Damn! And the "request password change" link doesn't work. Grrr…
+
+Anyway, a good ayu-ro mix CD is auctioned for US$11.99 (not inclusive of US$3 shipping)… Slightly on the expensive side…
+
+Anyway, here's the link:
+
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=307&item=4026652698&rd=1&ssPageName=WDVW
+
+What do you think about it?
+
+[p/s: This is my first experience in dealing with eBay auctions, and I definitely can use with some help here. Pretty please? :) ]

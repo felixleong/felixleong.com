@@ -1,0 +1,13 @@
+title: A Book-Long Weekend, I Suppose?
+date: 2006-10-21T15:51:00Z
+category: Life
+
+Just watched Steamboy on Animax just now, the graphics were stunning, but the plot was complicated (more like confusing) that I think I'd probably need to watch it a few times in order to extract any real meaning from this. But… probably I won't have the motivation to watch it again :p.
+
+Been getting books on stock investing, well… at least that's part of my plan to start to have some sort of a second income source. I'd say it's almost completely greek to me, as I can't seem to register those financial concepts in my head. And sometimes things like human psychology, politics and economics were giving me the dizziness (well… probably I WAS locked into my own little world after all… ^^||).
+
+But anyway, the plan is that I'll be starting dipping myself into the market most likely on December or so. That's probably the time when I had my bonus and when I had more savings in my account. Probably I still need to figure out the allocation of funds on my part at that time then… Somehow money were never enough when I have so much things that I wanted to do. ^^||
+
+At the moment I'm not sure whether it is a good idea that I remained here… there's some hiccups with the system we installed on Genting a week or two before. Not to mention the holidays = peak season… guess there might be work sprinkling around in my week long holiday.
+
+Somehow that's something that needs to be managed.

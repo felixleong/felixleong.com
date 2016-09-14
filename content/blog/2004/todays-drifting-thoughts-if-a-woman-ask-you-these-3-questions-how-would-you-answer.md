@@ -1,0 +1,55 @@
+title: Today's Drifting Thoughts: If A Woman Ask You These 3 Questions, How Would You Answer?
+tags: thoughts
+date: 2004-11-29T04:41:00Z
+category: Reflections
+
+Originally posted in my university's forum, but the answers took me quite some time to craft, so I decided to post it here :):
+
+This thread is started by my friend, Steven, BTW:
+
+## 当女人问你这三个问题时你会怎么回答
+
+1. 你爱我什么？
+2. 在什么样情况下你就会不爱我？
+3. 假如我与别的男人发生了有性无爱的一夜情 你会怎么做？
+
+### My Reply:
+
+哇！真的是很刁难人叻！
+
+我的答案会是如此：
+
+1. 我不能告诉你我爱你“什么”，因为三言两语是不能表达我爱你的一切。若是要我说最珍惜“什么”，我爱你的“ 存在”…
+2. 我也不能告诉你“什么情况”下我“不爱”你，因为付出的爱是永远收不回来的。若是要我说“什么情况”下我“ 不能爱你那么多”，就是在我们最不能互相信任的那时刻…
+3. …假设性问题我最不敢回答，因为情况天天与众不同。
+
+但若你曾经有过有性无爱的一夜情，若你不在乎，我也不会追究。因为我相信你那时也不想伤害任何 人。
+
+但若你现在有着有性无爱的一夜情…我会觉得很失败…因为我给不到你那一份交和的满足感。
+
+---
+
+Translation:
+
+## If A Woman[^1] Ask You These 3 Questions, How Would You Answer? 
+
+1. What do you love about me?
+2. In what situation that you'll not love me?
+3. If I were to have a no-strings-attached-one-night-stand (i.e. Only sexual relationship with no love attached to it), what will you do?
+
+### My Reply:
+
+Oh GOD! These questions are TOUGH!
+
+My answers would be as follows:
+
+1. I can't tell you "what" I love about you, because the things that I love about you can't be told in a few words. But if you were to ask me "what" I treasure the most, I love your "existence"…
+2. I also can't tell you "in what situation" I will "not love" you, because love that has been given can't be taken back. But if you were to ask me "in what situation" I "can't love you that much", it's during the time when we can't trust each other the most…
+3. Of all questions, I dare not answer the "if" questions the most, because everyday is a different day.
+
+But if you were to have a no-strings-attached-one-night-stand in the past, if you don't mind, I will not ask as well. Because I trust that you also don't want to hurt anyone at that time.
+
+But if you were to have a no-strings-attach-one-night-stand now…. I will feel that I had failed you… because I can't give you that pleasure… of blending both our heart and soul….
+
+
+[^1]: I suppose it can also be applied to "Men" as well

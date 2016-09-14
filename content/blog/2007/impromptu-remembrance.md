@@ -1,0 +1,5 @@
+title: Impromptu: Remembrance
+date: 2007-08-23T15:45:00Z
+category: Life
+
+A lot of times when it comes to giving advice to others, I speak as though I was talking to myself as well. In which, with great hopes, will continue to serve as a reminder to myself from time to time: for a remembrance that will continue to change and shape at least my own life.

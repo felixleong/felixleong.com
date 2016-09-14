@@ -1,0 +1,23 @@
+title: Full Capacity: Real Life Version
+date: 2005-10-19T00:09:00Z
+category: Life
+
+OK, just wanted to jot down what happened in real life instead of billions and trillions of thoughts and pondering in my head XD.
+
+These few days has been very, very busy to me. It does seem that after close to six month of honeymoon-ing with my new job, my job responsibilities has expanded to a point that I'm like, being very diverse in terms of my job scope and responsibilities. Just to illustrate (umm… or more like "describe" though XD) my point, not only I'm doing computer programming, I'm also doing technical editing, writing specifications, testing, and probably running around in the office and taking naps in the office (Oops! I wonder whether anyone in the office reads this XDDD). Compared to Eng Lee and Kok Hwa who came in almost the same time as I do, it does seems that my workload is much more greater than them (not to mention that they seem to have more challenging programming project! :( )
+
+But thinking of which, the work experience is great :)! I really like the fact that all my office friends are really helpful, cooperative and have a sense of humour and fun in and out the office. Not to mention that some of them even like to go out together for some outdoor fun :D.
+
+And yeah, from that point of view, my brain is really running on full throttle everyday :p.
+
+From another side of myself… I don't know, it seems that I always can't seem to find the courage to voice my feelings out. Somehow I really wondered whether I'm really preaching what I believe (perceive?) to be the best for the other, or that I'm just being a coward who tries to rationalise his own inaction. (It does seem that I act more like the latter though)
+
+…
+
+Anyway… we'll see how things goes from this point. :)
+
+**[:: Update ::]**
+
+Just noticed that Chi's (aka drifting\_floe) LJ was deleted, probably just recently, considering that clicking the link still gives the "it still can be recovered in 30 days" page.
+
+I wonder whether that's a sign of him still existing somewhere in the physical plane in this world. Hope he's doing good in life (or that I hope there's some sort of way to keep in touch with him).

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% import "components/post_helper.html" as phelper with context  %}
+
+{% block page_class %}home{% endblock %}
+
+{% block content %}
+<section class="banner row">
+  <div class="widget-box col-md-4">
+    {% include "components/widget_author.html" %}
+  </div>
+
+  <div class="col-md-8">
+    {% include "components/widget_projects.html" %}
+  </div>
+</section>
+
+<section class="skillset widget-box row">
+  <h6>Interests</h6>
+
+  {% for skill, icon_class, desc in SKILLS %}
+  <div class="col-md-3 col-sm-6">
+    <i class="icon icon-{{ icon_class }}"></i>
+    <h4>{{ skill }}</h4>
+    <p>{{ desc }}</p>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="blog-blurb row">
+  <h6>Latest Blog Posts</h6>
+
+  <div class="col-md-8">
+    {% for article in articles[:2] %}
+    {{ phelper.format_post(article, teasers=True) }}
+    {% endfor %}
+  </div>
+
+  <div class="widget-box col-md-4">
+    {% include "components/widget_categories.html" %}
+  </div>
+</section>
+{% endblock content %}

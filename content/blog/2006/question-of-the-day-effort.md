@@ -1,0 +1,12 @@
+title: Question of the Day: Effort
+date: 2006-12-17T16:26:00Z
+category: Reflections
+
+What is persistence? What is letting go?  
+What is stubbornness? What is giving up?  
+
+Beyond the contradiction, is the outcome really determines the worth of our own actions?  
+Stretched between the two extremes, what decides the true decision?  
+
+Is there really an ideal? Or it's more of an imaginary utopia? If so, to what extent one's paradise may become to be?  
+In such a vast world, probably I'm just trapped in a small cage of my own doing…

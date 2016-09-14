@@ -1,0 +1,16 @@
+{% extends "base_w_sidebar.html" %}
+
+{% block title %}Archives for {{ period | reverse | join(' ') }}{% endblock %}
+
+{% block content %}
+<div class="listings periods">
+<h2>Archives for {{ period | reverse | join(' ') }}</h2>
+
+<dl>
+{% for article in dates %}
+  <dt>{{ article.locale_date }}</dt>
+  <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+{% endfor %}
+</dl>
+</div>
+{% endblock %}

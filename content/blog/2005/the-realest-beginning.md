@@ -1,0 +1,89 @@
+title: The Realest Beginning
+date: 2005-02-22T09:19:00Z
+category: Excerpts
+
+Well… just thought of sharing this because I really like this one :). It was originally posted in Chinese by time_traveller, and I liked it :). So I just did a translation and just would love to share with you :). The translation may be a little bit off at some point, but I tried my best.
+
+Hope you like it! :D
+
+
+## 最真的开始！ by time_traveller
+
+人一生中能爱几个人？  
+人一生中能被爱几次？  
+你还记得你初恋情人的样子吗？  
+你还记得你曾经为他做过多少傻事吗？  
+你还记得你们第一次的情人节是怎样过的吗？  
+你还记得当你第一次牵她手是在怎样的情况下吗？
+
+当你想起这些的时候，你有在笑吗？  
+是笑自己的傻？是笑自己的过去？我们在笑些什么呢？  
+这个笑很甜，很苦，让人想哭！对吗？
+
+每当想起这个人，心中总有阵阵的痛？  
+每当想起这个人，心中总有丝丝的甜！
+
+还记得第一次发现自己心中初恋的痛的感觉吗？  
+“我想我恋爱了，感觉好痛，但是我好想一直痛下去．．．．”  
+
+你的初恋离开你了吗？  
+他为什么离开你了？  
+你还想他吗？  
+你还见得到他吗？  
+你们还有联络吗？
+
+你现在身边的那位是否拥有你全部的爱？  
+还是你偷偷的留了一个位置给离开了你的她？
+
+他真地离开了我吗？彻彻底底的从我生命中离开了吗？如果是，为什么每当想起他时，我的心总有阵阵想哭的感觉 呢？
+
+爱的甜，爱的苦，爱的一切最真的感觉，爱的开始，使他给我的。  
+原来我不曾让他离开自己的生命。  
+虽然现在我的他早已在别人的身边，  
+虽然我已经好久没有见过他了。  
+但是我从没忘记他的样子，他的笑，他的生日，他的一切一切。
+
+他是我最真的开始。
+
+## Translation: The Realest Beginning[^1]
+
+Translated by Seh Hui "Felix" Leong 2005
+
+How many people one can love in his/her life?  
+How many times one can be loved in his/her life?  
+Do you still remember how your first love looks like?  
+Do you still remember how many silly things you have done for him/her?  
+Do you still remember how you celebrate your first Valentine's?  
+Do you still remember in what situation you hold his/her hand for the first time?
+
+When you think about this, are you smiling?  
+Are you smiling of your silliness? Or are you smiling of your past? What we are smiling for?  
+This smile is so sweet, yet so bitter, that it makes us want to cry? Isn't it?  
+
+Everytime when you think of this person, your heart always feel the slight pains?  
+Everytime when you think of this person, your hearts always feel the slight sweetness!  
+
+Still remember the first time you notice the feeling of first-love-ache in your heart?  
+
+"I think I'm in love, it feels so aching, yet I still want to feel that aching…"  
+
+Have your first love left you?  
+Why did he/she left you?  
+Do you still miss him/her?  
+Do you still able to see him/her again?  
+Are you still in contact?
+
+Does the person next to you now have all the love you have?  
+Or you still silently keep a place in your heart for the person who have already leave you?  
+
+Did he/she really left me? Really left from my life completely? If so, why always when I think of him/her, my heart always have that sorrow tingling in me?  
+
+The sweetness of love, the bitter of love, the real feeling of everything in love, the beginning of love, is what he/she gave to me.  
+I realize that I never let him/her leave my own life  
+Although now my love is already with somebody else  
+Although I haven't seen him/her for a long time  
+I still never forget his/her face, his/her smile, his/her birthday, his/her everything.
+
+He/she is my realest beginning.
+
+[^1]: Since I'm not sure what gender the author is targetting, so I tried to put it in a him/her way :)

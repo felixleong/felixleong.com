@@ -1,0 +1,77 @@
+title: Lyrics from the Heart: NEVER EVER
+date: 2007-04-08T05:16:00Z
+category: Life
+
+## NEVER EVER / 浜崎あゆみ
+
+いつか生まれる前からきっと  
+変らないモノ探し続けては  
+見つけて　失って　時に  
+人をキズつけた夜もあった  
+  
+もしもたったひとつだけ願いが叶うなら  
+もしもたったひとつだけ願いが叶うなら  
+君は何を祈る  
+この空に君は何を祈る  
+  
+強く欲しがる気持ちのそばで  
+どこか諦め覚え始めては  
+見つけて　手放して　時に  
+自分をキズつけた夜もあった  
+  
+もしも君に差し出せるモノがあるとすれば  
+もしも君に差し出せるモノがあるとすれば  
+変らぬ確かな思い  
+  
+ほんの少しでも笑ってくれるなら  
+まだココに生きる意味もあるよね  
+ほんの少しでも求めてくれるなら  
+まだココに生きる事許されるかな  
+  
+もしもたったひとつだけ願いが叶うなら  
+もしもたったひとつだけ苦いが叶うなら  
+君は何を祈る  
+  
+ねえ　もしも君に差し出せるモノがあるとすれば  
+もしも君に差し出せるモノがあるとすれば  
+変らぬ確かな思い  
+そう変らぬ確かな思い  
+ねえここに  
+
+## Translation
+
+[Lyrics translation from Divine Ayu](http://ayumi.primenova.com/lyrics/neverever.htm)
+
+Sometime, surely since before you were born,  
+I was searching for something unchanging.  
+I'd find it, and lose it, and sometimes  
+there were nights when I hurt people.  
+  
+If just one of your wishes could come true,  
+If just one of your wishes could come true,  
+what would you wish for?  
+What would you wish for, here, under this sky?  
+  
+Despite my strong desire,  
+I started giving up.  
+I'd find it, release it, and sometimes  
+there were nights when I hurt myself.  
+  
+If there were something I could give to you,  
+If there were something I could give to you,  
+It would be my unchanging, certain thoughts.  
+  
+If you'll laugh for me, even just a little,  
+then there's still a reason for me to live here.  
+If you'll search for me, even just a little,  
+then maybe my living here will be accepted.  
+  
+If just one of your wishes could come true,  
+If just one of your wishes could come true,  
+what would you wish for?  
+  
+If there were something I could give to you,  
+If there were something I could give to you,  
+It would be my unchanging, certain thoughts.  
+Yes, my unchanging, certain thoughts.  
+Right here.  

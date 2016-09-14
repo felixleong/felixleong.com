@@ -1,0 +1,24 @@
+title: Feeling Small: Fearing the Unknown
+tags: card-toons, humour, thoughts
+date: 2009-07-25T01:08:01Z
+category: Art
+
+!['Fearing the Unknown' by Seh Hui]({static}/images/2009/07/Fear-small.png){: .img-responsive}
+
+Recently I was exposed to [Hugh MacLeod][hugh], whom is popular for producing [cartoons that are drawn on the back of business cards][hughcards]. Apart from the fact that his cartoons are really funny (some of them wickedly so :)), I also liked the idea of drawing behind business cards and really had a strong urge in trying to draw some of my own.
+
+Not to mention that I still have two boxes of “art stock” thanks to my previous employment :-p.
+
+Anyway, this is the card that I have drawn yesterday. Personally have been through quite a rough patch in life and as I was facing the impending challenge ahead of me, I felt small. I mean, after being completely drained out of energy to complete a particularly hard task, the thought of inferiority  flooded me as soon as the thought of following-up with what I've done so far. Facing a big surmounting challenge, I questioned and doubted my capabilities to handle it.
+
+What happened next is that as I used "feeling small" as part of my MSN handle name, my friend decided to poke fun at it by asking me that second question on the card. What it is to be viewed as an insensitive and irrelevant joke instead turn out to be a very funny yet profound insight.
+
+Really living life really required the “balls” to handle the challenges that comes along. I wouldn’t say it's about big traits such as courage and integrity, but rather it's more about the ability to hold ourselves together in one piece, acknowledging the emotions that comes to us, assess the situation as it is and respond in the best way we could conceive despite our mood and fears. Everybody could get overwhelmed in highly stressful situations, but what really drives us forward instead of shrinking back into our shell is the ability to muster that little extra strength to ride through the storms.
+
+In the end, what’s important is not what actions are done right or mulling too much over the potential consequences, but rather just attempting our best in deciding what’s best and walk on that unknown path.
+
+**Note:** Hugh MacLeod have just published his new book, [Ignore Everybody: And 39 Other Keys to Creativity (Portfolio)][hughbook]. Do check it out!
+
+[hugh]: http://gapingvoid.com/
+[hughcards]: http://www.gapingvoid.com/Moveable_Type/archives/000009.html
+[hughbook]: http://www.amazon.co.uk/gp/product/159184259X?ie=UTF8&amp;tag=felixleongped-21&amp;linkCode=as2&amp;camp=1634&amp;creative=6738&amp;creativeASIN=159184259X

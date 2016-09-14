@@ -1,0 +1,13 @@
+title: Reporting For Duty!
+date: 2005-05-03T12:49:00Z
+category: Life
+
+Let me use one word to describe how I feel about my first day at the job: STUNNED! O\_O"
+
+And so today is the beginning of my first full-time job I ever accepted. Somehow there's a lot of things that I really need adapting, especially when it comes to my sleeping habits. It's like… I NEVER wake up as early as 6 in the morning in my whole life, not to mention that I have to wake up only with the help of alarm clocks! Even during the days of my primary and high school years, I only need to wake up 6:30 in the morning, and that is pretty much done reluctantly after being woke up by my parents (of course, I really missed those days. :) ).
+
+One good thing I really liked about the department I work for is that my colleagues (including the head of department) are really a friendly bunch :). Currently there's about 10 staffs in my department, and actually there's one of them who start work the same day as I do. As much we didn't talk much in the office, but during lunchtime we went out together and we talked quite a lot :). And they really help each other out in the works and they have been guiding us (me and the other new comer, as in) in setting out our development environment.
+
+Speaking of development, I just have to talk about that part where I'm literally stunned: The system being maintained is REALLY huge and the user manual itself is almost as thick as like… 3 encyclopaedia volumes! And the manual is printed on both sides O\_O". You can imagine the expression on my face when I got this thick "dictionary" from my colleague. Frankly speaking I'm REALLY overwhelmed by the thoughts of it, it's seems to be a really hard animal to tame by the looks of it (not to mention about the codes involve in this baby, which has been maintained around 20 years!). But well… it does serves as a good challenge for me, as much I have been defeated during the first round of this.
+
+So that's pretty much it. Now would you excuse me while I really need to sleep pretty early for tomorrow :p (and at the time being, reading up some preliminary stuff before I attempt that user manual tomorrow morning).

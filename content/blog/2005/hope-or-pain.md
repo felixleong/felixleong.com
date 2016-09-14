@@ -1,0 +1,9 @@
+title: Hope or Pain
+date: 2005-03-21T10:29:00Z
+category: Life
+
+There were times when you just have to accept the fact that some wounds would take a longer time to heal.
+
+I really don't know whether I should wish for another special person to enter my life (edit: not necessarily of a romantic relationship), or to hope that my wounds would heal sooner.
+
+I guess either way would be good ;_;.

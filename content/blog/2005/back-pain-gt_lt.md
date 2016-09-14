@@ -1,0 +1,9 @@
+title: Back Pain >\_<"
+date: 2005-06-28T05:44:00Z
+category: Life
+
+All of a sudden it just seems that there's a sickness monster hiding somewhere in my office. And so it goes that ever since last week, my colleague got struck with sickness one by one in a continuous fashion. If collapsing can be used to describe somebody gotten ill, probably this situation can be described as the "Domino Effect". Heh :p.
+
+In other news, I woke up today having a minor back pain on the right side of my waist, which proves to be much more of an annoyance to me as I try to do anything that involves streching the muscles around the waist. Ouch…
+
+OK! Back to work!

@@ -1,0 +1,19 @@
+title: Not-So-Smooth Para Training
+date: 2004-07-18T14:30:00Z
+category: Life
+
+We sorted out Granny Kiew's room today, so that there'll be more space for her to move about in her room. Her room is totally packed with stuff though, and moving one heavy bed is no joke. There seems to be a lot of old bottles of liquor o\_O", I wonder how did it get into her room. Anyway, they get the trash treatment, and I do wonder whether these bottles have any historical value? (if they had, I guess they [as in my aunt and Aunt Angie << my aunt's stepdaughter's name] will pound themselves for it)
+
+It did kinda distrub me in some way that, you know, they try to look into the drawers and stuff and throw away whatever which looks old and useless. For one thing, we didn't ask Granny Kiew for at least some sort of opinion or anything, and it seems that we do based on our own judgement and not hers. You know, there might be some old things that carries a lot of memories and is something dear to her. I wonder what will happen if my kids did that to me? (I swear that if they EVER throw away my CD collection I would really scream) By any chance, I do hope that I didn't do that to my parents as well.
+
+Later on, our group is having our usual dance training at Time Square this afternoon, and we found one quiet place in that mall to do our training, then all of a sudden, one guard insist that we shouldn't do that there without some sort of permission, and we were like "Umm, can't you just give us a chance to do our training there?". We have been talking for quite a while and the guard left when he's attending to the walkie-talkie, so we just sit there and wait.
+
+And all of a sudden there were three guards coming to us and we were like "WTF?!", we try to persuade our way through and they keep on quarrelling with us that we should get permission. That's really understandable and we would definitely try to get it, but what REALLY pisses me off is that when they mention that we are using their electricity for some extremely power hungry machinery! (GOD! How much electricity we would use for one discman and one set of computer speakers?!) OH! That really pisses me off like no end.
+
+OK, we do admit that we are stealing their electricity and we are guilty as charged, but does that really worth the fuss?! Oh for heaven's sake.
+
+Anyway, Tommy is going to approach the management tomorrow and we'll how it goes. I just hope that Tommy won't get into trouble. >\_> For one thing, I don't really mind paying a minimal fee to have a place for our training, since Time Square is really strategically located in a spot where our team members can gather together.
+
+Later on, I insisted that we find another spot for our training today, and so we just happen to notice a floor in the mall which is pretty much secluded and we did our training there for half an hour or so. So yeah, the fun is pretty much halved, but it's still fun anyway.
+
+Well…Guess I'm just one tired man today. Anyway, I'm totally broke now that I really need to find a way to survive on RM180 for two months x\_x" (yeah… that's really tough). I REALLY hope that I get my salary from my professor for all the data cleaning work that I had done for him, so that I don't need to worry about my bills and stuff.

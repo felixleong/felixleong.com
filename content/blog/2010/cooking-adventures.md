@@ -1,0 +1,16 @@
+title: Cooking Adventures
+tags: life
+date: 2010-03-20T16:25:34Z
+category: Life
+featured_image: http://upload.felixleong.com/2010/03/P1050922.jpg
+featured_image_credit: 'Udon with Salad' by Seh Hui
+
+For the past few months, I have cooked my own dinners during the weekend. Nothing fancy, so far I only cooked pasta with bottled Prego spaghetti sauce and udon with prepackaged miso soup.
+
+As I slowly expand my ingredient list to add more spice and flavour to my cooking, handling of each ingredient was an adventure to itself. Two weeks ago I learned how to gingerly take tofu out of its container with a continuous fear of dropping it and seeing a blob of a mess resembling mashed potatoes. Two days ago, I'm starting to learn the names of food stuff as I stroll around the shopping aisles of the food section instead of just gawking clueless at the massive rows of greens and meat (as I did in the past).
+
+And just today I painfully learned the correct heat setting of the induction cooker as the soy sauce dried up the moment it reaches the pan, emitting a burnt smell in the process. Apparently the default setting is only good for boiling water fast. Luckily my fish cutlets (which is actually expired sashimi) was unharmed in the process.
+
+But even as I clumsily prepare my dinners, I still find cooking a pleasurable experience and adventure. In fact I'm starting to buy cookbooks: something that I consider out-of-character myself (since I had bought business books exclusively all the while).
+
+Honestly, I'm really looking forward to the moment I graduated from pasta and udon: they are starting to taste bland to me.

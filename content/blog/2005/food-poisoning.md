@@ -1,0 +1,7 @@
+title: Food Poisoning
+date: 2005-12-14T20:48:00Z
+category: Life
+
+Out of all kinds of different illness, one of the most annoying ones has to be food poisoning.
+
+Feeling much better now, although I do have to admit that I feel almost dead during the ordeal. Hope I'll recover by tomorrow.

@@ -1,0 +1,11 @@
+title: Slow Day, Slow Internet
+date: 2004-06-16T05:21:00Z
+category: Life
+
+Not much happened except for the CODS… which I suppose I seriously need to find some way to overcome my slight obsessive-compulsiveness. The Internet being unbelievably slow, hope it's the school server. Having classes stringed together for 4 hours isn't fun… but at least having Interpersonal Communication tutorial to cushion the boredom.
+
+Interpersonal Communications is getting so cool that I found myself losing composure by laughing hysterically at almost every single joke. Worse, Choon Hui is sitting in front of me (starting to notice my impression points being deducted ^^").
+
+Anyway, been thinking quite a lot of about life, reassurance, fitting in and related stuff, I hope that I can form some solid ideas that I can apply in life. For now, I'm still having the feeling like I'm still strolling between two different extremes and cultural differences, and trying to find a place to settle myself. Having both Western and Eastern values in conflict always sucks. Perhaps that's why I liked my Interpersonal Communication classes, the classes is always enlightening.
+
+Just before I end this, happy birthday to Mary Alice (maryadavies)! ^^ Best wishes and hope that you can achieve the things you desired in next beautiful year ;).

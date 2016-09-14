@@ -1,0 +1,46 @@
+title: Poem in Prose: never wanting to be awake
+tags: poem
+date: 2008-02-01T03:43:00Z
+category: Writing
+
+there's times,  
+when one is almost inconsolable  
+engulfing heart throbs  
+a strong pain from within
+
+looking up at the stars  
+with teary eyes  
+alone on the street  
+a sense of loneliness from within
+
+reaching out of a mirage of you  
+a close smiling face that  
+could never be reached  
+a painful yearning from within
+
+calling out your name  
+only echoes of my own helplessness  
+rings back to me  
+who's going to answer back to me?
+
+oh, wishing star  
+where could you be  
+at this moment of complete despair?  
+a darkness that cannot be dispelled  
+by millions of stars far away
+
+was becoming strong  
+the only answer to continue on?  
+yet i felt as if hope alone  
+will never be a float  
+keeping me from drowning
+
+despite a pride  
+that will never accept  
+yet somehow  
+pity seemed so relishing
+
+why is it so?  
+why is it so…?  
+drowning myself with sympathies  
+i fall back to sleep again…

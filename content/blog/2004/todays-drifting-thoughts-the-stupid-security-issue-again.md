@@ -1,0 +1,24 @@
+title: Today's Drifting Thoughts: The Stupid Security Issue Again
+tags: thoughts
+date: 2004-04-05T10:08:00Z
+category: Reflections
+
+Ever you had one of those days that you woke up and then feeling like just don't getting up? Not the typical "It's Sunday" kind of habit, but the kind that you REALLY don't feel like waking up, as if you are escaping from something? Well, all of a sudden I realized that this has started to become a REALLY nasty habit of me (it haven't… but slowly it might).
+
+I don't know… the only thing that I had noticed is that this recurring pattern always happens when I'm totally stressed to a point that I wanted to freak out. But it's not that I haven't experienced any stress before, in fact the worst disaster that happen to me is the time when I have to retype the whole 20-30 page report on the midnight of the due date due to a computer file corruption! And I didn't feel stress that time, I remembered really clearly I'm having one of those battling spirit to conquer just about anything that come in front of me.
+
+Thinking about it, is it just me starting to notice that I hated what I'm studying? Not really… in fact, I liked computers a lot just next to doing artworks. The only reason I studied Computer Science instead of Graphic Design is that I had the dream of being in a computer game field, and I believe that studying computer science is going to bring me there since there's just too many graphic designers out there.
+
+Then I'm starting to reflect myself when I'm taking the shower: Is it that I'm really stressed out? Thinking back, if I'm really stressed out, most probably my reactions won't be that cool like what I'm like now, I would have panicked and feeling all nervous all over. Then just out of the blue… suddenly I just a little bit empty… emotionally. As much I'm OK being alone most of the time, since I'm pretty much a lone eagle myself and I feel really overwhelmed when I'm a big group of people, I just feel lonely… Strange? Isn't it?
+
+For some reasons, I have been pretty much wishing for someone at this stage of life to be with me and share my emotional burden. Too many times that too many responsibilities has been set on my shoulders that I'm feeling weak. However, as much as I wanted emotional support, I kept everything to myself instead. Is it that I started to doubt everybody, including my friends and family? I just… don't know, there are just some things which are so hard to spill it out. My sexuality issue and my doubts in doing well in my studies are already tough enough to tell my parents. Some of my best friends already knew my problem but they aren't much help and they just gave me advice which I have heard, understood, agreed with, but just doesn't suit me. Is it just me or is it that hard to find someone to turn to for some love and support? Sometimes just a hug from someone whom I loved and trusted is so distant that I can only realized it over in my dreams.
+
+I'm not attached to anything usually, but lately I have been plugging into the Internet quite a lot for that kind of escapism that I wanted. As much as I know that this is not going to solve my problems, the craziness and cheerfulness in some message boards provide me with just enough of distraction to pull myself together and continue on with my own live. I believed that I have been myself when I taking on with my online persona, it just seems that sometimes the online scene and the real world just differs too much that I'm sort of like experiencing a split reality. If only my currently situation will be anywhere from cheerful and relaxed right now…
+
+---
+
+Saying much, I feeling much better right now, although I do need some time to let my tears dry out. I know that I have to do whatever I have to do and get rid of all the hurdles and challenges in life, and that's what I'm going to do now.
+
+On other news, I can't believe classes aren't on today! But my friends and I are having a good time, in fact this gang is really a riot! I have been in stitches just now just to poke fun of one of our annoying classmates. And the collaboration video with Nine is ultra cool and I just can't stop repeating the video again and again (although there's some noticeable sync problems in my part, but then again, I danced that horribly XD). And… yeah! Powerpoints! Gotta finish them today and rehearse my presentation.
+
+Well… here we go again!

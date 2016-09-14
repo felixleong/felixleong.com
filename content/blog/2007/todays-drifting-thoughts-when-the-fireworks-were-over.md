@@ -1,0 +1,18 @@
+title: Today's Drifting Thoughts: When the Fireworks were Over…
+tags: thoughts
+date: 2007-01-01T15:21:00Z
+category: Reflections
+
+Yesterday I was there at 1 Utama (Malaysia's largest shopping complex, doing my CNY shopping. And I was excited by the fact that I managed to buy all my clothes and a pair of new shoes within a short period of time, which does made me wonder whether I should have came here sooner in the first place. Well… at least I know where should I get my casual clothes next time :).
+
+Then I proceed to the new year countdown event there, I'm not really the kind of person who'd enjoy concerts, basically my own motive is to see the firework display. Or probably I just felt out of place, as I see everyone around me were enjoying themselves and had fun with their friends and family. In contrast, I find myself standing there as a single entity: in which the only things I can do were to enjoy the show on-stage as well as witnessing the people around me.
+
+To be honest, I'm just being a bit indifferent when I was there, as I was still at the state in which I felt like an empty soul wandering around: unsure of everything around and within myself. As the countdown ended and the fireworks were bursting on the sky, I felt as if I'm just staring blankly at the skies… wondering how things may be this year.
+
+Then while I was waiting for the bus, then this thought just came to me "Was I sabotaging myself…?". Meaning like… "Is it that contributing energy, either consciously or unconsciously, to sabotage my own efforts and pursue? Am I so worried and engrossed myself about failure that I knowingly making myself to fail?" . This "self sabotage" thought was stuck in my head and start to reflect myself on that. At the moment, I'm finding fragments of great influence in the past, trying to figure out that particular "programming" within me.
+
+And another thing is that about conflicting interest and desires. More particularly in context, its the conflict between attraction (both sexual and non-sexual, but thinking about it, sex was a main drive most of the time, I guess) and the need of a response. (umm… or more bluntly, wanting to be the offensive or the receptive) I don't know, I still find it difficult to be more direct in this matter, since I'm more of a non-verbal kind of person (i.e. prefers the expression through physical touch)… being unsure of where the safety line is, I sort of resort to certain indirect cues to grab attention, but it's really frustrating (and possibly even heart breaking) that I didn't get any sort of response (or is it just that up until now I didn't get a positive cue or response in return?).
+
+And sort of thinking back (recounting back to the days from my first crush until now), there were many situations when I can really take advantage of (as in having sex *^-^*||||) if I were to be more aggressive. But… I don't know, is it that I wanted to respect others, or that I wanted some sort of indication that I can make my move, or that I really am the type of guy "who needed commitment or strong emotional connection before actually doing it"… probably a combination of all these factors, I guess.
+
+Well… at least I had something to start from for now.

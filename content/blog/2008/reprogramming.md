@@ -1,0 +1,9 @@
+title: Reprogramming
+date: 2008-03-05T17:21:00Z
+category: Life
+
+Was currently reading Anthony Robbins' Awakening the Giant Within.
+
+And is currently steering my blog content towards a new yet still not clearly defined direction, but for certain is that I'm stopping Today's Drifting Thoughts and Impromptu posts while I'm entering a phase of reprogramming myself. I definitely need a break and map out a new course in my own thinking and steer my life towards a future that I wanted to be.
+
+Till then…

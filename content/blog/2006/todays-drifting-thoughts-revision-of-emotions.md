@@ -1,0 +1,20 @@
+title: Today's Drifting Thoughts: Revision of Emotions
+tags: thoughts
+date: 2006-11-14T14:30:00Z
+category: Reflections
+
+Been in a very angst-ridden and frustrated mood today, well… it was a roller coaster ride indeed these days ^^||.
+
+… Probably still caused by the fact that I don't like losing things that I (at least, perceived) that I hold dear to. Or at least when things get out from my own hands, I think. At times like this, some of the most negative aspect does shown in some way or the other: possessiveness, emotional, self-pity, jealousy… all lot of different emotions came to me. As much as I didn't show it (or at least kept it to myself), it's not really a good idea to vent it on my own surroundings (although I *think* it had leaked a bit in some way)… after all, it's still a problem of my own and probably I'm the one responsible in causing it.
+
+Being able to calm down now, somehow it reflects on how I was… reminded me of times when I had those emotions. Was I any different from the past? Well… I don't think I was any much different, to be honest. And after all, those emotions were very real, in a way.
+
+Thinking about it, as much as I didn't say about it (or probably not really aware about it), I was lonely indeed: and in turn wanting attention and love. And there were times I had found that feeling… and at those times, deep down I was afraid that I'll be losing it one day. So behind my own idealism that love should be boundless and freedom, I myself was secretly hankering for a short leash to be put upon that person… that kind of feeling. Therefore the internal conflict.
+
+Probably why I still perceive love as a beautiful yet arduous journey.
+
+Sometimes I did wonder… whether I'm capable to love, and whether to be with someone and taking the journey together… Despite having a lot of my own fantasies (which nothing more than the mere surface), I can't seem to really visualise how it was like to be deeply in love: the very depths of everything. But somehow I knew that it was a sacred feeling… I'm not even sure whether that's attainable.
+
+Probably it just seemed harder for me, I guess ^^||.
+
+That's something that I need to work out at the moment.

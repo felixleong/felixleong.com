@@ -1,0 +1,14 @@
+title: Admiration
+tags: art, life, personal-accountability, self-improvement, spiritual, thoughts
+date: 2011-08-09T14:18:06Z
+category: Art
+
+![Admiration by Seh Hui]({static}/images/2011/08/IMG_0027.jpg){: .img-responsive}
+
+Been digging through a lot of older artworks of mine that I didn't get to post when I first drew them last year or so. This is one of those iPad finger painting art that I've done on Adobe Ideas before I became a fan of Autodesk's Sketchbook. What I liked about the app is that the you can choose a colour swatch of only five colours as your main palette and the "constraint" does forces me to be creative in using opacity extensively to blend colours. (technically I can still swap the swatches – still it's a bit tedious if I were to swap the swatches in and out)
+
+Onto the art, it's a bit of a reflection of how kids would admire the adults and wished that they would grow up to be one. To young kids, adulthood is a really magical moment: full of wonderment and a model of what we aspire to be.
+
+Since when we've allowed the fairy dust of amazement to wane as we walk towards the future? Or worse, dragging ourselves down to the level of dread with every step? Maybe, just maybe, imagine yourself to be a kid again and admire that tall figure you aspire yourself to be.
+
+Walk in that direction.

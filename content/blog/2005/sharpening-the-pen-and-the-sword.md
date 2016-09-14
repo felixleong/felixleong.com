@@ -1,0 +1,11 @@
+title: Sharpening The Pen And The Sword
+date: 2005-09-02T02:01:00Z
+category: Life
+
+OK, real entry about yesterday :p (triple post, woohoo :p). Anyway, just started out my workout regime yesterday morning in the fitness club with Sze Hau. :) And it's the first time I find myself having to *actually* wake up at 6 in the morning without any help from others (OK, maybe not: I still need that alarm clock). But I'm so excited and motivated to just go out and have my muscle stretched. And Sze Hau is definitely being a great friend to give the support I needed (directly and indirectly) *^-^*. I'm really thankful for that :), and I really wanted to know how to repay his kindness :).
+
+The first day is definitely a great struggle to me, as I have TOTALLY no idea how to use those machines, how should I exercise, what I should I target for… and not to mention my feeble strength (I can't even use those machines with a weight of about 10~15kgs!). One of the personal trainers are being really helpful in giving us a quick guide. But that's only as good as a short-term help, no thanks to my bad short-term memory. Seriously I'm thinking of having personal training sessions, but first, I definitely need to earn more (and GOD, my wishlist is starting to get longer and longer and longer XDDDD). So for now, I definitely need to do my own research and work it out on my own, which probably means some really dangerous experimentation (at the expense of my own body, I think ^^"). I think the first thing I wanted to do my research is to know "how NOT to get hurt" XDDD.
+
+Then there's the specification writing clinic that my boss conducted. And it's really an enlightening class from him as we not only learn the skills of writing, we also learn how to dissect and interpret English sentences and learn how to write and communicate precise-to-the-point, clearly/unambiguously, and authoritatively. One of the best quote I like the most is that (the quote is pretty approximate, but that's how I recall it) "There's a great temptation to fit as many ideas as possible in ONE sentence. But that itself will be the most expensive mistake you'll ever make in your life." Hmmm :).
+
+Guess now's it's a good time to sharpen up and shape up! :) Really looking forward what I'll become in months to come.

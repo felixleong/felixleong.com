@@ -1,0 +1,23 @@
+title: Yesterday's Recap: The Fool and The Guilt Trip
+date: 2004-07-18T04:58:00Z
+category: Life
+
+Some recap of yesterday's event, since I came home extremely late yest…. today, talk more about it later, anyway, here's the list of events in sequential order:
+
+- Granny Kiew came back from Singapore with my aunt's stepdaughter's (I forgot her name x\_x") family. The good news is that the home won't be as lonely as the time when she left. The bad news? Due to some accidents, her legs are getting worse, making her really hard to move about without walking aids. This basically translates now I had to keep an eye on her from time to time just to make sure that she's OK, which is no biggie to me, but…
+- While I was in my room poring around materials for my assignments, I didn't notice that Granny Kiew has fell down from her crutches, lying down on the floor helplessly. It's only until my aunt's stepdaughter came back from her dinner trip to notice what had happened. Of course I do get the nagging… which did sent me into a guilt trip. OK, I might bring up the fact that I was pretty much left alone at home during the past few months to justify that, but certainly I don't think it's a good idea for me to find excuses. I'll just work hard to make sure that she's OK when I'm at home.
+- My heart sank after what happened just now, and I just sulk back into my room and tidying up a month's worth of mess to escape from those negative thoughts. Then I noticed that the son of my aunt's stepdaughter had just came in. And OOOH I'm SO scared with kids, especially the ones whom I don't know, because if you met with a mischievous one, I'm only slightly better than dead meat. But luckily that he's a really good boy, of course he kind of touch whatever that caught his interest, but it's pretty much nothing more than that. And he does like to talk about random stuff, which does lighten up my mood by a slight degree.
+Sometimes I just… wonder, how do we identify our emotions and perceptions when we are small? Kind of remind me of my childhood days when I only knew about happy, sad, disappointment and anger, while I see things to be beautiful, funny, scary and other simplistic adjectives that would describe something. But as we grow up, we learn about hatred, jealousy, guilt… Sometimes to a point that we tend to get confused on how we are feeling and reacting. I think I might revisit that thought when the time comes.
+- Soon after, I just went for the MIND Mamaking session (mamak is a Malay slang word which means an outing with friends at a Malay-styled coffeeshop/stall [which is called mamak]). Kah Fui is really great for giving me a lift there ^^. When we were there, I do feel a bit isolated when the topic revolves around working life, but the chit-chat is often amusing, as much as my attention is slipping away ^^". Uhh… doesn't seem like I'm making a good impression there. The Roti Hawaii (literally translated as Hawaiian bread, but it's basically Hawaiian styled chicken wrapped around with a crispy dough [<< I need a better word for this one]) is extremely yummy though <333.
+
+    After that, we went to the cyber cafe for some games, and they play those first-person shooters which I totally sucked. I definitely have NO idea on how to play Counter Strike: Condition Zero. Unreal Tournament 2004 is totally a no-brainer, but it's fun just to frag around (muah X3).
+
+- Reached home at about 3:15 in the morning, tired. I just sulk back into my bed, and suddenly I just feel… weak, the emotional kind. Looks like the guilt haven't really wore off yet… .\_."
+
+---
+
+Somewhat I just noticed that I got too attached with Choon Hui, perhaps to a point that it's getting borderline, as much as I try hard not to show it out. Somewhat every single friendly words from him would eventually made me melt, every smile from him would wipe my sorrows away… and I just have some passive aggression (hmmm…) just to get close with him. I do feel kind of silly… clinging onto something that I could only dream of. Yes, I have moved on, but then, from time to time, I always tilt my head to find him, trying my best to be with him… even though only as friends.
+
+Thinking about it, Choon Hui always reminds me of Ayumi Hamasaki's ANGEL'S SONG… literally! I feel so like dedicating this song to him.
+
+Anyway, blue-ish moods aside, there's para training today, and Eric will be around today, which means that I can have more fun since I can para something different today with a partner. Will be posting about it tonight if there's no sudden events.

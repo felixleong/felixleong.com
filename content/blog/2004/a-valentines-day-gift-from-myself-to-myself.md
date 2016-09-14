@@ -1,0 +1,18 @@
+title: A Valentine's Day Gift… From Myself To Myself
+date: 2004-02-15T10:55:00Z
+category: Life
+
+I (kind of) sneaked out today and trying to escape from those pressuring assignments… staying at home facing homework is really stressing especially when you calendar and yellow notes are nagging you about the coming deadlines.
+
+Since I neither had a partner (i.e. boy/girlfriend), nor had a culture like Japan which girls give chocolate to guys (which I doubt that I'd receive any if I'm in Japan anyway), so I decided to give myself a small gift. So I went to the CD shop… and got myself a Para Para Paradise 5 soundtrack! :D (Darn! I still need the VCDs… But at least I got a taste of PPP5 first) Checking the track information in the booklet, it seems that most songs except the last five (including the SP) are really new (considering the fact that the CD is released in 2001) and the other four is like… oldies (1995 onwards… hmmm…).
+
+Popping the CD into my notebook does give me a shock: Just after Night Clubbin' (first track), I was totally blown out of proportion and I never knew that Eurobeat has started to add some new elements into it. Maybe it's only me, but I just feel that the newer Eurobeat style is kind of… weird. .\_." (well… at least compared to my own Eurobeat collection) Wow, music does evolve!
+
+I'm not implying that it's a bad thing, our lives does need some form of change, variety and innovations so that our lifestyle isn't dull. Just that sometimes when we fix our perceptions towards a period of time (or perhaps style, if we view something as an art form), it really needs some time for us to re-adapt with the newer style of things, otherwise we would have just shrug off and say that something is turning bad (which is complete ignorance, IMHO). I still remembered the time when I use to play old-school RPGs (err… old as in the SNES era) and I tried FF8, and I feel that RPGs and game music has changed: the same kind of feeling I had now. And looking back, game music isn't the same as before. (But then again, I can't even afford a console now. So I'm like… totally detached from RPGs. T\_T)
+
+Perhaps I do need to acknowledge the fact that things does change, and try to view things in a different angle. As far as I'm concerned, I'm sure I'm going to appreciate the newer change that comes to me.
+
+[::Random Thoughts::]
+
+- Bleh… assignments… need to finish them fast
+- For some reasons, the Sagittarian in me is making me feel like going around and explore new places. Really, think about it, I would really want to have a job that allows me to do that and at the same time having fun without feeling totally stressed out. Hmm… I wonder what kind of computer jobs would take me there. That'll be my current dream for the future :).

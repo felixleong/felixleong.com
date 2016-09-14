@@ -1,0 +1,13 @@
+title: Felix Leong::Empty Spaces
+date: 2006-03-16T11:15:00Z
+category: Life
+
+Started up a ~~MySpace~~ MSN Spaces today, I haven't really decided what to do with it, since I had my personal journal here and my technical and Japanese (planned) journal over my website.
+
+But I do have a feeling that I'll have something on it… currently the thing I had in mind is those ever changing MSN screen names which pretty much immediately reflects how I felt, what's happening (indirectly) and those small little word nuggets that pops into my brain.
+
+And… it's like an empty space for me to store little trinklets in life which is too small to be covered in my LJ (even more minute than my Impromptu posts)… or probably small fragments of thoughts which is only a clause but never a sentence. And with some lists of stuff which describe my likes and dislikes, I suppose ^^||.
+
+And so, I called that ["Empty Spaces"](http://spaces.msn.com/felixleong7/), do check it if you feel like it :).
+
+[Edit: Apparently I got brain-washed by MSN Messenger :p]

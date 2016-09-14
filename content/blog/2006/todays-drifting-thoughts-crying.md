@@ -1,0 +1,16 @@
+title: Today's Drifting Thoughts: Crying
+tags: thoughts
+date: 2006-03-18T13:13:00Z
+category: Reflections
+
+It's been a while… that my tears has flown down cheek.
+
+It was yesterday when I was, by sudden coincidence, watching the PV (promotional video, aka MV, music video) of Ayumi Hamasaki's No way to say. It's somewhere midway when the little boy snatched the pack of tissue and present it to Ayu that made me clicked, seeing myself shoving out the lyrics translation… and just cried shortly after.
+
+Looking back, there's lots of moments when I was feeling down, when I was feeling aching, when I was feeling ripples in my heart… yet my tear glands seemed to dried up.
+
+As if I have lost that capability.
+
+…
+
+Sometimes… my own weakness is probably the hardest thing for me to accept and admit. :)

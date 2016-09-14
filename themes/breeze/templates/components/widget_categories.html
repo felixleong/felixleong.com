@@ -1,0 +1,9 @@
+<div class="widget widget-categories">
+  <h6>Categories</h6>
+
+  <ul class="directory">
+  {% for cat, null in categories %}
+    <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+  {% endfor %}
+  </ul>
+</div>

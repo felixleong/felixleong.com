@@ -1,0 +1,51 @@
+.widget {
+  ul {
+    list-style: none;
+    padding: 0;
+
+    // Default style
+    li {
+      border-left: 3px solid lighten($brand-tertiary, 20%);
+      padding-left: 1em;
+      margin-bottom: 0.6em;
+
+      a {
+        display: block;
+        font-weight: 800;
+        font-family: $font-family-sans-serif;
+      }
+    }
+
+    // Directory style
+    &.directory {
+      background: $gray-lighter;
+      border: 1px solid darken($gray-lighter, 10%);
+      @include border-radius($content-box-border-radius);
+
+      li {
+        padding: 0.6em 25px 0.6em 15px;
+        border-left: none;
+        border-bottom: 1px solid darken($gray-lighter, 5%);
+        margin-bottom: 0;
+
+        &:last-child { border-bottom: none; }
+
+        a {
+          &:after {
+            transition: $primary-transition;
+            position: absolute;
+            content: "\e080";
+            font-family: "Glyphicons Halflings";
+            font-weight: 400;
+            color: #c6c7c2;
+            right: 45px;
+          }
+
+          &:hover {
+            &:after { color: #9a9a90; }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+title: The Felix Makeover 2005: Final Touches
+date: 2005-02-02T15:18:00Z
+category: Life
+featured_image: http://img.photobucket.com/albums/v95/seh_hui/livejournal/050202lj.jpg
+featured_image_credit: 'The Truth' by Seh Hui
+
+*"To know the truth of oneself carries a price."*
+
+---
+
+Finally I get to get my final touch for my CNY clothes set :): The shoes! :D Anyway, there's a warehouse sale just next to my house and I just got a pair of maroon coloured shoes. It looks pretty retro and maroon isn't the easiest colour to match, so actually I am a bit worried. But to my surprise, it matches the pants :D.
+
+And so that pretty much ends my hunt to finish my clothes shopping (well… if I don't end it now, I guess most probably I'll end up getting other stuffs like a watch, a matching backpack, a pouch, accessories… bla bla bla, and most probably I'll bang my budget again in no time ^^")
+
+Anyway, been playing truant these few days so that I can spend more time at home working on the things that needs to be done. Hopefully I can get my final year project done… >.>
+
+To wrap this up…
+
+**Felix's Ice Style**
+
+!['Ice Style'](http://img.photobucket.com/albums/v95/seh_hui/photo/050202/felixice.jpg){: .img-responsive}
+
+**Felix's Fire Style**
+
+!['Fire Style'](http://img.photobucket.com/albums/v95/seh_hui/photo/050202/felixfire.jpg){: .img-responsive}
+
+Somehow I wished I had a camera man instead of having to have myself second guessing everything :p

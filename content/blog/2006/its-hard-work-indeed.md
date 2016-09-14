@@ -1,0 +1,13 @@
+title: It's Hard Work Indeed
+date: 2006-11-12T04:22:00Z
+category: Life
+
+Let's see… I'm starting to be busy these days, mostly because of fault reports starting to pile up. It was stressful at times as problems is outpacing my progress in solving them. I'm still learning how to cope with it, well, you know, with all these stress and emotional distress, keeping tabs with my own focus and calm is something very challenging indeed.
+
+It does seems to me that it was like a warfare in smaller scale. At the moment I was kept on to my toes and having the need to keep my alertness level high… can't be laid back as I would want to be.
+
+And then I was up there at Genting for the past two days as we held our annual Programming Competition. Although it's still work related, but I was acting as a photographer most of the time so I had much idle time that I needed to rest.
+
+…
+
+Currently in a contemplative mood, think that's all about it at the moment.

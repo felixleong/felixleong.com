@@ -1,3 +1,0 @@
-extends: manga_tutorial.j2
-default_block: post
-listable: false

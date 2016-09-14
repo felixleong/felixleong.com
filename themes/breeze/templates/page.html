@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% import "components/post_helper.html" as phelper with context  %}
+
+{% block title %}{{ page.title }}{%endblock%}
+{% block content %}
+{{ phelper.format_post(page, teasers=False, class_name="page") }}
+{% endblock %}

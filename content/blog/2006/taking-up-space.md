@@ -1,0 +1,72 @@
+title: Taking Up Space
+date: 2006-02-25T14:44:00Z
+category: Life
+
+ARGH! I'm going to need these sometime in the future:
+
+1. A new CD shelf
+2. Another bookshelf (Actually I need it now as half of my book collection is taking up floor space)
+3. A new MP3 player… of a larger capacity
+
+OK, longer story.
+
+Just grabbed four new albums: Favorite Blue's Missing place, Folder's 7 SOUL and Suzuki Ami's SA and Infinity Eighteen Vol.2. I grabbed them off from the budget section, which cost me only around RM30 for four albums. Talk about cheap :), I really don't know whether this is a blessing or a misfortune, because the tendency of having these Japanese CD ending up in the budget corner means that records stores are much reluctant to import any Japanese CDs ^-^||.
+
+But anyway~ coming to the topic, the reason of me picking these CDs… Well, the first time I saw Missing place and 7 SOUL on the shelf is some time a month back, honestly speaking I brushed them away at first. But by chance when I browsed the Internet about JPop singers, I noticed that t.kimura (composer and arranger for m.o.v.e) used to be the composer and producer of Favorite Blue, while Folder 5 is actually a branch off from Folder (in which Folder 5 is actually Folder minus two of the male vocalist in the Folder). So that's just enough reason for me to grab them.
+
+Suzuki Ami's CD is much more of an sudden decision on my part, and flipping through the booklet, and SURPRISE! The producer of both albums are no other than Tetsuya Komuro (producer of globe and composer to a lot of famous JPop artists) and Marc Panther (songwriter and rapper in globe) wrote some songs in SA.
+
+So it's kinda interesting to have these four CD and have a glimpse of the earlier works of these popular talents. Can't say anything at the moment, as I just ripped them and listening to them.
+
+I have only finished Missing place (Favorite Blue) and I have to say that it's a VERY strong contrast to his works he had done for m.o.v.e. ^-^|| Favorite Blue sounds so… pop-ish. ^-^||||||
+
+Anyway, back to my current "problem": I just reshuffled my shelf and I almost filled up my cabinet… not to mention that one shelf with all my stationery finally have to give way to my CD collection. So I really need to get a new box to relocate my stationery soon. And judging with my growing MP3 collection, my iPod starts to dry up after close to a year and half of usage ^-^||. I foresee that I'll be changing a new player this year… probably after my music collection exceeds the iPod capacity by 10 albums (that's close to 1GB).
+
+Anyway, if anyone is curious why I can't live without a HDD based MP3 player, see my current collection:
+
+**Eurobeat CDs - As at February 2006**
+
+!['Eurobeat collection, Feb 2006'](http://img.photobucket.com/albums/v95/seh_hui/albums/eurobeat_feb2006.jpg){: .img-responsive}
+
+
+**JPop, pop and everything else**
+
+!['Pop collection, Feb 2006'](http://img.photobucket.com/albums/v95/seh_hui/albums/pop_feb2006.jpg){: .img-responsive}
+
+**My shelfs filled**
+
+!['Shelves filled, Feb 2006'](http://img.photobucket.com/albums/v95/seh_hui/albums/shelves.jpg){: .img-responsive}
+
+Here's the history of the growth of my music collection:
+
+**August 2004**
+
+!['Eurobeat collection, Aug 2004'](http://img.photobucket.com/albums/v95/seh_hui/albums/sebppcollection.jpg){: .img-responsive}
+
+* Jpop collection not photographed
+
+**December 2004**
+
+!['Eurobeat collection, Dec 2004'](http://img.photobucket.com/albums/v95/seh_hui/albums/eurobeatcdcollection.jpg){: .img-responsive}
+
+!['Pop collection, Dec 2004'](http://img.photobucket.com/albums/v95/seh_hui/albums/jpopcdcollection.jpg){: .img-responsive}
+
+**March 2005**
+
+!['Eurobeat collection, Mar 2005'](http://img.photobucket.com/albums/v95/seh_hui/albums/sebcollection_mar05.jpg){: .img-responsive}
+
+!['Pop collection, Mar 2005'](http://img.photobucket.com/albums/v95/seh_hui/albums/jpopcollection_mar05.jpg){: .img-responsive}
+
+**September 2005**
+
+!['Eurobeat collection, Sept 2005'](http://img.photobucket.com/albums/v95/seh_hui/albums/eurobeat_sept05.jpg){: .img-responsive}
+
+!['Pop collection, Sept 2005'](http://img.photobucket.com/albums/v95/seh_hui/albums/pop_sept05.jpg){: .img-responsive}
+
+I wonder what will happen soon… because I'm going to venture into new music territories soon (Particularly dance pop, techno, house, trance, Kpop, Cpop, new age, classical, instrumental, soundtrack and musical). ^-^|||||
+
+And yeah, I bought books as well, and I think I need a large bookshelf as well ^-^|||.
+
+…
+
+I'm such a hoarder/pack-rat. :p

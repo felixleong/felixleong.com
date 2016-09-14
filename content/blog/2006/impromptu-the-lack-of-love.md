@@ -1,0 +1,11 @@
+title: Impromptu: 爱缺 [The Lack of Love]
+date: 2006-08-04T01:04:00Z
+category: Writing
+
+开始学习爱的过程，开始看到自己的空虚，自己的贫乏。
+
+原来就因如此，所以会向往和羡慕真正懂得爱的人。
+
+During the process of learning what love really is, I start to see my own emptiness, my own poverty.
+
+That I realised that because of that, I always look up to and admire those who really understood love.

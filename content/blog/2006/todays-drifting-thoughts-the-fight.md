@@ -1,0 +1,23 @@
+title: Today's Drifting Thoughts: 吵架 [The Fight]
+tags: thoughts
+date: 2006-07-18T01:47:00Z
+category: Reflections
+
+昨天好像和他吵架，至少自己的感觉上是如此。当时的心情何等难受，自己当时很清楚。
+
+吵架这回事，到底是真的还是自己多心了呢？还是那份短短的“Nvm”[^1]是那么的冰冷，让我感到更加痛心？
+
+不晓得为什么，总是觉得在与自己重视的人的摩擦，自己好像永远都摆在劣势的感觉。似乎无论伤心也好，愤怒也罢，对你泄气或是大吐口水的时候，那份气愤不仅是朝向你冲去，同时也把枪头指向自己。一个人承受两个人的痛苦，这场感情战争已经不战而败了。
+
+这种时候，真的是不知道如何去处理…バカみたいね（好像笨蛋吧）
+
+[^1]: Nevermind英文略写，意为“没关系”
+
+
+It seems like I had a fight with him yesterday, at least that I felt that way. How bad I felt at that time, I'm fully aware of it.
+
+That "quarrel" between us, is it really a fight or is it that I'm just imagining things? Or is it that short "Nvm" (Nevermind) seemed so cold, that really made me felt even hurtful?
+
+I don't know why, I always felt that when there's some friction between me and someone I felt important, I was always in the disadvantage. Seems that no matter if I'm sad, or that I'm mad, when I spill them out to you, that kind of anger not only was directed to you, I was on that same gunpoint's target as well. One person have to carry twice the pain, this kind of emotional war had already decided its loser.
+
+At this time, I really don't know how to handle this situation… I seemed stupid, ain't I?

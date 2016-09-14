@@ -1,0 +1,20 @@
+title: Today's Drifting Thoughts: The Two Sides of Me
+tags: thoughts
+date: 2007-01-17T17:01:00Z
+category: Reflections
+
+Optimistic and pessimistic, masculine and effeminate, active and passive… like the sun and the moon, I'm experience the cycle in which opposite traits appears at different times. Probably as an result, my mood swings from side to side, alternating between being in control and completely helpless.
+
+At the same time… I'm starting to able to understand and experience the feelings and expressions of being heartbroken: feeling as if all hopes shattered, everything starts to lose it colours and fades away, no sensual pleasures can seem to stimulate me…
+
+*"… A void surrounds me… do I like it? Or do I hate it? Somehow at this time preference and judgement doesn't seemed to matter any more…"*
+
+Somehow… I'm pretty much unsure what to really think about it, the two sides of mine. Yes, it did bother me somewhat that both sides are indeed conflicting with each other… but then again… are they really just both sides of the same coin? It's not a matter of who's right and who's wrong… not something that can be compared and judge… to praise or to condemn. Just that… if that's the case… what's the true meaning of "harmony" and "unison"? What does it mean to be "whole"? (Wait a sec… am I, indirectly, condemning my duality? Ah… cycles of questions and doubt will never find ends ^^||. Or probably I might as well figure out the definitions and semantics of my thoughts)
+
+Somehow I'm in an impression that the reason that it'd be harder for me to really find someone whom I can really connect with (in terms of love and/or friendship) is that… up until now, it seems that both sides of myself needs to be satisfied in some way or the other. Or at least being well adapt in handling, satisfying and probably pacifying those two sides which comes in cycles. Knowing the contradictory needs and unpredictable cycles… it just make things harder for myself and others to actually "click". Probably the only few are the handful of "Zen" friends that I had online and off… and even so we didn't really communicate that often: at the moment it's more like… Ahmed, Theen Gee; and possibly Kheng Hoon, Allen and some of my office friends, but I'm not quite sure… I didn't get enough "clicks" from them.
+
+Same applies to my own sexuality, at least from my perspective. I'm pretty much open to possibilities in that matter, but yet again it's like… I don't know, it's like I'm predominantly being the "receiving" side of things… well, not really apply to the physical aspect (probably only a minor part can be attributed to that)… but more like… more of an emotional kind of "receiving", if that made any sense. I don't know, I just don't find it satisfying just by humping somebody and exerting force (without any emotional connections). (but to be extremely fair, I never had a "complete experience" before and having myself making this statement is pretty much based on my perception on the surface of things: which can be pretty shallow and judgemental indeed)
+
+At least from my current perspective, guys does have a greater sexual appeal because it's certain that I can have both "giving" and "receiving" ends when it comes to physical pleasure… but probably that "perception" was constructed by the fact that I didn't understand and know girls enough. But that aside, that "deeper-than-physical emotional connection" is the most important yet I can't seem to find a lot of them (the last two male crushes I had had that property, yet seeing that they are both one-sided and unrequited feelings so probably it's may as well be just my own "opinion" towards both of them. I have yet to prove this concept).
+
+… Am I selfish? Probably I am… and probably I'm asking too much as well. At this moment I'm not even sure about the "correctness" of my own ideas and concepts that I have laid out bare in this entry. Is it really necessary for me to complicate things in analysing my own perception towards the world? Is it really necessary for me to continue fighting with concepts? I wished I knew the answer myself… really.

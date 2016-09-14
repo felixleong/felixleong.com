@@ -1,0 +1,15 @@
+title: Contradicting Myself (And Other Stuff)
+date: 2007-02-11T12:50:00Z
+category: Life
+
+Just after I posted my previous entry and sort of contemplate it when I was doing my daily chores, I was wondering whether I'm actually contradicting myself a bit ^^||: on the attraction part, that is. (Paragraph 4 and 6, namely) As much as I could have rationalise it off with "having a preference doesn't mean that I have to be attracted to them all the time", but I'm not sure whether I really meant something else: a few examples that "it takes more than just looks and the body for me to relate to somebody", "looking back at the past few crushes that I had, this is the pattern", "when I loved someone, I would like to explore all dimensions of that person: physically, emotionally and spiritually"… something among those, I guess.
+
+I think I have been looking at my words from too many dimensions ^^||.
+
+Anyway, pulling back down to earth, here's the recent updates of myself (well… not recent anymore, I guess… just stuff that I didn't bother to put it in LJ until now). Been listening to more dance music (through Ministry of Sound radio), and I'm still finding difficulty distinguishing between different genre of sounds: house, trance, techno; they just sounded to generic to me X\_X. Still having difficulty in listening and catching distinguishable features like song structures, patterns, percussion… and it's not helping when everything was pretty much a loop of samples and small melodic chunks. I can identify breakbeat most of the time, though. But probably there aren't a dance track that really burns into my brain at the moment, I guess?
+
+Other than that, I have shifted my gym schedule from taking odd weekdays to even days (i.e. Mon-Wed-Fri to Tue-Thu-Sat). Partly because I don't really want to work out on Blue Monday and Lethargic Friday, and only working out two weekdays means that more balance in my own life: more rest on the weekdays (when it's most crucial) and that I don't find myself locked inside the house during the weekends (worrying about household chores, sleeping too much due to tiredness, etc.). Not to mention that there's a swimming pool at the other branch and this fulfills my long wish to swim more :) So I get more variety in my own fitness regime :). Currently not planning to take any classes though (although it seems to be a nice way to get to know people), but let's see whether there's anything that would interest me… but probably I'd stick with step aerobics as it was always fun (as long it's not those advance classes which gets too intense to my liking) :) Hmmm… I wonder alternate between classes and weight training was a good idea?
+
+Last but not least, I got my hair bleached today. Funny is that I always find difficulty colouring my hair: it always turns out a bit darker than I intended to. A bit envious with one of my friends who complains that he got the colours too light than he wanted (on his first try). Not sure whether my thicker hair fibres were to blame. But anyway, it turns out brownish and I liked it (although a bit more lighter would be to my liking :)).
+
+OK then, that's all for today.

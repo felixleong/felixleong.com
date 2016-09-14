@@ -1,0 +1,20 @@
+title: Today's (Short) Drifting Thoughts: War And Peace
+tags: thoughts
+date: 2006-04-27T03:20:00Z
+category: Reflections
+
+Yesterday has been a very, very bad day for me that my stress levels goes to a point that I really snapped and broke down into tears. Not really a good sight, to be honest.
+
+Somehow there's a lot of emotions being held back, a lot of worries and fears not address… maybe it's due to the fact that I don't want anyone to worry about me, or probably it's just me afraid of letting these emotions being expressed among people, friends and family even.
+
+This made me realised that both the adult side of me and the inner child within still exists. Did made me pondered about that point… knowing how much internal anguish are being created by myself when I was small.
+
+Probably it's just how I see the world and myself at different points of time, I guess.
+
+…
+
+Anyway, I think I'll revisit this topic someday. Here's my daily update: I just set my Aztech modem back for repairs and it really surprised me that the support staff there fixed my modem on the spot, not to mention it only takes only about 10~20 minutes with a lot of clients coming in! :D Wow! Call that UNBELIEVABLE service they have rendered! :D I'm definitely blown away by their professional attitude.
+
+And that pretty much means that I'm back online :D… well, after I come back from my hometown on labour's day, anyway.
+
+Gotta go now, got an appointment to attend to before I catch my bus home!

@@ -1,0 +1,14 @@
+<div class="widget widget-recent-posts">
+  <h6>Recent Posts</h6>
+  <ul>
+    {% for art in articles[:DEFAULT_PAGINATION] %}
+      <li>
+        <a href="{{ SITEURL }}/{{ art.url }}">{{ art.title }}</a>
+        <p class="published">
+          <i class="glyphicon glyphicon-calendar" aria-hidden="true"></i>
+          <time class="dt-published" datetime="{{ art.date.isoformat() }}" title="{{ art.locale_date }}">{{ art.locale_date }}</time>
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

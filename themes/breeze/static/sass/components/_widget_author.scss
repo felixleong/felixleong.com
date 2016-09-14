@@ -1,0 +1,30 @@
+.widget-author {
+  padding-top: 0 !important;
+  text-align: center;
+
+  .backdrop {
+    margin-left: floor((-$grid-gutter-width/2 - 6px));
+    max-height: 100px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+
+    > img {
+      width: 100%;
+      border-radius: $content-box-border-radius;
+    }
+  }
+
+  .profile-photo {
+    border-radius: 45px;
+    border: 8px solid #fff;
+    display: block;
+    height: 90px;
+    margin: 20px auto 0 auto;
+    position: relative;
+    width: 90px;
+    z-index: 2;
+  }
+}

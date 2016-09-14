@@ -1,0 +1,9 @@
+[submodule "plugins/pelican-page-hierarchy"]
+	path = plugins/pelican-page-hierarchy
+	url = https://github.com/akhayyat/pelican-page-hierarchy
+[submodule "plugins/pelican-page-order"]
+	path = plugins/pelican-page-order
+	url = https://github.com/akhayyat/pelican-page-order
+[submodule "plugins/pelican-minify"]
+	path = plugins/pelican-minify
+	url = https://github.com/rdegges/pelican-minify

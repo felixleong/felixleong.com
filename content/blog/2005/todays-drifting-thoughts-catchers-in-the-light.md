@@ -1,0 +1,30 @@
+title: Today's Drifting Thoughts: Catchers In The Light
+tags: thoughts
+date: 2005-08-12T06:18:00Z
+category: Reflections
+
+1. 虽然说若不争取自己想要的东西，就永远都得不到，但是…自己渴望的东西总是要顾虑到很多人的立场，不能凭任性与自私的心态盲目追求。
+
+    是懦弱吗…？是胆小吗…？但是我真的是不想做出无谓的伤害与牺牲，若是自己受伤还无所谓…
+
+    …在感情的泛滥当时，我还不容易…把心中那个盖子关起来…
+
+    说到底我只是在欺骗着自己…
+
+2. 心中那朦胧的天气，总是带来那pH少过7的味道…还真的是希望一场泪雨可以让阳光灿烂的发光…但是想想看，那只是治标不治本吧？
+
+    或许应该告诉自己：请不要在心中乱烧垃圾。
+
+*[Note: sorry for the lousy translation, it's really hard to capture the Chinese like poetic essence in English]*
+
+1. Although they say that if you don't sieze the things that you desired, you'll never be able to get it forever, but… what I desired for is something that requires consideration of the situation and stand of a lot of different people, and it cannot be pursued blindly with selfish whims.
+
+    Is this weakness…? Or is it timidity…? But I really don't want to make any unneccessary harm and sacrifices, it's OK if I'm the one who bears the pain…
+
+    … At times when my feelings overflows, it takes me much effort… to close the lid of my heart…
+
+    That being said, I'm just cheating myself…
+
+2. That hazy weather inside, brings the feeling that has a pH less than 7… And I really hope that a rain of tears will let the sun shine through vibrantly… But thinking about it, maybe that's only a stopgap measure?
+
+    Maybe I should tell myself: Don't burn more rubbish deep inside.

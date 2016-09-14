@@ -1,0 +1,20 @@
+title: Today's (Short) Drifting Thoughts: Movin' On
+tags: thoughts
+date: 2005-07-31T13:54:00Z
+category: Reflections
+
+It's been a while I haven't been having deep conversations with friends: in several occasions in the past two days, I find myself discussing about matters of success, relationships and life with several different friends. And just some time after these very conversations that I noticed that I still have a really long journey to go: A lot of dreams that I wanted to attain, a lot of current responsibilities that I need to fulfil, a lot of crossroads and challenges that I would need to face. At times like this, I'm still feeling the very same feeling of uneasiness: Of those of the fears getting out of one's security zone, and of the excitement of the possibilities what change can bring.
+
+Moving on towards one's life and never look back, and of living life to the fullest without regrets is always the greatest life lessons and principle that I hold on to my own life. I do have to admit that that sometimes, this can be quite hard to achieve during times when things doesn't seem to be quite positive. Sometimes there always seems to be the a sense of conflict: between logic and emotions, between brain and the heart, between those within physical reality and those of the unseen and intangible. Sometimes it's just very hard to go on in one's life… especially when concerns about whether we had made the best judgements towards our own situations and event. But truth to be told, the term "best judgements" is really a subjective matter. By what we should measure it? Whose best interests should be taken in evaluating this?
+
+Coming to think of it, "to do what we believe is right" just came into my mind… then it just seems that there's just a lot of factors that will influence one's decision… probably to a point that the very act of indecisiveness and non-action is already a kind of decision and action.
+
+…
+
+Anyway, I think I will continue this when the thoughts arise.
+
+Just a recap of yesterday, the karaoke outing is fun! =D Jenn Yeh, Seng Yaw and his girlfriend joined in the fun this time round with us (which I suppose Sze Hau, Sook Lan and myself will become frequent karaoke team in the department in the future :p). It's really fun that we really sang until our throats get dry, and despite the "sadder" theme in our overall song selection, the whole atmosphere is really warm and exciting as we sing song after song with much energy and enthusiasm! And I *finally* know where to find the "hidden" JPop tunes that I REALLY wanted to sing :D, wee~~! I really look forward for the next outing soon! <3<3<3 But before that I guess I have to train myself a bit because all the subtitles are written in Japanese and with some Kanji that doesn't have pronunciation guides.
+
+Choon Hui came to my house on Friday night to see what's the problem with the Linux installation on his laptop, and we get to chill and talk a lot of things. Probably I don't get to talk to him (in person) much in the future as he has his dreams to pursue… but at least there's e-mail :). Then yesterday I had dinner with Sook Ngee and Thian Hock at Pizza Hut as we tried out their new Cheese Lava 3 pizza (which is basically a stuffed crust pizza with three different kind of cheese) and it's really yummy! =D I really liked it when the cheese slowly melts in my mouth. We chatted a lot there until a waiter came to us saying that they are closing (and that's about 11pm :p), but we continued talking back at my place.
+
+And as for today… nothing much except that I cleaned up the room a bit. It's in a total mess without stringent supervision on my part during the last week. I still need to organize my stuff a bit. I did notice that I have been slacking a lot of good habits that I had kept up when I started work, guess somebody needs some stricter disciplining!

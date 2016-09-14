@@ -1,0 +1,15 @@
+title: Christmas Fun
+date: 2005-12-26T11:57:00Z
+category: Life
+
+It's been quite an eventful Christmas. It didn't start that smoothly though, as my DSL modem suddenly refuses to talk with my network on Christmas eve, and that I can't seem to get onto dialup either on that day. Not to mention the water outage a day before that and we had murky waters later :(.
+
+But… Christmas is REALLY awesome as I went for karaoke with Sze Hau, Sook Lan, Hui Ying and Seon :D. Somehow it started to become a monthly event? Hmm… Another ex-colleague (for Sook Lan and Sze Hau) in the department came as well, but her name seems not to get registered into my mind now :p. But we really sung our lungs out with a really diverse set of songs, spanning different languages, popular songs from different generation/time as well as genre and style :D. (Will post photos once I got them from Sook Lan)
+
+Then we went for some shopping. I basically got a few working clothes, one set of outfits for my Felix Makeover 2006 (well, I wouldn't call it a makeover, since it's only me trying out something different this time round) as well as two CDs: SMILE.dk's Future Girls and Princess China Music Orchestra's Ayumi Hamasaki's Music meets Princess China Music Orchestra.
+
+Somehow Princess China Music Orchestra isn't really much of a pure Chinese styled orchestra, it's more of fusion between traditional and modern music (as there's a lot of synths used in the album). To my disappointment is that most of the songs aren't remixed as they pretty much arranged faithfully to their originals. But there is some really good gems in there, notably M, Fly high and No way to say.
+
+SMILE.dk's album is also a great album as well, the only fault I can find in it is that it seems to be more like snack than food as I find myself digesting the songs way too fast! Probably it needs some time for me to let them sink in?
+
+Just got my modem replaced today, which is a good thing indeed :D. And I have shown signs of broadband addiction ^-^||.

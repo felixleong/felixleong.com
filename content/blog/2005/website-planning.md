@@ -1,0 +1,7 @@
+title: Website Planning
+date: 2005-11-24T13:43:00Z
+category: Life
+
+Currently working on planning and learning to build sites, those that runs on PHP, that is :).
+
+In other news, a old primary school friend + classmate found me over Friendster :D. It's kinda embarrassing that I can't remember her and it took me quite a while to have my memory refreshed. ^^" And got a surprise mail from my mom's friend, who is a Japanese teacher overseas :D. I'm now typing my mail in Japanese, hope this'd be a great chance to really practise my Japanese :D.

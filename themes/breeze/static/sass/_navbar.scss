@@ -1,0 +1,40 @@
+// The whole navigation bar
+.navbar-default {
+  @include box-shadow($gray-lighter 0 1px 5px);
+  background: #fff;
+  border-bottom: 1px solid $gray-lighter;
+  border: 0;
+  font-family: $font-family-sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  padding: 0 15px;
+
+  .navbar-nav {
+    // Navigation item
+    > li {
+      text-transform: uppercase;
+
+      @media only screen and (min-width: $screen-sm) {
+        border-top: 3px solid transparent;
+
+        &.active, &:active, &:hover, &.dropdown.open {
+          border-top-color: darken($brand-primary, 5%);
+        }
+      }
+    }
+
+    .dropdown-menu { text-transform: initial; }
+  }
+}
+
+// Logo
+.navbar-brand {
+  padding: 0 $navbar-padding-horizontal;
+  max-width: 280px;
+  height: 70px;
+
+  #blog-title { visibility: none; }
+}
+
+// The toggle button
+.navbar-toggle { background: lighten($brand-primary, 7%); }

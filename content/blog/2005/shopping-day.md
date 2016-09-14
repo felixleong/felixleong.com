@@ -1,0 +1,11 @@
+title: Shopping Day!
+date: 2005-08-31T13:09:00Z
+category: Life
+
+Today not only marks one of the most important days in Malaysia: The day of her independence, it also marks the end of this month's nation wide mega sales carnival. And the despite the fact that I'm getting myself into high waters (and mind you that I said that with the fact that I **just** received my pay check, which is definitely enough to ring a lot of panic alarms), I went out today for some, um… last day bargain shopping spree XD.
+
+Anyway, I only bought stuff for my fitness commitment: I definitely need tracksuits as I **never** actually own any of them up until now XD. So for the time being, I got myself some three-quarter length sport pants (Note: Umm… does anyone know what these pants are actually called? ^^"), a new pair of shoes (my old pair is now in a very sorry state ^^"), a shoe bag (I **really** hope that the fitness club would be generous enough to give us one… or probably that needs some pestering :p) and last but not least… the humble padlock. Hmm… this really makes me feel geared up tomorrow ;).
+
+I also got myself Stephen R. Covey's The 7 Habits of Highly Effective People, which will be the book of the week ;). Honestly I didn't thought of buying that book, but luck has it that I manage to "borrow" (without permission though XD) from a neighbour and I was determined to get it ASAP just after I barely reached page 30. The foreword and introduction talks a lot about a lot of fundamental things about human perception and paradigm shift, which I finding myself nodding my head energetically… I can probably say that it really expresses my own personal views and experience! So for those who haven't read the book, I really encourage you to borrow it from somebody and read at least until page 50. I'm currently reading it through, but I'm absolutely sure that it's a good book to keep in your bookshelf!
+
+But probably the only nag I have about it now is that it just seems that all self-help books, regardless of whichever topic it covers, are essentially the same thing -- and that the only difference is that how these ideas are conveyed and expressed ^^". But then again, I guess it doesn't harm to get ourselves reminded of these principles from time to time ;).

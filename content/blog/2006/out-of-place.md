@@ -1,0 +1,13 @@
+title: Out of Place
+date: 2006-10-02T14:44:00Z
+category: Life
+
+It's been quite some time that I felt very out of place,… at least that's what I felt deep down. Not really sure whether is it the changes causes the turmoil, or that I'm being more sensitive and attuned to myself, or that I'm just imagining things.
+
+Especially when it comes to my own health and body… it just felt… strange, in many way. There were times when I felt that the body wasn't mine, or that I felt some weird and not-so-positive sensations at some part of the body (e.g. at one time I felt some sort of weight in my stomach).
+
+At this point it's like I'm still experimenting and adjusting my own lifestyle and thoughts. There's still a lot of loose ends and missing pieces that I can't seem to figure out at this point. Guess it does take some time to really understand myself in depth ^-^||.
+
+At the moment, I still feel like I'm divided and split… in which different aspects, known or unknown, seemed to bubble up. And for most part of my time I have been working my thoughts like a scrambled jigsaw puzzle; or probably more appropriately spring cleaning and organizing whatever's on my head.
+
+It would be some time seeing dust flying around in my head, I guess. ^-^||

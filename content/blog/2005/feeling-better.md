@@ -1,0 +1,11 @@
+title: Feeling Better
+date: 2005-08-15T10:43:00Z
+category: Life
+
+Felt much better right now. It does seems that there's a lot of things that I have been supressing in the past in the forms of self control, social conditionings and conjured fantasies (rated M by the ESRB)… and every supressed thoughts came to haunt me back to a point that really scares me: That it is possible for me to become insane and engage in violent behaviour.
+
+Only that I realise that supression is also a human thought of a hidden intention, it's like a seed planted in our own thinking and eventually it'll grow and manifests in our own beings. And it will bring its effect later in life. And without notice, I have been caged into the darkness that I have created myself…
+
+This really made me wonder… Is it that my fears aren't caused by others but created by my own self…?
+
+Learning how to let go and readjust my own thoughts are definitely not easy. Guess I have to constantly remind myself… one step at a time… one step at a time.

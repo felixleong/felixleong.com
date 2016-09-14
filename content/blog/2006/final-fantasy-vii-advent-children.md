@@ -1,0 +1,15 @@
+title: Final Fantasy VII: Advent Children
+date: 2006-05-27T17:26:00Z
+category: Life
+
+Ha ha, I'm into my splurging mood again and I got the DVD <3<3<3. I watched it once thanks to my brother a few months back (a downloaded fansub, obviously :p), and I did made a comment about it a few months back so I don't want to repeat myself again.
+
+One of the great things that I'm very appreciative for is that they kept the Japanese audio track intact together with the English one :D! Too bad they didn't have Japanese subtitles or I would have worshipped them XD. (but the only use of those kind of subtitles are just for me to learn my Japanese, and guess I have to struggle my way through to catch what they are saying without any text scripts)
+
+Obviously I watched it with the English voice acting since I already watched it in Japanese once. And as much I would say that they didn't sounded quite natural compared to its Japanese counterparts (which didn't quite made the movie as immersing as it was with the Japanese seiyuus), they have done quite a good job at it :). As much as I didn't really liked the fact that they made Aeris/Aerith sounded old XD.
+
+But that's asking too much, I suppose XD.
+
+Loved the extras they packed in. Distance (the title of the making video) is definitely different from what I would have expected, as it is full about the views of people participating in the project. Which is very interesting to know all the spirit and effort they had put into the movie. And Nobuo sensei is… well, definitely someone I had looked up upon to ever since I first heard of his music, and he's pretty much leaves the same kind of impression that I had for him in the past. And for many reasons I really admire him for his work :D, and will still be fascinated always.
+
+Other than that… one thing crossed off from my wish list, and I would have to worry about my credit card bill next month XD.

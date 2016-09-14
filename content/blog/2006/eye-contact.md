@@ -1,0 +1,15 @@
+title: 眼神 [Eye Contact]
+date: 2006-07-27T12:54:00Z
+category: Life
+
+今天，有种“糟了！被发现了！”的感觉。虽然自己说没什么，但其实是非常紧张，原本静静注视者你的眼神真的是不知望那儿摆了。
+
+是觉得很高兴，同时又觉得有点不安。非常喜欢你却害怕被排撤的心里障碍又作祟了…或许已经到了那种无法自拔却也不知怎办的地步了吧！^-^||所以一直到现在还是不敢把自己好多好多的话说出来。
+
+但是…真的是很开心啦！:)
+
+Today, I had that "Oh no! I'm caught!" feeling. Although I said "Nothing" at that time, but really I felt very nervous, and I really don't know where should those eyes originally and silently placed on you go to.
+
+Feeling excited, yet at the same time feeling a bit insecure. That internal barrier of loving you so much yet afraid of being rejected is causing some trouble again… Maybe it had reached to a point that I can't help myself yet I don't know what to do. ^-^|| Therefore until now I'm still unable to express a lot of words to you.
+
+But… I really felt happy! :)

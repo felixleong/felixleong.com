@@ -1,0 +1,11 @@
+title: Day 2: Getting Better Felix
+date: 2004-02-26T09:59:00Z
+category: Life
+
+Well… my sickness is getting better now after having a good 6 hours sleep yesterday. Yeah! :) Although I did get some occasional sneezes and my knees hurt a little if I over-stretch it, other than that everything is fine. (I might consider getting those canned Campbell soup though, kinda miss them :) )
+
+Other than that, I'm now trying to focus my energy to finish up my Flash assignment and my mid term tests, so hopefully my plans going to work. I had delegated the other assignments to my group members, as much as I'm a bit worried, I just hope that everything will turn out well. If possible, I think I better finish off the stuff at hand now and get back to them later (maybe my perfectionist/manipulator side of me is getting the better of me :p)
+
+My moral class is pretty interesting today, our lecturer is talking about Immanuel Kant's Categorical Imperative ethics theory. To cut things short, the theory emphasizes the maxim "Do Unto Others As You Would Have Them Do Unto You", and it's really interesting that not only the theory emphasizes the importance of respecting others as a human being, but also respect yourself for the same reason. :)
+
+I never knew theory subjects can be fun.

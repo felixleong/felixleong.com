@@ -1,0 +1,9 @@
+title: Waiting for Test Results
+date: 2007-01-31T03:34:00Z
+category: Life
+
+Just came back from the clinic and had my blood sample extracted out. Now I'm staying at home, feeling a bit nervous while waiting for the test results. There's no surprise that I'm a bit nervous, both in terms of present symptoms and my own past acts.
+
+But… it's time to really face my own fears, I guess. I know I had fears to see the doctor in the past, but I'm glad that I overcame that after what happened in the past few months (which I had no choice but to see the doctor). Now it's more about my current physical condition, just have to do whatever I need to do then, I suppose. (As much as I'm a regular blood donor, which pretty much means that my blood was screen many times before. But I haven't received any calls nor I enquire them about my results)
+
+For now, it's pretty much going on with my daily life, I guess.

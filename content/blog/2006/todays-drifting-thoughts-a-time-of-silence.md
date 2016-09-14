@@ -1,0 +1,14 @@
+title: Today's Drifting Thoughts: A Time of Silence
+tags: thoughts
+date: 2006-12-02T14:34:00Z
+category: Reflections
+
+Not sure whether is it the lack of happenings or that my thoughts are much harder to describe in words, it has been pretty silent when it comes to writing. Is it that I didn't like to repeat myself about my own routine life? Or is it one of those days that I can't get inspire with something? Or that it's just the result of myself mincing my own words when it comes to writing about my life and surroundings?
+
+Or probably with everything going on at work, it just hard not to focus on figuring out how to solve the problems that arise? Hmm…
+
+But to be honest, there's just some thing that I have problems in comprehending… about how I'm feeling about various things. I'm not even sure myself, but somehow… it's the first time I encountered certain feelings within and signals that surrounds me, and I'm still puzzled. If it were to be describe it in someway… it just feels like something but at the same time it is beyond categorization, just like air: you can't see, hear or smell it, but you can just feel it. Something like that.
+
+Well… I suppose it takes a while to feel, experience and indulge it more to comprehend it.
+
+\- Gentleness in the air -

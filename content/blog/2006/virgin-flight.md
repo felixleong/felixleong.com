@@ -1,0 +1,51 @@
+title: Virgin Flight
+date: 2006-04-11T09:24:00Z
+category: Life
+
+Time to rewind the tapes again, been very tired these days X\_X.
+
+Anyway, apparently I got my chance of flying more sooner than what I have expected :D. Not to mention that I get to go to Tioman Island (one of the most famous tourist destination in Malaysia, popular for it's beautiful sea and beaches), which is one place that I really wanted to go for a long while.
+
+And so the story goes that on Friday, my boss wanted to fly (as in, as a caption/pilot) and he offered Francis to fly with him. And for some reasons I got tagged along by him. Originally my boos is reluctant to take me on at first, knowing that I haven't flew before and that the weather is pretty bad these days (with all those rain clouds that hangs on the Malaysian skies these days). However, he checked the satellite images (or something) and sort of change his mind and say that "we'll see how's the clouds tomorrow and see whether he'd give me a green light".
+
+So I'm like, well… I just manage my expectations well, I guess. The thought of the possibility to actually be surrounded by the skies doesn't stick as I prepare with my luggage.
+
+And so on that Saturday morning, I woke up relatively early, looking up at the skies: seemed kinda cloudy, but doesn't seem like it's going to rain very soon. Then a phone call from Francis telling me about the "green light" to go. Time:9am. And so I took the cab to the Subang airport with the thought "well, let's see whether I'd get to go later on (with the clouds like those)".
+
+What I didn't expect is that halfway through my taxi ride to the airport is that Francis (on our boss's car) spotted me in the cab. O\_o|| Woa! I have to admit that he really got some very sharp pair of eyes. :p And I ended up hopping into the boss's car after that.
+
+!['Planning Room' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2202.jpg){: .img-responsive}
+
+!['The Plane' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2212.jpg){: .img-responsive}
+
+And so we just went, going through all those paperwork and procedures that we have to comply at the airport (or more precisely, in the office of the flight club), then to the hanger and doing maintenance checks on the airplane. And I was pretty awed then: Getting to get up close and personal with the small planes and choppers there. And my boss gave us a short introduction and overview about airplanes. He went on describing some of the basic structures and critical components on a plane. And it's very interesting indeed.
+
+!['Cityscape' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2230.jpg){: .img-responsive}
+
+!['Clouds Among Us' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2245.jpg){: .img-responsive}
+
+And it was that "fateful" (hmm? Exaggerating vocabulary at its best :p) noon I got my taste of going airborne :D. Then the typical description goes that "everything seems small thousands of mile above ground, all those small "toys" forming very interesting patterns and colours, having fun playing 'guess where that is', CLOUDS ARE PRETTY~~~ <3<3<3"… well, not until you finally realised that clouds can also be your greatest enemy of obstructing view and affecting visibility. No thanks to dampening reminders. LOL But there's one time when I get to see a downpour in action, and that was really a slight to see :D.
+
+I'm pretty surprised that the flight goes very smoothly, I didn't felt much difference from sitting in a car than on a plane, apart from a very brief experience of elevating and descending.
+
+!['Beach from Above' by Seh Hui](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2262.jpg){: .img-responsive}
+
+And an hour and a half later, I finally saw Tioman Island: Full of greens and blue <3<3<3. That's a very lovely sight to see (it's really not hard to tell that I love nice beaches a lot :D) and we landed soon after. And I was very enchanted by what I experienced then: cool sea breeze, a serenity that was harmonized with sounds of nature, lush green mountain ranges, not to mention that I can see the clouds and rain coming to our direction with such a wide landscape… it's very mesmerizing experience! :D And that was really my first time I felt that excited!
+
+After that, we get to check out what's in an observation tower, which is definitely full of sophisticated equipment. And then we got down and waited for a speedboat to get us to our destination: the Melina Beach resort.
+
+!['Group Photo'](http://img.photobucket.com/albums/v95/seh_hui/photo/060409/100_2280.jpg){: .img-responsive}
+
+Saving the details, we reached here 30 minutes later. It is a small beach resort owned by German (that I can't remember his name). It's pretty much secluded in the sense that the only way to get there is by boat, which pretty much equates to a nice escapade from the exposure of the city's hustle and bustle. Heck, our cells doesn't even have coverage in that part of the world. (although, surprisingly, the workers there does have hand phones and chatted on the phone during their rest time. Probably it's because they are using a different operator?)
+
+Not to mention that since it's a small resort, it can only accommodate just a few people. During our stay, there's one middle age couple, a family of four and two pretty Caucasian chicks in bikinis… Wait, did I say that? XDDD Too bad there aren't any hunks though :p, but then again, well… :p Anyway.
+
+I'm very thrilled by the fact that the waters here are very crystal clear :D, even at night you can still see the bottom of the sea with the help of the moonlight. There isn't much sea life though, at least not going miles away from the shore, but then again, we only have an afternoon there so we don't really get the chance to really explore it fully :).
+
+So it's pretty much fun at it's simplest: swimming, floating and dipping ourselves in the clear sea, walking along the sea shore, swinging around, enjoying a BBQ, watching the stars while lying oneself on a rock in the middle of the sea…
+
+While I'm lying there on the rock watching the stars, I'm into my drifting thoughts mode again… pretty much giving me ample time to unwind myself a bit, reflecting on things. At that time, I just felt like a speck of dust in such a vast universe. The sea seems so boundless… that everything that I do and worry seemed so minute. And so I thought :).
+
+And on Sunday morning, we headed home after another hour and a half flight. I got my chance to sit on the cockpit this time round :D. As much I didn't get the chance to actually steer the plane, but being as close to where the captain is, I can't really complain :D.
+
+And that's the whole story to it :).

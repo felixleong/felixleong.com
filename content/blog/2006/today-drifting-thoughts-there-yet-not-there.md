@@ -1,0 +1,18 @@
+title: Today's Drifting Thoughts: There Yet Not There
+tags: thoughts
+date: 2006-02-16T13:34:00Z
+category: Reflections
+
+Few shifts in life… Feeling slightly in the blue, really. Seemingly normal, but still little ripples passing through the heart, wavering with emotions.
+
+Apparently my internal gears got suddenly shifted that suddenly I felt that all the thoughts about love is… complete crap. How should I explain this… It's like,, after living in between two different extremes, then as time passes by they start to blend together to a certain grayness that… it's just hard getting used to. Not that I hated it or anything, but it did made me a little bit uneasy as it starts to place everything around me into some sort of a different perspective.
+
+Looking back through the past few weeks… or probably months, sometimes I did wonder whether I'm tricking myself when I'm saying that I'm "working hard" towards it. The last entry kinda struck me that I kinda forced that out instead of letting it flow. Sometimes… I felt as if there are situations that I should at least do something about it, and yet I didn't do anything at all.
+
+Just felt as if I'm in the middle of nowhere… there, yet (I'm) not there.
+
+…
+
+Anyway, as for other events, I talked with Erika yesterday through MSN (my ex-girlfriend, for those who aren't in the loop last year). Apparently she has been living well, and the shocking news that she's going to get hitched… well, not now, but sometime soon in the future. Probably next year, according to her. Kinda surprised really.
+
+Our department is moving at the end of the month. It will be a completely different environment, we'll see how things will develop from next month onwards.

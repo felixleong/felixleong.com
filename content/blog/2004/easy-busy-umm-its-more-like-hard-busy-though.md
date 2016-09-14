@@ -1,0 +1,19 @@
+title: Easy Busy!!! (Umm… It's More Like HARD Busy Though)
+date: 2004-10-25T13:04:00Z
+category: Life
+
+After a few days of deep posts, guess it's time to revert back to its normal stuff that you'll see on my LJ :).
+
+Anyway… Things are getting EXTREMELY busy lately, considering that I'll be having my Numerical Analysis and Mathematics for Computer Graphics class (for those who remembered, yup, I'm retaking the *only* subject with a D attached to it), Japanese class, final year project and… a job! And not to mention that the job starts tomorrow and I have to work from 9-6 for three days weekly. So that also means that less time for me to fool around. And that also means that my online presence would be even thinner (Sorry Ahmed ;\_;).
+
+I'll still be in contact with you guys, through the old-fashioned way: e-mail! ^^ For those who would like to have a short chatter with me, feel free to drop me an email or two, that would really be a good way to relieve stress during working hours ^^.
+
+As for what had happened today, I went with Yong Ling to survery around my workplace and its surroundings. Got to meet Albert (the boss) and talked a lot about the job and technology stuff. And lucky thing is that he provides free accomodation, that means that I don't have to travel a lot in order to work on the job. Currently I'll be under the same roof with another employee, Srida. He's one programmer from India (if I'm not mistaken), and hopefully that things will go well.
+
+What else… yeah, for some reasons, it just seems that I get to meet a lot of my great friends today, as much as I don't know whether that was by sheer chance or something. But it's glad to see them around. ^^
+
+Yeah, I'm still a bit nervous about everything, on how to handle the things around me. Just wish me luck! ^^
+
+[:: sidenote ::]
+
+My living expenses are running dry, ARRRRGGGHHHHH!!!! XDDDD

@@ -1,0 +1,23 @@
+title: Today's Drifting Thoughts: The Thing About Myself
+tags: thoughts
+date: 2006-12-17T14:21:00Z
+category: Reflections
+
+Current mood weather: Clear skies with small clouds
+Forecast mood weather tomorrow: Ditto?
+
+---
+
+Feeling better today after voicing out my own worries in LJ yesterday. Thinking about it, I was surprisingly negative… well, probably because I always adopted the "figure out the worst scenario and prepare for it beforehand" mindset. May seem like a bad thing, but at least I managed to survive several times because of it (emm… is it? More like I'm capable to "survive" in the simulation that goes in my head ^-^||).
+
+But even so, more or less I do have my own self doubts that I'm currently dealing with. Well… if it's something that only involves myself, probably I'm capable to deal with it with effort. But if it's something that was related to others and I'm emotionally attached to it, I guess it wasn't that easy… even if it's a problem within myself. Thinking about it, if it's something that I have encountered several times, shouldn't I have levelled up with those experiences? Come to think of it, although the situations were the same at the surface, but all these situations involved different people and surroundings, that makes problems unique on its own and the past can't be relied on fully to draft out our current actions, isn't it?
+
+Not sure why I'm starting to become a bit pessimistic when it comes to my own relationship matters ^-^||… by all means it's not over yet. From the surface and the current reality that it is now, the path I have chosen (either consciously and/or unconsciously) is going to be extremely rocky, if not suicidal (ermm…. ^-^|||).
+
+But it's OK, I sort of have to figure them out myself. At least I'm sure that I was extremely happy at those certain moments. Hopefully I can work them out one day.
+
+Drifting to another topic, I was reading about the [Densha Otoko (電車男)](http://en.wikipedia.org/wiki/Densha_otoko) phenomenon in the papers today, and somehow, come to reflect it on myself, probably I could have been an otaku/geek myself in some ways ^-^||||. Emm… probably cut of the "probably", I was one! XD Gah!
+
+Anyway, on a lighter note, just got my hair dyed again (this time with brown, but since it was dyed on my natural black hair, it turns out to be more of a dark brown), got one of those teeth whitener thingy (which was bought after I notice a great offer from Watson) -- which did worked and that I'm suppose to use it for two weeks to see the best effects, and had my keyboard changed to a Samsung (which was just almost just the type I like to type on -- no pun intended :p).
+
+Well… that's about it, I suppose. Hope things will be better tomorrow :).

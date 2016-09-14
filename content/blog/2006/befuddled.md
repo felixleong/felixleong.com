@@ -1,0 +1,7 @@
+title: Befuddled
+date: 2006-01-24T11:53:00Z
+category: Life
+
+Just one of those really confusing days that I find myself dumbfounded in many aspects. Nothing major happening actually, but the events today just caught me off guard today that I felt as if a big star has fallen on my head and I find myself spinning in circles (Hmmm… FF7 Confuse spell?).
+
+Gah! Just feeling so confused that I don't know what's happening with me now X\_X||.

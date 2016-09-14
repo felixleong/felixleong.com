@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% import "components/post_helper.html" as phelper with context  %}
+
+{% block title %}{{ article.title }}{% endblock %}
+
+{% block head %}
+  {{ super() }}
+  {% for keyword in article.keywords %}
+    <meta name="keywords" content="{{keyword}}" />
+  {% endfor %}
+
+  {% for description in article.description %}
+    <meta name="description" content="{{description}}" />
+  {% endfor %}
+
+  {% for tag in article.tags %}
+    <meta name="tags" content="{{tag}}" />
+  {% endfor %}
+
+{% endblock %}
+
+{% block content %}
+{{ phelper.format_post(article, teasers=False) }}
+{% endblock %}

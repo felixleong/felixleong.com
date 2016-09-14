@@ -1,0 +1,11 @@
+title: On Track?
+date: 2007-03-01T14:13:00Z
+category: Life
+
+Nothing much happening these days, really. Mostly just keeping tabs with my own life as I was in a much stable emotional state (well… not to say that it doesn't have its ripples) and there aren't anything to do at work at the time.
+
+I personally revise my financial situation and I think I finally able to accumulate my emergency cushion this month :). (at the moment my definition of it being 3 months take home pay and/or 6 months monthly expenses) It's pretty much a great achievement on my part. At the moment I'm planning to stick to my current financial plan and expenses sheet for as long as I could and keeping any major purchases till next year. If everything goes according to plan, I think I'm able to save enough for prepare for the next big thing: my own place to live in :D. A small but comfy apartment unit in PJ/KL with all sort of living convenience around me would be just the ideal spot. But looking at how much I'm able to accumulate, probably I can only start to do so, say… three years from now? As much as I would be a bit disappointed for not getting it next year (I'm just one impatient guy :p), but it'd probably be on the safe side and it's definitely achievable without having myself making much sacrifice (provided that my income was stable during this period of time).
+
+At the moment I think it's better for me to do more homework and prepare myself (in many aspects) to achieve it. For one thing it's not going to be easy for sure, but I think I can work out the equation somehow.
+
+And yeah, at the moment I find myself staring blank at my LJ screen as I find myself lacking anything interesting to write about. And seemingly it's much easier for me to write drifting thoughts and impromptu posts when I'm in a sentimental mood with some sort of a clear track of the ideas that I would like to discuss and share. ^^||| Just one of those days, I guess.

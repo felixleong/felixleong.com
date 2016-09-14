@@ -1,0 +1,29 @@
+title: Reading Of The Day: Everyone Has Feelings
+date: 2005-09-30T00:27:00Z
+category: Excerpts
+
+This is a short one from one of the newsletter I subscribed:
+
+## ON THE PERSONAL SIDE: "Everyone has feelings"
+
+from Ron Kaufman's ["UP Your Service!"][up] Newsletter #87:
+
+There are old friends and new children in Brighten's classroom this year. It can be hard for new kids to fit in when there are existing friendships in place.
+
+Brighten told me she goes out of her way sometimes to meet new kids and help them feel comfortable in the class.
+
+I was intrigued and I asked her why she makes the extra effort. She replied matter-of-factly, "Everyone is human. Everyone has feelings."
+
+---
+
+<i>Copyright, 2005, Ron Kaufman. All rights reserved.</i>
+
+Ron Kaufman is an internationally acclaimed educator and motivator for partnerships and quality service. He is author of the bestselling series "UP Your Service!" and founder of "UP Your Service College". Visit [www.UpYourService.com][up]
+
+---
+
+As for today, I'll be taking up a new job responsibility/skill, which is completely new to me. Apart from the technical difficulty (electronics and *gasp!* assembly language), it does seem that the harder part is the human side of things (going to a different place alone occasionally, knowing new people, coping with different situations in different environments…).
+
+Still feeling a bit anxious and nervous about it ^^" (hmm… insecurities :p). Now not only I have to learn how to communicate with humans, I have to learn how to communicate with machines as well. I wonder whether that would make me a biological cyborg XD.
+
+[up]: http://www.UpYourService.com/

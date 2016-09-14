@@ -1,0 +1,17 @@
+title: Tight Rope
+date: 2006-04-17T16:12:00Z
+category: Life
+
+I was pretty much on my toes the whole day just now X\_X||.
+
+First off my ADSL broadband connection suddenly went off yesterday, which all I can see my modem is that the ADSL light just kept on blinking, which really doesn't serves much of a help, really.
+
+But I'm too tired to care about surfing, so I was thinking of leaving it alone and call the tech support later.
+
+Then today, it had been really hectic as there's a ISO certification meeting tomorrow and there's some last minute issues, hitches and glitches that really made me running round the office in full circles to iron things out.
+
+Then there's just many work related stuff that I needed to catch up, which is really stressful and I don't really feel like elaborating. All I knew is that I kept on cursing "Bloody hell!" like no end ^^||.
+
+And now? I *just* came back from the office, to be honest. And the funny thing is that after I turn off the power of my modem and switch it back on, it's back to normal again.
+
+That's a sign of relief :).

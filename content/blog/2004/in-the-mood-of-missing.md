@@ -1,0 +1,17 @@
+title: In The Mood of Missing…
+date: 2004-04-19T03:20:00Z
+category: Life
+
+This morning I just feel crappy again: The Monday Morning Avoidance Syndrome all over again, and tomorrow's the second round of exams, which will end this Saturday. Seeing the stack of unorganized notes and books on my bed just amplifies my mood even worse. Well… maybe I'm trying to avoid responsibilities? Or is it that I kept thinking the negative side of things to a point that I feel afraid? Nonetheless this didn't looked good… And sometime I just have that nagging sense of reassurance from someone else, but… I don't know, is it a friendly call for help, or is it attention whoring? I wish I knew the difference.
+
+Then, walking out of the kitchen to make myself some coffee, Aunt Jossie just happens to drop by to visit my aunt. It's always pleasant to see her since she is really kind, cheerful and she has that kind of positive aura in her that it's hard not to get infected by her smile. Just have some idle chatter for a few minutes had lifted up my mood a lot and I feel more energy when I go back into my room to go on with my revisions.
+
+Then sitting there, a flashback of yesterday's event just flashes in my head: during the gathering, Susan, Tommy and I are sitting at the corner of the mall, and she had bought three lollipops. She took one and shared the other two with us. Tommy gladly took one while I kindly declined as a polite gesture, since I only knew her that day. With Susan and Tommy enjoying a lollipop and me with my music, a toddler, which I suppose should be around 2 years old, just pass by us with her father. When she noticed us, the lollipops in Susan and Tommy's hands caught her attention and she just stops there, outstretching her arms, looking like she wanted one. Then her father saw this and tries to hold her back while she is walking clumsily towards our direction.
+
+Then Tommy just remarked "I think she wants one," and Susan responded "Hey, I got another one." Without hesitation, she reached into her bag, grabbed the last lollipop, and swiftly walked to the toddler and put it in her tiny hands. Of course, the father politely tries to decline Susan's kind gesture, but Susan just gave a "It's OK, she can have it," kind of smile in return, and Susan returned and joined us.
+
+Soon after, the mother came while the toddler tries to put the unwrapped lollipop in her mouth. Seeing this, she leaned down to pat her daughter and say "Say thank you to sister," and she repeatedly says "thank you" with a smile in her face, at the same time slightly motioning the toddler to make the toddler looked like a slight bow. I can see the smiles on the whole family, a seemingly genuine one, in fact (not the fake kind where they smiled in front of you, and in your back they will put on a scary angry face and scold the toddler, which happens most of the time). Then they just walk away in another direction…
+
+A small as Susan's kind gesture is, it's just heart-warming seeing everyone happy in the end. I just smiled when I recall the whole event all over again. Perhaps kind people are hard to get by these days? Speaking of which, I'm starting to miss Chi (drifting\_floe), which is the kindest person I've met online so far. I wonder how he's coping with his studies and stress, as much as I believed that he can handle it well, I'm really concerned.
+
+Well, Chi, wherever you are, or whether you are reading this, I wish you the best for everything. ^^ As for me, time to hit the books again!

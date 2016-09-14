@@ -1,0 +1,11 @@
+title: Impromptu: Real Emotions?
+date: 2007-01-11T07:38:00Z
+category: Life
+
+虽然心中仍然是那样，隐隐作痛，但现在所看得到的我脸上的笑容，确实也不是虚伪的。并不是要隐瞒其他人，若别人要是不小心，其实还是会为那为复合的伤口而流泪。只是很努力的学习，不让脸庞上的泪迹感到失望。
+
+就这样继续加油吧！
+
+Although my heart still remained the same, still feeling the pain, but the smile that you saw on my face, is indeed not faked. Not that I want to hide it from anybody, even if someone were to be not careful, I still will cry at the pain of that healing wound. Is just that I'm still working hard to continue to learn, not letting the trails of tears on my cheeks down.
+
+So… let's continue to work hard and be strong!

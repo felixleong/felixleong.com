@@ -1,0 +1,13 @@
+title: Nodame Virus
+date: 2007-04-24T15:11:00Z
+category: Life
+
+Been hooked to Nodame Cantabile (のだめカンタービレ) anime lately, which had reignited my interest of classical music again. Personally I like grand symphonies performed by a full orchestra or piano music that captivates my emotions, and especially liking orchestral arrangement for game music a lot.
+
+Coming back, that really enticed me to get the Nodame Cantabile Best 100 compilation album… only to be held back by the cost of it ^^||. But pretty much I would see it as a good way to introduce myself to classical music. Probably I would like the Romantic period, would need to read more on classical music, I think.
+
+And definitely will be taking up piano courses again once I had sufficient funding :), not really sure whether electrical keyboards (which aren't that expensive) can be used as a good substitute. But then again, probably I'd love to pick up the keyboard as well and learn how to make music on my own :).
+
+But for now, it's just something on my "Things that I wanted to do" list. Probably would take years before they were really realised. Till then, I think I better spend more time with my Japanese, I think I'm starting to get acquainted to it already. Just need to have my initial list of vocabulary to start with.
+
+Anyway, that's all for today.

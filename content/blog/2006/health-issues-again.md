@@ -1,0 +1,23 @@
+title: Health Issues Again
+date: 2006-08-22T14:20:00Z
+category: Life
+
+Physically I'm OK, but not in my top form as well.
+
+Had a nasty headache together with dizziness yesterday (migraine?), stomach's seemed a bit upset (probably due to large intakes of milk) and it has been a very "gassy" week (or weeks?), uncontrollable running nose during the weekends, sneezes at the morning…
+
+Not a good sign indeed.
+
+But in other news, I learnt my first tech para :): Bandido / DJ Zorro. Just really loved that song and I sorta searched online for a techpara for it (I would have choreographed it if I can't anyway) and yay! :) It's been fun, although it sorta different from Euro para so it does have me getting used to.
+
+Saturday has been fun as I visited Sook Lan's shop (Lok Lok Street), together with Hui Ying, Seck Min and Kok Weng, for the first time. The food there is very, very yummy :D! Definitely love to go there a few times more! And it's pretty rare to go out with Kok Weng and Seck Min, for one thing, and having those two together really crack things out with tons of laughter :D.
+
+Yesterday has been extremely stressful as I was facing the deadline face to face. And the boss being stern isn't really helping things out. :( Scared myself several times when I got stuck and when the boss called me in to explain some of my code changes. But luckily I did pulled through, which is definitely a relief.
+
+And now I'm glad that I had more air to breath now (as in my own workload). The feeling of drowning inside the pile of workload is definitely not fun.
+
+Been ripping some of my DVDs these day :). So at least now I can assure myself that I had backups (although I'd really need to burn them into CD/DVD in order for me to say for certain that they'll be safe).
+
+And… I have been contemplating with different thoughts and reflecting some outlook in life (well, that's easily guessed from my LJ). At this point… I still felt that there's a lot of possibilities and it's really hard for me to be sure of anything. Somehow I did had a feeling that something unexpected and major will trigger Chapter 6 to happen, which may be anytime sooner or later. But that's only my own hunch, I suppose. But I'm sure at that it'd be positive, whatever the outcome will be :).
+
+We'll see how things will go through. (as usual :) )

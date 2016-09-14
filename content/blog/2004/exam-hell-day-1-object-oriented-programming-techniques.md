@@ -1,0 +1,13 @@
+title: Exam Hell Day 1: Object Oriented Programming Techniques
+date: 2004-09-04T03:44:00Z
+category: Life
+
+Today's the day! Ooo the nervous energy running in me .\_.". Anyway, I won't be updating, but basically you can imagine most part of my life would be totally books (… OK, maybe not, maybe add in some friendly stuff in the library [most probably I would update my LJ if that's the case ;)] and the CODS, you know what I mean ;) ).
+
+Steven is staying over my place during this period, so rest assured that if I ever failed a subject, it won't be "I missed an exam schedule :p". Myeh~ but I'll make sure that I DON'T even fail one.
+
+What else, OH YEAH! Today's exams, anyway, despite the lack of preparations, the questions came out to be easy… if not time consuming X(. The questions are pretty tricky, but I still manage to put up some valid answers (at least that's what I assume). But I believe I should fare well on that one.
+
+Hope I can score a high GPA this time, just to save my own grace :p.
+
+Next up: Cryptography on Monday morning! Wish me luck!

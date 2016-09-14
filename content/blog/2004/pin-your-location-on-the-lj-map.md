@@ -1,0 +1,7 @@
+title: Pin Your Location on The LJ Map
+date: 2004-06-01T04:36:00Z
+category: Life
+
+<form ACTION="http://ljmaps.robobeasts.com/setlocation.php"><center><table STYLE="width:50%;"><tr><td STYLE="background:#dddddd; color:black;">I'm trying to get all my Livejournal friends' locations plotted on <a STYLE="color:blue;" HREF="http://ljmaps.robobeasts.com/viewmap.php?user=felixleong">a map</a> - please add your location starting with this form.<br />Username:<input TYPE="TEXT" NAME="user" SIZE=10 MAXLENGTH=15 /><input TYPE="SUBMIT" VALUE="Add" /><br />(Then get your friends to!)</td></tr></table></center></form>
+
+Hey, do join this if you haven't ^^.

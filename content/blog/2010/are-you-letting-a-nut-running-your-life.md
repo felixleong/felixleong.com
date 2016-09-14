@@ -1,0 +1,20 @@
+title: Are You Letting A Nut Running Your Life?
+tags: card-toons, self-improvement, strengths
+date: 2010-08-19T13:07:51Z
+category: Art
+
+!['Amygdala' by Seh Hui]({static}/images/2010/07/amygdala-small.jpg){: .img-responsive}
+
+Let's introduce the nutty little friend that inside the brain of every one of us: the amygdala. The little friend of ours are a group of small nuclei in our brain, having the size of a peanut. It may be tiny, but it has been a part of us since the very early days of our human species.
+
+The fact is that this little friend of our is so crucial that, without it, we wouldn't have roamed the earth till this day. It ensures our very survival by triggering two of the strongest emotional responses we had: fear and rage. With that, our ancestors are able to flee from predators as well as fighting against them. This allows us to conquer the harsh odds that were stacked against us in survival and becoming one of the most powerful species on earth.
+
+Millenniums had passed since then, and thanks to evolution we have create an environment where we can thrive without worrying about predators. Yet our amygdala remains the same: instead of fearing about life and death issues, we now fear our future – the what-if scenarios of all sorts of negative outcomes that could potentially befall on us. You know: failure, ridicule, crushing debts… modern worries and first world problems, most of us would put it.
+
+It's funny isn't it? That we still let our “nut” run our lives – sometimes to the point of wallowing in helplessness and running away from living a life we really want.
+
+Seth Godin had posted a great article, [Quieting the Lizard Brain](http://sethgodin.typepad.com/seths_blog/2010/01/quieting-the-lizard-brain.html), and the conclusion is this:
+
+    The amygdala isn't going away. Your lizard brain is here to stay, and your job is to figure out how to quiet it and ignore it. This is so important, I wanted to put it on the cover of my new book. We realized, though, that the lizard brain is freaked out by a picture of itself, and if you want to sell books to someone struggling with the resistance (that would be all of us) best to keep it a little more on the down low.
+
+In the midst of a challenging environment, there couldn't be a better time for us to learn how quiet down our fears and do something remarkable instead. Taking positive action is the only way of changing our world for the better and we should not let our ancestors from millenniums back down.

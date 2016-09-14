@@ -1,0 +1,11 @@
+.widget-current-projects {
+  figure { position: relative; }
+  figcaption {
+    background: rgba(0, 0, 0, 0.6);
+    bottom: 0;
+    color: #fff;
+    padding: 0 15px;
+    position: absolute;
+    width: 100%;
+  }
+}

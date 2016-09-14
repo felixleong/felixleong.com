@@ -1,0 +1,10 @@
+title: Today's Drifting Thoughts: The Lone Wolf Seeking
+tags: thoughts
+date: 2007-03-08T15:27:00Z
+category: Reflections
+
+Probably I was the one who chose the path to be alone most of the time, either I'm aware of the fact or not. However, being human, I also desired for support and care from others. Maybe I'm not that well in expressing myself? (Hmm… not sure what is cause and what is effect, seems that both are chained together in some way or the other)
+
+I do wonder, whether is it possible to find a certain person: a great resonance, a great harmony between two? Someone that I'm able to grow together with in an internal sense? Just felt that there's no way to reach a conclusion other than a continuous searching which might prove to be fruitless.
+
+Other than that, it just remains a possibility. Nothing else than that.

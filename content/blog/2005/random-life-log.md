@@ -1,0 +1,29 @@
+title: Random Life Log
+date: 2005-10-16T11:16:00Z
+category: Life
+featured_image: http://img.photobucket.com/albums/v95/seh_hui/photo/051016/000_0216.jpg
+featured_image_credit: 'The Unknown Known' by Seh Hui
+
+*"Entering into a known, yet unfamiliar realm…"*
+
+---
+
+Let's see…
+
+**About New CDs:** I really feel like ranting about Valentina's Your Love: Every single song only runs about 3 minutes -- that's makes about only two verses without any extended mixes in it, which is worse than radio edits! That aside, the CD is a great listen :D. All the songs really showcase Valentina's mellow voice (at some point, I did feel like I'm listening to Norma Sheffield). After listening to a solid 60 minutes of the CD, I really feel like going back to 1995 and strangle avex's producer for not making it a compilation with her extended tracks D=.
+
+Sophie's Stop The Music, on the other hand, blast me away! :D Most of the tracks are italo-disco, and every single one of them are a gem (I really can't find any flaws in this CD).
+
+As a related note, my creative juices seems to flow into me after listening to this CD. And I managed to pull off the original para for Are You Ready To Fly. Thinking of filming it next week :D.
+
+**Karaoke on Saturday:** Went to karaoke yesterday with Sook Lan, Sze Hau, Shaun, Seng Yaw and his girlfriend. That was fun, especially after a pretty stressful week up there in Genting Highlands last week. Just as a change, I sung mostly upbeat C-Pop songs. Never expected to see S.H.E's 星光 (Starlight), a cover of Ayumi Hamasaki's About You, in the list :D. So yay!
+
+Then we went for some pizza, talking a lot about overseas travelling and their experiences (since Sook Lan, her husband and Sze Hau are going to Korea end of this month). Sook Lan's husband came later on, and it's interesting to listening to his travel stories in India: About mineral water being served like wine, the cars and traffic, the human-powered Ferris wheel… It's really hard to believe, but we really enjoyed it. I really wonder how was it like to travel overseas… I'm looking forward to travel somewhere next year.
+
+Later on, we went to shop for Sook Lan and her husband's autumn/winter wear. And while we shop around, we ended up spending most of our time lingering around the FILA's sportswear section XD. The reason being that the department store is offering great discounts on FILA's stuff, which is a pretty rare occurrence here in Malaysia (compared to other brands, that is). I got myself a T-shirt that I really like, which has my star sign written on it (Sagittarius). But I was a bit hesitant to buy it actually, because the pastel green does look a bit femmy on me ^^||. But I really don't want to see more whites, black and red on my closet, and I'm thinking of getting some of these… umm… femmy looking clothes :p. (Hmm… I wonder whether that makes me emo? XD)
+
+Anyway, it looks like this:
+
+!['Personal Wardrobe'](http://img.photobucket.com/albums/v95/seh_hui/photo/051016/000_0221.jpg){: .img-responsive}
+
+I think that should be about it :).

@@ -1,0 +1,7 @@
+title: Addict
+date: 2007-04-18T15:10:00Z
+category: Life
+
+Not sure whether is it caffeine, just felt all hyper for the whole day today. A bit crazy, I might add ^^||. And currently starting to develop an interest to [DesktopTD](http://www.handdrawngames.com/DesktopTD/), that's another Tower Defence game, for those who played that Warcraft III's custom map before. Just that one game that I'm not supposed to play at work because it'd take my full concentration for the whole hour XD.
+
+Anyway, at the moment I just want to fully relaxed while I'm capable to. Don't think my dusts will settle down any time soon. ^^||

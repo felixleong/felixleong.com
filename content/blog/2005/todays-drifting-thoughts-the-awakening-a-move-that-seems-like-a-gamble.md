@@ -1,0 +1,16 @@
+title: Today's Drifting Thoughts: The Awakening -- A Move That Seems Like A Gamble
+tags: thoughts
+date: 2005-09-02T01:35:00Z
+category: Reflections
+
+Finaly I'm starting to take the first step: Making some decisions that I dare not make in the past. Subtle and invisible it is, but my steer of directions would impact my own personal life.
+
+Probably I'll be hurt, probably I'll lose friends, probably I'll be vulnerable… millions of negative possibilities might arise, challenge me in many ways. Probably I can make it, probably I won't, probably I might chicken out, or probably I'll lose everything… nobody can guarantee what's going to happen.
+
+In a way, I'm starting to allow myself to make mistakes… allowing a chance for myself to actually learn and grow, instead of shrink back to my old shell. As I started to notice that my nervousness and fear of achieving and getting what I wanted stems from the fear of losing them all in the end. Yes, I am afraid of losing: I'm afraid of falling down and getting hurt in the process, I'm afraid that someday I'll either become unappreciative to what I have earned, I'm afraid that someday I'll end up hating or being hated by the people I used to love the most, I'm afraid that I'll lose the things that I treasure… a lot more possibilities, a lot more fear that I'm starting to get extremely overwhelmed.
+
+Therefore, I find myself: running away from the very things that I desired for the most…
+
+It's time, that I needed to take the very first step to face life as it is. It's time, that I should be holding back. It's never going to be easy, as I know and experienced that at this very moment. A lot of lifelong goals seems to be very far away from me beyond reach, that I feel lost at times.
+
+The decisions that I made… Is to love even more, is to trust even more, and to move even further. I choose to be someone that I wanted to be: And this is the journey of finding my true identity.

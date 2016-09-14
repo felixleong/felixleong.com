@@ -1,0 +1,78 @@
+{% macro format_post(post, teasers=False, class_name='') %}
+<article class="post {{ class_name }} {% if post.featured_image %}featured{% endif %}" property="blogPost" typeof="BlogPosting" resource="post.html">
+<header>
+  <h1 property="headline" class="entry-title"><a href="{{ SITEURL }}/{{ post.url }}" property="url">{{ post.title }}</a></h1>
+
+  {% if post.featured_image %}
+  <figure class="feature-box">
+    {% if post.featured_image[:4] == 'http' %}
+      <img src="{{ post.featured_image }}" class="img-responsive" />
+    {% else %}
+      <img src="{{ STATICURL }}/{{ post.featured_image }}" class="img-responsive" />
+    {% endif %}
+
+    {% if post.featured_image_credit %}
+    <figcaption>
+      <i class="glyphicon glyphicon-picture" aria-hidden="true"></i>
+      <a href="{{ post.featured_image_url }}" target="_blank">{{ post.featured_image_credit }}</a>
+    </figcaption>
+    {% endif %}
+  </figure>
+  {% endif %}
+
+  <div class="meta">
+    <p property="author" title="author">
+      <i class="glyphicon glyphicon-user" aria-hidden="true"></i>
+      {% for author in post.authors %}
+        {% if author.url %}
+          <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+        {% else %}
+          {{ author }}
+        {% endif %}
+      {% endfor %}
+    </p>
+    <p property="dateCreated" title="date posted">
+      <i class="glyphicon glyphicon-calendar" aria-hidden="true"></i>
+      <time class="published dt-published" datetime="{{ post.date.isoformat() }}" title="{{ post.locale_date }}">{{ post.locale_date }}</time>
+    </p>
+    <p title="category">
+      <i class="glyphicon glyphicon-book" aria-hidden="true"></i>
+      {{ post.category|default('Uncategorized') }}
+    </p>
+  </div>
+</header>
+
+<div class="content" property="description">
+{% if teasers and post.stats['wc'] > SUMMARY_MAX_LENGTH %}
+  {{ post.summary }}
+
+  <a href="{{ SITEURL }}/{{ post.url }}" class="read-more">
+    Continue Reading <em>({{ post.stats['wc'] }} words, {{ post.stats['read_mins']}} minute read)</em>
+		<i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>
+	</a>
+{% else %}
+  {{ post.content }}
+{% endif %}
+</div>
+
+{% if not teasers  %}
+<div class="additional-meta row">
+  <div class="col-md-8">
+    <h6>Written by</h6>
+
+    <img class="profile-photo" src="{{ STATICURL }}/images/author-icon.jpg" />
+    <h4>{{ AUTHOR }}</h4>
+    <p>{{ AUTHOR_BIO }}</p>
+  </div>
+
+  <div class="col-md-4 tags">
+    <h6>Tags</h6>
+    {% for tag in post.tags %}
+      <a href="{{ tag.url }}" rel="tag">{{ tag }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+</article>
+{% endmacro %}
+

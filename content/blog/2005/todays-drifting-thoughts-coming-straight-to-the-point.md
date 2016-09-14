@@ -1,0 +1,23 @@
+title: Today's Drifting Thoughts: Coming Straight To The Point
+tags: thoughts
+date: 2005-09-03T04:10:00Z
+category: Reflections
+
+One very strong insight, imparted by two friends, Ahmed and Allen, that really put me into deep thought until now: Of that the grave fear of going straight to the point. It not the first time I heard that statement: since childhood, this very comment has been given to me again and again by the people around me. But somehow it does seems that I shrug that off every time… except for now that I really wanted to put things into perspective.
+
+Perhaps taking my own LJ as an example: a lot of times I have been, in a way, "speaking in codes". Or probably I might as well say that I purposely "left out some vital, very tangible information relating to what I actually want to convey". My own LJ has always been a place where I can actually express my thoughts and all the feelings and emotions that I'm unable to express openly. However, at this point of time, I'm fully aware that people are actually reading this, and some of them are the most important and/or closest friends around me. And after Choon Hui's incident, I'm fully aware how much power these words and expressed feeling can cause to others: those who are being the closest to me. All this while, I have been extremely careful with every single detail of my post: be it word choice, paragraph structure, flow of events and information as well as how much information I can actually disclose. And ever since that time, I have taken even more care with my own expression of thoughts.
+
+Probably I do away with this by making my LJ friends-only; but I'm fully aware the fact that some of my closest friends doesn't have a LJ account and I don't want to force them to go through that hassle.
+
+But somehow… thinking back, is the act of being careful with my words actually stems from a social responsibility to protect those who are close to me? Thinking about it, probably I am serving myself a very sugar-coated lie. Looking even deep down, that is only a vile attempt to protect myself: so as to cover up all my own vulnerabilities and deepest fears. Deep down, I know that self-expression comes with a responsibility, and that I'm so afraid with the bad things that my expression of thought will cause that I'm running away from it unconsciously.
+
+Should my words cause me to lose something, who is the one will be hurt? Myself. Should my words cause pain and misfortunes in others, who is to take up the ultimate responsibility? Myself. Should my words cause me to look bad in any way, who is the one will get the dirt? Myself.
+
+That enough illusionary fear that makes it look like a titan in front of me. And letting others to see that vulnerable part of me makes me feel so ugly… so worthless… the pain is so hard to bear that I have no confidence in meeting people…
+
+… And just that thought alone make words like "I like you", "I care for you", "I love you", "I want to be your best friend", "I'm concerned about you"…, words with much beauty and grace, a heavy burden for me to express openly… because I don't want others to see the ugly wound I had deep down in my being…
+
+Only now, I'm starting to actually notice how dependant I was with my own image… my social ego… that my true identity never gets the chance to grow…
+
+---
+I really hoped that it's not to late for me to build that confidence in me… piece by piece…

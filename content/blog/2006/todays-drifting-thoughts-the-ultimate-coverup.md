@@ -1,0 +1,20 @@
+title: Today's Drifting Thoughts: The Ultimate Coverup
+tags: thoughts
+date: 2006-06-02T13:49:00Z
+category: Reflections
+
+To be sincerely honest (OK, I know this is a grammatical redundancy), I have been pretty much covered up a lot of my true feelings in my LJ (well, as if it's NOT OBVIOUS ENOUGH). Well, it's not that I'm lying or anything, but that I'm extremely careful in picking my own words in describing what's happening in my life, especially when it comes to my own relationship matters.
+
+It's been a year (and a half?) since I have been doing so, I still remembered how much pain that I have been through with the incident that I had with Choon Hui. And since then I'm trying hard to keep all the details pertaining to my own love life under covers, at least thinking that this defence mechanism will act as a buffer to protect the people that I loved a lot. And knowing that I wouldn't want to lie to anyone reading my own LJ, I resorted to keeping my emotional keywords down a notch: love becomes care, the exact person that I loved have become "a certain someone" and so on, and so forth.
+
+But, up until now, this mechanism is bound to be a mechanism on its own right: with all it's frailty, limitations and chains. And going through that, I found that a lot of true emotions and desires have been suppressed… and that I started to lose my ability of expressing my own feelings with the whole of my heart… and that I'm starting to love in a secretive manner… where everything is done through the back door. Which is something that I personally hard to bear that I felt like being shadowed by own doings. And the worst fear that's happening? The love that I had is now contaminated and poisoned by myself…. to a point that I have been poisoned by it myself.
+
+And as hard as I tried, and as times goes on, I found that what I have done is pretty much futile anyway: considering those who are close enough to me would have easily guessed all the 5W1H (Who, What, When, Why, Where, How) anyway.
+
+And… it's really time for a change, that I can't always be loving through my own mind: thinking of ways to express my love in different indirect manners. It's just… extremely tiring, and made things more complicated than it should. And knowing love in its purity… it's now time for me to regain what I had lost. I can't always be losing myself all the time… and now, even if I were to run astray again and again, I'm sure that I'm capable to get back to my own path.
+
+… I don't know, probably it would take a long time before I can fully l live with completely truthfulness and trust… but I'm sure I'm able to find the way.
+
+… And yes, what I really wanted to say is that… all this while, even if I just said that I "cared", what I really meant is that I loved you a lot: so much that words are just insufficient to express. You gave me the sense of integration, happiness and pain that I'm capable to take the challenge to find my true self. Although, many, many times, I really felt like I'm being shut away and I'm still finding the door that goes into you… that I have almost gave up a lot of times, the strength that I have gained keeps me going…
+
+And yes, I love you, that's all that matters.

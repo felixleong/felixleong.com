@@ -1,0 +1,9 @@
+title: Ultra Painful Heels
+date: 2004-03-06T12:14:00Z
+category: Life
+
+As much as most of my friends hated to wear anything which is associated with formal dress code, I personally find myself liking it for that professional image that projects. I guess it's pretty much due to the fact that the shirt can really make you sweat during the day (considering I'm living in Malaysia which as a tropical climate all day round) and the slacks are so floppy that you feel like you are wearing either something or nothing at all. But I didn't really cared much about it because I can tolerate heat (but not cold) and I didn't really cared about the slacks (I do find jeans more comfortable though).
+
+However, there's one thing I always hated about wearing anything formal: Leather shoes! I wonder since when leather shoes are used instead of something like cotton or something softer, so every time when I'm walking with it I always feel the stiffness of the shoe and I'm feeling like I'm wearing high heels. And not to mention that the shoe is ankle high and the leather is stiff, more often than not the shoe will always hit my ankle while I'm putting my leg down to the floor (and you can imagine me going "ouch~ ouch~ ouch~" all the way). And after long periods of walking, it's the heels which feel the strain and the pain isn't funny.
+
+Blah… maybe I should get another pair which uses softer leather.

@@ -1,0 +1,13 @@
+{% if DEFAULT_PAGINATION %}
+<nav>
+  <ul class="pager">
+    {% if articles_page.has_next() %}
+    <li class="previous"><a href="{{ SITEURL }}/{{ articles_next_page.url }}" class="older">&laquo; Older</a></li>
+    {% endif %}
+
+    {% if articles_page.has_previous() %}
+    <li class="next"><a href="{{ SITEURL }}/{{ articles_previous_page.url }}" class="prev-page">Newer &raquo;</a></li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}

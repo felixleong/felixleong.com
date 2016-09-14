@@ -1,0 +1,9 @@
+<div class="widget widget-about-us">
+  {% if LOGO_URL %}
+  <a href="{{ SITEURL }}"><img src="{{ LOGO_URL }}" alt="{{ SITENAME }}" /></a>
+  {% else %}
+  <a href="{{ SITEURL }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.png" alt="{{ SITENAME }}" /></a>
+  {% endif %}
+
+  <p>{{ SITEDESC }}</p>
+</div>

@@ -1,0 +1,16 @@
+title: Today's Drifting Thoughts + Question of The Day: Dramatic
+tags: thoughts
+date: 2006-07-20T00:05:00Z
+category: Reflections
+
+Sometimes I just can't help but thinking back, that did I really see the full picture of the whole situation?
+
+Looking at it more carefully now, it really indicates that I always jump into some hypothetical judgement/solutions when I get a small progression/change in an issue. And really, the worst part (well… not really worst to a point that will cause life and dead issues; but it IS plain annoying if I'd be someone else) is that my reaction can be so extreme and dramatic (at least what happens internally or showing signs of extremism)
+
+A lot of time, as much as I vouch or even preach the concept of understanding other people's point of view, But in reality, it seemed that it ends up that a lot of my own point of view are influenced by own perception. And the so called "point of view of others" might as well be skewed, distorted and fabricated by the processing of information in our brains.
+
+But still, judging that getting useful and complete information to make a good interpretation is almost close to impossible… then, really, how can we make the best interpretation out of this limited resources we had?
+
+Thinking about it, probably our own perceptions are just like sand castles which can be invalidated and wiped out without effort. Just some force will do. But then again, is the force something that hits you with reality, or a force that deliberately wants the truth not to be found. Either way, I believe I do need to be much stronger and much more diligent in understanding my own surroundings.
+
+As a side note, in some way, I have to admit myself that I'm pretty emotionally unstable. That is… something that I need to work on but don't know where the starting point is. Probably starting to understand my insecurities first will help?

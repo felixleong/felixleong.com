@@ -1,0 +1,7 @@
+title: Pet Dog for the Soul?
+date: 2007-01-31T13:48:00Z
+category: Life
+
+Just wondering whether I'm better off having a pet dog, if all I wanted is some love, warmth and care. Probably I just wanted something that I can nurture and take care of (or am I just starting to get hopeless with humans? Eh heh heh ^^||).
+
+Probably I was exposed to too many friendly dogs that came close to me without hesitation and liked to be stroked and touched for the past few months. I think I wouldn't surprise myself if I decided to adopt one, definitely will get one once I got to stay on my own. I think.

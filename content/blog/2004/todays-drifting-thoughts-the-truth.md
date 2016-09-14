@@ -1,0 +1,25 @@
+title: Today's Drifting Thoughts: The Truth
+tags: thoughts
+date: 2004-08-01T05:27:00Z
+category: Reflections
+
+It's just another boring day when I decided to do my household chores… well, considering that my laundry is piling up and it has been months since I last mopped my bedroom. Somewhat the latest news about a father killed his three children and committed suicide have engraved in me. According to the news, he's extremely depressed when he had the divorce and he have a high possibility of losing them in a custody battle, and his suicide note on the wall read "It's you (the estranged wife) who has ruined our lives. We will not rest in peace. You don't want us because of your career. They are following me to nirvana."
+
+In case you are interested, refer to:
+
+- [Man strangles daughters and son, then hangs himself](http://thestar.com.my/news/story.asp?file=/2004/7/31/nation/8566227&sec=nation)
+- [You ruined our lives, man tells wife in suicide note](http://www.thestar.com.my/news/story.asp?file=/2004/8/1/nation/8569936&sec=nation)
+
+While I was mopping the floor, there's just some sort of deep thoughts flowing into me. Millions of questions about truth and true wisdom suddenly came back to me. Sometimes I just wonder: whether am I doing the right things? Whether I am doing things right? Whether I am going to the right direction? Whether I am going to the direction I wanted?… Sometimes I just feel a bit sensitive though, as I saw my own actions in two different extremes but never in moderation: Sometimes I just get so vulnerable and sensitive that I don't want to even the tiniest harm to others, yet at other times I can be so indifferent that I don't care what my actions will do to others.
+
+There's many a time when I heard my family and friends telling me that I'm not living in a world of my own, and I should put myself in other people shoes. As much I can't agree more with that statement, I'm just wondering why nobody saying it the converse: As in you are not living a world of your own, yet others are living in your world as well. Thinking about it, maybe it's due to the fact that it's easier to think about yourself than others. But then again, there's another question: why distinguish between "you" and "me"? Perhaps I might be taking their words at surface value, which can be interpreted as "somebody has to sacrifice, and there's no win-win solution". Thinking about it, it can also take the meaning of "we" being a collective unit, and it'll mean "there's always a win-win solution".
+
+Sometimes I just hate my dual-extremism, and I can swing between both extremes with ease. I always believe that's there's always a balance point… somewhere, and I believe that it can be found by obtaining true wisdom. But how does wisdom come from? As much thinking, experiencing and practising what you preach and believe is most important key, by what measures we should evaluate every single action? Frankly, it's really something simple yet so complex, and I barely had the faintest idea about it. Steven did told me that "Moderation does not come from the ability of going into both extremes, but by sitting on one side of the scale and acknowledge the existence of the other". Yeah, that hold some truth… but really, I don't think it's true in some aspects as well.
+
+I just wished that everything can be explained by using a simple formulae, like what we have learnt in science. Yet more often than not, these proven theories can only provides answers close to being totally accurate, since there are far more parameters which will affect the outcome. But then again, how accurate would we need? I believe that there's should be some sort of law in communications and life, but the question is: How much accurate detail is necessary? Perhaps I'm just a person of perceiving, someone who always like to see many sides of a certain thing before coming to a conclusion. It's a good thing in a way that we can understand something better, but on the flip side of it is that it's just… time consuming, and it does make our life more complicated than it should. But then again, how do you define "right" and "good"?
+
+---
+
+Uh… just so many thoughts flood in me that I can't really put them in a linear fashion, and the problem with words is that you just have to arrange them in that manner and by the time you believe that you should slot something in, the thought either get deteriorated or lost in the process. If there's anything I believe that I have omitted, it should be about *"Every single action and thought you have reflects on your own experience and perception."* It's like having different people interpreting on the same piece of art presented. Guess that's how life works?
+
+Anyway, on a lighter note, I finally got the chance to chat with Vicky <333. That really came to me as a surprise, and yeah about the thought of working with the avex Promotion team XDDD. And thanks to Steven for this music file <3333. Still thinking whether I want to go out, since it does look like it's gonna rain. Ah! Maybe I should, for the sake of some new CDs <333.

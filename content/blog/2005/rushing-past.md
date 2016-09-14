@@ -1,0 +1,21 @@
+title: Rushing Past
+date: 2005-08-04T01:39:00Z
+category: Life
+
+It does seems that there's a lot of things that has rushed past me without notice…And sometimes I do wonder whether knowing what has passed by will make any difference… Honestly speaking I really don't know what makes me think this way? Is it that I'm missing something in life? Or is it that I came to a realization that knowing what has passed has no importance in my present life than bringing me regrets?
+
+Getting in tune with my own pace in life is definitely not easy for myself.
+
+Anyway, coming back to yesterday, I took a half day leave to collect my convocation attire. Yup, I'll be attending my graduation ceremony this Saturday. The event itself didn't really excite me much, but it does make me feel like I have passed one important phase in life and reminds me from where I have come from.
+
+Going to the university's campus does bring back a lot of memories: of the times when budding friendships begin and of the time we have shared throughout the years. I wonder whether it is my own physical fatigue or the vast amount of memories being filled into my brain made me a little bit absent-minded throughout the whole time in the campus.
+
+At this time, a lot of emotions just seems to flood into me, and it does seems that a sense of happiness overflows from my heart.
+
+When I reached there, it doesn't seem that a lot of people came, probably most of them came very early or very late (as in after office hours). But I do manage to catch up with a few friends and chat with them to catch up with the news. As mentioned, I was kinda in a dreamy state when I collected my convocation attire, but it seems that I have been taken care of well as I find myself gliding through the whole procedure without any difficulty at all… probably to a point that I didn't even realised that I'm done! Hmm… A very dreamy state indeed.
+
+I reached home at around 5, and I was utterly tired to a point that I slumped to my bed immediately and slept until the next morning. The next thing I realize is that I woke in such a state that I seem to experience a weird sensation… a very positive feeling but yet as it seems as if I haven't waken up from a dream.
+
+Guess I should go back to work now.
+
+[p/s: My grammar is DEFINITELY going down the slopes! GAH!]

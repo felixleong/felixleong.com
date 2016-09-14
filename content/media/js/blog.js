@@ -1,3 +1,0 @@
-$(function() {
-    $('abbr.timeago').timeago();
-});
