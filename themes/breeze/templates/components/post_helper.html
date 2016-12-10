@@ -68,7 +68,7 @@
   <div class="col-md-4 tags">
     <h6>Tags</h6>
     {% for tag in post.tags %}
-      <a href="{{ tag.url }}" rel="tag">{{ tag }}</a>
+      <a href="{{ SITEURL }}/{{ tag.url }}" rel="tag">{{ tag }}</a>
     {% endfor %}
   </div>
 </div>
