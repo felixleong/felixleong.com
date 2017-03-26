@@ -137,14 +137,20 @@ ASSET_CONFIG = (
     }),
 )
 
-MD_EXTENSIONS = [
-    'extra',
-    'codehilite(css_class=codehilite)',
-    'oembed',
-    'plugins.markdownext.mdx_unimoji',
-    'plugins.markdownext.mdx_del_ins',
-    'plugins.markdownext.pelican_image(static={})'.format(STATICURL),
-]
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'oembed': {},
+        'plugins.markdownext.mdx_unimoji': {},
+        'plugins.markdownext.mdx_del_ins': {},
+        'plugins.markdownext.pelican_image': {'static': STATICURL},
+    },
+    'output_format': 'html5',
+}
+
+JINJA_ENVIRONMENT = {}
 
 SITEMAP = {
     'format': 'xml',
