@@ -2,6 +2,14 @@
 
 The full [Pelican](https://github.com/pelican) implementation of my own personal website.
 
+# Installation
+
+```bash
+pipenv install
+rbenv local 2.3.1
+bundle install --binstubs --path=vendor/bundle
+```
+
 # History and Why Pelican?
 
 Previously hosted as a Wordpress blog, then [Hyde](http://hyde.github.io/).

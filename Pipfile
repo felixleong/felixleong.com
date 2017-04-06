@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+pelican = "*"
+awscli = "*"
+webassets = "*"
+typogrify = "*"
+beautifulsoup4 = "*"
+htmlmin = "*"
+python-markdown-oembed = "*"
+joblib = "*"
+Pillow = "*"
+GitPython = "*"
+Markdown = "*"
