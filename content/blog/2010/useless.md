@@ -3,7 +3,7 @@ tags: card-toons, goals, self-improvement, success-secrets, thoughts
 date: 2010-07-29T12:56:58Z
 category: Art
 
-!['No Trigger' by Seh Hui]({static}/images/2010/07/NoTrigger-small.jpg){: .img-responsive}
+!['No Trigger' by Seh Hui]({filename}/images/2010/07/NoTrigger-small.jpg){: .img-responsive}
 
 It's easy to dream.
 

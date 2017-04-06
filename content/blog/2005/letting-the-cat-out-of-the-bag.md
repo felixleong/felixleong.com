@@ -2,7 +2,7 @@ title: Letting The Cat Out Of The Bag!
 date: 2005-12-22T13:32:00Z
 category: Life
 
-!['Cat's Out of the Bag!']({static}/images/2005/IMG_8566.jpg){: .img-responsive}
+!['Cat's Out of the Bag!']({filename}/images/2005/IMG_8566.jpg){: .img-responsive}
 
 Isn't this cute? <3<3<3
 
@@ -17,11 +17,11 @@ Highlighted gift of the day is definitely:
 
 Oh god I laughed so badly at that time XDDD. Anyway, here are a few pictures to share:
 
-!['Cable Fixer-Upper']({static}/images/2005/IMG_8571.jpg){: .img-responsive}
+!['Cable Fixer-Upper']({filename}/images/2005/IMG_8571.jpg){: .img-responsive}
 
 This is my gift: a hook and… something that fix your cables on the table. received by Francis. And it is the same design series with the cute kitty I had now *^-^*
 
-!['Group Shot']({static}/images/2005/IMG_8599.jpg){: .img-responsive}
+!['Group Shot']({filename}/images/2005/IMG_8599.jpg){: .img-responsive}
 
 Our department with their gifts :D.
 

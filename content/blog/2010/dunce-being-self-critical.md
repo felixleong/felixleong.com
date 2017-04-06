@@ -3,7 +3,7 @@ tags: card-toons, thoughts
 date: 2010-03-27T11:02:51Z
 category: Art
 
-!['Dunce' by Seh Hui]({static}/images/2010/03/dunce-small.jpg){: .img-responsive}
+!['Dunce' by Seh Hui]({filename}/images/2010/03/dunce-small.jpg){: .img-responsive}
 
 It's extremely easy to fall into the trap of being extremely self-critical. Especially when my confidence is completely battered down.
 

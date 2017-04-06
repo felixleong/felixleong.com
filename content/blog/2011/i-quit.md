@@ -33,4 +33,4 @@ While relieved, I'm still worried: quitting without a safety net being laid out 
 
 For now, this is what I've thought of all along.
 
-!['Chasm of Unknown' by Seh Hui]({static}/images/2010/04/chasmofunknown-small.jpg){: .img-responsive}
+!['Chasm of Unknown' by Seh Hui]({filename}/images/2010/04/chasmofunknown-small.jpg){: .img-responsive}

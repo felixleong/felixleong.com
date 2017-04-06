@@ -17,7 +17,7 @@ Like any other traveler, I always keep a list of things to pack and made sure th
 
 It's already 10pm when I noticed the fact, and I found it out too late, literally. I'm at a loss knowing that all camera shops were closed – it's perfectly human to panic when bad things happened in the last minutes of an important event. At such panicky moments, I was reminded with a quote “any problems that could be solved with money is never a problem”. At that point I decided to calm myself down and continue to pack my things. The camera problem had to wait till the next morning.
 
-!['Airport terminal' by Seh Hui]({static}/images/2010/08/DSCF0619.jpg){: .img-responsive}
+!['Airport terminal' by Seh Hui]({filename}/images/2010/08/DSCF0619.jpg){: .img-responsive}
 
 The next day, I found a [camera shop in KL Sentral][eoe] that opened really early in the morning and immediately bought [an affordable Fujifilm camera][fuji] which comes with an underwater case. In hindsight, having my camera broken down is a blessing in disguise: I could have missed out the enjoyable experience of underwater photography if my camera is still working.
 
@@ -27,7 +27,7 @@ Think about it, especially if it's a problem that could be solved with money or 
 
 ## Shopping at Phuket
 
-!['Shopping Mall' by Seh Hui]({static}/images/2010/08/DSCF0544.jpg){: .img-responsive}
+!['Shopping Mall' by Seh Hui]({filename}/images/2010/08/DSCF0544.jpg){: .img-responsive}
 
 Personally I don't do a lot of shopping. Reason being that I'm embracing a concept of [living a minimalistic lifestyle][bogue][^1] and I blatantly refuse to bring back “stuff” that I don't give a damn about. This even applies to souvenirs, to my friends and family's chagrin.
 
@@ -44,7 +44,7 @@ Other than that, the prices are generally similar to what we were paying in Mala
 
 ## Photographer or Stalker?
 
-!['Relaxing' by Seh Hui]({static}/images/2010/08/DSCF0523.jpg){: .img-responsive}
+!['Relaxing' by Seh Hui]({filename}/images/2010/08/DSCF0523.jpg){: .img-responsive}
 
 To be honest I'm feeling bitter as I'm writing this.
 
@@ -56,7 +56,7 @@ Maybe he's just one of those guys who feels disgusted by a male photographer poi
 
 ## Neurotic Patong
 
-!['Night Walk along Patong' by Seh Hui]({static}/images/2010/08/DSCF0560.jpg){: .img-responsive}
+!['Night Walk along Patong' by Seh Hui]({filename}/images/2010/08/DSCF0560.jpg){: .img-responsive}
 
 As the sun comes down, that's when the party starts in Patong. Bangla Road is the most popular destination to enjoy nightlife in Phuket: filled with neon-lights, pubs, booze and tiger shows.
 
@@ -70,7 +70,7 @@ Maybe it's because I hesitated in convincing my straight travel companion to vis
 
 ## Seeing You Again – My Next Trip to Phuket
 
-!['Packing Again' by Seh Hui]({static}/images/2010/08/DSCF0599.jpg){: .img-responsive}
+!['Packing Again' by Seh Hui]({filename}/images/2010/08/DSCF0599.jpg){: .img-responsive}
 
 After having such a great time in Phuket, I'm definitely going there again. For the next trip I would still focus on things that I enjoyed the most: the sea, beaches and a relaxed pace.
 

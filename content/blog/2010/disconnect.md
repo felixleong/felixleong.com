@@ -3,7 +3,7 @@ tags: card-toons, thoughts
 date: 2010-01-12T15:23:24Z
 category: Art
 
-!['Disconnect' by Seh Hui]({static}/images/2010/01/disconnect.jpg){: .img-responsive}
+!['Disconnect' by Seh Hui]({filename}/images/2010/01/disconnect.jpg){: .img-responsive}
 
 I'm always under the impression that as each of us are unique individuals with varying experiences in life, we often have our own views, biases, understanding and assumptions when it comes to the world around us. And depending on our eloquence in expressing ourselves, we also have varying degrees of success when it comes to communicating with people. Especially when having two individuals from extremely divergent “worlds”, the demands of communications skills are far greater than one may be used to as compared to hanging around with really close friends.
 

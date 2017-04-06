@@ -3,7 +3,7 @@ tags: cool-stuff, podcasts, recommendations, tech
 date: 2010-10-25T15:39:01Z
 category: Life
 
-!['TechZing Podcast Logo']({static}/images/2010/10/TechZing.jpg){: .img-responsive}
+!['TechZing Podcast Logo']({filename}/images/2010/10/TechZing.jpg){: .img-responsive}
 No matter how frugal I am in real life to a point of borderline stinginess, I gladly pay a premium to any mind-blowingly awesome and highly valuable stuff.
 
 And I'm really glad to pony up some money to donate and support [TechZing][tz]: a weekly tech podcast that I have followed since the beginning.

@@ -3,7 +3,7 @@ tags: card-toons, life
 date: 2009-09-29T13:37:39Z
 category: Art
 
-!['Bookmark' by Seh Hui]({static}/images/2009/09/Bookmark-small.jpg){: .img-responsive}
+!['Bookmark' by Seh Hui]({filename}/images/2009/09/Bookmark-small.jpg){: .img-responsive}
 
 Having the reading habit, a bookmark is the indispensable must-have. And recently I find that my business card make good bookmarks.
 

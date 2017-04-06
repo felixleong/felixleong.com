@@ -3,7 +3,7 @@ tags: announcements, card-toons, life, web-design
 date: 2009-11-15T16:33:25Z
 category: Art
 
-!['Coding for Food' by Seh Hui]({static}/images/2009/11/CodeForFood-small.jpg){: .img-responsive}
+!['Coding for Food' by Seh Hui]({filename}/images/2009/11/CodeForFood-small.jpg){: .img-responsive}
 
 Recently I have been initiating several personal projects on my own that there’s just a lot of hustle and bustle as I zoom from one work to the other. It has been a while I was this jacked up in getting something done, so actually I enjoyed what I’m experiencing at the moment even there are extremely frustrating times.
 

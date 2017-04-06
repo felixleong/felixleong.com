@@ -3,7 +3,7 @@ tags: life, thoughts
 date: 2009-07-08T14:07:25Z
 category: Art
 
-!['You don't want yourself to turn into this, do you?' by Seh Hui]({static}/images/2009/07/zombiefelix-300x166.png){: .img-responsive}
+!['You don't want yourself to turn into this, do you?' by Seh Hui]({filename}/images/2009/07/zombiefelix-300x166.png){: .img-responsive}
 
 Come to think of it, it's kind of funny that we often tell ourselves to make sure that we live life and yet forgetting about that very advice? We often tell people that we don't want to live like zombies but yet reflecting back most of us are on the brink of becoming one (well, at least on the weekdays being unconsciously caged in a cubicle facing a radiation source for 8 hours).
 

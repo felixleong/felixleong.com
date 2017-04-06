@@ -3,7 +3,7 @@ tags: card-toons, stories, success-secrets, thoughts
 date: 2010-10-21T02:00:00Z
 category: Art
 
-!['Driving Success' by Seh Hui]({static}/images/2010/09/DrivingSuccess.jpg){: .img-responsive}
+!['Driving Success' by Seh Hui]({filename}/images/2010/09/DrivingSuccess.jpg){: .img-responsive}
 
 Back in primary school, we have a subject for life skills and one of the practical lessons that I remember most is woodworking. We'd have one workshop that situated at a remote corner of the school compound, which is built out of wood and looks a little out-of-place among the concrete buildings that surrounded it.
 

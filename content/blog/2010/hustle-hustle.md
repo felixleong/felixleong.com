@@ -3,7 +3,7 @@ tags: card-toons, life, projects
 date: 2010-09-02T14:00:13Z
 category: Art
 
-!['Hustling' by Seh Hui]({static}/images/2010/09/hustling.png){: .img-responsive}
+!['Hustling' by Seh Hui]({filename}/images/2010/09/hustling.png){: .img-responsive}
 
 Am in a hustling mode these days, spending hours till late to work on two personal projects of mine: [Mutual Tracker][mt] as well as [Fix My Meeting][fmm].
 

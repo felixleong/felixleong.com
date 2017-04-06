@@ -3,7 +3,7 @@ tags: art, web-design
 date: 2011-08-30T12:54:38Z
 category: Art
 
-![Sapoto Landing Page, logo by Seh Hui]({static}/images/2011/08/Sapoto-Landing-Page.png){: .img-responsive}
+![Sapoto Landing Page, logo by Seh Hui]({filename}/images/2011/08/Sapoto-Landing-Page.png){: .img-responsive}
 
 I drew the panda – at least that's something small that I'd brag about :p.
 

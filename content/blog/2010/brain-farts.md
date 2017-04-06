@@ -3,7 +3,7 @@ tags: card-toons, humour, life, self-improvement
 date: 2010-06-09T16:00:44Z
 category: Art
 
-!['Brain Farts' by Seh Hui]({static}/images/2010/06/BrainFarts.png){: .img-responsive}
+!['Brain Farts' by Seh Hui]({filename}/images/2010/06/BrainFart.png){: .img-responsive}
 
 As soon as I read the term “brain fart” in [Neil Strauss](http://neilstrauss.com/)' The Rules of the Game, I'm amused by the term.
 

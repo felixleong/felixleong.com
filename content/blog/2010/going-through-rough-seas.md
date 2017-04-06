@@ -3,7 +3,7 @@ tags: personal-accountability, programming, projects
 date: 2010-09-26T09:43:05Z
 category: Art
 
-!['Rough Seas' by Seh Hui]({static}/images/2010/09/RoughSeas-783x1024.jpg){: .img-responsive}
+!['Rough Seas' by Seh Hui]({filename}/images/2010/09/RoughSeas-783x1024.jpg){: .img-responsive}
 
 Have been going through a rough patch for the past two weeks, and it's comforting to see the first milestone among many that guides me towards the destination.
 

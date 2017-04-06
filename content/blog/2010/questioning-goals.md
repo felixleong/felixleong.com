@@ -3,7 +3,7 @@ tags: goals, life, self-improvement, thoughts
 date: 2010-05-13T14:26:28Z
 category: Reflections
 
-!['Someday my dream will come true…' by Seh Hui]({static}/images/2009/07/CubicleDreaming.png){: .img-responsive}
+!['Someday my dream will come true…' by Seh Hui]({filename}/images/2009/07/CubicleDreaming.png){: .img-responsive}
 
 Fresh out of college, I had always dreamed of becoming a millionaire. “With such amount of money, I'd then be financial free and I could a care-free life!” With that rosy goal brewing in my mind, I would constantly imagine of the things I could do with such an amount of money: the fancy studio apartment unit, the beaches I could go to, how proud my friends and family would be…
 

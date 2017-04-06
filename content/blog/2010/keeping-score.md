@@ -3,7 +3,7 @@ tags: card-toons, financial-planning, motivation, self-improvement, thoughts
 date: 2010-05-06T03:43:26Z
 category: Art
 
-!['Keeping Score']({static}/images/2010/04/keepingscore-small.jpg){: .img-responsive}
+!['Keeping Score']({filename}/images/2010/04/keepingscore-small.jpg){: .img-responsive}
 
 Nothing beats hard numbers to measure progress objectively, isn't it?
 

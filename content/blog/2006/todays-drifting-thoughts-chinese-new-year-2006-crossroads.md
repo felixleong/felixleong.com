@@ -25,38 +25,38 @@ Well, that's pretty much it. :)
 
 And yeah, photographs :). It's not a lot, as I didn't took much of them, but I hope you'll enjoy them :).
 
-!['Family Photo 2006']({static}/images/2006/100_1903.jpg){: .img-responsive}
+!['Family Photo 2006']({filename}/images/2006/100_1903.jpg){: .img-responsive}
 
 This is my family :). From left to right: Myself, Seh Tat (Younger brother), dad, mom and Sue Shyen (Youngest sister)
 
 Picture taken in front of our family hotel, which is passed down through generations
 
-!['Brothers and Sister']({static}/images/2006/p1290006.jpg){: .img-responsive}
+!['Brothers and Sister']({filename}/images/2006/p1290006.jpg){: .img-responsive}
 
 Cool photo shot collage of brothers and sister(s) :)
 
 Picture taken in the living room of our "temporary shelter" :p
 
-!['Posing #1']({static}/images/2006/100_1899.jpg){: .img-responsive}
+!['Posing #1']({filename}/images/2006/100_1899.jpg){: .img-responsive}
 
-!['Posing #2']({static}/images/2006/100_1896.jpg){: .img-responsive}
+!['Posing #2']({filename}/images/2006/100_1896.jpg){: .img-responsive}
 
 Pose! Pose! Pose!
 
-!['Sports Car Worship']({static}/images/2006/100_1876.jpg){: .img-responsive}
+!['Sports Car Worship']({filename}/images/2006/100_1876.jpg){: .img-responsive}
 
 I have no idea about the idea of having a lion dance "worshipping" a cool sports car :p. Probably it's about the Chinese modern mentality of prosperity (i.e. BIG house, EXPENSIVE car and TONS of cash)
 Picture taken Zhao Hui Miao Chinese temple
 
-!['Bearing Fruit']({static}/images/2006/100_1909.jpg){: .img-responsive}
+!['Bearing Fruit']({filename}/images/2006/100_1909.jpg){: .img-responsive}
 
 Lychee on the tree. It is claimed to be the first lychee tree planted in Malaysia which actually bears fruit (it is said that lychee trees does not grow in a tropical climate, and hence it's a very rare occurrence of being able to grow one in Malaysia)
 It was planted by my great-grandfather and is one of our prized treasures in the family, the tree, as in :)
 
-!['Classmate Reunion']({static}/images/2006/100_1966.jpg){: .img-responsive}
+!['Classmate Reunion']({filename}/images/2006/100_1966.jpg){: .img-responsive}
 
 The fun during our classmate reunion
 
-!['Classmates Group Shot']({static}/images/2006/100_1975.jpg){: .img-responsive}
+!['Classmates Group Shot']({filename}/images/2006/100_1975.jpg){: .img-responsive}
 
 Group shot. Mostly classmates when I was in secondary school :)

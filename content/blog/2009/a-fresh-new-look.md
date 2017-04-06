@@ -9,7 +9,7 @@ It's been a while I haven't posted here :D! With [my recent announcement][goodby
 
 And lo and behold, the new look is already up and running - though at the time of writing (27 June 2009) Internet Explorer users may end up seeing a less optimal site, since I haven't got around fixing the theme yet (looking forward to making it work this weekend though).
 
-![The original conceptual design for A Day in Life ver.2]({static}/images/2009/06/screenshot.png){: .img-responsive}
+![The original conceptual design for A Day in Life ver.2]({filename}/images/2009/06/screenshot.png){: .img-responsive}
 
 Developing this theme has been quite a feat to me, which I style it with pure CSS with minimal cruft and I also experimented with CSS3 text-shadows (to view the full effect, do use Firefox 3.5, Google Chrome or Safari 4). And I made very sure that the theme will fall back quite nicely for older browsers, which I plan to achieve with my weekend work on improving this.
 

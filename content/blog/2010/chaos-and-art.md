@@ -3,7 +3,7 @@ tags: card-toons, thoughts
 date: 2010-03-31T12:52:56Z
 category: Art
 
-!['Chaos and Art' by Seh Hui]({static}/images/2010/03/chaosandart.jpg){: .img-responsive}
+!['Chaos and Art' by Seh Hui]({filename}/images/2010/03/chaosandart.jpg){: .img-responsive}
 
 When we were children learning how to draw, well-intending adults feed us with unsolicited instructions such as “draw things like it really is, like a photograph”, “don't colour outside the lines”, “Winnie the Pooh is yellow, not blue”.
 

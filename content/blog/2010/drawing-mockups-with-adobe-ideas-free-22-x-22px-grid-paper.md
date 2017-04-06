@@ -9,7 +9,8 @@ With free drawing tools like [Adobe Ideas][adobeideas] on the iPad, I could draw
 
 I have created a set of three PNGs having a 22 x 22px grid that you can import as a photo background in Adobe Ideas:
 
-**Download the FREE grid images here:** [22x22 iPad Grid Paper For Adobe Ideas]({static}/2010/09/22x22-iPad-Grid-Paper-For-Adobe-Ideas.zip)
+> **Update [2017/4/7]** - Have lost the file during the migration process. So the
+> download file is not available :(
 
 The zip file has four files: one plain grid, two grids overlaid with the navigation and tab bars as well as the original GIMP source file which I had used to make the grids.
 
@@ -17,9 +18,7 @@ To use them, import the three images in iPhoto and sync your iPad in iTunes. The
 
 Here's one mockup that I had created using the grid image.
 
-!['Fix My Meeting Mockup' by Seh Hui]({static}/images/2010/09/Fix-My-Meeting-Mockup.jpg){: .img-responsive}
-
-**Download the FREE grid images here:** [22x22 iPad Grid Paper For Adobe Ideas]({static}/2010/09/22x22-iPad-Grid-Paper-For-Adobe-Ideas.zip)
+!['Fix My Meeting Mockup' by Seh Hui]({filename}/images/2010/09/Fix-My-Meeting-Mockup.jpg){: .img-responsive}
 
 *All grid images, including the source GIMP file, is public domain and can be used and distributed freely without restriction.*
 

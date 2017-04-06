@@ -3,7 +3,7 @@ tags: card-toons, life
 date: 2009-12-18T11:30:28Z
 category: Art
 
-!['Catching Up' by Seh Hui]({static}/images/2009/12/CatchingUp.jpg){: .img-responsive}
+!['Catching Up' by Seh Hui]({filename}/images/2009/12/CatchingUp.jpg){: .img-responsive}
 
 As you are reading this, I'd probably attended a friend's wedding back into my hometown - as I had scheduled this post a few days back.
 

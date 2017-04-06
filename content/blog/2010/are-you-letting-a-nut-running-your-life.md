@@ -3,7 +3,7 @@ tags: card-toons, self-improvement, strengths
 date: 2010-08-19T13:07:51Z
 category: Art
 
-!['Amygdala' by Seh Hui]({static}/images/2010/07/amygdala-small.jpg){: .img-responsive}
+!['Amygdala' by Seh Hui]({filename}/images/2010/07/amygdala-small.jpg){: .img-responsive}
 
 Let's introduce the nutty little friend that inside the brain of every one of us: the amygdala. The little friend of ours are a group of small nuclei in our brain, having the size of a peanut. It may be tiny, but it has been a part of us since the very early days of our human species.
 

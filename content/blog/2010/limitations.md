@@ -3,7 +3,7 @@ tags: card-toons, self-improvement, thoughts
 date: 2010-08-12T00:54:24Z
 category: Art
 
-!['Limitations']({static}/images/2010/08/limitations.png){: .img-responsive}
+!['Limitations']({filename}/images/2010/08/limitations.png){: .img-responsive}
 
 I had just got myself a [Wacom Bamboo][bamboo] tablet and this is the first card-toon that I had done digitally.
 

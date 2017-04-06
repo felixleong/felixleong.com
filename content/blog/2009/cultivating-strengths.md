@@ -3,7 +3,7 @@ tags: discovery, life, strengths, success-secrets, thoughts
 date: 2009-07-09T17:27:15Z
 category: Reflections
 
-!['Cultivation' by Seh Hui]({static}/images/2009/07/Growth-Strengths.png){: .img-responsive}
+!['Cultivation' by Seh Hui]({filename}/images/2009/07/Growth-Strengths.png){: .img-responsive}
 
 Personally I'm really a big fan of [Marcus Buckingham’s “Now, Discover Your Strengths”][discoverstr], which advocates the importance of focusing on our strengths and harness that in-born powerhouse to achieve greatness. One great thing about the book is that it gave exclusive access to their [Strengths Finder online test][strfinder] which leaves you with an accurate profile of five strength themes that you possessed, based on their intesive academic research and a large dataset of individuals who have taken the same test and later studied.
 

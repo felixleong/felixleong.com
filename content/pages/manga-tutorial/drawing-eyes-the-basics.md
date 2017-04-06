@@ -3,7 +3,7 @@ date: 2008-12-25T05:44:44Z
 category: Manga Tutorial
 page_order: 103
 
-![Male eyes sample]({static}/images/2008/12/male.gif)
+![Male eyes sample]({filename}/images/2008/12/male.gif)
 
 In this tutorial, I'll put more emphasis on eyes, which I think is the hardest
 part to master (the hair comes second ^^).
@@ -24,7 +24,7 @@ So, let's get started!
 
 ### Different types of eyes and eyebrows
 
-![Various shapes of eyes]({static}/images/2008/12/sampleeyes.gif)
+![Various shapes of eyes]({filename}/images/2008/12/sampleeyes.gif)
 
 Before we start, it is better for us to know some different types about eyes.
 Now, as shown in the picture on your right, eyes can take different shape and
@@ -42,13 +42,13 @@ when you start to draw or design eyes for your character, <em
 class="tutorial-goodPractice">knowing the shape of the eyes will help you a lot
 in drafting the eyes.</em>
 
-![Sample eyebrows]({static}/images/2008/12/samplebrows.gif)
+![Sample eyebrows]({filename}/images/2008/12/samplebrows.gif)
 
 The same applies for eyebrows: it also take different shape, color, and sizes.
 
 You can divide eyebrows into two types:
 
-![Smooth vs jagged eyebrow flow]({static}/images/2008/12/basic4.gif)
+![Smooth vs jagged eyebrow flow]({filename}/images/2008/12/basic4.gif)
 
 1. **The "Streamlined" eyebrows:** The most commonly used. It can be a straight
    line, a "hill", or a "small wave" (like this one).
@@ -62,14 +62,14 @@ You can divide eyebrows into two types:
 
 Here's also a point to note when drawing eyes for different genders:
 
-![Male eyes sample]({static}/images/2008/12/male.gif)
+![Male eyes sample]({filename}/images/2008/12/male.gif)
 
 #### For males:
 
 Eyebrows are thicker, no eye lashes, and usually the eyes are smaller than
 females.
 
-![Female eyes sample]({static}/images/2008/12/female.gif)
+![Female eyes sample]({filename}/images/2008/12/female.gif)
 
 #### For females:
 
@@ -88,27 +88,27 @@ up a larger area compared to males.
 
 ### Step-by-step guide
 
-![Step 1: Draft the shape for size]({static}/images/2008/12/step11.gif)
+![Step 1: Draft the shape for size]({filename}/images/2008/12/step11.gif)
 
 Draw out the overall shape of the eyeball <em class="tutorial-goodPractice">and
 draw a cross to indicate the center of the eye.</em>
 
-![Step 2: Sketch out the shape]({static}/images/2008/12/step21.gif)
+![Step 2: Sketch out the shape]({filename}/images/2008/12/step21.gif)
 
 Next, sketch out the shape of eye and the eyebrows. <em
 class="tutorial-goodPractice">Take note that your eyebrow should match the eyes
 drawn, your instincts can be a good judge for this ;).</em>
 
-![Step 3: Draw the details and pupil]({static}/images/2008/12/step31.gif)
+![Step 3: Draw the details and pupil]({filename}/images/2008/12/step31.gif)
 
 Then, sketch where the eyes are looking at. Below are examples how the eyes
 look like at different directions. <em class="tutorial-goodPractice">Take note
 that the eyes follow the direction he or she is looking at, so be extra
 careful.</em> Otherwise you'll have a character who is not paying attention :).
 
-![Looking at various directions]({static}/images/2008/12/eyedirection.gif)
+![Looking at various directions]({filename}/images/2008/12/eyedirection.gif)
 
-![Step 4: Draw the iris]({static}/images/2008/12/step41.gif)
+![Step 4: Draw the iris]({filename}/images/2008/12/step41.gif)
 
 Now, you eye is almost finished, but the eyes still look lifeless and needs
 more details. <em class="tutorial-goodPractice">So, sketch out the pupils, the
@@ -119,6 +119,6 @@ determining the dark and light areas. If you're clueless about this, just
 trace out my examples for the time being, or refer a book on art.
 {: .tutorial-note}
 
-![Step 5: Final Touches - Shading]({static}/images/2008/12/step51.gif)
+![Step 5: Final Touches - Shading]({filename}/images/2008/12/step51.gif)
 
 For the final touch, just shade the dark areas and there you have it!

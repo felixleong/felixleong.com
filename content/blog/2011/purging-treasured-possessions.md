@@ -3,7 +3,7 @@ tags: lifestyle-design, opinions, spiritual, thoughts
 date: 2011-08-21T08:01:42Z
 category: Life
 
-![Books I Donated]({static}/images/2011/08/20110821-040136.jpg){: .img-responsive}
+![Books I Donated]({filename}/images/2011/08/20110821-040136.jpg){: .img-responsive}
 
 This is a photo of the books that are no longer with me and found their new home at [Fluentspace][fs] – a great co-working space that has just started in Malaysia. No questions asked, no favours expected.
 

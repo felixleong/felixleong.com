@@ -3,7 +3,7 @@ tags: card-toons, prose, thoughts
 date: 2011-08-09T02:00:00Z
 category: Art
 
-![Divergent Paths by Seh Hui]({static}/images/2010/09/divergentpaths.jpg){: .img-responsive}
+![Divergent Paths by Seh Hui]({filename}/images/2010/09/divergentpaths.jpg){: .img-responsive}
 
 This is also another card-art that I doodled out of randomness years back.
 

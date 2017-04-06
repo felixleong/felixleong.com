@@ -3,7 +3,7 @@ tags: art, card-toons, life, self-improvement, spiritual, thoughts
 date: 2011-08-06T01:14:14Z
 category: Art
 
-![Authentic Self by Seh Hui]({static}/images/2011/08/authenticself.png){: .img-responsive}
+![Authentic Self by Seh Hui]({filename}/images/2011/08/authenticself.png){: .img-responsive}
 
 We are born pure, without pretension.
 

@@ -3,7 +3,7 @@ tags: card-toons, thoughts
 date: 2009-08-25T13:06:32Z
 category: Art
 
-!['Closeted' by Seh Hui]({static}/images/2009/08/Closeted-small.jpg){: .img-responsive}
+!['Closeted' by Seh Hui]({filename}/images/2009/08/Closeted-small.jpg){: .img-responsive}
 
 Some of us may have little secrets of our own that we wished that nobody will discover. I had a few of those myself.
 

@@ -3,7 +3,7 @@ tags: card-toons, life, spiritual
 date: 2010-12-23T02:00:00Z
 category: Art
 
-!['Intuition' by Seh Hui]({static}/images/2010/09/intuition-1024x569.jpg){: .img-responsive}
+!['Intuition' by Seh Hui]({filename}/images/2010/09/intuition-1024x569.jpg){: .img-responsive}
 
 I couldn't put it more succinct than that.
 

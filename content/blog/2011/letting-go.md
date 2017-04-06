@@ -3,7 +3,7 @@ tags: art, life, poem, relationships
 date: 2011-09-30T16:27:51Z
 category: Art
 
-!['Letting Go' by Seh Hui]({static}/images/2011/10/Letting-Go-Small.jpg){: .img-responsive}
+!['Letting Go' by Seh Hui]({filename}/images/2011/10/Letting-Go-Small.jpg){: .img-responsive}
 
 How many times does one fall in love  
 to someone that is so beautiful and dear  

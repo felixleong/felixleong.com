@@ -7,7 +7,7 @@ featured_image_credit: WebcampKL logo
 featured_image_url: http://upload.felixleong.com/2011/01/WebcampKL.jpg
 
 
-![WebcampKL logo]({static}/images/2011/01/WebcampKL.jpg)
+![WebcampKL logo]({filename}/images/2011/01/WebcampKL.jpg)
 
 Recently I'm totally into [Webcamp KL][wckl], an active community and unconference event with people who are passionate about anything web/Internet.
 

@@ -3,7 +3,7 @@ tags: card-toons, humour
 date: 2010-07-08T12:30:00Z
 category: Art
 
-!['Jokingly Serious' by Seh Hui]({static}/images/2010/07/jokinglyserious-small.jpg){: .img-responsive}
+!['Jokingly Serious' by Seh Hui]({filename}/images/2010/07/jokinglyserious-small.jpg){: .img-responsive}
 
 Call me dense, but I'm not good at telling apart jokes that sounded serious or could be a serious request.
 

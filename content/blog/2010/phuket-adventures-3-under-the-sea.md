@@ -5,7 +5,7 @@ category: Travel
 featured_image: images/2010/07/DSCF0429.jpg
 featured_image_credit: 'Invitation to Sit' by Seh Hui
 
-!['Carressing the Sand' by Seh Hui]({static}/images/2010/07/DSCF0367.jpg){: .img-responsive}
+!['Carressing the Sand' by Seh Hui]({filename}/images/2010/07/DSCF0367.jpg){: .img-responsive}
 
 You could only claimed to have visited Phuket after you'd soaked yourself in the beautiful sea waters there. I can certainly testify for that.
 
@@ -13,7 +13,7 @@ After two days of touring, the skins around my body are itching to get into the 
 
 It's really popular among tourists to go for a tour to Phi Phi island; I had decided on something different. I had spent some time studying Phi Phi tour itineraries when I was there and find them quite rushed with about seven spots to visit. Preferring a  relaxed trip, I had decided to go for a tour to Khai islands.
 
-!['Invitation to Sit' by Seh Hui]({static}/images/2010/07/DSCF0429.jpg){: .img-responsive}
+!['Invitation to Sit' by Seh Hui]({filename}/images/2010/07/DSCF0429.jpg){: .img-responsive}
 
 The Khai islands are a group of three islands situated at the north of Phi Phi island, namely Khai Nok, Khai Nui and Khai Nai. Most Phi Phi tours would include a visit to Khai Nok: and that's where we had spent most of our day.
 
@@ -23,25 +23,25 @@ I really enjoyed the sights along the way to the port: one that I find most inte
 
 I wonder where they are going? Are they going on a school trip? Or are they actually rural kids being fetched to town so that they could go to school?
 
-!['Taking Charge' by Seh Hui]({static}/images/2010/07/DSCF0400.jpg){: .img-responsive}
+!['Taking Charge' by Seh Hui]({filename}/images/2010/07/DSCF0400.jpg){: .img-responsive}
 
 After collecting our snorkeling gear, we were soon departed to the islands via speedboat. It was raining as the boat charged through the slightly rough seas. The barrage of rain drops invaded the interiors, making us wet well before we reach the shores of Khai Nok.
 
 Interestingly, the rain slowly came to a stop as the boat approached the island. I took that as a blessing. The boat was anchored down and the passengers finally set foot on the fine white sands. The beauty of the place captivates me instantly: completely exceeded my expectations in a way that no photograph could do any justice to capture that magical sensation.
 
-!['Prepping for Adventure' by Seh Hui]({static}/images/2010/07/DSCF0414.jpg){: .img-responsive}
+!['Prepping for Adventure' by Seh Hui]({filename}/images/2010/07/DSCF0414.jpg){: .img-responsive}
 
 On the beach, a more livelier view was in front of me: huge wooden huts of restaurants and shops that supports the livelihood of locals and rows of beach chairs and parasols that complements the whiteness of the sands beneath it with vibrant colours.
 
 We were one of the first who had reached the island, and that gave me the impression that we had the such a secluded paradise all to ourselves. Everyone around us were excited as well, most of them gleefully got their feet in shallow waters almost immediately after they had reached here. Some of them, including myself, couldn't help in whipping out our cameras and snapping away.
 
-!['Dipping In!' by Seh Hui]({static}/images/2010/07/DSCF0326.jpg){: .img-responsive}
+!['Dipping In!' by Seh Hui]({filename}/images/2010/07/DSCF0326.jpg){: .img-responsive}
 
 Shirts off and it's time to get myself soaked in the waters that I'd been longing for! As I wade myself into the waters, I was instantly welcomed by a large school of fishes coming towards me. These fishes are accustomed to having visitors and are actually checking whether we had any bread to feed them. They are really adorable when they swam and circled around me and swiftly keeping a distance when I tried to touch them.
 
 Going a bit deeper in the waters with my snorkeling gear gave a more disheartening view: all I could see is a graveyard of corals. The seabeds are barren with the remains of corals looking like jagged fossils. I feel sad when I looked such a tragedy and wondered whether is there ways for us to protect and preserve the natural treasures that has been bestowed upon us.
 
-!['Fishes Under Shallow Review' by Seh Hui]({static}/images/2010/07/DSCF0425.jpg){: .img-responsive}
+!['Fishes Under Shallow Review' by Seh Hui]({filename}/images/2010/07/DSCF0425.jpg){: .img-responsive}
 
 I was still consoled to see the still vibrant marine life and fishes that still treat the place as home. This is just the perfect place to try underwater photography for the first time. And boy was it tough!
 
@@ -51,7 +51,7 @@ The most subtle and most important challenge I had faced in underwater photograp
 
 In addition to that, I immediately learned a lesson as soon as I see this right next to me when I'm busy taking shots:
 
-!['Huge Jellyfish!' by Seh Hui]({static}/images/2010/07/DSCF0334.jpg){: .img-responsive}
+!['Huge Jellyfish!' by Seh Hui]({filename}/images/2010/07/DSCF0334.jpg){: .img-responsive}
 
 
 A jelly fish of the size of a volley ball slowly hovers right next to me! This scared the hell out of me knowing that getting stung by them is no laughing matter. Keeping my composure and calm, I slowly keeping a distance with the jellyfish until it hovers away gracefully away from me.
@@ -60,7 +60,7 @@ Lesson learned? *Always keep an eye on your surroundings when you are in touch w
 
 When I'm not soaking myself in the sea, I find myself having lunch with unlimited supply of Pepsi, walking along the coast and simply laying down on the chair and enjoying the view in relaxation.
 
-!['Shades and Shine' by Seh Hui]({static}/images/2010/07/DSCF0529.jpg){: .img-responsive}
+!['Shades and Shine' by Seh Hui]({filename}/images/2010/07/DSCF0529.jpg){: .img-responsive}
 
 I could go on forever about my love for beaches and the sea: I wrap this up with a brief mention about Kata beach.
 
@@ -70,6 +70,6 @@ In the evenings, Kata beach is more peaceful with fewer people around and still 
 
 As for me, I just sat there and enjoyed the sea breeze.
 
-!['Approaching Dusk' by Seh Hui]({static}/images/2010/07/DSCF0478.jpg){: .img-responsive}
+!['Approaching Dusk' by Seh Hui]({filename}/images/2010/07/DSCF0478.jpg){: .img-responsive}
 
 *Note: The image gallery below is a mixture of photos between those taken at the Khai islands and Kata beach, arranged in a thematic order. Hence the tone may seems a bit out-of-place due to the weather when the photographs were taken*

@@ -4,7 +4,7 @@ date: 2011-11-22T08:56:03Z
 category: Community
 
 [
-  !['BFM Radio Logo']({static}/images/2011/11/40244_427240632041_27588322041_4704067_4954588_n.jpg)
+  !['BFM Radio Logo']({filename}/images/2011/11/40244_427240632041_27588322041_4704067_4954588_n.jpg)
 ](http://www.bfm.my/)
 
 I was interviewed on BFM Radio together with Wu Han during noontime today :) – talking about [Webcamp KL](https://www.facebook.com/groups/webcamp/), which is a community that I'm actively participating in.

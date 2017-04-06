@@ -3,7 +3,7 @@ tags: card-toons, creativity, thoughts
 date: 2010-04-29T14:49:03Z
 category: Art
 
-!['Trying To Be' by Seh Hui]({static}/images/2010/04/tryingtobe-small.jpg){: .img-responsive}
+!['Trying To Be' by Seh Hui]({filename}/images/2010/04/tryingtobe-small.jpg){: .img-responsive}
 
 They call it the “creative block”: it seems to be a common disease among the creators.
 

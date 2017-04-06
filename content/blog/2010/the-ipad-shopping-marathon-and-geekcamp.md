@@ -5,7 +5,7 @@ category: Travel
 
 Just to make damn sure that I could get my hands on an iPad, this is what I ended up with:
 
-!['iPad Hunting Map']({static}/images/2010/08/iPadShopping.jpg){: .img-responsive}
+!['iPad Hunting Map']({filename}/images/2010/08/iPadShopping-800x198.jpg){: .img-responsive}
 
 The worst case scenario would mean that I'm embarking on a journey as epic as The Amazing Race: the distance itself to visit every store could add up to a full marathon, if not more.
 

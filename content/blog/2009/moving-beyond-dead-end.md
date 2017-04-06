@@ -3,7 +3,7 @@ tags: card-toons, life, thoughts
 date: 2009-09-15T14:07:16Z
 category: Art
 
-!['Dead End' by Seh Hui]({static}/images/2009/09/DeadEnd-small.jpg){: .img-responsive}
+!['Dead End' by Seh Hui]({filename}/images/2009/09/DeadEnd-small.jpg){: .img-responsive}
 
 Being human, we are bound to feel disappointed sometimes. Some that we could sleep over it, and some so devastating that it's hard not to feel completely torn. And to some (myself included), we just couldn't help but being swamped by such desperation.
 

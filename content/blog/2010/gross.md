@@ -3,7 +3,7 @@ tags: card-toons, humour, life
 date: 2010-06-03T08:30:00Z
 category: Art
 
-!['Gross!' by Seh Hui]({static}/images/2010/06/gross-small.jpg){: .img-responsive}
+!['Gross!' by Seh Hui]({filename}/images/2010/06/gross-small.jpg){: .img-responsive}
 
 I like mangoes ever since as I was a kid. And when I got huge, sweet and freshly picked mangoes from my dad, I'm pretty excited!
 

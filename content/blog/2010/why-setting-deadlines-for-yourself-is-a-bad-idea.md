@@ -3,7 +3,7 @@ tags: motivation, opinions, personal-accountability, programming, self-improveme
 date: 2010-10-03T15:09:01Z
 category: Reflections
 
-!['Feeling Gray' by Seh Hui]({static}/images/2010/10/FeelingGray.jpg){: .img-responsive}
+!['Feeling Gray' by Seh Hui]({filename}/images/2010/10/FeelingGray.jpg){: .img-responsive}
 
 **Before starting the project:**
 

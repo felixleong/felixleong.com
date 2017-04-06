@@ -8,12 +8,10 @@ But anyway, despite that (or should I say instead of whining over it in my LJ?),
 
 JEAAAAAlooooouSEEEEE~~~~ :p
 
-![video](http://www.youtube.com/watch?v=CEyr70Wyy88)
-
 Here's something you didn't get to see everyday: A PPP machine tilted XDDD.
-
-![video](http://www.youtube.com/watch?v=bx9v8h8QC6w)
 
 At least these brighten up my day a little… :) Definitely needs to film some para someday.
 
 [p/s: Yes, these are indeed button shirts! And heavy leather shoes are a bad idea for para, it did took me some time getting used to the weight of them >\_<||||]
+
+**UPDATE 7 April 2017** Video have been removed from YouTube.

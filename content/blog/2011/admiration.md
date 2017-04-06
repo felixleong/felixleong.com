@@ -3,7 +3,7 @@ tags: art, life, personal-accountability, self-improvement, spiritual, thoughts
 date: 2011-08-09T14:18:06Z
 category: Art
 
-![Admiration by Seh Hui]({static}/images/2011/08/IMG_0027.jpg){: .img-responsive}
+![Admiration by Seh Hui]({filename}/images/2011/08/IMG_0027.jpg){: .img-responsive}
 
 Been digging through a lot of older artworks of mine that I didn't get to post when I first drew them last year or so. This is one of those iPad finger painting art that I've done on Adobe Ideas before I became a fan of Autodesk's Sketchbook. What I liked about the app is that the you can choose a colour swatch of only five colours as your main palette and the "constraint" does forces me to be creative in using opacity extensively to blend colours. (technically I can still swap the swatches – still it's a bit tedious if I were to swap the swatches in and out)
 

@@ -26,6 +26,7 @@ FAVICON_URL = urljoin(SITEURL, '/images/favicon.png')
 
 TIMEZONE = 'Asia/Kuala_Lumpur'
 DEFAULT_LANG = 'en'
+LOCALE = 'en_GB'
 
 LINKS = ()
 
@@ -78,6 +79,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 FEED_MAX_ITEMS = 200
 
 SUMMARY_MAX_LENGTH = 135
@@ -94,6 +96,7 @@ PAGINATED_DIRECT_TEMPLATES = ['archives']
 # Categories
 DEFAULT_CATEGORY = 'Uncategorized'
 USE_FOLDER_AS_CATEGORY = False
+DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # URL routes
@@ -108,12 +111,15 @@ ARCHIVES_SAVE_AS = 'blog.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 CATEGORY_URL = 'category/{slug}/'
+CATEGORIES_URL = 'category/index.html'
 TAG_URL = 'tag/{slug}/'
+TAGS_SAVE_AS = 'tag/index.html'
 
 YEAR_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/index.html'
 AUTHOR_URL = ''
 AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
 
 # Plugins
 PLUGINS = [

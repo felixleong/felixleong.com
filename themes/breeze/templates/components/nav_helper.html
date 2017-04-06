@@ -9,7 +9,7 @@
 {# The pages items #}
 {% macro pages_navitem(dropdown=True) %}
   {% if DISPLAY_PAGES_ON_MENU %}
-    {% for p in PAGES|sort(attribute='page_order')  %}
+    {% for p in pages|sort(attribute='page_order')  %}
       {# We would only list pages that are in the top level #}
       {% if not p.parent %}
         {# It'll be a dropdown if there's child pages #}
@@ -21,6 +21,11 @@
 
           {% if dropdown %}
           <ul class="dropdown-menu">
+          <li>
+            <a href="{{ SITEURL }}/{{ p.url }}" {% if p == page %}active{% endif %}">{{ p.title }}</a>
+          </li>
+          <li class="divider"></li>
+
           {% for cp in p.children|sort(attribute='page_order') %}
           <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cp.url }}">{{ cp.title }}</a></li>
           {% endfor %}

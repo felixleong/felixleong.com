@@ -18,7 +18,7 @@ It was supposed to be a small project -- fixing a small pain point and move on t
 
 Ever since it is live on February with the launch of [Omvana](http://omvana.com/), it has been a very treacherous and rewarding adventure. Having to race against time to learn as much as I could, slaying all the mysterious bugs that plagues the service as well as dealing with the stress of receiving an SMS saying that the server is overloaded and cannot handle all the traffic we are getting.
 
-![CPU usage chart - before and after panic period]({static}/images/2013/cpu-month.png){: .img-responsive}
+![CPU usage chart - before and after panic period]({filename}/images/2013/cpu-month.png){: .img-responsive}
 
 The part about receiving SMSes proves to be quite a stress tumour, in fact. It started off pretty benign -- the downtime would probably just last about three minutes and everything would work like magic again after that. As we start to gain traction and our marketing efforts for Omvana becoming more successful over time, the downtimes would occur several times in a day with each downtime lasts for at least 15-20 minutes.
 

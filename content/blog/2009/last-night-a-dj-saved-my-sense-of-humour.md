@@ -13,7 +13,7 @@ Now, trying very hard to keep my narcissism at bay, I'm pretty sure that it’s 
 
 But just to amuse myself, that funny association of me as an introverted guy becoming a DJ is really fun to imagine – you know, spinning turntables under psychelledic lights while watching people dancing away energetically to the music. Probably I'd look something like this instead?
 
-!['Let's groove, baby!' by Seh Hui]({static}/images/2009/07/DJFeLLiO.png){: .img-responsive}
+!['Let's groove, baby!' by Seh Hui]({filename}/images/2009/07/DJFeLLiO.png){: .img-responsive}
 
 I'd probably imagine myself playing quite a mix of genres: vocal trance, eurodance, Eurobeat, techno, soul house and funky house. That'd be an interesting imagination to indulge in, really.
 

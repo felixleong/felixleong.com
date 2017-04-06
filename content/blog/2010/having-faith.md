@@ -3,7 +3,7 @@ tags: card-toons, life, motivation, strengths, success-secrets, thoughts
 date: 2010-07-01T11:30:00Z
 category: Art
 
-!['Believe in the Best' by Seh Hui]({static}/images/2010/07/strength-small.jpg){: .img-responsive}
+!['Believe in the Best' by Seh Hui]({filename}/images/2010/07/strength-small.jpg){: .img-responsive}
 
 This is one of the earliest quotes that I'd conceived and has since become one of my key supports I lean upon.
 

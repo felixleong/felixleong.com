@@ -3,7 +3,7 @@ tags: financial-planning, lifestyle-design, success-secrets, thoughts
 date: 2009-01-11T16:29:42Z
 category: Life
 
-!['Google Spreadsheet screenshot']({static}/images/2009/01/spreadsheet.png){: .img-responsive}
+!['Google Spreadsheet screenshot']({filename}/images/2009/01/spreadsheet.png){: .img-responsive}
 
 Today I have shared this concept with one of my friends about the limited value of income as opposed to time, which is the tombstone principle of time management or personal development ideology.
 

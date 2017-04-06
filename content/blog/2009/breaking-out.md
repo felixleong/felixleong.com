@@ -3,7 +3,7 @@ tags: card-toons, thoughts
 date: 2009-08-18T14:02:48Z
 category: Art
 
-!['Breaking Out' by Seh Hui]({static}/images/2009/08/BreakingOut-small.jpg){: .img-responsive}
+!['Breaking Out' by Seh Hui]({filename}/images/2009/08/BreakingOut-small.jpg){: .img-responsive}
 
 Mind chatter: the little monologue that runs through the head, trying to get attention. Usually it wasn't of much harm until they suddenly felt in the mood to gossiping bad things about the host: remarking the many things that the host lacked or the mistakes and screw-ups that he had created.
 
