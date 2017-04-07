@@ -37,12 +37,21 @@ SOCIAL = (
     ('bitbucket', 'https://bitbucket.org/felixleong'),
 )
 
-PROJECTS = (
-    (
-        'Pasaraya: Supermarket Manager',
-        '201609-pasaraya.jpg',
-        'Open supermarket + serve community shoppers + ??? = PROFIT!'),
-)
+CAROUSELS = {
+    'projects': {
+        'title': 'Current Projects',
+        'items': (
+            {
+                'title': 'Pasaraya: Supermarket Manager',
+                'image': '201609-pasaraya.jpg',
+                'desc': (
+                    'Open supermarket + serve community shoppers + ??? = '
+                    'PROFIT!'),
+                'link': 'http://boxfoxgames.com/',
+            },
+        )
+    },
+}
 
 SKILLS = (
     (

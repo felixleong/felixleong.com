@@ -21,8 +21,8 @@
     {% endassets %}
 
     <!-- Javascripts -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    {% assets filters="rjsmin", output="js/script.js", "js/bootstrap/dropdown.js", "js/bootstrap/collapse.js" %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    {% assets filters="rjsmin", output="js/script.js", "js/bootstrap/dropdown.js", "js/bootstrap/collapse.js", "js/slick.js" %}
     <script type="text/javascript" src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
     {% endassets %}
 
@@ -116,5 +116,7 @@
       </div>
     </div>
   </footer>
+
+  {% block javascript_block %}{% endblock %}
 </body>
 </html>

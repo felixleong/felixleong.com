@@ -10,7 +10,8 @@
   </div>
 
   <div class="col-md-8">
-    {% include "components/widget_projects.html" %}
+    {% from "components/widget_carousel.html" import carousel with context %}
+    {{ carousel('projects') }}
   </div>
 </section>
 
@@ -40,3 +41,17 @@
   </div>
 </section>
 {% endblock content %}
+
+
+{% block javascript_block %}
+<script type="text/javascript">
+$(function() {
+  $('.widget-carousel > .slider').slick({
+    dots: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+  });
+});
+</script>
+{% endblock %}

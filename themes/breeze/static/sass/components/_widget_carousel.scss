@@ -1,0 +1,74 @@
+.widget-carousel {
+  figure { position: relative; }
+  figcaption {
+    background: rgba(255, 255, 255, 0.9);
+    bottom: 0;
+    padding: 0 15px;
+    position: absolute;
+    width: 100%;
+  }
+}
+
+/* Slick overrides */
+.slick-arrow {
+  background: transparent;
+  border: 0;
+  color: transparent;
+  display: block;
+  font-size: 0;
+  height: 100%;
+  outline: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+  z-index: 100;
+
+  &:before {
+    font-family: 'Glyphicons Halflings';
+    font-size: 32px;
+    color: #fff;
+  }
+  &:hover:before {
+    color: $link-color;
+  }
+}
+.slick-prev {
+  left: 0;
+
+  &:before {
+    content: "\e079";
+  }
+}
+.slick-next {
+  right: 0;
+
+  &:before {
+    content: "\e080";
+  }
+}
+
+.slick-dots {
+  text-align: center;
+
+  li {
+    display: inline-block;
+    border: none !important;
+    padding: 0.5em !important;
+
+    button {
+      width: 1.25em;
+      height: 1.25em;
+
+      color: transparent;
+      background: rgba(0, 0, 0, 0.3);
+      border: 0;
+      border-radius: 50%;
+      outline: none;
+    }
+
+    &.slick-active > button {
+      background: rgba(0, 0, 0, 0.7);
+      border: 0;
+    }
+  }
+}

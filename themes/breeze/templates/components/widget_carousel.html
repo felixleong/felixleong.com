@@ -1,0 +1,26 @@
+{% macro carousel(carousel_name) %}
+<div class="widget widget-carousel widget-{{ carousel_name }}">
+  {% if CAROUSELS[carousel_name].title %}
+  <h6>{{ CAROUSELS[carousel_name].title }}</h6>
+  {% endif %}
+
+  <div class="slider">
+  {% for item in CAROUSELS[carousel_name]['items'] %}
+  <figure>
+    {% if item.link %}<a href="{{ item.link }}">{% endif %}
+      <img src="{{ STATICURL }}/images/{{ carousel_name }}/{{ item.image }}" class="img-responsive" alt="{{ item.title }}" />
+    {% if item.link %}</a>{% endif %}
+
+    <figcaption>
+    <h2>
+    {% if item.link %}<a href="{{ item.link }}">{% endif %}
+      {{ item.title }}
+    {% if item.link %}</a>{% endif %}
+    </h2>
+    <p>{{ item.desc }}</p>
+    </figcaption>
+  </figure>
+  {% endfor %}
+  </div>
+</div>
+{% endmacro %}
