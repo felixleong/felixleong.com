@@ -3,5 +3,5 @@
 
 {% block title %}{{ page.title }}{%endblock%}
 {% block content %}
-{{ phelper.format_post(page, teasers=False, class_name="page") }}
+{{ phelper.format_post(page, teasers=False, hide_author_panel=page.hide_author_panel, class_name="page") }}
 {% endblock %}

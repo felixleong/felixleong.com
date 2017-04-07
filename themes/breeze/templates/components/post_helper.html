@@ -1,4 +1,4 @@
-{% macro format_post(post, teasers=False, class_name='') %}
+{% macro format_post(post, teasers=False, hide_author_panel=False, class_name='') %}
 <article class="post {{ class_name }} {% if post.featured_image %}featured{% endif %}" property="blogPost" typeof="BlogPosting" resource="post.html">
 <header>
   <h1 property="headline" class="entry-title"><a href="{{ SITEURL }}/{{ post.url }}" property="url">{{ post.title }}</a></h1>
@@ -55,7 +55,7 @@
 {% endif %}
 </div>
 
-{% if not teasers  %}
+{% if not teasers and not hide_author_panel %}
 <div class="additional-meta row">
   <div class="col-md-8">
     <h6>Written by</h6>
